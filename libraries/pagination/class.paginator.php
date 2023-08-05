@@ -47,16 +47,16 @@ class Paginator{
 
 	/**
 	 *  __construct
-	 *  
-	 *  pass values when class is istantiated 
-	 *  
+	 *
+	 *  pass values when class is istantiated
+	 *
 	 * @param numeric  $_perPage  sets the number of iteems per page
 	 * @param numeric  $_instance sets the instance for the GET parameter
 	 */
 	public function __construct($perPage,$instance){
-		$this->_instance = $instance;		
+		$this->_instance = $instance;
 		$this->_perPage = $perPage;
-		$this->set_instance();		
+		$this->set_instance();
 	}
 
 	/**
@@ -71,13 +71,13 @@ class Paginator{
 
 	/**
 	 * set_instance
-	 * 
+	 *
 	 * sets the instance parameter, if numeric value is 0 then set to 1
 	 *
 	 * @var numeric
 	*/
 	private function set_instance(){
-		$this->_page = (int) (!isset($_GET[$this->_instance]) ? 1 : $_GET[$this->_instance]); 
+		$this->_page = (int) (!isset($_GET[$this->_instance]) ? 1 : $_GET[$this->_instance]);
 		$this->_page = ($this->_page == 0 ? 1 : $this->_page);
 	}
 
@@ -96,7 +96,7 @@ class Paginator{
 	 * get_limit
 	 *
 	 * returns the limit for the data source, calling the get_start method and passing in the number of items perp page
-	 * 
+	 *
 	 * @return string
 	*/
 	public function get_limit(){
@@ -107,7 +107,7 @@ class Paginator{
          * page_links
          *
          * create the html links for navigating through the dataset
-         * 
+         *
          * @var sting $path optionally set the path for the link
          * @var sting $ext optionally pass in extra parameters to the GET
          * @return string returns the html menu
@@ -120,67 +120,67 @@ class Paginator{
 	    $lastpage = ceil($this->_totalRows/$this->_perPage);
 	    $lpm1 = $lastpage - 1;
 
-	    $pagination = "";
+	    $pagination = '<div class="row"><div class="col-md-8">';
 		if($lastpage > 1)
-		{   
-		    $pagination .= "<ul class='pagination pagination-inside-transparent'>";
+		{
+		    $pagination .= "<ul class='pagination'>";
 		if ($this->_page > 1)
 		    $pagination.= "<li class='page-item'><a class='page-link' href='".$path."$this->_instance=$prev"."$ext'>Previous</a></li>";
 		else
-		    $pagination.= "<li class='page-item'><span class='page-link disabled'>Previous</span></li>";   
+		    $pagination.= "<li class='page-item'><span class='page-link disabled'>Previous</span></li>";
 
 		if ($lastpage < 7 + ($adjacents * 2))
-		{   
+		{
 		for ($counter = 1; $counter <= $lastpage; $counter++)
 		{
 		if ($counter == $this->_page)
-		    $pagination.= "<li class='page-item active'><span class='page-link'>$counter</span></li>";
+		    $pagination.= "<li class='page-item active'><a class='page-link current'>$counter</a></li>";
 		else
-		    $pagination.= "<li class='page-item'><a class='page-link' href='".$path."$this->_instance=$counter"."$ext'>$counter</a></li>";                   
+		    $pagination.= "<li class='page-item'><a class='page-link' href='".$path."$this->_instance=$counter"."$ext'>$counter</a></li>";
 		}
 		}
 		elseif($lastpage > 5 + ($adjacents * 2))
 		{
-		if($this->_page < 1 + ($adjacents * 2))       
+		if($this->_page < 1 + ($adjacents * 2))
 		{
 		for ($counter = 1; $counter < 4 + ($adjacents * 2); $counter++)
 		{
 		if ($counter == $this->_page)
-		    $pagination.= "<li class='page-item active'><span class='page-link'>$counter</span></li>";
+		    $pagination.= "<li class='page-item active'><a class='page-link current'>$counter</a></li>";
 		else
-		    $pagination.= "<li class='page-item'><a class='page-link' href='".$path."$this->_instance=$counter"."$ext'>$counter</a></li>";                   
+		    $pagination.= "<li class='page-item'><a class='page-link' href='".$path."$this->_instance=$counter"."$ext'>$counter</a></li>";
 		}
-		    $pagination.= "<li class='page-item'>...</li>";
+		    $pagination.= "<li class='page-item active'><a class='page-link current'>...</a></li>";
 		    $pagination.= "<li class='page-item'><a class='page-link' href='".$path."$this->_instance=$lpm1"."$ext'>$lpm1</a></li>";
-		    $pagination.= "<li class='page-item'><a class='page-link' href='".$path."$this->_instance=$lastpage"."$ext'>$lastpage</a></li>";       
+		    $pagination.= "<li class='page-item'><a class='page-link' href='".$path."$this->_instance=$lastpage"."$ext'>$lastpage</a></li>";
 		}
 		elseif($lastpage - ($adjacents * 2) > $this->_page && $this->_page > ($adjacents * 2))
 		{
 		    $pagination.= "<li class='page-item'><a class='page-link' href='".$path."$this->_instance=1"."$ext'>1</a></li>";
 		    $pagination.= "<li class='page-item'><a class='page-link' href='".$path."$this->_instance=2"."$ext'>2</a></li>";
-		    $pagination.= "<li class='page-item'>...</li>";
+		    $pagination.= "<li class='page-item active'><a class='page-link current'>...</a></li>";
 		for ($counter = $this->_page - $adjacents; $counter <= $this->_page + $adjacents; $counter++)
 		{
 		if ($counter == $this->_page)
-		    $pagination.= "<li class='page-item active'><span class='page-link'>$counter</span></li>";
+		    $pagination.= "<li class='page-item active'><a class='page-link current'>$counter</a></li>";
 		else
-		    $pagination.= "<li class='page-item'><a class='page-link' href='".$path."$this->_instance=$counter"."$ext'>$counter</a></li>";                   
+		    $pagination.= "<li class='page-item'><a class='page-link' href='".$path."$this->_instance=$counter"."$ext'>$counter</a></li>";
 		}
-		    $pagination.= "<li class='page-item'>..</li>";
+		    $pagination.= "<li class='page-item active'><a class='page-link current'>..</a></li>";
 		    $pagination.= "<li class='page-item'><a class='page-link' href='".$path."$this->_instance=$lpm1"."$ext'>$lpm1</a></li>";
-		    $pagination.= "<li class='page-item'><a class='page-link' href='".$path."$this->_instance=$lastpage"."$ext'>$lastpage</a></li>";       
+		    $pagination.= "<li class='page-item'><a class='page-link' href='".$path."$this->_instance=$lastpage"."$ext'>$lastpage</a></li>";
 		}
 		else
 		{
 		    $pagination.= "<li class='page-item'><a class='page-link' href='".$path."$this->_instance=1"."$ext'>1</a></li>";
 		    $pagination.= "<li class='page-item'><a class='page-link' href='".$path."$this->_instance=2"."$ext'>2</a></li>";
-		    $pagination.= "<li class='page-item'>..</li>";
+		    $pagination.= "<li class='page-item active'><a class='page-link current'>..</a></li>";
 		for ($counter = $lastpage - (2 + ($adjacents * 2)); $counter <= $lastpage; $counter++)
 		{
 		if ($counter == $this->_page)
-		    $pagination.= "<li class='page-item active'><span class='page-link'>$counter</span></li>";
+		    $pagination.= "<li class='page-item active'><a class='page-link current'>$counter</a></li>";
 		else
-		    $pagination.= "<li class='page-item'><a class='page-link' href='".$path."$this->_instance=$counter"."$ext'>$counter</a></li>";                   
+		    $pagination.= "<li class='page-item'><a class='page-link' href='".$path."$this->_instance=$counter"."$ext'>$counter</a></li>";
 		}
 		}
 		}
@@ -188,10 +188,45 @@ class Paginator{
 		if ($this->_page < $counter - 1)
 		    $pagination.= "<li class='page-item'><a class='page-link' href='".$path."$this->_instance=$next"."$ext'>Next</a></li>";
 		else
-		    $pagination.= "<li class='page-item'><span class='page-link disabled'>Next</span></li>";
-		    $pagination.= "</ul>\n";       
+		    $pagination.= "<li class='page-item'><a class='page-link disabled'>Next</a></li>";
+		    $pagination.= "</ul>\n";
 		}
-
+		$pagination.= "</div>";
+		
+		$pagination.= '<div class="col-md-4">';
+			$page_list_limit = $_SESSION['pagination_limit'];
+			//$script_name = $_SERVER['SCRIPT_NAME'];
+			$script_name = $_SERVER['REDIRECT_URL'];
+			
+			$pg_url_output = "";
+			if(!empty($_GET)) {
+				$pg_url_output = "&"; 
+				$firstRun = true; 
+				foreach($_GET as $key=>$val) { 
+					if($key != $parameter) { 
+						if(!$firstRun) { 
+							$pg_url_output .= "&"; 
+						} else { 
+							$firstRun = false; 
+						} 
+						$pg_url_output .= $key."=".$val;
+					} 
+				}
+			}
+			$pg_url_params = $pg_url_output;
+			
+			$pagination.= "<select class=\"custom-select\" name=\"pagination_limit\" id=\"pagination_limit\" onchange=\"window.open(this.options[this.selectedIndex].value, '_top');\">";
+				$pagination.= '<option value="'.$script_name.'?pagination_limit=5'.$pg_url_params.'" '.($page_list_limit == '5'?'selected="selected"':'').'>5</option>';
+				$pagination.= '<option value="'.$script_name.'?pagination_limit=10'.$pg_url_params.'" '.($page_list_limit == '10'?'selected="selected"':'').'>10</option>';
+				$pagination.= '<option value="'.$script_name.'?pagination_limit=15'.$pg_url_params.'" '.($page_list_limit == '15'?'selected="selected"':'').'>15</option>';
+				$pagination.= '<option value="'.$script_name.'?pagination_limit=20'.$pg_url_params.'" '.($page_list_limit == '20'?'selected="selected"':'').'>20</option>';
+				$pagination.= '<option value="'.$script_name.'?pagination_limit=25'.$pg_url_params.'" '.($page_list_limit == '25'?'selected="selected"':'').'>25</option>';
+				$pagination.= '<option value="'.$script_name.'?pagination_limit=50'.$pg_url_params.'" '.($page_list_limit == '50'?'selected="selected"':'').'>50</option>';
+				$pagination.= '<option value="'.$script_name.'?pagination_limit=100'.$pg_url_params.'" '.($page_list_limit == '100'?'selected="selected"':'').'>100</option>';
+				$pagination.= '<option value="'.$script_name.'?pagination_limit=200'.$pg_url_params.'" '.($page_list_limit == '200'?'selected="selected"':'').'>200</option>';
+				$pagination.= '<option value="'.$script_name.'?pagination_limit=500'.$pg_url_params.'" '.($page_list_limit == '500'?'selected="selected"':'').'>500</option>';
+			$pagination.= "</select>";
+		$pagination.= '</div></div>';
 
 	return $pagination;
 	}

@@ -74,7 +74,7 @@ class ReplyTo implements \JsonSerializable
         return $this->name;
     }
 
-    public function jsonSerialize()
+    public function jsonSerialize(): mixed
     {
         return array_filter(
             [
@@ -113,7 +113,7 @@ class ClickTracking implements \JsonSerializable
         return $this->enable_text;
     }
 
-    public function jsonSerialize()
+    public function jsonSerialize(): mixed
     {
         return array_filter(
             [
@@ -152,7 +152,7 @@ class OpenTracking implements \JsonSerializable
         return $this->substitution_tag;
     }
 
-    public function jsonSerialize()
+    public function jsonSerialize(): mixed
     {
         return array_filter(
             [
@@ -213,7 +213,7 @@ class SubscriptionTracking implements \JsonSerializable
         return $this->substitution_tag;
     }
 
-    public function jsonSerialize()
+    public function jsonSerialize(): mixed
     {
         return array_filter(
             [
@@ -298,7 +298,7 @@ class Ganalytics implements \JsonSerializable
         return $this->utm_campaign;
     }
 
-    public function jsonSerialize()
+    public function jsonSerialize(): mixed
     {
         return array_filter(
             [
@@ -363,7 +363,7 @@ class TrackingSettings implements \JsonSerializable
         return $this->ganalytics;
     }
 
-    public function jsonSerialize()
+    public function jsonSerialize(): mixed
     {
         return array_filter(
             [
@@ -404,7 +404,7 @@ class BccSettings implements \JsonSerializable
         return $this->email;
     }
 
-    public function jsonSerialize()
+    public function jsonSerialize(): mixed
     {
         return array_filter(
             [
@@ -432,7 +432,7 @@ class BypassListManagement implements \JsonSerializable
         return $this->enable;
     }
 
-    public function jsonSerialize()
+    public function jsonSerialize(): mixed
     {
         return array_filter(
             [
@@ -481,7 +481,7 @@ class Footer implements \JsonSerializable
         return $this->html;
     }
 
-    public function jsonSerialize()
+    public function jsonSerialize(): mixed
     {
         return array_filter(
             [
@@ -509,7 +509,7 @@ class SandBoxMode implements \JsonSerializable
     {
         return $this->enable;
     }
-    public function jsonSerialize()
+    public function jsonSerialize(): mixed
     {
         return array_filter(
             [
@@ -558,7 +558,7 @@ class SpamCheck implements \JsonSerializable
         return $this->post_to_url;
     }
 
-    public function jsonSerialize()
+    public function jsonSerialize(): mixed
     {
         return array_filter(
             [
@@ -631,7 +631,7 @@ class MailSettings implements \JsonSerializable
         return $this->spam_check;
     }
 
-    public function jsonSerialize()
+    public function jsonSerialize(): mixed
     {
         return array_filter(
             [
@@ -673,7 +673,7 @@ class ASM implements \JsonSerializable
         return $this->groups_to_display;
     }
 
-    public function jsonSerialize()
+    public function jsonSerialize(): mixed
     {
         return array_filter(
             [
@@ -745,7 +745,7 @@ class Attachment implements \JsonSerializable
         return $this->content_id;
     }
 
-    public function jsonSerialize()
+    public function jsonSerialize(): mixed
     {
         return array_filter(
             [
@@ -805,7 +805,7 @@ class Content implements \JsonSerializable
         return $this->value;
     }
 
-    public function jsonSerialize()
+    public function jsonSerialize(): mixed
     {
         return array_filter(
             [
@@ -910,7 +910,7 @@ class Personalization implements \JsonSerializable
         return $this->send_at;
     }
 
-    public function jsonSerialize()
+    public function jsonSerialize(): mixed
     {
         return array_filter(
             [
@@ -989,7 +989,7 @@ class Email implements \JsonSerializable
         return $this->email;
     }
 
-    public function jsonSerialize()
+    public function jsonSerialize(): mixed
     {
         return array_filter(
             [
@@ -1210,7 +1210,7 @@ class Mail implements \JsonSerializable
         return $this->reply_to;
     }
 
-    public function jsonSerialize()
+    public function jsonSerialize(): mixed
     {
         return array_filter(
             [

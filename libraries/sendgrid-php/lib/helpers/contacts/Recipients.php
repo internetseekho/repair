@@ -70,7 +70,7 @@ class Recipient implements \JsonSerializable
         return $this->email;
     }
 
-    public function jsonSerialize()
+    public function jsonSerialize(): mixed 
     {
         return array_filter(
             [

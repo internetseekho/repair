@@ -1062,6 +1062,7 @@ class TCPDF {
 	 * @protected
 	 * @since 4.1.000 (2008-10-18)
 	 */
+
 	protected $epsmarker = 'x#!#EPS#!#x';
 
 	/**
@@ -13335,6 +13336,7 @@ class TCPDF {
 			if (!TCPDF_STATIC::empty_string($this->ur['form'])) {
 				$out .= ' /Form['.$this->ur['form'].']';
 			}
+
 			if (!TCPDF_STATIC::empty_string($this->ur['signature'])) {
 				$out .= ' /Signature['.$this->ur['signature'].']';
 			}
@@ -15751,6 +15753,7 @@ class TCPDF {
 	 * @since 3.2.000 (2008-06-23)
 	 */
 	public function getFontSize() {
+
 		return $this->FontSize;
 	}
 
@@ -21506,6 +21509,7 @@ Putting 1 is equivalent to putting 0 and calling Ln() just after. Default value:
 				$maxpage = max($maxpage, $outline['p']);
 			}
 			// replace templates with current values
+
 			$row = str_replace('#TOC_DESCRIPTION#', $outline['t'], $row);
 			$row = str_replace('#TOC_PAGE_NUMBER#', $pagenum, $row);
 			// add link to page

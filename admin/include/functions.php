@@ -64,29 +64,55 @@ function writeHackLog($form) {
 
 //Parse sef url/path
 function parse_path() {
-  $path = array();
-  if(isset($_SERVER['REQUEST_URI'])) {
-    $request_path = explode('?', $_SERVER['REQUEST_URI']);
+	$path = array();
+	if(isset($_SERVER['REQUEST_URI'])) {
+	  $request_path = explode('?', $_SERVER['REQUEST_URI']);
+  
+	  $path['base'] = rtrim(dirname($_SERVER['SCRIPT_NAME']), '\/');
+	  $path['call_utf8'] = substr(urldecode($request_path[0]), strlen($path['base']) + 1);
+	  $path['call'] = mb_convert_encoding($path['call_utf8'], 'ISO-8859-1', 'UTF-8');
 
-    $path['base'] = rtrim(dirname($_SERVER['SCRIPT_NAME']), '\/');
-    $path['call_utf8'] = substr(urldecode((isset($request_path[0])?$request_path[0]:'')), strlen($path['base']) + 1);
-    $path['call'] = utf8_decode($path['call_utf8']);
-    if ($path['call'] == basename($_SERVER['PHP_SELF'])) {
-      $path['call'] = '';
-    }
-    $path['call_parts'] = explode('/', $path['call']);
-
-    $path['query_utf8'] = urldecode((isset($request_path[1])?$request_path[1]:''));
-    $path['query'] = utf8_decode(urldecode((isset($request_path[1])?$request_path[1]:'')));
-    $vars = explode('&', $path['query']);
-    foreach($vars as $var) {
-      $t = explode('=', $var);
-      $path['query_vars'][$t[0]] = (isset($t[1])?$t[1]:'');
-    }
-  }
+	//   $path['call'] = utf8_decode($path['call_utf8']);
+	  if ($path['call'] == basename($_SERVER['PHP_SELF'])) {
+		$path['call'] = '';
+	  }
+	  $path['call_parts'] = explode('/', $path['call']);
+  
+	  $path['query_utf8'] = isset($request_path[1]) ? urldecode($request_path[1]) : '';
+	//   mb_convert_encoding(urldecode($request_path[1]), 'ISO-8859-1', 'UTF-8');
+	  $path['query'] = isset($request_path[1]) ? mb_convert_encoding(urldecode($request_path[1]), 'ISO-8859-1', 'UTF-8') : '';
+	  $vars = explode('&', $path['query']);
+	  foreach($vars as $var) {
+		$t = explode('=', $var);
+		$path['query_vars'][$t[0]] = isset($t[1]) ? $t[1] : '';
+	  }
+	}
   return $path;
-}
-
+  }
+// function parse_path() {
+// 	$path = array();
+// 	if(isset($_SERVER['REQUEST_URI'])) {
+// 	  $request_path = explode('?', $_SERVER['REQUEST_URI']);
+  
+// 	  $path['base'] = rtrim(dirname($_SERVER['SCRIPT_NAME']), '\/');
+// 	  $path['call_utf8'] = substr(urldecode($request_path[0]), strlen($path['base']) + 1);
+// 	  $path['call'] = utf8_decode($path['call_utf8']);
+// 	  if ($path['call'] == basename($_SERVER['PHP_SELF'])) {
+// 		$path['call'] = '';
+// 	  }
+// 	  $path['call_parts'] = explode('/', $path['call']);
+  
+// 	  $path['query_utf8'] = isset($request_path[1]) ? urldecode($request_path[1]) : '';
+// 	  $path['query'] = isset($request_path[1]) ? utf8_decode(urldecode($request_path[1])) : '';
+// 	  $vars = explode('&', $path['query']);
+// 	  foreach($vars as $var) {
+// 		$t = explode('=', $var);
+// 		$path['query_vars'][$t[0]] = isset($t[1]) ? $t[1] : '';
+// 	  }
+// 	}
+//   return $path;
+//   }
+  
 //Get email template data based on template type
 function get_template_data($template_type) {
 	global $db;
@@ -906,6 +932,9 @@ function get_home_page_data($id = 0, $section_name = '') {
 			while($home_settings_data=mysqli_fetch_assoc($query)) {
 				$response[] = $home_settings_data;
 			}
+		}
+		if(!$response){
+			return [];
 		}
 		return $response;
 	}

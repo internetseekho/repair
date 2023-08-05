@@ -1,6 +1,6 @@
 		<!-- Footer
 		============================================= -->
-		<footer id="footer" style="background-color: #FFF;">
+		<footer id="footer" style="background: #f7f7f7;">
 
 			<div class="container">
 

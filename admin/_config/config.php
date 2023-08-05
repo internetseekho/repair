@@ -4,7 +4,7 @@ error_reporting(E_ALL);
 
 date_default_timezone_set("UTC");
 
-$folder_name = "";
+$folder_name = "repair";
 $folder_name = ($folder_name?"/".$folder_name:"");
 
 $host_scheme='http';
