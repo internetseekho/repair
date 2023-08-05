@@ -1,0 +1,279 @@
+Model_ID,Model_Title,Device,fault_id,fault_name,regular_price,is_on_offer,sale_price,offer_start_date,offer_end_date,status
+203,"Huawei Honor 10 Repair",,3059,"Front Screen Repair ",169.99,No,169.99,,,Published
+203,"Huawei Honor 10 Repair",,3064,"Antenna Repair ",119.99,No,119.99,,,Published
+203,"Huawei Honor 10 Repair",,3065,"Battery Repair ",119.99,No,119.99,,,Published
+203,"Huawei Honor 10 Repair",,3070,"Charging Port Repair ",119.99,No,119.99,,,Published
+203,"Huawei Honor 10 Repair",,3071,"Diagnostic Service ",39.99,No,39.99,,,Published
+203,"Huawei Honor 10 Repair",,3076,"Earpiece Repair ",119.99,No,119.99,,,Published
+203,"Huawei Honor 10 Repair",,3077,"Front Camera Repair ",119.99,No,119.99,,,Published
+203,"Huawei Honor 10 Repair",,3082,"Headphone Socket Repair ",119.99,No,119.99,,,Published
+203,"Huawei Honor 10 Repair",,3083,"Home Button Repair ",119.99,No,119.99,,,Published
+203,"Huawei Honor 10 Repair",,3088,"Liquid Damage Service ",119.99,No,119.99,,,Published
+203,"Huawei Honor 10 Repair",,3089,"Loudspeaker Repair ",119.99,No,119.99,,,Published
+203,"Huawei Honor 10 Repair",,3094,"Microphone Repair ",119.99,No,119.99,,,Published
+203,"Huawei Honor 10 Repair",,3095,"Mute Button Repair ",119.99,No,119.99,,,Published
+203,"Huawei Honor 10 Repair",,3099,"Power Button Repair ",119.99,No,119.99,,,Published
+203,"Huawei Honor 10 Repair",,3100,"Rear Camera Repair ",119.99,No,119.99,,,Published
+203,"Huawei Honor 10 Repair",,3103,"Rear Cover Repair ",119.99,No,119.99,,,Published
+203,"Huawei Honor 10 Repair",,3104,"Software Repair ",119.99,No,119.99,,,Published
+203,"Huawei Honor 10 Repair",,3105,"Vibration Repair ",119.99,No,119.99,,,Published
+203,"Huawei Honor 10 Repair",,3106,"Volume Repair ",119.99,No,119.99,,,Published
+203,"Huawei Honor 10 Repair",,3107,"WIFI Repair ",119.99,No,119.99,,,Published
+280,"Huawei Honor 7X Repairs",,4424,"Front Screen Repair ",99.99,No,99.99,,,Published
+280,"Huawei Honor 7X Repairs",,4427,"Antenna Repair ",79.99,No,79.99,,,Published
+280,"Huawei Honor 7X Repairs",,4428,"Battery Repair ",79.99,No,79.99,,,Published
+280,"Huawei Honor 7X Repairs",,4431,"Charging Port Repair ",79.99,No,79.99,,,Published
+280,"Huawei Honor 7X Repairs",,4432,"Earpiece Repair ",79.99,No,79.99,,,Published
+281,"Huawei Honor 7S Repairs",,4433,"Front Screen Repair ",69.99,No,69.99,,,Published
+282,"Huawei Honor Play Repair",,4435,"Front Screen Repair ",99.99,No,99.99,,,Published
+280,"Huawei Honor 7X Repairs",,4436,"Front Camera Repair ",79.99,No,79.99,,,Published
+280,"Huawei Honor 7X Repairs",,4437,"Headphone Socket Repair ",79.99,No,79.99,,,Published
+281,"Huawei Honor 7S Repairs",,4438,"Antenna Repair ",69.99,No,69.99,,,Published
+281,"Huawei Honor 7S Repairs",,4439,"Battery Repair ",69.99,No,69.99,,,Published
+282,"Huawei Honor Play Repair",,4440,"Antenna Repair ",79.99,No,79.99,,,Published
+282,"Huawei Honor Play Repair",,4441,"Battery Repair ",79.99,No,79.99,,,Published
+280,"Huawei Honor 7X Repairs",,4442,"Home Button Repair ",79.99,No,79.99,,,Published
+281,"Huawei Honor 7S Repairs",,4443,"Charging Port Repair ",69.99,No,69.99,,,Published
+281,"Huawei Honor 7S Repairs",,4444,"Diagnostic Service ",39.99,No,39.99,,,Published
+282,"Huawei Honor Play Repair",,4445,"Charging Port Repair ",79.99,No,79.99,,,Published
+282,"Huawei Honor Play Repair",,4446,"Diagnostic Service ",39.99,No,39.99,,,Published
+280,"Huawei Honor 7X Repairs",,4447,"Liquid Damage Service ",79.99,No,79.99,,,Published
+280,"Huawei Honor 7X Repairs",,4448,"Loudspeaker Repair ",79.99,No,79.99,,,Published
+281,"Huawei Honor 7S Repairs",,4449,"Earpiece Repair ",69.99,No,69.99,,,Published
+281,"Huawei Honor 7S Repairs",,4450,"Front Camera Repair ",69.99,No,69.99,,,Published
+282,"Huawei Honor Play Repair",,4451,"Earpiece Repair ",79.99,No,79.99,,,Published
+282,"Huawei Honor Play Repair",,4452,"Front Camera Repair ",79.99,No,79.99,,,Published
+280,"Huawei Honor 7X Repairs",,4453,"Microphone Repair ",79.99,No,79.99,,,Published
+280,"Huawei Honor 7X Repairs",,4454,"Mute Button Repair ",79.99,No,79.99,,,Published
+281,"Huawei Honor 7S Repairs",,4455,"Headphone Socket Repair ",69.99,No,69.99,,,Published
+281,"Huawei Honor 7S Repairs",,4456,"Home Button Repair ",69.99,No,69.99,,,Published
+283,"Huawei Honor 6X Repairs",,4457,"Front Screen Repair ",79.99,No,79.99,,,Published
+282,"Huawei Honor Play Repair",,4458,"Headphone Socket Repair ",79.99,No,79.99,,,Published
+282,"Huawei Honor Play Repair",,4459,"Home Button Repair ",79.99,No,79.99,,,Published
+280,"Huawei Honor 7X Repairs",,4460,"Power Button Repair ",79.99,No,79.99,,,Published
+280,"Huawei Honor 7X Repairs",,4461,"Rear Camera Repair ",79.99,No,79.99,,,Published
+281,"Huawei Honor 7S Repairs",,4462,"Liquid Damage Service ",69.99,No,69.99,,,Published
+281,"Huawei Honor 7S Repairs",,4463,"Loudspeaker Repair ",69.99,No,69.99,,,Published
+283,"Huawei Honor 6X Repairs",,4464,"Antenna Repair ",69.99,No,69.99,,,Published
+283,"Huawei Honor 6X Repairs",,4465,"Battery Repair ",69.99,No,69.99,,,Published
+282,"Huawei Honor Play Repair",,4466,"Liquid Damage Service ",79.99,No,79.99,,,Published
+282,"Huawei Honor Play Repair",,4467,"Loudspeaker Repair ",79.99,No,79.99,,,Published
+280,"Huawei Honor 7X Repairs",,4468,"Rear Cover Repair ",79.99,No,79.99,,,Published
+280,"Huawei Honor 7X Repairs",,4469,"Software Repair ",79.99,No,79.99,,,Published
+281,"Huawei Honor 7S Repairs",,4470,"Microphone Repair ",69.99,No,69.99,,,Published
+281,"Huawei Honor 7S Repairs",,4471,"Mute Button Repair ",69.99,No,69.99,,,Published
+283,"Huawei Honor 6X Repairs",,4472,"Charging Port Repair ",69.99,No,69.99,,,Published
+283,"Huawei Honor 6X Repairs",,4473,"Earpiece Repair ",69.99,No,69.99,,,Published
+282,"Huawei Honor Play Repair",,4474,"Microphone Repair ",79.99,No,79.99,,,Published
+282,"Huawei Honor Play Repair",,4475,"Mute Button Repair ",79.99,No,79.99,,,Published
+280,"Huawei Honor 7X Repairs",,4476,"Vibration Repair ",79.99,No,79.99,,,Published
+280,"Huawei Honor 7X Repairs",,4477,"Volume Repair ",79.99,No,79.99,,,Published
+281,"Huawei Honor 7S Repairs",,4478,"Power Button Repair ",69.99,No,69.99,,,Published
+281,"Huawei Honor 7S Repairs",,4479,"Rear Camera Repair ",69.99,No,69.99,,,Published
+283,"Huawei Honor 6X Repairs",,4480,"Front Camera Repair ",69.99,No,69.99,,,Published
+283,"Huawei Honor 6X Repairs",,4481,"Headphone Socket Repair ",69.99,No,69.99,,,Published
+283,"Huawei Honor 6X Repairs",,4482,"Home Button Repair ",69.99,No,69.99,,,Published
+282,"Huawei Honor Play Repair",,4483,"Power Button Repair ",79.99,No,79.99,,,Published
+282,"Huawei Honor Play Repair",,4484,"Rear Camera Repair ",79.99,No,79.99,,,Published
+280,"Huawei Honor 7X Repairs",,4485,"WIFI Repair ",79.99,No,79.99,,,Published
+280,"Huawei Honor 7X Repairs",,4486,"Diagnostic Service ",39.99,No,39.99,,,Published
+281,"Huawei Honor 7S Repairs",,4487,"Rear Cover Repair ",69.99,No,69.99,,,Published
+281,"Huawei Honor 7S Repairs",,4488,"Software Repair ",69.99,No,69.99,,,Published
+283,"Huawei Honor 6X Repairs",,4489,"Liquid Damage Service ",69.99,No,69.99,,,Published
+283,"Huawei Honor 6X Repairs",,4490,"Loudspeaker Repair ",69.99,No,69.99,,,Published
+282,"Huawei Honor Play Repair",,4491,"Software Repair ",79.99,No,79.99,,,Published
+282,"Huawei Honor Play Repair",,4492,"Vibration Repair ",79.99,No,79.99,,,Published
+281,"Huawei Honor 7S Repairs",,4493,"Vibration Repair ",69.99,No,69.99,,,Published
+281,"Huawei Honor 7S Repairs",,4494,"Volume Repair ",69.99,No,69.99,,,Published
+283,"Huawei Honor 6X Repairs",,4495,"Microphone Repair ",69.99,No,69.99,,,Published
+283,"Huawei Honor 6X Repairs",,4496,"Mute Button Repair ",69.99,No,69.99,,,Published
+282,"Huawei Honor Play Repair",,4497,"Volume Repair ",79.99,No,79.99,,,Published
+282,"Huawei Honor Play Repair",,4498,"WIFI Repair ",79.99,No,79.99,,,Published
+281,"Huawei Honor 7S Repairs",,4499,"WIFI Repair ",69.99,No,69.99,,,Published
+283,"Huawei Honor 6X Repairs",,4500,"Power Button Repair ",69.99,No,69.99,,,Published
+283,"Huawei Honor 6X Repairs",,4501,"Rear Camera Repair ",69.99,No,69.99,,,Published
+283,"Huawei Honor 6X Repairs",,4502,"Rear Cover Repair ",69.99,No,69.99,,,Published
+283,"Huawei Honor 6X Repairs",,4503,"Software Repair ",69.99,No,69.99,,,Published
+283,"Huawei Honor 6X Repairs",,4504,"Vibration Repair ",69.99,No,69.99,,,Published
+283,"Huawei Honor 6X Repairs",,4505,"Volume Repair ",69.99,No,69.99,,,Published
+283,"Huawei Honor 6X Repairs",,4506,"WIFI Repair ",69.99,No,69.99,,,Published
+283,"Huawei Honor 6X Repairs",,4507,"Diagnostic Service ",39.99,No,39.99,,,Published
+284,"Huawei Honor 7 Repairs",,4508,"Front Screen Repair ",88.99,No,88.99,,,Published
+284,"Huawei Honor 7 Repairs",,4509,"Antenna Repair ",79.99,No,79.99,,,Published
+284,"Huawei Honor 7 Repairs",,4510,"Battery Repair ",79.99,No,79.99,,,Published
+284,"Huawei Honor 7 Repairs",,4511,"Charging Port Repair ",79.99,No,79.99,,,Published
+284,"Huawei Honor 7 Repairs",,4512,"Earpiece Repair ",79.99,No,79.99,,,Published
+284,"Huawei Honor 7 Repairs",,4513,"Front Camera Repair ",79.99,No,79.99,,,Published
+284,"Huawei Honor 7 Repairs",,4514,"Headphone Socket Repair ",79.99,No,79.99,,,Published
+284,"Huawei Honor 7 Repairs",,4515,"Home Button Repair ",79.99,No,79.99,,,Published
+284,"Huawei Honor 7 Repairs",,4516,"Liquid Damage Service ",79.99,No,79.99,,,Published
+284,"Huawei Honor 7 Repairs",,4517,"Loudspeaker Repair ",79.99,No,79.99,,,Published
+284,"Huawei Honor 7 Repairs",,4518,"Microphone Repair ",79.99,No,79.99,,,Published
+284,"Huawei Honor 7 Repairs",,4519,"Mute Button Repair ",79.99,No,79.99,,,Published
+284,"Huawei Honor 7 Repairs",,4520,"Power Button Repair ",79.99,No,79.99,,,Published
+284,"Huawei Honor 7 Repairs",,4521,"Rear Camera Repair ",79.99,No,79.99,,,Published
+284,"Huawei Honor 7 Repairs",,4522,"Rear Cover Repair ",79.99,No,79.99,,,Published
+284,"Huawei Honor 7 Repairs",,4523,"Software Repair ",79.99,No,79.99,,,Published
+284,"Huawei Honor 7 Repairs",,4524,"Vibration Repair ",79.99,No,79.99,,,Published
+284,"Huawei Honor 7 Repairs",,4525,"Volume Repair ",79.99,No,79.99,,,Published
+284,"Huawei Honor 7 Repairs",,4526,"WIFI Repair ",79.99,No,79.99,,,Published
+284,"Huawei Honor 7 Repairs",,4527,"Diagnostic Service ",39.99,No,39.99,,,Published
+285,"Huawei Honor 8C Repair",,4528,"Front Screen Repair ",79.99,No,79.99,,,Published
+285,"Huawei Honor 8C Repair",,4529,"Antenna Repair ",69.99,No,69.99,,,Published
+285,"Huawei Honor 8C Repair",,4530,"Battery Repair ",69.99,No,69.99,,,Published
+285,"Huawei Honor 8C Repair",,4531,"Charging Port Repair ",69.99,No,69.99,,,Published
+285,"Huawei Honor 8C Repair",,4532,"Diagnostic Service ",39.99,No,39.99,,,Published
+285,"Huawei Honor 8C Repair",,4533,"Earpiece Repair ",69.99,No,69.99,,,Published
+285,"Huawei Honor 8C Repair",,4534,"Front Camera Repair ",69.99,No,69.99,,,Published
+285,"Huawei Honor 8C Repair",,4535,"Headphone Socket Repair ",69.99,No,69.99,,,Published
+285,"Huawei Honor 8C Repair",,4536,"Home Button Repair ",69.99,No,69.99,,,Published
+285,"Huawei Honor 8C Repair",,4537,"Liquid Damage Service ",69.99,No,69.99,,,Published
+285,"Huawei Honor 8C Repair",,4538,"Loudspeaker Repair ",69.99,No,69.99,,,Published
+285,"Huawei Honor 8C Repair",,4539,"Microphone Repair ",69.99,No,69.99,,,Published
+285,"Huawei Honor 8C Repair",,4540,"Mute Button Repair ",69.99,No,69.99,,,Published
+285,"Huawei Honor 8C Repair",,4541,"Power Button Repair ",69.99,No,69.99,,,Published
+285,"Huawei Honor 8C Repair",,4542,"Rear Camera Repair ",69.99,No,69.99,,,Published
+285,"Huawei Honor 8C Repair",,4543,"Rear Cover Repair ",69.99,No,69.99,,,Published
+285,"Huawei Honor 8C Repair",,4544,"Software Repair ",69.99,No,69.99,,,Published
+285,"Huawei Honor 8C Repair",,4545,"Vibration Repair ",69.99,No,69.99,,,Published
+285,"Huawei Honor 8C Repair",,4546,"Volume Repair ",69.99,No,69.99,,,Published
+285,"Huawei Honor 8C Repair",,4547,"WIFI Repair ",69.99,No,69.99,,,Published
+286,"Huawei Honor 8X Repairs",,4548,"Front Screen Repair ",99.99,No,99.99,,,Published
+286,"Huawei Honor 8X Repairs",,4549,"Antenna Repair ",79.99,No,79.99,,,Published
+286,"Huawei Honor 8X Repairs",,4550,"Battery Repair ",79.99,No,79.99,,,Published
+287,"Huawei Honor 8 Repair",,4551,"Front Screen Repair ",103.99,No,103.99,,,Published
+288,"Honor 8S Repair",,4552,"Front Screen Repair ",69.99,No,69.99,,,Published
+286,"Huawei Honor 8X Repairs",,4553,"Charging Port Repair ",79.99,No,79.99,,,Published
+286,"Huawei Honor 8X Repairs",,4554,"Diagnostic Service ",39.99,No,39.99,,,Published
+287,"Huawei Honor 8 Repair",,4555,"Antenna Repair ",89.99,No,89.99,,,Published
+287,"Huawei Honor 8 Repair",,4556,"Battery Repair ",89.99,No,89.99,,,Published
+288,"Honor 8S Repair",,4557,"Antenna Repair ",69.99,No,69.99,,,Published
+288,"Honor 8S Repair",,4558,"Battery Repair ",69.99,No,69.99,,,Published
+286,"Huawei Honor 8X Repairs",,4559,"Earpiece Repair ",79.99,No,79.99,,,Published
+286,"Huawei Honor 8X Repairs",,4560,"Front Camera Repair ",79.99,No,79.99,,,Published
+287,"Huawei Honor 8 Repair",,4561,"Charging Port Repair ",89.99,No,89.99,,,Published
+287,"Huawei Honor 8 Repair",,4562,"Earpiece Repair ",89.99,No,89.99,,,Published
+287,"Huawei Honor 8 Repair",,4563,"Front Camera Repair ",89.99,No,89.99,,,Published
+289,"Honor 9X Repair",,4564,"Front Screen Repair ",109.99,No,109.99,,,Published
+288,"Honor 8S Repair",,4565,"Charging Port Repair ",69.99,No,69.99,,,Published
+288,"Honor 8S Repair",,4566,"Diagnostic Service ",39.99,No,39.99,,,Published
+286,"Huawei Honor 8X Repairs",,4567,"Headphone Socket Repair ",79.99,No,79.99,,,Published
+286,"Huawei Honor 8X Repairs",,4568,"Home Button Repair ",79.99,No,79.99,,,Published
+287,"Huawei Honor 8 Repair",,4569,"Headphone Socket Repair ",89.99,No,89.99,,,Published
+287,"Huawei Honor 8 Repair",,4570,"Home Button Repair ",89.99,No,89.99,,,Published
+289,"Honor 9X Repair",,4571,"Antenna Repair ",89.99,No,89.99,,,Published
+289,"Honor 9X Repair",,4572,"Battery Repair ",89.99,No,89.99,,,Published
+288,"Honor 8S Repair",,4573,"Earpiece Repair ",69.99,No,69.99,,,Published
+288,"Honor 8S Repair",,4574,"Front Camera Repair ",69.99,No,69.99,,,Published
+286,"Huawei Honor 8X Repairs",,4575,"Liquid Damage Service ",79.99,No,79.99,,,Published
+286,"Huawei Honor 8X Repairs",,4576,"Loudspeaker Repair ",79.99,No,79.99,,,Published
+287,"Huawei Honor 8 Repair",,4577,"Liquid Damage Service ",69.99,No,69.99,,,Published
+287,"Huawei Honor 8 Repair",,4578,"Loudspeaker Repair ",89.99,No,89.99,,,Published
+289,"Honor 9X Repair",,4579,"Charging Port Repair ",89.99,No,89.99,,,Published
+289,"Honor 9X Repair",,4580,"Diagnostic Service ",39.99,No,39.99,,,Published
+288,"Honor 8S Repair",,4581,"Headphone Socket Repair ",69.99,No,69.99,,,Published
+288,"Honor 8S Repair",,4582,"Home Button Repair ",69.99,No,69.99,,,Published
+290,"Huawei Honor 9 Lite Repair",,4583,"Front Screen Repair ",89.99,No,89.99,,,Published
+286,"Huawei Honor 8X Repairs",,4584,"Microphone Repair ",79.99,No,79.99,,,Published
+286,"Huawei Honor 8X Repairs",,4585,"Mute Button Repair ",79.99,No,79.99,,,Published
+287,"Huawei Honor 8 Repair",,4586,"Microphone Repair ",89.99,No,89.99,,,Published
+287,"Huawei Honor 8 Repair",,4587,"Mute Button Repair ",89.99,No,89.99,,,Published
+289,"Honor 9X Repair",,4588,"Earpiece Repair ",89.99,No,89.99,,,Published
+289,"Honor 9X Repair",,4589,"Front Camera Repair ",89.99,No,89.99,,,Published
+288,"Honor 8S Repair",,4590,"Liquid Damage Service ",89.99,No,89.99,,,Published
+288,"Honor 8S Repair",,4591,"Loudspeaker Repair ",69.99,No,69.99,,,Published
+290,"Huawei Honor 9 Lite Repair",,4592,"Antenna Repair ",79.99,No,79.99,,,Published
+290,"Huawei Honor 9 Lite Repair",,4593,"Battery Repair ",79.99,No,79.99,,,Published
+291,"Huawei Honor 10 Lite Repair",,4594,"Front Screen Repair ",84.99,No,84.99,,,Published
+286,"Huawei Honor 8X Repairs",,4595,"Power Button Repair ",79.99,No,79.99,,,Published
+286,"Huawei Honor 8X Repairs",,4596,"Rear Camera Repair ",79.99,No,79.99,,,Published
+287,"Huawei Honor 8 Repair",,4597,"Power Button Repair ",89.99,No,89.99,,,Published
+287,"Huawei Honor 8 Repair",,4598,"Rear Camera Repair ",89.99,No,89.99,,,Published
+289,"Honor 9X Repair",,4599,"Headphone Socket Repair ",89.99,No,89.99,,,Published
+289,"Honor 9X Repair",,4600,"Home Button Repair ",89.99,No,89.99,,,Published
+288,"Honor 8S Repair",,4601,"Microphone Repair ",69.99,No,69.99,,,Published
+288,"Honor 8S Repair",,4602,"Mute Button Repair ",69.99,No,69.99,,,Published
+290,"Huawei Honor 9 Lite Repair",,4603,"Charging Port Repair ",79.99,No,79.99,,,Published
+290,"Huawei Honor 9 Lite Repair",,4604,"Diagnostic Service  ",39.99,No,39.99,,,Published
+291,"Huawei Honor 10 Lite Repair",,4605,"Antenna Repair ",79.99,No,79.99,,,Published
+291,"Huawei Honor 10 Lite Repair",,4606,"Battery Repair ",79.99,No,79.99,,,Published
+286,"Huawei Honor 8X Repairs",,4608,"Rear Cover Repair ",79.99,No,79.99,,,Published
+286,"Huawei Honor 8X Repairs",,4609,"Software Repair ",79.99,No,79.99,,,Published
+287,"Huawei Honor 8 Repair",,4610,"Rear Cover Repair ",89.99,No,89.99,,,Published
+287,"Huawei Honor 8 Repair",,4611,"Software Repair ",89.99,No,89.99,,,Published
+293,"Huawei Honor 8X Max Repair",,4612,"Front Screen Repair ",89.99,No,89.99,,,Published
+289,"Honor 9X Repair",,4613,"Liquid Damage Service ",89.99,No,89.99,,,Published
+289,"Honor 9X Repair",,4614,"Loudspeaker Repair ",89.99,No,89.99,,,Published
+288,"Honor 8S Repair",,4615,"Power Button Repair ",69.99,No,69.99,,,Published
+288,"Honor 8S Repair",,4616,"Rear Camera Repair ",69.99,No,69.99,,,Published
+290,"Huawei Honor 9 Lite Repair",,4617,"Earpiece Repair ",79.99,No,79.99,,,Published
+290,"Huawei Honor 9 Lite Repair",,4618,"Front Camera Repair ",79.99,No,79.99,,,Published
+291,"Huawei Honor 10 Lite Repair",,4619,"Charging Port Repair ",79.99,No,79.99,,,Published
+291,"Huawei Honor 10 Lite Repair",,4620,"Diagnostic Service ",39.99,No,39.99,,,Published
+286,"Huawei Honor 8X Repairs",,4623,"Vibration Repair ",79.99,No,79.99,,,Published
+286,"Huawei Honor 8X Repairs",,4624,"Volume Repair ",79.99,No,79.99,,,Published
+287,"Huawei Honor 8 Repair",,4625,"Vibration Repair ",89.99,No,89.99,,,Published
+287,"Huawei Honor 8 Repair",,4626,"Volume Repair ",89.99,No,89.99,,,Published
+293,"Huawei Honor 8X Max Repair",,4627,"Antenna Repair ",79.99,No,79.99,,,Published
+293,"Huawei Honor 8X Max Repair",,4628,"Battery Repair ",79.99,No,79.99,,,Published
+289,"Honor 9X Repair",,4629,"Microphone Repair ",89.99,No,89.99,,,Published
+289,"Honor 9X Repair",,4630,"Mute Button Repair ",89.99,No,89.99,,,Published
+288,"Honor 8S Repair",,4631,"Rear Cover Repair ",69.99,No,69.99,,,Published
+288,"Honor 8S Repair",,4632,"Software Repair ",69.99,No,69.99,,,Published
+290,"Huawei Honor 9 Lite Repair",,4633,"Headphone Socket Repair ",79.99,No,79.99,,,Published
+290,"Huawei Honor 9 Lite Repair",,4634,"Liquid Damage Service ",79.99,No,79.99,,,Published
+291,"Huawei Honor 10 Lite Repair",,4635,"Earpiece Repair ",79.99,No,79.99,,,Published
+291,"Huawei Honor 10 Lite Repair",,4636,"Front Camera Repair ",79.99,No,79.99,,,Published
+286,"Huawei Honor 8X Repairs",,4639,"WIFI Repair ",79.99,No,79.99,,,Published
+287,"Huawei Honor 8 Repair",,4640,"WIFI Repair ",89.99,No,89.99,,,Published
+287,"Huawei Honor 8 Repair",,4641,"Diagnostic Service ",39.99,No,39.99,,,Published
+293,"Huawei Honor 8X Max Repair",,4642,"Charging Port Repair ",79.99,No,79.99,,,Published
+293,"Huawei Honor 8X Max Repair",,4643,"Diagnostic Service ",39.99,No,39.99,,,Published
+289,"Honor 9X Repair",,4644,"Power Button Repair ",89.99,No,89.99,,,Published
+289,"Honor 9X Repair",,4645,"Rear Camera Repair ",89.99,No,89.99,,,Published
+288,"Honor 8S Repair",,4646,"Vibration Repair ",69.99,No,69.99,,,Published
+288,"Honor 8S Repair",,4647,"Volume Repair ",69.99,No,69.99,,,Published
+290,"Huawei Honor 9 Lite Repair",,4648,"Loudspeaker Repair ",79.99,No,79.99,,,Published
+290,"Huawei Honor 9 Lite Repair",,4649,"Microphone Repair ",79.99,No,79.99,,,Published
+291,"Huawei Honor 10 Lite Repair",,4650,"Headphone Socket Repair ",79.99,No,79.99,,,Published
+291,"Huawei Honor 10 Lite Repair",,4651,"Home Button Repair ",79.99,No,79.99,,,Published
+293,"Huawei Honor 8X Max Repair",,4654,"Earpiece Repair ",79.99,No,79.99,,,Published
+293,"Huawei Honor 8X Max Repair",,4655,"Earpiece Repair ",79.99,No,79.99,,,Published
+289,"Honor 9X Repair",,4656,"Rear Cover Repair ",89.99,No,89.99,,,Published
+289,"Honor 9X Repair",,4657,"Software Repair ",89.99,No,89.99,,,Published
+288,"Honor 8S Repair",,4658,"WIFI Repair ",69.99,No,69.99,,,Published
+290,"Huawei Honor 9 Lite Repair",,4659,"Mute Button Repair ",79.99,No,79.99,,,Published
+290,"Huawei Honor 9 Lite Repair",,4660,"Power Button Repair ",79.99,No,79.99,,,Published
+291,"Huawei Honor 10 Lite Repair",,4661,"Liquid Damage Service ",79.99,No,79.99,,,Published
+291,"Huawei Honor 10 Lite Repair",,4662,"Loudspeaker Repair ",79.99,No,79.99,,,Published
+293,"Huawei Honor 8X Max Repair",,4665,"Front Camera Repair ",79.99,No,79.99,,,Published
+293,"Huawei Honor 8X Max Repair",,4666,"Headphone Socket Repair ",79.99,No,79.99,,,Published
+293,"Huawei Honor 8X Max Repair",,4667,"Headphone Socket Repair ",79.99,No,79.99,,,Published
+289,"Honor 9X Repair",,4668,"Vibration Repair ",89.99,No,89.99,,,Published
+289,"Honor 9X Repair",,4669,"Volume Repair ",89.99,No,89.99,,,Published
+290,"Huawei Honor 9 Lite Repair",,4670,"Rear Camera Repair ",79.99,No,79.99,,,Published
+290,"Huawei Honor 9 Lite Repair",,4671,"Rear Cover Repair ",79.99,No,79.99,,,Published
+291,"Huawei Honor 10 Lite Repair",,4672,"Microphone Repair ",79.99,No,79.99,,,Published
+291,"Huawei Honor 10 Lite Repair",,4673,"Mute Button Repair ",79.99,No,79.99,,,Published
+293,"Huawei Honor 8X Max Repair",,4676,"Home Button Repair ",79.99,No,79.99,,,Published
+293,"Huawei Honor 8X Max Repair",,4677,"Liquid Damage Service ",79.99,No,79.99,,,Published
+289,"Honor 9X Repair",,4678,"WIFI Repair ",89.99,No,89.99,,,Published
+290,"Huawei Honor 9 Lite Repair",,4679,"Vibration Repair ",79.99,No,79.99,,,Published
+290,"Huawei Honor 9 Lite Repair",,4680,"Volume Repair ",79.99,No,79.99,,,Published
+291,"Huawei Honor 10 Lite Repair",,4681,"Power Button Repair ",79.99,No,79.99,,,Published
+291,"Huawei Honor 10 Lite Repair",,4682,"Rear Camera Repair ",79.99,No,79.99,,,Published
+293,"Huawei Honor 8X Max Repair",,4685,"Loudspeaker Repair ",79.99,No,79.99,,,Published
+293,"Huawei Honor 8X Max Repair",,4686,"Microphone Repair ",79.99,No,79.99,,,Published
+291,"Huawei Honor 10 Lite Repair",,4687,"Rear Cover Repair ",79.99,No,79.99,,,Published
+291,"Huawei Honor 10 Lite Repair",,4688,"Software Repair ",79.99,No,79.99,,,Published
+293,"Huawei Honor 8X Max Repair",,4691,"Mute Button Repair ",79.99,No,79.99,,,Published
+293,"Huawei Honor 8X Max Repair",,4692,"Power Button Repair ",79.99,No,79.99,,,Published
+291,"Huawei Honor 10 Lite Repair",,4693,"Vibration Repair ",79.99,No,79.99,,,Published
+291,"Huawei Honor 10 Lite Repair",,4694,"Volume Repair ",79.99,No,79.99,,,Published
+293,"Huawei Honor 8X Max Repair",,4697,"Rear Camera Repair ",79.99,No,79.99,,,Published
+293,"Huawei Honor 8X Max Repair",,4698,"Rear Cover Repair ",79.99,No,79.99,,,Published
+291,"Huawei Honor 10 Lite Repair",,4699,"WIFI Repair ",79.99,No,79.99,,,Published
+293,"Huawei Honor 8X Max Repair",,4700,"Software Repair ",79.99,No,79.99,,,Published
+293,"Huawei Honor 8X Max Repair",,4701,"Vibration Repair ",79.99,No,79.99,,,Published
+293,"Huawei Honor 8X Max Repair",,4702,"Volume Repair ",79.99,No,79.99,,,Published
+293,"Huawei Honor 8X Max Repair",,4703,"WIFI Repair ",79.99,No,79.99,,,Published

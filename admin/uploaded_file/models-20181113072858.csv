@@ -1,0 +1,111 @@
+Model_ID,Model_Icon,Model_Title,Model_Price,Field_ID,Field_Title,Field_Item_ID,Field_Item_Title,Field_Item_Price
+1,20180322211601.png,"iPhone X - A1865 A1901 A1902",10000,1235,"battery replacement",3599,"Option 1",10
+,,,,,,3600,"option 22",22
+,,,,1236,"iPhone X Repair Options",3601,"Front Display Screen Replacement",399
+,,,,,,3602,"Battery1 Replacement",198
+,,,,,,3603,"Multiple Issues",0
+,,,,,,3604,"Water Damage Diagnose",0
+,,,,,,3605,dfsdfsd,12
+,,,,,,3606,"Back Glass Replacement",499
+,,,,1237,"What color is your iPhone X?",3607,Gold,0
+,,,,,,3608,Silver,0
+,,,,,,3609,"Space Grey",0
+,,,,1238,Checkboxes,3610,"Option 1",10
+,,,,,,3611,"Option 2",15
+,,,,,,3612,"Option 3",20
+,,,,1241,"radio 2",3613,"Option 1",2
+,,,,,,3614,"Option 2",3
+,,,,1242,drodown,3615,"test 1",20.5
+,,,,,,3616,"test 2",60.69
+20,20180315195741.png,"iPhone 8 Plus A1864 A1897 A1898",100,529,"iPhone 8+ repair",1918,"Screen broken and/or LCD defective",99
+,,,,,,1919,"Replace backcover",99
+,,,,,,1920,"Replace dock connector (charge/microphone)",99
+,,,,,,1921,"Replace earspeaker",99
+,,,,,,1922,"Replace speaker",99
+,,,,,,1923,"Replace home button",99
+,,,,,,1924,"Replace button (power, volume, mute)",99
+,,,,,,1925,"Replace camera front",99
+,,,,,,1926,"Replace camera back",99
+,,,,,,1927,"Replace vibration motor",99
+,,,,,,1928,"Replace battery",99
+,,,,530,"What color is your iPhone 8+?",1929,"Space Grey",0
+,,,,,,1930,Silver,0
+,,,,,,1931,Gold,0
+21,20180217044811.png,"Galaxy S8+",0,531,"Selection One Option",1932,"Screen broken and/or LCD defective",3900
+,,,,,,1933,"Replace backcover",8500
+,,,,,,1934,"Replace front camera",8500
+,,,,,,1935,"Replace back camera",8500
+,,,,,,1936,"Replace earspeaker",8500
+,,,,,,1937,"Replace speaker",8500
+,,,,,,1938,"Replace fingerprintscanner",8500
+,,,,,,1939,"Replace powerbutton",8500
+,,,,,,1940,"Replace volumebuttons",8500
+,,,,,,1941,"Replace vibration motor",8500
+,,,,,,1942,"Replace audiojack",8500
+,,,,,,1943,"Replace charging port	",8500
+,,,,,,1944,"Replace battery",8500
+,,,,532,"select multiple option",1945,"Option 1",12
+,,,,,,1946,"Option 2",14
+,,,,,,1947,"Option 3",16
+,,,,533,"This is drop down",1948,"Option 1",12
+,,,,,,1949,"Option 2",15
+22,20180217061307.png,"iPad Pro 10.5",0,534,"iPhone X Repair Options",1950,"Front Display Screen Replacement",399
+,,,,,,1951,"Back Glass Replacement",499
+,,,,,,1952,"Battery Replacement",199
+,,,,,,1953,"Multiple Issues",0
+,,,,,,1954,"Water Damage Diagnose",0
+,,,,535,"What color is your iPhone X?",1955,Gold,0
+,,,,,,1956,Silver,0
+,,,,,,1957,"Space Grey",0
+23,20180217061542.png,"iPad Pro 12.9",0,536,"iPhone X Repair Options",1958,"Front Display Screen Replacement",399
+,,,,,,1959,"Back Glass Replacement",499
+,,,,,,1960,"Battery Replacement",199
+,,,,,,1961,"Multiple Issues",0
+,,,,,,1962,"Water Damage Diagnose",0
+,,,,537,"What color is your iPhone X?",1963,Gold,0
+,,,,,,1964,Silver,0
+,,,,,,1965,"Space Grey",0
+24,20180217061646.png,"iPad 4",0,538,"iPad 4 repair",1966,"Screen broken or touch defective",9900
+,,,,,,1967,"Replace LCD",12900
+,,,,,,1968,"Replace back cover",14000
+,,,,,,1969,Microphone,9900
+,,,,,,1970,Speaker,9900
+,,,,,,1971,"Wifi reception",9900
+,,,,,,1972,"Audio jack",9900
+,,,,,,1973,"Dock connector (charge)",9900
+,,,,,,1974,"Replace button (power, home, volume, mute)",9900
+,,,,,,1975,"Replace camera front",9900
+,,,,,,1976,"Replace camera back",9900
+,,,,,,1977,"Replace battery",9900
+25,20180319165547.png,"iPhone 8 A1863 A1905 A1906",0,539,"iPhone X Repair Options",1978,"Front Display Screen Replacement",399
+,,,,,,1979,"Back Glass Replacement",499
+,,,,,,1980,"Battery Replacement",199
+,,,,,,1981,"Multiple Issues",0
+,,,,,,1982,"Water Damage Diagnose",0
+,,,,540,"What color is your iPhone X?",1983,Gold,0
+,,,,,,1984,Silver,0
+,,,,,,1985,"Space Grey",0
+26,20180319165801.png,"iPhone 7 Plus A1661 A1784 A1785",0,541,"iPhone X Repair Options",1986,"Front Display Screen Replacement",399
+,,,,,,1987,"Back Glass Replacement",499
+,,,,,,1988,"Battery Replacement",199
+,,,,,,1989,"Multiple Issues",0
+,,,,,,1990,"Water Damage Diagnose",0
+,,,,542,"What color is your iPhone X?",1991,Gold,0
+,,,,,,1992,Silver,0
+,,,,,,1993,"Space Grey",0
+27,20180319165912.png,"iPhone 7 A1660 A1778 A1779",0,543,"iPhone X Repair Options",1994,"Front Display Screen Replacement",399
+,,,,,,1995,"Back Glass Replacement",499
+,,,,,,1996,"Battery Replacement",199
+,,,,,,1997,"Multiple Issues",0
+,,,,,,1998,"Water Damage Diagnose",0
+,,,,544,"What color is your iPhone X?",1999,Gold,0
+,,,,,,2000,Silver,0
+,,,,,,2001,"Space Grey",0
+28,20180319170018.png,"iPhone 6S Plus A1634 A1687 A1699",0,545,"iPhone X Repair Options",2002,"Front Display Screen Replacement",399
+,,,,,,2003,"Back Glass Replacement",499
+,,,,,,2004,"Battery Replacement",199
+,,,,,,2005,"Multiple Issues",0
+,,,,,,2006,"Water Damage Diagnose",0
+,,,,546,"What color is your iPhone X?",2007,Gold,0
+,,,,,,2008,Silver,0
+,,,,,,2009,"Space Grey",0

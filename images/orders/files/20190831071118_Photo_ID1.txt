@@ -1,0 +1,33 @@
+Twilio Bulk SMS
+1) admin/include/connect_db.php
+i) Need to add database details
+ii) 
+If we in folder then we need to set folder name in "BASE_PATH" like
+define('BASE_PATH','/{folder name}');
+
+If we in root of domain then it should be like
+define('BASE_PATH','');
+
+2) Incoming message webhook set in Twilio API
+{website url}/smshook/sms_reply.php
+
+
+Twilio Group SMS
+1) admin/include/connect_db.php
+i) Need to add database details
+ii) 
+If we in folder then we need to set folder name in "BASE_PATH" like
+define('BASE_PATH','/{folder name}');
+
+If we in root of domain then it should be like
+define('BASE_PATH','');
+
+2) Incoming message webhook set in Twilio API
+{website url}/smshook/sms_reply.php
+
+
+How to set webhook in Twilio API:-
+1) Log into Twilio.com and go to the Console's Numbers page (https://www.twilio.com/console/phone-numbers/incoming)
+2) Click on the phone number you'd like to modify
+3) Find the Messaging section and the "A MESSAGE COMES IN" option
+4) Select "Webhook" and paste in the URL you want to use:

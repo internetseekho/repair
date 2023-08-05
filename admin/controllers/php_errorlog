@@ -1,0 +1,7 @@
+[21-Mar-2020 15:45:41 UTC] PHP Fatal error:  Uncaught Twilio\Exceptions\RestException: [HTTP 400] Unable to create record: The 'To' number + is not a valid phone number. in /home/webgrowt/public_html/repairdevice-demo5/libraries/twilio/new/src/Twilio/Version.php:86
+Stack trace:
+#0 /home/webgrowt/public_html/repairdevice-demo5/libraries/twilio/new/src/Twilio/Version.php(225): Twilio\Version->exception(Object(Twilio\Http\Response), 'Unable to creat...')
+#1 /home/webgrowt/public_html/repairdevice-demo5/libraries/twilio/new/src/Twilio/Rest/Api/V2010/Account/MessageList.php(69): Twilio\Version->create('POST', '/Accounts/AC662...', Array, Array)
+#2 /home/webgrowt/public_html/repairdevice-demo5/admin/controllers/user.php(162): Twilio\Rest\Api\V2010\Account\MessageList->create('+', Object(Twilio\Values))
+#3 {main}
+  thrown in /home/webgrowt/public_html/repairdevice-demo5/libraries/twilio/new/src/Twilio/Version.php on line 86

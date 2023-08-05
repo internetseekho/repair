@@ -1,0 +1,241 @@
+Model_ID,Model_Title,Device,fault_id,fault_name,regular_price,is_on_offer,sale_price,offer_start_date,offer_end_date,status
+200,"OnePlus 8 Repair",,3007,"Front Screen Repair ",399.99,No,399.99,,,Published
+200,"OnePlus 8 Repair",,3012,"Antenna Repair ",299.99,No,299.99,,,Published
+200,"OnePlus 8 Repair",,3013,"Battery Repair ",299.99,No,299.99,,,Published
+200,"OnePlus 8 Repair",,3018,"Charging Port Repair ",299.99,No,299.99,,,Published
+200,"OnePlus 8 Repair",,3019,"Diagnostic Service ",19.99,No,19.99,,,Published
+200,"OnePlus 8 Repair",,3024,"Earpiece Repair ",299.99,No,299.99,,,Published
+200,"OnePlus 8 Repair",,3025,"Front Camera Repair ",299.99,No,299.99,,,Published
+200,"OnePlus 8 Repair",,3030,"Headphone Socket Repair ",299.99,No,299.99,,,Published
+200,"OnePlus 8 Repair",,3035,"Home Button Repair ",299.99,No,299.99,,,Published
+200,"OnePlus 8 Repair",,3036,"Liquid Damage Service ",69.99,No,69.99,,,Published
+200,"OnePlus 8 Repair",,3041,"Loudspeaker Repair ",299.99,No,299.99,,,Published
+200,"OnePlus 8 Repair",,3042,"Microphone Repair ",299.99,No,299.99,,,Published
+200,"OnePlus 8 Repair",,3045,"Mute Button Repair ",299.99,No,299.99,,,Published
+200,"OnePlus 8 Repair",,3046,"Power Button Repair ",299.99,No,299.99,,,Published
+200,"OnePlus 8 Repair",,3047,"Rear Camera Repair ",299.99,No,299.99,,,Published
+200,"OnePlus 8 Repair",,3048,"Rear Cover Repair ",299.99,No,299.99,,,Published
+200,"OnePlus 8 Repair",,3049,"Software Repair ",299.99,No,299.99,,,Published
+200,"OnePlus 8 Repair",,3050,"Vibration Repair ",299.99,No,299.99,,,Published
+200,"OnePlus 8 Repair",,3051,"Volume Repair ",299.99,No,299.99,,,Published
+200,"OnePlus 8 Repair",,3052,"WIFI Repair ",299.99,No,299.99,,,Published
+239,"OnePlus 6 Repairs",,3735,"Front Screen Repair ",194.99,No,194.99,,,Published
+239,"OnePlus 6 Repairs",,3736,"Antenna Repair ",129.99,No,129.99,,,Published
+239,"OnePlus 6 Repairs",,3737,"Battery Repair ",129.99,No,129.99,,,Published
+239,"OnePlus 6 Repairs",,3738,"Charging Port Repair ",129.99,No,129.99,,,Published
+239,"OnePlus 6 Repairs",,3739,"Diagnostic Service ",39.99,No,39.99,,,Published
+239,"OnePlus 6 Repairs",,3740,"Earpiece Repair ",129.99,No,129.99,,,Published
+239,"OnePlus 6 Repairs",,3741,"Front Camera Repair ",129.99,No,129.99,,,Published
+239,"OnePlus 6 Repairs",,3742,"Headphone Socket Repair ",129.99,No,129.99,,,Published
+239,"OnePlus 6 Repairs",,3743,"Home Button Repair ",129.99,No,129.99,,,Published
+239,"OnePlus 6 Repairs",,3744,"Liquid Damage Service ",129.99,No,129.99,,,Published
+239,"OnePlus 6 Repairs",,3745,"Loudspeaker Repair ",129.99,No,129.99,,,Published
+239,"OnePlus 6 Repairs",,3746,"Microphone Repair ",129.99,No,129.99,,,Published
+239,"OnePlus 6 Repairs",,3747,"Power Button Repair ",129.99,No,129.99,,,Published
+239,"OnePlus 6 Repairs",,3748,"Rear Camera Repair ",129.99,No,129.99,,,Published
+239,"OnePlus 6 Repairs",,3749,"Vibration Repair ",129.99,No,129.99,,,Published
+239,"OnePlus 6 Repairs",,3750,"Volume Repair ",129.99,No,129.99,,,Published
+240,"OnePlus 6T McLaren Repair",,3751,"Front Screen Repair ",199.99,No,199.99,,,Published
+240,"OnePlus 6T McLaren Repair",,3752,"Antenna Repair ",149.99,No,149.99,,,Published
+240,"OnePlus 6T McLaren Repair",,3753,"Battery Repair ",149.99,No,149.99,,,Published
+240,"OnePlus 6T McLaren Repair",,3754,"Charging Port Repair ",149.99,No,149.99,,,Published
+240,"OnePlus 6T McLaren Repair",,3755,"Diagnostic Service ",19.99,No,19.99,,,Published
+241,"OnePlus 6T Repair",,3756,"Front Screen Repair ",189.99,No,189.99,,,Published
+240,"OnePlus 6T McLaren Repair",,3757,"Earpiece Repair ",149.99,No,149.99,,,Published
+240,"OnePlus 6T McLaren Repair",,3758,"Front Camera Repair ",149.99,No,149.99,,,Published
+241,"OnePlus 6T Repair",,3759,"Antenna Repair ",129.99,No,129.99,,,Published
+241,"OnePlus 6T Repair",,3760,"Battery Repair ",129.99,No,129.99,,,Published
+240,"OnePlus 6T McLaren Repair",,3761,"Headphone Socket Repair ",149.99,No,149.99,,,Published
+240,"OnePlus 6T McLaren Repair",,3762,"Home Button Repair ",149.99,No,149.99,,,Published
+241,"OnePlus 6T Repair",,3763,"Charging Port Repair ",129.99,No,129.99,,,Published
+241,"OnePlus 6T Repair",,3764,"Diagnostic Service ",39.99,No,39.99,,,Published
+240,"OnePlus 6T McLaren Repair",,3765,"Liquid Damage Service ",69.99,No,69.99,,,Published
+240,"OnePlus 6T McLaren Repair",,3766,"Loudspeaker Repair ",149.99,No,149.99,,,Published
+242,"OnePlus 7 Repair",,3767,"Front Screen Repair ",199.99,No,199.99,,,Published
+241,"OnePlus 6T Repair",,3768,"Earpiece Repair ",129.99,No,129.99,,,Published
+241,"OnePlus 6T Repair",,3769,"Front Camera Repair ",129.99,No,129.99,,,Published
+240,"OnePlus 6T McLaren Repair",,3770,"Microphone Repair ",149.99,No,149.99,,,Published
+240,"OnePlus 6T McLaren Repair",,3771,"Mute Button Repair ",149.99,No,149.99,,,Published
+242,"OnePlus 7 Repair",,3772,"Antenna Repair ",139.99,No,139.99,,,Published
+242,"OnePlus 7 Repair",,3773,"Battery Repair ",139.99,No,139.99,,,Published
+241,"OnePlus 6T Repair",,3774,"Headphone Socket Repair ",129.99,No,129.99,,,Published
+241,"OnePlus 6T Repair",,3775,"Home Button Repair ",129.99,No,129.99,,,Published
+240,"OnePlus 6T McLaren Repair",,3776,"Power Button Repair ",149.99,No,149.99,,,Published
+240,"OnePlus 6T McLaren Repair",,3777,"Rear Camera Repair ",149.99,No,149.99,,,Published
+242,"OnePlus 7 Repair",,3778,"Charging Port Repair ",139.99,No,139.99,,,Published
+242,"OnePlus 7 Repair",,3779,"Diagnostic Service ",39.99,No,39.99,,,Published
+241,"OnePlus 6T Repair",,3780,"Liquid Damage Service ",69.99,No,69.99,,,Published
+241,"OnePlus 6T Repair",,3781,"Loudspeaker Repair ",129.99,No,129.99,,,Published
+240,"OnePlus 6T McLaren Repair",,3782,"Rear Cover Repair ",149.99,No,149.99,,,Published
+240,"OnePlus 6T McLaren Repair",,3783,"Software Repair ",149.99,No,149.99,,,Published
+242,"OnePlus 7 Repair",,3784,"Earpiece Repair ",139.99,No,139.99,,,Published
+242,"OnePlus 7 Repair",,3785,"Front Camera Repair ",139.99,No,139.99,,,Published
+243,"OnePlus 7 Pro 5G Repair",,3786,"Front Screen Repair ",299.99,No,299.99,,,Published
+241,"OnePlus 6T Repair",,3787,"Microphone Repair ",129.99,No,129.99,,,Published
+241,"OnePlus 6T Repair",,3788,"Mute Button Repair ",129.99,No,129.99,,,Published
+240,"OnePlus 6T McLaren Repair",,3790,"Vibration Repair ",149.99,No,149.99,,,Published
+240,"OnePlus 6T McLaren Repair",,3791,"Volume Repair ",149.99,No,149.99,,,Published
+245,"OnePlus 7T Pro Repair",,3792,"Front Screen Repair ",299.99,No,299.99,,,Published
+242,"OnePlus 7 Repair",,3793,"Headphone Socket Repair ",139.99,No,139.99,,,Published
+242,"OnePlus 7 Repair",,3794,"Home Button Repair ",139.99,No,139.99,,,Published
+243,"OnePlus 7 Pro 5G Repair",,3795,"Antenna Repair ",249.99,No,249.99,,,Published
+243,"OnePlus 7 Pro 5G Repair",,3796,"Battery Repair ",249.99,No,249.99,,,Published
+241,"OnePlus 6T Repair",,3797,"Power Button Repair ",129.99,No,129.99,,,Published
+241,"OnePlus 6T Repair",,3798,"Rear Camera Repair ",129.99,No,129.99,,,Published
+240,"OnePlus 6T McLaren Repair",,3801,"WIFI Repair ",149.99,No,149.99,,,Published
+245,"OnePlus 7T Pro Repair",,3802,"Antenna Repair ",199.99,No,199.99,,,Published
+245,"OnePlus 7T Pro Repair",,3803,"Battery Repair ",199.99,No,199.99,,,Published
+242,"OnePlus 7 Repair",,3804,"Liquid Damage Service ",69.99,No,69.99,,,Published
+242,"OnePlus 7 Repair",,3805,"Loudspeaker Repair ",139.99,No,139.99,,,Published
+246,"OnePlus 5T Repair",,3806,"Front Screen Repair ",154.99,No,154.99,,,Published
+243,"OnePlus 7 Pro 5G Repair",,3807,"Charging Port Repair ",249.99,No,249.99,,,Published
+243,"OnePlus 7 Pro 5G Repair",,3808,"Diagnostic Service ",19.99,No,19.99,,,Published
+241,"OnePlus 6T Repair",,3809,"Rear Cover Repair ",129.99,No,129.99,,,Published
+241,"OnePlus 6T Repair",,3810,"Software Repair ",129.99,No,129.99,,,Published
+245,"OnePlus 7T Pro Repair",,3813,"Charging Port Repair ",199.99,No,199.99,,,Published
+245,"OnePlus 7T Pro Repair",,3814,"Diagnostic Service ",19.99,No,19.99,,,Published
+242,"OnePlus 7 Repair",,3815,"Microphone Repair ",139.99,No,139.99,,,Published
+242,"OnePlus 7 Repair",,3816,"Mute Button Repair ",139.99,No,139.99,,,Published
+246,"OnePlus 5T Repair",,3817,"Antenna Repair ",154.99,No,154.99,,,Published
+246,"OnePlus 5T Repair",,3818,"Battery Repair ",154.99,No,154.99,,,Published
+243,"OnePlus 7 Pro 5G Repair",,3819,"Earpiece Repair ",249.99,No,249.99,,,Published
+243,"OnePlus 7 Pro 5G Repair",,3820,"Front Camera Repair ",249.99,No,249.99,,,Published
+241,"OnePlus 6T Repair",,3821,"Vibration Repair ",129.99,No,129.99,,,Published
+241,"OnePlus 6T Repair",,3822,"Volume Repair ",129.99,No,129.99,,,Published
+245,"OnePlus 7T Pro Repair",,3825,"Earpiece Repair ",199.99,No,199.99,,,Published
+245,"OnePlus 7T Pro Repair",,3826,"Front Camera Repair ",199.99,No,199.99,,,Published
+242,"OnePlus 7 Repair",,3827,"Power Button Repair ",139.99,No,139.99,,,Published
+242,"OnePlus 7 Repair",,3828,"Rear Camera Repair ",139.99,No,139.99,,,Published
+246,"OnePlus 5T Repair",,3829,"Charging Port Repair ",154.99,No,154.99,,,Published
+246,"OnePlus 5T Repair",,3830,"Earpiece Repair ",154.99,No,154.99,,,Published
+243,"OnePlus 7 Pro 5G Repair",,3831,"Headphone Socket Repair ",249.99,No,249.99,,,Published
+243,"OnePlus 7 Pro 5G Repair",,3832,"Home Button Repair ",249.99,No,249.99,,,Published
+241,"OnePlus 6T Repair",,3833,"WIFI Repair ",129.99,No,129.99,,,Published
+245,"OnePlus 7T Pro Repair",,3836,"Headphone Socket Repair ",199.99,No,199.99,,,Published
+245,"OnePlus 7T Pro Repair",,3837,"Home Button Repair ",199.99,No,199.99,,,Published
+242,"OnePlus 7 Repair",,3838,"Rear Cover Repair ",139.99,No,139.99,,,Published
+242,"OnePlus 7 Repair",,3839,"Software Repair ",139.99,No,139.99,,,Published
+246,"OnePlus 5T Repair",,3840,"Front Camera Repair ",154.99,No,154.99,,,Published
+246,"OnePlus 5T Repair",,3841,"Headphone Socket Repair ",154.99,No,154.99,,,Published
+243,"OnePlus 7 Pro 5G Repair",,3842,"Liquid Damage Service ",69.99,No,69.99,,,Published
+243,"OnePlus 7 Pro 5G Repair",,3843,"Loudspeaker Repair ",249.99,No,249.99,,,Published
+245,"OnePlus 7T Pro Repair",,3846,"Liquid Damage Service ",69.99,No,69.99,,,Published
+245,"OnePlus 7T Pro Repair",,3847,"Loudspeaker Repair ",199.99,No,199.99,,,Published
+242,"OnePlus 7 Repair",,3848,"Vibration Repair ",139.99,No,139.99,,,Published
+242,"OnePlus 7 Repair",,3849,"Volume Repair ",139.99,No,139.99,,,Published
+246,"OnePlus 5T Repair",,3850,"Home Button Repair ",154.99,No,154.99,,,Published
+246,"OnePlus 5T Repair",,3851,"Liquid Damage Service ",154.99,No,154.99,,,Published
+243,"OnePlus 7 Pro 5G Repair",,3852,"Microphone Repair ",249.99,No,249.99,,,Published
+243,"OnePlus 7 Pro 5G Repair",,3853,"Mute Button Repair ",249.99,No,249.99,,,Published
+245,"OnePlus 7T Pro Repair",,3856,"Microphone Repair ",199.99,No,199.99,,,Published
+245,"OnePlus 7T Pro Repair",,3857,"Mute Button Repair ",199.99,No,199.99,,,Published
+242,"OnePlus 7 Repair",,3858,"WIFI Repair ",139.99,No,139.99,,,Published
+246,"OnePlus 5T Repair",,3859,"Loudspeaker Repair ",154.99,No,154.99,,,Published
+246,"OnePlus 5T Repair",,3860,"Microphone Repair ",154.99,No,154.99,,,Published
+243,"OnePlus 7 Pro 5G Repair",,3861,"Power Button Repair ",249.99,No,249.99,,,Published
+243,"OnePlus 7 Pro 5G Repair",,3862,"Rear Camera Repair ",249.99,No,249.99,,,Published
+245,"OnePlus 7T Pro Repair",,3865,"Power Button Repair ",199.99,No,199.99,,,Published
+245,"OnePlus 7T Pro Repair",,3866,"Rear Camera Repair ",199.99,No,199.99,,,Published
+246,"OnePlus 5T Repair",,3867,"Vibration Repair ",154.99,No,154.99,,,Published
+246,"OnePlus 5T Repair",,3868,"Volume Repair ",154.99,No,154.99,,,Published
+243,"OnePlus 7 Pro 5G Repair",,3869,"Rear Cover Repair ",249.99,No,249.99,,,Published
+243,"OnePlus 7 Pro 5G Repair",,3870,"Software Repair ",249.99,No,249.99,,,Published
+245,"OnePlus 7T Pro Repair",,3872,"Rear Cover Repair ",199.99,No,199.99,,,Published
+245,"OnePlus 7T Pro Repair",,3873,"Software Repair ",199.99,No,199.99,,,Published
+246,"OnePlus 5T Repair",,3874,"Diagnostic Service ",39.99,No,39.99,,,Published
+243,"OnePlus 7 Pro 5G Repair",,3875,"Vibration Repair ",249.99,No,249.99,,,Published
+243,"OnePlus 7 Pro 5G Repair",,3876,"Volume Repair ",249.99,No,249.99,,,Published
+245,"OnePlus 7T Pro Repair",,3877,"Vibration Repair ",199.99,No,199.99,,,Published
+245,"OnePlus 7T Pro Repair",,3878,"Volume Repair ",199.99,No,199.99,,,Published
+243,"OnePlus 7 Pro 5G Repair",,3879,"WIFI Repair ",249.99,No,249.99,,,Published
+245,"OnePlus 7T Pro Repair",,3880,"WIFI Repair ",199.99,No,199.99,,,Published
+247,"OnePlus 5 Repairs",,3881,"Front Screen Repair ",139.99,No,139.99,,,Published
+247,"OnePlus 5 Repairs",,3882,"Antenna Repair ",99.99,No,99.99,,,Published
+247,"OnePlus 5 Repairs",,3883,"Battery Repair ",99.99,No,99.99,,,Published
+247,"OnePlus 5 Repairs",,3884,"Charging Port Repair ",99.99,No,99.99,,,Published
+247,"OnePlus 5 Repairs",,3885,"Earpiece Repair ",99.99,No,99.99,,,Published
+247,"OnePlus 5 Repairs",,3886,"Front Camera Repair ",99.99,No,99.99,,,Published
+247,"OnePlus 5 Repairs",,3887,"Headphone Socket Repair ",99.99,No,99.99,,,Published
+247,"OnePlus 5 Repairs",,3888,"Home Button Repair ",99.99,No,99.99,,,Published
+247,"OnePlus 5 Repairs",,3889,"Liquid Damage Service ",99.99,No,99.99,,,Published
+247,"OnePlus 5 Repairs",,3890,"Loudspeaker Repair ",99.99,No,99.99,,,Published
+247,"OnePlus 5 Repairs",,3891,"Microphone Repair ",99.99,No,99.99,,,Published
+247,"OnePlus 5 Repairs",,3892,"Vibration Repair ",99.99,No,99.99,,,Published
+247,"OnePlus 5 Repairs",,3893,"Volume Repair ",99.99,No,99.99,,,Published
+247,"OnePlus 5 Repairs",,3894,"Diagnostic Service ",39.99,No,39.99,,,Published
+248,"OnePlus X Repair",,3895,"Front Screen Repair ",123.99,No,123.99,,,Published
+248,"OnePlus X Repair",,3896,"Antenna Repair ",99.99,No,99.99,,,Published
+248,"OnePlus X Repair",,3897,"Battery Repair ",99.99,No,99.99,,,Published
+248,"OnePlus X Repair",,3898,"Charging Port Repair ",99.99,No,99.99,,,Published
+248,"OnePlus X Repair",,3899,"Earpiece Repair ",99.99,No,99.99,,,Published
+248,"OnePlus X Repair",,3900,"Front Camera Repair ",99.99,No,99.99,,,Published
+248,"OnePlus X Repair",,3901,"Headphone Socket Repair ",99.99,No,99.99,,,Published
+248,"OnePlus X Repair",,3902,"Home Button Repair ",99.99,No,99.99,,,Published
+248,"OnePlus X Repair",,3903,"Liquid Damage Service ",89.99,No,89.99,,,Published
+248,"OnePlus X Repair",,3904,"Loudspeaker Repair ",99.99,No,99.99,,,Published
+248,"OnePlus X Repair",,3905,"Microphone Repair ",99.99,No,99.99,,,Published
+248,"OnePlus X Repair",,3906,"Power Button Repair ",99.99,No,99.99,,,Published
+248,"OnePlus X Repair",,3907,"Rear Camera Repair ",99.99,No,99.99,,,Published
+248,"OnePlus X Repair",,3908,"Vibration Repair ",99.99,No,99.99,,,Published
+248,"OnePlus X Repair",,3909,"Volume Repair ",99.99,No,99.99,,,Published
+248,"OnePlus X Repair",,3910,"Diagnostic Service ",39.99,No,39.99,,,Published
+249,"OnePlus 3 Repair",,3911,"Front Screen Repair ",124.99,No,124.99,,,Published
+249,"OnePlus 3 Repair",,3912,"Antenna Repair ",79.99,No,79.99,,,Published
+249,"OnePlus 3 Repair",,3913,"Battery Repair ",79.99,No,79.99,,,Published
+249,"OnePlus 3 Repair",,3914,"Charging Port Repair ",79.99,No,79.99,,,Published
+249,"OnePlus 3 Repair",,3915,"Earpiece Repair ",79.99,No,79.99,,,Published
+249,"OnePlus 3 Repair",,3916,"Front Camera Repair ",79.99,No,79.99,,,Published
+249,"OnePlus 3 Repair",,3917,"Headphone Socket Repair ",79.99,No,79.99,,,Published
+249,"OnePlus 3 Repair",,3918,"Home Button Repair ",79.99,No,79.99,,,Published
+249,"OnePlus 3 Repair",,3919,"Liquid Damage Service ",69.99,No,69.99,,,Published
+249,"OnePlus 3 Repair",,3920,"Loudspeaker Repair ",79.99,No,79.99,,,Published
+249,"OnePlus 3 Repair",,3921,"Microphone Repair ",79.99,No,79.99,,,Published
+249,"OnePlus 3 Repair",,3922,"Vibration Repair ",79.99,No,79.99,,,Published
+249,"OnePlus 3 Repair",,3923,"Volume Repair ",79.99,No,79.99,,,Published
+249,"OnePlus 3 Repair",,3924,"Diagnostic Service ",39.99,No,39.99,,,Published
+254,"OnePlus 2 Repair",,3997,"Front Screen Repair ",69.99,No,69.99,,,Published
+254,"OnePlus 2 Repair",,3998,"Antenna Repair ",59.99,No,59.99,,,Published
+254,"OnePlus 2 Repair",,3999,"Battery Repair ",59.99,No,59.99,,,Published
+256,"OnePlus One Repair",,4001,"Front Screen Repair ",59.99,No,59.99,,,Published
+254,"OnePlus 2 Repair",,4002,"Charging Port Repair ",59.99,No,59.99,,,Published
+254,"OnePlus 2 Repair",,4003,"Earpiece Repair ",59.99,No,59.99,,,Published
+256,"OnePlus One Repair",,4006,"Antenna Repair ",49.99,No,49.99,,,Published
+256,"OnePlus One Repair",,4007,"Battery Repair ",99.99,No,99.99,,,Published
+254,"OnePlus 2 Repair",,4008,"Front Camera Repair ",59.99,No,59.99,,,Published
+254,"OnePlus 2 Repair",,4009,"Headphone Socket Repair ",59.99,No,59.99,,,Published
+256,"OnePlus One Repair",,4012,"Charging Port Repair ",49.99,No,49.99,,,Published
+256,"OnePlus One Repair",,4013,"Earpiece Repair ",49.99,No,49.99,,,Published
+254,"OnePlus 2 Repair",,4014,"Home Button Repair ",59.99,No,59.99,,,Published
+254,"OnePlus 2 Repair",,4015,"Liquid Damage Service ",69.99,No,69.99,,,Published
+256,"OnePlus One Repair",,4018,"Front Camera Repair ",49.99,No,49.99,,,Published
+256,"OnePlus One Repair",,4019,"Headphone Socket Repair ",49.99,No,49.99,,,Published
+254,"OnePlus 2 Repair",,4020,"Loudspeaker Repair ",59.99,No,59.99,,,Published
+254,"OnePlus 2 Repair",,4021,"Microphone Repair ",59.99,No,59.99,,,Published
+256,"OnePlus One Repair",,4024,"Home Button Repair ",49.99,No,49.99,,,Published
+256,"OnePlus One Repair",,4025,"Liquid Damage Service ",49.99,No,49.99,,,Published
+254,"OnePlus 2 Repair",,4026,"Power Button Repair ",59.99,No,59.99,,,Published
+254,"OnePlus 2 Repair",,4027,"Rear Camera Repair ",59.99,No,59.99,,,Published
+256,"OnePlus One Repair",,4030,"Loudspeaker Repair ",49.99,No,49.99,,,Published
+256,"OnePlus One Repair",,4031,"Microphone Repair ",49.99,No,49.99,,,Published
+254,"OnePlus 2 Repair",,4032,"Vibration Repair ",59.99,No,59.99,,,Published
+254,"OnePlus 2 Repair",,4033,"Volume Repair ",59.99,No,59.99,,,Published
+256,"OnePlus One Repair",,4036,"Power Button Repair ",49.99,No,49.99,,,Published
+256,"OnePlus One Repair",,4037,"Rear Camera Repair ",49.99,No,49.99,,,Published
+254,"OnePlus 2 Repair",,4038,"Diagnostic Service ",39.99,No,39.99,,,Published
+256,"OnePlus One Repair",,4041,"Vibration Repair ",49.99,No,49.99,,,Published
+256,"OnePlus One Repair",,4042,"Volume Repair ",49.99,No,49.99,,,Published
+256,"OnePlus One Repair",,4044,"Diagnostic Service ",39.99,No,39.99,,,Published
+257,"OnePlus 3T Repair",,4045,"Front Screen Repair ",138.99,No,138.99,,,Published
+257,"OnePlus 3T Repair",,4046,"Antenna Repair ",79.99,No,79.99,,,Published
+257,"OnePlus 3T Repair",,4047,"Battery Repair ",79.99,No,79.99,,,Published
+257,"OnePlus 3T Repair",,4048,"Charging Port Repair ",79.99,No,79.99,,,Published
+257,"OnePlus 3T Repair",,4049,"Earpiece Repair ",79.99,No,79.99,,,Published
+257,"OnePlus 3T Repair",,4050,"Front Camera Repair ",79.99,No,79.99,,,Published
+257,"OnePlus 3T Repair",,4051,"Headphone Socket Repair ",79.99,No,79.99,,,Published
+257,"OnePlus 3T Repair",,4052,"Home Button Repair ",79.99,No,79.99,,,Published
+257,"OnePlus 3T Repair",,4053,"Liquid Damage Service ",89.99,No,89.99,,,Published
+257,"OnePlus 3T Repair",,4054,"Diagnostic Service ",39.99,No,39.99,,,Published
+257,"OnePlus 3T Repair",,4055,"Loudspeaker Repair ",79.99,No,79.99,,,Published
+257,"OnePlus 3T Repair",,4056,"Microphone Repair ",79.99,No,79.99,,,Published
+257,"OnePlus 3T Repair",,4057,"Vibration Repair ",79.99,No,79.99,,,Published
+257,"OnePlus 3T Repair",,4058,"Volume Repair ",79.99,No,79.99,,,Published

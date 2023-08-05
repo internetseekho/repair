@@ -1,0 +1,515 @@
+Model_ID,Model_Title,Device,fault_id,fault_name,regular_price,is_on_offer,sale_price,offer_start_date,offer_end_date,status
+13,"Samsung Galaxy On7 Repair","Galaxy Series Repair Continued",181,"Antenna Repair ",69.99,No,69.99,,,Published
+13,"Samsung Galaxy On7 Repair","Galaxy Series Repair Continued",182,"Battery Repair ",69.99,No,69.99,,,Published
+13,"Samsung Galaxy On7 Repair","Galaxy Series Repair Continued",183,"Charging Port Repair ",69.99,No,69.99,,,Published
+13,"Samsung Galaxy On7 Repair","Galaxy Series Repair Continued",184,"Diagnostic Service ",39.99,No,39.99,,,Published
+13,"Samsung Galaxy On7 Repair","Galaxy Series Repair Continued",185,"Earpiece Repair ",69.99,No,69.99,,,Published
+13,"Samsung Galaxy On7 Repair","Galaxy Series Repair Continued",186,"Front Camera Repair ",69.99,No,69.99,,,Published
+13,"Samsung Galaxy On7 Repair","Galaxy Series Repair Continued",187,"Headphone Socket Repair ",69.99,No,69.99,,,Published
+13,"Samsung Galaxy On7 Repair","Galaxy Series Repair Continued",188,"Home Button Repair ",69.99,No,69.99,,,Published
+13,"Samsung Galaxy On7 Repair","Galaxy Series Repair Continued",189,"Liquid Damage Service ",69.99,No,69.99,,,Published
+13,"Samsung Galaxy On7 Repair","Galaxy Series Repair Continued",190,"Loudspeaker Repair ",69.99,No,69.99,,,Published
+13,"Samsung Galaxy On7 Repair","Galaxy Series Repair Continued",191,"Microphone Repair ",69.99,No,69.99,,,Published
+13,"Samsung Galaxy On7 Repair","Galaxy Series Repair Continued",192,"Mute Button Repair ",69.99,No,69.99,,,Published
+13,"Samsung Galaxy On7 Repair","Galaxy Series Repair Continued",193,"Rear Camera Repair ",69.99,No,69.99,,,Published
+13,"Samsung Galaxy On7 Repair","Galaxy Series Repair Continued",194,"Rear Cover Repair ",69.99,No,69.99,,,Published
+13,"Samsung Galaxy On7 Repair","Galaxy Series Repair Continued",195,"Vibration Repair ",69.99,No,69.99,,,Published
+13,"Samsung Galaxy On7 Repair","Galaxy Series Repair Continued",196,"Volume Repair ",69.99,No,69.99,,,Published
+13,"Samsung Galaxy On7 Repair","Galaxy Series Repair Continued",197,"WIFI Repair ",69.99,No,69.99,,,Published
+14,"Samsung Galaxy J7 2016 Repair","Galaxy Series Repair Continued",198,"Front Screen Repair ",99.99,No,99.99,,,Published
+14,"Samsung Galaxy J7 2016 Repair","Galaxy Series Repair Continued",199,"Antenna Repair ",89.99,No,89.99,,,Published
+14,"Samsung Galaxy J7 2016 Repair","Galaxy Series Repair Continued",200,"Battery Repair ",89.99,No,89.99,,,Published
+14,"Samsung Galaxy J7 2016 Repair","Galaxy Series Repair Continued",201,"Charging Port Repair ",89.99,No,89.99,,,Published
+14,"Samsung Galaxy J7 2016 Repair","Galaxy Series Repair Continued",202,"Diagnostic Service ",39.99,No,39.99,,,Published
+14,"Samsung Galaxy J7 2016 Repair","Galaxy Series Repair Continued",203,"Earpiece Repair ",89.99,No,89.99,,,Published
+14,"Samsung Galaxy J7 2016 Repair","Galaxy Series Repair Continued",204,"Front Camera Repair ",89.99,No,89.99,,,Published
+14,"Samsung Galaxy J7 2016 Repair","Galaxy Series Repair Continued",205,"Headphone Socket Repair ",89.99,No,89.99,,,Published
+14,"Samsung Galaxy J7 2016 Repair","Galaxy Series Repair Continued",206,"Home Button Repair ",89.99,No,89.99,,,Published
+14,"Samsung Galaxy J7 2016 Repair","Galaxy Series Repair Continued",207,"Liquid Damage Service ",69.99,No,69.99,,,Published
+14,"Samsung Galaxy J7 2016 Repair","Galaxy Series Repair Continued",208,"Loudspeaker Repair ",89.99,No,89.99,,,Published
+14,"Samsung Galaxy J7 2016 Repair","Galaxy Series Repair Continued",209,"Microphone Repair ",89.99,No,89.99,,,Published
+14,"Samsung Galaxy J7 2016 Repair","Galaxy Series Repair Continued",210,"Mute Button Repair ",89.99,No,89.99,,,Published
+14,"Samsung Galaxy J7 2016 Repair","Galaxy Series Repair Continued",211,"Rear Camera Repair ",89.99,No,89.99,,,Published
+14,"Samsung Galaxy J7 2016 Repair","Galaxy Series Repair Continued",212,"Rear Cover Repair ",89.99,No,89.99,,,Published
+14,"Samsung Galaxy J7 2016 Repair","Galaxy Series Repair Continued",213,"Vibration Repair ",89.99,No,89.99,,,Published
+14,"Samsung Galaxy J7 2016 Repair","Galaxy Series Repair Continued",214,"Volume Repair ",89.99,No,89.99,,,Published
+14,"Samsung Galaxy J7 2016 Repair","Galaxy Series Repair Continued",215,"WIFI Repair ",89.99,No,89.99,,,Published
+17,"Samsung Galaxy Mega 6.3"" I9205 Repair","Galaxy Series Repair Continued",252,"Antenna Repair ",54.99,No,54.99,,,Published
+17,"Samsung Galaxy Mega 6.3"" I9205 Repair","Galaxy Series Repair Continued",253,"Charging Port Repair ",59.99,No,59.99,,,Published
+17,"Samsung Galaxy Mega 6.3"" I9205 Repair","Galaxy Series Repair Continued",254,"Diagnostic Service ",39.99,No,39.99,,,Published
+17,"Samsung Galaxy Mega 6.3"" I9205 Repair","Galaxy Series Repair Continued",255,"Earpiece Repair ",54.99,No,54.99,,,Published
+17,"Samsung Galaxy Mega 6.3"" I9205 Repair","Galaxy Series Repair Continued",256,"Front Camera Repair ",54.99,No,54.99,,,Published
+17,"Samsung Galaxy Mega 6.3"" I9205 Repair","Galaxy Series Repair Continued",257,"Headphone Socket Repair ",54.99,No,54.99,,,Published
+17,"Samsung Galaxy Mega 6.3"" I9205 Repair","Galaxy Series Repair Continued",258,"Home Button Repair ",54.99,No,54.99,,,Published
+17,"Samsung Galaxy Mega 6.3"" I9205 Repair","Galaxy Series Repair Continued",259,"Liquid Damage Service ",69.99,No,69.99,,,Published
+17,"Samsung Galaxy Mega 6.3"" I9205 Repair","Galaxy Series Repair Continued",260,"Loudspeaker Repair ",54.99,No,54.99,,,Published
+17,"Samsung Galaxy Mega 6.3"" I9205 Repair","Galaxy Series Repair Continued",261,"Microphone Repair ",54.99,No,54.99,,,Published
+17,"Samsung Galaxy Mega 6.3"" I9205 Repair","Galaxy Series Repair Continued",262,"Mute Button Repair ",54.99,No,54.99,,,Published
+17,"Samsung Galaxy Mega 6.3"" I9205 Repair","Galaxy Series Repair Continued",263,"Power Button Repair ",54.99,No,54.99,,,Published
+17,"Samsung Galaxy Mega 6.3"" I9205 Repair","Galaxy Series Repair Continued",264,"Rear Camera Repair ",54.99,No,54.99,,,Published
+17,"Samsung Galaxy Mega 6.3"" I9205 Repair","Galaxy Series Repair Continued",265,"Software Repair ",89.99,No,89.99,,,Published
+17,"Samsung Galaxy Mega 6.3"" I9205 Repair","Galaxy Series Repair Continued",266,"Vibration Repair ",54.99,No,54.99,,,Published
+17,"Samsung Galaxy Mega 6.3"" I9205 Repair","Galaxy Series Repair Continued",267,"Volume Repair ",54.99,No,54.99,,,Published
+17,"Samsung Galaxy Mega 6.3"" I9205 Repair","Galaxy Series Repair Continued",268,"WIFI Repair ",54.99,No,54.99,,,Published
+18,"Samsung Galaxy J7 Repair","Galaxy Series Repair Continued",269,"Antenna Repair ",109.99,No,109.99,,,Published
+18,"Samsung Galaxy J7 Repair","Galaxy Series Repair Continued",270,"Battery Repair ",109.99,No,109.99,,,Published
+18,"Samsung Galaxy J7 Repair","Galaxy Series Repair Continued",271,"Charging Port Repair ",109.99,No,109.99,,,Published
+18,"Samsung Galaxy J7 Repair","Galaxy Series Repair Continued",272,"Diagnostic Service ",39.99,No,39.99,,,Published
+18,"Samsung Galaxy J7 Repair","Galaxy Series Repair Continued",273,"Earpiece Repair ",109.99,No,109.99,,,Published
+18,"Samsung Galaxy J7 Repair","Galaxy Series Repair Continued",274,"Front Camera Repair ",109.99,No,109.99,,,Published
+18,"Samsung Galaxy J7 Repair","Galaxy Series Repair Continued",275,"Headphone Socket Repair ",109.99,No,109.99,,,Published
+18,"Samsung Galaxy J7 Repair","Galaxy Series Repair Continued",276,"Home Button Repair ",109.99,No,109.99,,,Published
+18,"Samsung Galaxy J7 Repair","Galaxy Series Repair Continued",277,"Liquid Damage Service ",69.99,No,69.99,,,Published
+18,"Samsung Galaxy J7 Repair","Galaxy Series Repair Continued",278,"Loudspeaker Repair ",109.99,No,109.99,,,Published
+18,"Samsung Galaxy J7 Repair","Galaxy Series Repair Continued",279,"Microphone Repair ",109.99,No,109.99,,,Published
+18,"Samsung Galaxy J7 Repair","Galaxy Series Repair Continued",280,"Mute Button Repair ",109.99,No,109.99,,,Published
+18,"Samsung Galaxy J7 Repair","Galaxy Series Repair Continued",281,"Power Button Repair ",109.99,No,109.99,,,Published
+18,"Samsung Galaxy J7 Repair","Galaxy Series Repair Continued",282,"Rear Camera Repair ",109.99,No,109.99,,,Published
+18,"Samsung Galaxy J7 Repair","Galaxy Series Repair Continued",283,"Rear Cover Repair ",109.99,No,109.99,,,Published
+18,"Samsung Galaxy J7 Repair","Galaxy Series Repair Continued",284,"Vibration Repair ",109.99,No,109.99,,,Published
+18,"Samsung Galaxy J7 Repair","Galaxy Series Repair Continued",285,"Volume Repair ",109.99,No,109.99,,,Published
+18,"Samsung Galaxy J7 Repair","Galaxy Series Repair Continued",286,"WIFI Repair ",109.99,No,109.99,,,Published
+19,"Samsung Galaxy E7 Repair","Galaxy Series Repair",287,"Front Screen Repair ",244.99,No,244.99,,,Published
+19,"Samsung Galaxy E7 Repair","Galaxy Series Repair",288,"Antenna Repair ",99.99,No,99.99,,,Published
+19,"Samsung Galaxy E7 Repair","Galaxy Series Repair",289,"Battery Repair ",99.99,No,99.99,,,Published
+19,"Samsung Galaxy E7 Repair","Galaxy Series Repair",290,"Charging Port Repair ",99.99,No,99.99,,,Published
+19,"Samsung Galaxy E7 Repair","Galaxy Series Repair",291,"Diagnostic Service ",39.99,No,39.99,,,Published
+19,"Samsung Galaxy E7 Repair","Galaxy Series Repair",292,"Earpiece Repair ",99.99,No,99.99,,,Published
+19,"Samsung Galaxy E7 Repair","Galaxy Series Repair",293,"Front Camera Repair ",99.99,No,99.99,,,Published
+19,"Samsung Galaxy E7 Repair","Galaxy Series Repair",294,"Headphone Socket Repair ",99.99,No,99.99,,,Published
+19,"Samsung Galaxy E7 Repair","Galaxy Series Repair",295,"Home Button Repair ",99.99,No,99.99,,,Published
+19,"Samsung Galaxy E7 Repair","Galaxy Series Repair",296,"Liquid Damage Service ",69.99,No,69.99,,,Published
+19,"Samsung Galaxy E7 Repair","Galaxy Series Repair",297,"Loudspeaker Repair ",99.99,No,99.99,,,Published
+19,"Samsung Galaxy E7 Repair","Galaxy Series Repair",298,"Microphone Repair ",99.99,No,99.99,,,Published
+19,"Samsung Galaxy E7 Repair","Galaxy Series Repair",299,"Mute Button Repair ",99.99,No,99.99,,,Published
+19,"Samsung Galaxy E7 Repair","Galaxy Series Repair",300,"Rear Camera Repair ",99.99,No,99.99,,,Published
+19,"Samsung Galaxy E7 Repair","Galaxy Series Repair",301,"Rear Cover Repair ",99.99,No,99.99,,,Published
+19,"Samsung Galaxy E7 Repair","Galaxy Series Repair",302,"Vibration Repair ",99.99,No,99.99,,,Published
+19,"Samsung Galaxy E7 Repair","Galaxy Series Repair",303,"Volume Repair ",99.99,No,99.99,,,Published
+19,"Samsung Galaxy E7 Repair","Galaxy Series Repair",304,"WIFI Repair ",99.99,No,99.99,,,Published
+21,"Samsung Galaxy Mega 5.8"" I9150 Repair","Galaxy Series Repair Continued",318,"Antenna Repair ",54.99,No,54.99,,,Published
+21,"Samsung Galaxy Mega 5.8"" I9150 Repair","Galaxy Series Repair Continued",319,"Charging Port Repair ",59.99,No,59.99,,,Published
+21,"Samsung Galaxy Mega 5.8"" I9150 Repair","Galaxy Series Repair Continued",320,"Diagnostic Service ",39.99,No,39.99,,,Published
+21,"Samsung Galaxy Mega 5.8"" I9150 Repair","Galaxy Series Repair Continued",321,"Earpiece Repair ",54.99,No,54.99,,,Published
+21,"Samsung Galaxy Mega 5.8"" I9150 Repair","Galaxy Series Repair Continued",322,"Front Camera Repair ",54.99,No,54.99,,,Published
+21,"Samsung Galaxy Mega 5.8"" I9150 Repair","Galaxy Series Repair Continued",323,"Headphone Socket Repair ",54.99,No,54.99,,,Published
+21,"Samsung Galaxy Mega 5.8"" I9150 Repair","Galaxy Series Repair Continued",324,"Home Button Repair ",54.99,No,54.99,,,Published
+21,"Samsung Galaxy Mega 5.8"" I9150 Repair","Galaxy Series Repair Continued",325,"Liquid Damage Service ",69.99,No,69.99,,,Published
+21,"Samsung Galaxy Mega 5.8"" I9150 Repair","Galaxy Series Repair Continued",326,"Loudspeaker Repair ",54.99,No,54.99,,,Published
+21,"Samsung Galaxy Mega 5.8"" I9150 Repair","Galaxy Series Repair Continued",327,"Microphone Repair ",54.99,No,54.99,,,Published
+21,"Samsung Galaxy Mega 5.8"" I9150 Repair","Galaxy Series Repair Continued",328,"Mute Button Repair ",54.99,No,54.99,,,Published
+21,"Samsung Galaxy Mega 5.8"" I9150 Repair","Galaxy Series Repair Continued",329,"Power Button Repair ",54.99,No,54.99,,,Published
+21,"Samsung Galaxy Mega 5.8"" I9150 Repair","Galaxy Series Repair Continued",330,"Rear Camera Repair ",54.99,No,54.99,,,Published
+21,"Samsung Galaxy Mega 5.8"" I9150 Repair","Galaxy Series Repair Continued",331,"Software Repair ",89.99,No,89.99,,,Published
+21,"Samsung Galaxy Mega 5.8"" I9150 Repair","Galaxy Series Repair Continued",332,"Vibration Repair ",54.99,No,54.99,,,Published
+21,"Samsung Galaxy Mega 5.8"" I9150 Repair","Galaxy Series Repair Continued",333,"Volume Repair ",54.99,No,54.99,,,Published
+21,"Samsung Galaxy Mega 5.8"" I9150 Repair","Galaxy Series Repair Continued",334,"WIFI Repair ",54.99,No,54.99,,,Published
+32,"Samsung Galaxy E5 Repair","Galaxy Series Repair",520,"Front Screen Repair ",259.99,No,259.99,,,Published
+32,"Samsung Galaxy E5 Repair","Galaxy Series Repair",521,"Antenna Repair ",99.99,No,99.99,,,Published
+32,"Samsung Galaxy E5 Repair","Galaxy Series Repair",522,"Battery Repair ",99.99,No,99.99,,,Published
+32,"Samsung Galaxy E5 Repair","Galaxy Series Repair",523,"Charging Port Repair ",99.99,No,99.99,,,Published
+32,"Samsung Galaxy E5 Repair","Galaxy Series Repair",524,"Diagnostic Service ",39.99,No,39.99,,,Published
+32,"Samsung Galaxy E5 Repair","Galaxy Series Repair",525,"Earpiece Repair ",99.99,No,99.99,,,Published
+32,"Samsung Galaxy E5 Repair","Galaxy Series Repair",526,"Front Camera Repair ",99.99,No,99.99,,,Published
+32,"Samsung Galaxy E5 Repair","Galaxy Series Repair",527,"Headphone Socket Repair ",99.99,No,99.99,,,Published
+32,"Samsung Galaxy E5 Repair","Galaxy Series Repair",528,"Home Button Repair ",99.99,No,99.99,,,Published
+32,"Samsung Galaxy E5 Repair","Galaxy Series Repair",529,"Liquid Damage Service ",69.99,No,69.99,,,Published
+32,"Samsung Galaxy E5 Repair","Galaxy Series Repair",530,"Loudspeaker Repair ",99.99,No,99.99,,,Published
+32,"Samsung Galaxy E5 Repair","Galaxy Series Repair",531,"Microphone Repair ",99.99,No,99.99,,,Published
+32,"Samsung Galaxy E5 Repair","Galaxy Series Repair",532,"Mute Button Repair ",99.99,No,99.99,,,Published
+32,"Samsung Galaxy E5 Repair","Galaxy Series Repair",533,"Rear Camera Repair ",99.99,No,99.99,,,Published
+32,"Samsung Galaxy E5 Repair","Galaxy Series Repair",534,"Rear Cover Repair ",99.99,No,99.99,,,Published
+32,"Samsung Galaxy E5 Repair","Galaxy Series Repair",535,"Vibration Repair ",99.99,No,99.99,,,Published
+32,"Samsung Galaxy E5 Repair","Galaxy Series Repair",536,"Volume Repair ",99.99,No,99.99,,,Published
+32,"Samsung Galaxy E5 Repair","Galaxy Series Repair",537,"WIFI Repair ",99.99,No,99.99,,,Published
+33,"Samsung Galaxy C9 Pro Repair","Galaxy Series Repair",538,"Front Screen Repair ",209.99,No,209.99,,,Published
+33,"Samsung Galaxy C9 Pro Repair","Galaxy Series Repair",539,"Antenna Repair ",89.99,No,89.99,,,Published
+33,"Samsung Galaxy C9 Pro Repair","Galaxy Series Repair",540,"Battery Repair ",89.99,No,89.99,,,Published
+33,"Samsung Galaxy C9 Pro Repair","Galaxy Series Repair",541,"Charging Port Repair ",89.99,No,89.99,,,Published
+33,"Samsung Galaxy C9 Pro Repair","Galaxy Series Repair",542,"Diagnostic Service ",39.99,No,39.99,,,Published
+33,"Samsung Galaxy C9 Pro Repair","Galaxy Series Repair",543,"Earpiece Repair ",89.99,No,89.99,,,Published
+33,"Samsung Galaxy C9 Pro Repair","Galaxy Series Repair",544,"Front Camera Repair ",89.99,No,89.99,,,Published
+33,"Samsung Galaxy C9 Pro Repair","Galaxy Series Repair",545,"Headphone Socket Repair ",89.99,No,89.99,,,Published
+33,"Samsung Galaxy C9 Pro Repair","Galaxy Series Repair",546,"Home Button Repair ",89.99,No,89.99,,,Published
+33,"Samsung Galaxy C9 Pro Repair","Galaxy Series Repair",547,"Liquid Damage Service ",69.99,No,69.99,,,Published
+33,"Samsung Galaxy C9 Pro Repair","Galaxy Series Repair",548,"Loudspeaker Repair ",89.99,No,89.99,,,Published
+33,"Samsung Galaxy C9 Pro Repair","Galaxy Series Repair",549,"Microphone Repair ",89.99,No,89.99,,,Published
+33,"Samsung Galaxy C9 Pro Repair","Galaxy Series Repair",550,"Mute Button Repair ",89.99,No,89.99,,,Published
+33,"Samsung Galaxy C9 Pro Repair","Galaxy Series Repair",551,"Power Button Repair ",89.99,No,89.99,,,Published
+33,"Samsung Galaxy C9 Pro Repair","Galaxy Series Repair",552,"Rear Camera Repair ",89.99,No,89.99,,,Published
+33,"Samsung Galaxy C9 Pro Repair","Galaxy Series Repair",553,"Rear Cover Repair ",89.99,No,89.99,,,Published
+33,"Samsung Galaxy C9 Pro Repair","Galaxy Series Repair",554,"Software Repair ",89.99,No,89.99,,,Published
+33,"Samsung Galaxy C9 Pro Repair","Galaxy Series Repair",555,"Vibration Repair ",89.99,No,89.99,,,Published
+33,"Samsung Galaxy C9 Pro Repair","Galaxy Series Repair",556,"Volume Repair ",89.99,No,89.99,,,Published
+33,"Samsung Galaxy C9 Pro Repair","Galaxy Series Repair",557,"WIFI Repair ",89.99,No,89.99,,,Published
+34,"Samsung Galaxy Alpha Repair","Galaxy Series Repair",558,"Diagnostic Service ",39.99,No,39.99,,,Published
+34,"Samsung Galaxy Alpha Repair","Galaxy Series Repair",559,"Earpiece Repair ",64.99,No,64.99,,,Published
+34,"Samsung Galaxy Alpha Repair","Galaxy Series Repair",560,"Front Camera Repair ",64.99,No,64.99,,,Published
+34,"Samsung Galaxy Alpha Repair","Galaxy Series Repair",561,"Headphone Socket Repair ",64.99,No,64.99,,,Published
+34,"Samsung Galaxy Alpha Repair","Galaxy Series Repair",562,"Home Button Repair ",64.99,No,64.99,,,Published
+34,"Samsung Galaxy Alpha Repair","Galaxy Series Repair",563,"Liquid Damage Service Repair ",69.99,No,69.99,,,Published
+34,"Samsung Galaxy Alpha Repair","Galaxy Series Repair",564,"Loudspeaker Repair ",64.99,No,64.99,,,Published
+34,"Samsung Galaxy Alpha Repair","Galaxy Series Repair",565,"Microphone Repair ",64.99,No,64.99,,,Published
+34,"Samsung Galaxy Alpha Repair","Galaxy Series Repair",566,"Power Button Repair ",64.99,No,64.99,,,Published
+34,"Samsung Galaxy Alpha Repair","Galaxy Series Repair",567,"Rear Camera Repair ",64.99,No,64.99,,,Published
+34,"Samsung Galaxy Alpha Repair","Galaxy Series Repair",568,"Vibration Repair ",64.99,No,64.99,,,Published
+34,"Samsung Galaxy Alpha Repair","Galaxy Series Repair",569,"Volume Repair ",64.99,No,64.99,,,Published
+34,"Samsung Galaxy Alpha Repair","Galaxy Series Repair",570,"WIFI Repair ",64.99,No,64.99,,,Published
+36,"Samsung Galaxy A8 Repair","Galaxy Series Repair",590,"Front Screen Repair ",319.99,No,319.99,,,Published
+36,"Samsung Galaxy A8 Repair","Galaxy Series Repair",591,"Antenna Repair ",319.99,No,319.99,,,Published
+36,"Samsung Galaxy A8 Repair","Galaxy Series Repair",592,"Battery Repair ",319.99,No,319.99,,,Published
+36,"Samsung Galaxy A8 Repair","Galaxy Series Repair",593,"Charging Port Repair ",319.99,No,319.99,,,Published
+36,"Samsung Galaxy A8 Repair","Galaxy Series Repair",594,"Diagnostic Service ",319.99,No,319.99,,,Published
+36,"Samsung Galaxy A8 Repair","Galaxy Series Repair",595,"Front Camera Repair ",319.99,No,319.99,,,Published
+36,"Samsung Galaxy A8 Repair","Galaxy Series Repair",596,"Headphone Socket Repair ",319.99,No,319.99,,,Published
+36,"Samsung Galaxy A8 Repair","Galaxy Series Repair",597,"Home Button Repair ",319.99,No,319.99,,,Published
+36,"Samsung Galaxy A8 Repair","Galaxy Series Repair",598,"Liquid Damage Service ",319.99,No,319.99,,,Published
+36,"Samsung Galaxy A8 Repair","Galaxy Series Repair",599,"Loudspeaker Repair ",319.99,No,319.99,,,Published
+36,"Samsung Galaxy A8 Repair","Galaxy Series Repair",600,"Microphone Repair ",319.99,No,319.99,,,Published
+36,"Samsung Galaxy A8 Repair","Galaxy Series Repair",601,"Mute Button Repair ",319.99,No,319.99,,,Published
+36,"Samsung Galaxy A8 Repair","Galaxy Series Repair",602,"Rear Camera Repair ",319.99,No,319.99,,,Published
+36,"Samsung Galaxy A8 Repair","Galaxy Series Repair",603,"Rear Cover Repair ",319.99,No,319.99,,,Published
+36,"Samsung Galaxy A8 Repair","Galaxy Series Repair",604,"Vibration Repair ",319.99,No,319.99,,,Published
+36,"Samsung Galaxy A8 Repair","Galaxy Series Repair",605,"Volume Repair ",319.99,No,319.99,,,Published
+36,"Samsung Galaxy A8 Repair","Galaxy Series Repair",606,"WIFI Repair ",319.99,No,319.99,,,Published
+37,"Samsung Galaxy A7 2017 Repairs","Galaxy Series Repair",607,"Front Screen Repair ",179.99,No,179.99,,,Published
+37,"Samsung Galaxy A7 2017 Repairs","Galaxy Series Repair",608,"Antenna Repair ",99.99,No,99.99,,,Published
+37,"Samsung Galaxy A7 2017 Repairs","Galaxy Series Repair",609,"Battery Repair ",99.99,No,99.99,,,Published
+37,"Samsung Galaxy A7 2017 Repairs","Galaxy Series Repair",610,"Charging Port Repair ",99.99,No,99.99,,,Published
+37,"Samsung Galaxy A7 2017 Repairs","Galaxy Series Repair",611,"Diagnostic Service ",39.99,No,39.99,,,Published
+37,"Samsung Galaxy A7 2017 Repairs","Galaxy Series Repair",612,"Earpiece Repair ",99.99,No,99.99,,,Published
+37,"Samsung Galaxy A7 2017 Repairs","Galaxy Series Repair",613,"Front Camera Repair ",99.99,No,99.99,,,Published
+37,"Samsung Galaxy A7 2017 Repairs","Galaxy Series Repair",614,"Headphone Socket Repair ",99.99,No,99.99,,,Published
+37,"Samsung Galaxy A7 2017 Repairs","Galaxy Series Repair",615,"Home Button Repair ",99.99,No,99.99,,,Published
+37,"Samsung Galaxy A7 2017 Repairs","Galaxy Series Repair",616,"Liquid Damage Service ",69.99,No,69.99,,,Published
+37,"Samsung Galaxy A7 2017 Repairs","Galaxy Series Repair",617,"Loudspeaker Repair ",99.99,No,99.99,,,Published
+37,"Samsung Galaxy A7 2017 Repairs","Galaxy Series Repair",618,"Microphone Repair ",99.99,No,99.99,,,Published
+37,"Samsung Galaxy A7 2017 Repairs","Galaxy Series Repair",619,"Mute Button Repair ",99.99,No,99.99,,,Published
+37,"Samsung Galaxy A7 2017 Repairs","Galaxy Series Repair",620,"Power Button Repair ",99.99,No,99.99,,,Published
+37,"Samsung Galaxy A7 2017 Repairs","Galaxy Series Repair",621,"Rear Camera Repair ",99.99,No,99.99,,,Published
+37,"Samsung Galaxy A7 2017 Repairs","Galaxy Series Repair",622,"Rear Cover Repair ",99.99,No,99.99,,,Published
+37,"Samsung Galaxy A7 2017 Repairs","Galaxy Series Repair",623,"Software Repair ",99.99,No,99.99,,,Published
+37,"Samsung Galaxy A7 2017 Repairs","Galaxy Series Repair",624,"Vibration Repair ",99.99,No,99.99,,,Published
+37,"Samsung Galaxy A7 2017 Repairs","Galaxy Series Repair",625,"Volume Repair ",99.99,No,99.99,,,Published
+37,"Samsung Galaxy A7 2017 Repairs","Galaxy Series Repair",626,"WIFI Repair ",99.99,No,99.99,,,Published
+38,"Samsung Galaxy A5 (2016) Repair","Galaxy Series Repair",627,"Front Screen Repair ",169.99,No,169.99,,,Published
+38,"Samsung Galaxy A5 (2016) Repair","Galaxy Series Repair",628,"Antenna Repair ",99.99,No,99.99,,,Published
+38,"Samsung Galaxy A5 (2016) Repair","Galaxy Series Repair",629,"Battery Repair ",99.99,No,99.99,,,Published
+38,"Samsung Galaxy A5 (2016) Repair","Galaxy Series Repair",630,"Charging Port Repair ",99.99,No,99.99,,,Published
+38,"Samsung Galaxy A5 (2016) Repair","Galaxy Series Repair",631,"Diagnostic Service ",39.99,No,39.99,,,Published
+38,"Samsung Galaxy A5 (2016) Repair","Galaxy Series Repair",632,"Earpiece Repair ",99.99,No,99.99,,,Published
+38,"Samsung Galaxy A5 (2016) Repair","Galaxy Series Repair",633,"Front Camera Repair ",89.99,No,89.99,,,Published
+38,"Samsung Galaxy A5 (2016) Repair","Galaxy Series Repair",634,"Rear Camera Repair ",99.99,No,99.99,,,Published
+38,"Samsung Galaxy A5 (2016) Repair","Galaxy Series Repair",635,"Headphone Socket Repair ",99.99,No,99.99,,,Published
+38,"Samsung Galaxy A5 (2016) Repair","Galaxy Series Repair",636,"Home Button Repair ",89.99,No,89.99,,,Published
+38,"Samsung Galaxy A5 (2016) Repair","Galaxy Series Repair",637,"Liquid Damage Service ",69.99,No,69.99,,,Published
+38,"Samsung Galaxy A5 (2016) Repair","Galaxy Series Repair",638,"Loudspeaker Repair ",99.99,No,99.99,,,Published
+38,"Samsung Galaxy A5 (2016) Repair","Galaxy Series Repair",639,"Microphone Repair ",99.99,No,99.99,,,Published
+38,"Samsung Galaxy A5 (2016) Repair","Galaxy Series Repair",640,"Mute Button Repair ",99.99,No,99.99,,,Published
+38,"Samsung Galaxy A5 (2016) Repair","Galaxy Series Repair",641,"Power Button Repair ",89.99,No,89.99,,,Published
+38,"Samsung Galaxy A5 (2016) Repair","Galaxy Series Repair",642,"Rear Cover Repair ",99.99,No,99.99,,,Published
+38,"Samsung Galaxy A5 (2016) Repair","Galaxy Series Repair",643,"Vibration Repair ",99.99,No,99.99,,,Published
+38,"Samsung Galaxy A5 (2016) Repair","Galaxy Series Repair",644,"Volume Repair ",99.99,No,99.99,,,Published
+39,"Samsung Galaxy A5 A500F Repair","Galaxy Series Repair",645,"Front Screen Repair ",119.99,No,119.99,,,Published
+39,"Samsung Galaxy A5 A500F Repair","Galaxy Series Repair",646,"Antenna Repair ",89.99,No,89.99,,,Published
+39,"Samsung Galaxy A5 A500F Repair","Galaxy Series Repair",647,"Battery Repair ",89.99,No,89.99,,,Published
+39,"Samsung Galaxy A5 A500F Repair","Galaxy Series Repair",648,"Charging Port Repair ",89.99,No,89.99,,,Published
+39,"Samsung Galaxy A5 A500F Repair","Galaxy Series Repair",649,"Diagnostic Service ",39.99,No,39.99,,,Published
+39,"Samsung Galaxy A5 A500F Repair","Galaxy Series Repair",650,"Earpiece Repair ",89.99,No,89.99,,,Published
+39,"Samsung Galaxy A5 A500F Repair","Galaxy Series Repair",651,"Front Camera Repair ",89.99,No,89.99,,,Published
+39,"Samsung Galaxy A5 A500F Repair","Galaxy Series Repair",652,"Headphone Socket Repair ",89.99,No,89.99,,,Published
+39,"Samsung Galaxy A5 A500F Repair","Galaxy Series Repair",653,"Home Button Repair ",89.99,No,89.99,,,Published
+39,"Samsung Galaxy A5 A500F Repair","Galaxy Series Repair",654,"Liquid Damage Service ",89.99,No,89.99,,,Published
+39,"Samsung Galaxy A5 A500F Repair","Galaxy Series Repair",655,"Loudspeaker Repair ",89.99,No,89.99,,,Published
+39,"Samsung Galaxy A5 A500F Repair","Galaxy Series Repair",656,"Microphone Repair ",89.99,No,89.99,,,Published
+39,"Samsung Galaxy A5 A500F Repair","Galaxy Series Repair",657,"Mute Button Repair ",89.99,No,89.99,,,Published
+39,"Samsung Galaxy A5 A500F Repair","Galaxy Series Repair",658,"Power Button Repair ",89.99,No,89.99,,,Published
+39,"Samsung Galaxy A5 A500F Repair","Galaxy Series Repair",659,"Rear Camera Repair ",89.99,No,89.99,,,Published
+39,"Samsung Galaxy A5 A500F Repair","Galaxy Series Repair",660,"Rear Cover Repair ",89.99,No,89.99,,,Published
+39,"Samsung Galaxy A5 A500F Repair","Galaxy Series Repair",661,"Vibration Repair ",89.99,No,89.99,,,Published
+39,"Samsung Galaxy A5 A500F Repair","Galaxy Series Repair",662,"Volume Repair ",89.99,No,89.99,,,Published
+40,"Samsung Galaxy A7 Repair","Galaxy Series Repair",663,"Front Screen Repair ",144.99,No,144.99,,,Published
+40,"Samsung Galaxy A7 Repair","Galaxy Series Repair",664,"Antenna Repair ",89.99,No,89.99,,,Published
+40,"Samsung Galaxy A7 Repair","Galaxy Series Repair",665,"Battery Repair ",89.99,No,89.99,,,Published
+40,"Samsung Galaxy A7 Repair","Galaxy Series Repair",666,"Charging Port Repair ",89.99,No,89.99,,,Published
+40,"Samsung Galaxy A7 Repair","Galaxy Series Repair",667,"Diagnostic Service ",39.99,No,39.99,,,Published
+40,"Samsung Galaxy A7 Repair","Galaxy Series Repair",668,"Earpiece Repair ",89.99,No,89.99,,,Published
+40,"Samsung Galaxy A7 Repair","Galaxy Series Repair",669,"Front Camera Repair ",89.99,No,89.99,,,Published
+40,"Samsung Galaxy A7 Repair","Galaxy Series Repair",670,"Headphone Socket Repair ",89.99,No,89.99,,,Published
+40,"Samsung Galaxy A7 Repair","Galaxy Series Repair",671,"Home Button Repair ",89.99,No,89.99,,,Published
+40,"Samsung Galaxy A7 Repair","Galaxy Series Repair",672,"Liquid Damage Service ",69.99,No,69.99,,,Published
+40,"Samsung Galaxy A7 Repair","Galaxy Series Repair",673,"Loudspeaker Repair ",89.99,No,89.99,,,Published
+40,"Samsung Galaxy A7 Repair","Galaxy Series Repair",674,"Microphone Repair ",89.99,No,89.99,,,Published
+40,"Samsung Galaxy A7 Repair","Galaxy Series Repair",675,"Mute Button Repair ",89.99,No,89.99,,,Published
+40,"Samsung Galaxy A7 Repair","Galaxy Series Repair",676,"Rear Camera Repair ",89.99,No,89.99,,,Published
+40,"Samsung Galaxy A7 Repair","Galaxy Series Repair",677,"Rear Cover Repair ",89.99,No,89.99,,,Published
+40,"Samsung Galaxy A7 Repair","Galaxy Series Repair",678,"Vibration Repair ",89.99,No,89.99,,,Published
+40,"Samsung Galaxy A7 Repair","Galaxy Series Repair",679,"Volume Repair ",89.99,No,89.99,,,Published
+40,"Samsung Galaxy A7 Repair","Galaxy Series Repair",680,"WIFI Repair ",89.99,No,89.99,,,Published
+41,"Samsung Galaxy A9 2018 Repair","Galaxy Series Repair",681,"Front Screen Repair ",139.99,No,139.99,,,Published
+41,"Samsung Galaxy A9 2018 Repair","Galaxy Series Repair",682,"Antenna Repair ",99.99,No,99.99,,,Published
+41,"Samsung Galaxy A9 2018 Repair","Galaxy Series Repair",683,"Battery Repair ",99.99,No,99.99,,,Published
+41,"Samsung Galaxy A9 2018 Repair","Galaxy Series Repair",684,"Charging Port Repair ",99.99,No,99.99,,,Published
+41,"Samsung Galaxy A9 2018 Repair","Galaxy Series Repair",685,"Diagnostic Service  ",39.99,No,39.99,,,Published
+41,"Samsung Galaxy A9 2018 Repair","Galaxy Series Repair",686,"Earpiece Repair ",99.99,No,99.99,,,Published
+41,"Samsung Galaxy A9 2018 Repair","Galaxy Series Repair",687,"Front Camera Repair ",99.99,No,99.99,,,Published
+41,"Samsung Galaxy A9 2018 Repair","Galaxy Series Repair",688,"Headphone Socket Repair ",99.99,No,99.99,,,Published
+41,"Samsung Galaxy A9 2018 Repair","Galaxy Series Repair",689,"Liquid Damage Service ",99.99,No,99.99,,,Published
+41,"Samsung Galaxy A9 2018 Repair","Galaxy Series Repair",690,"Loudspeaker Repair ",99.99,No,99.99,,,Published
+41,"Samsung Galaxy A9 2018 Repair","Galaxy Series Repair",691,"Microphone Repair ",99.99,No,99.99,,,Published
+41,"Samsung Galaxy A9 2018 Repair","Galaxy Series Repair",692,"Mute Button Repair ",99.99,No,99.99,,,Published
+41,"Samsung Galaxy A9 2018 Repair","Galaxy Series Repair",693,"Power Button Repair ",99.99,No,99.99,,,Published
+41,"Samsung Galaxy A9 2018 Repair","Galaxy Series Repair",694,"Rear Camera Repair ",99.99,No,99.99,,,Published
+41,"Samsung Galaxy A9 2018 Repair","Galaxy Series Repair",695,"Rear Cover Repair ",99.99,No,99.99,,,Published
+41,"Samsung Galaxy A9 2018 Repair","Galaxy Series Repair",696,"Vibration Repair ",99.99,No,99.99,,,Published
+41,"Samsung Galaxy A9 2018 Repair","Galaxy Series Repair",697,"Volume Repair ",99.99,No,99.99,,,Published
+42,"Samsung Galaxy A5 2017 Repairs","Galaxy Series Repair",698,"Front Screen Repair ",179.99,No,179.99,,,Published
+42,"Samsung Galaxy A5 2017 Repairs","Galaxy Series Repair",699,"Antenna Repair ",89.99,No,89.99,,,Published
+42,"Samsung Galaxy A5 2017 Repairs","Galaxy Series Repair",700,"Battery Repair ",89.99,No,89.99,,,Published
+42,"Samsung Galaxy A5 2017 Repairs","Galaxy Series Repair",701,"Diagnostic Service ",39.99,No,39.99,,,Published
+42,"Samsung Galaxy A5 2017 Repairs","Galaxy Series Repair",702,"Earpiece Repair ",89.99,No,89.99,,,Published
+42,"Samsung Galaxy A5 2017 Repairs","Galaxy Series Repair",703,"Front Camera Repair ",89.99,No,89.99,,,Published
+42,"Samsung Galaxy A5 2017 Repairs","Galaxy Series Repair",704,"Headphone Socket Repair ",89.99,No,89.99,,,Published
+42,"Samsung Galaxy A5 2017 Repairs","Galaxy Series Repair",705,"Home Button Repair ",89.99,No,89.99,,,Published
+42,"Samsung Galaxy A5 2017 Repairs","Galaxy Series Repair",706,"Liquid Damage Service ",89.99,No,89.99,,,Published
+42,"Samsung Galaxy A5 2017 Repairs","Galaxy Series Repair",707,"Loudspeaker Repair ",89.99,No,89.99,,,Published
+42,"Samsung Galaxy A5 2017 Repairs","Galaxy Series Repair",708,"Microphone Repair ",89.99,No,89.99,,,Published
+42,"Samsung Galaxy A5 2017 Repairs","Galaxy Series Repair",709,"Mute Button Repair ",89.99,No,89.99,,,Published
+42,"Samsung Galaxy A5 2017 Repairs","Galaxy Series Repair",710,"Power Button Repair ",89.99,No,89.99,,,Published
+42,"Samsung Galaxy A5 2017 Repairs","Galaxy Series Repair",711,"Rear Camera Repair ",89.99,No,89.99,,,Published
+42,"Samsung Galaxy A5 2017 Repairs","Galaxy Series Repair",712,"Rear Cover Repair ",89.99,No,89.99,,,Published
+42,"Samsung Galaxy A5 2017 Repairs","Galaxy Series Repair",713,"Software Repair ",89.99,No,89.99,,,Published
+42,"Samsung Galaxy A5 2017 Repairs","Galaxy Series Repair",714,"Vibration Repair ",89.99,No,89.99,,,Published
+42,"Samsung Galaxy A5 2017 Repairs","Galaxy Series Repair",715,"Volume Repair ",89.99,No,89.99,,,Published
+42,"Samsung Galaxy A5 2017 Repairs","Galaxy Series Repair",716,"WIFI Repair ",89.99,No,89.99,,,Published
+43,"Samsung Galaxy A3 SM-A310F (2016) Repair","Galaxy Series Repair",717,"Front Screen Repair ",149.99,No,149.99,,,Published
+43,"Samsung Galaxy A3 SM-A310F (2016) Repair","Galaxy Series Repair",718,"Antenna Repair ",99.99,No,99.99,,,Published
+43,"Samsung Galaxy A3 SM-A310F (2016) Repair","Galaxy Series Repair",719,"Battery Repair ",99.99,No,99.99,,,Published
+43,"Samsung Galaxy A3 SM-A310F (2016) Repair","Galaxy Series Repair",720,"Charging Port Repair ",99.99,No,99.99,,,Published
+43,"Samsung Galaxy A3 SM-A310F (2016) Repair","Galaxy Series Repair",721,"Diagnostic Service ",39.99,No,39.99,,,Published
+43,"Samsung Galaxy A3 SM-A310F (2016) Repair","Galaxy Series Repair",722,"Earpiece Repair ",99.99,No,99.99,,,Published
+43,"Samsung Galaxy A3 SM-A310F (2016) Repair","Galaxy Series Repair",723,"Front Camera Repair ",99.99,No,99.99,,,Published
+43,"Samsung Galaxy A3 SM-A310F (2016) Repair","Galaxy Series Repair",724,"Headphone Socket Repair ",99.99,No,99.99,,,Published
+43,"Samsung Galaxy A3 SM-A310F (2016) Repair","Galaxy Series Repair",725,"Home Button Repair ",99.99,No,99.99,,,Published
+43,"Samsung Galaxy A3 SM-A310F (2016) Repair","Galaxy Series Repair",726,"Liquid Damage Service ",69.99,No,69.99,,,Published
+43,"Samsung Galaxy A3 SM-A310F (2016) Repair","Galaxy Series Repair",727,"Loudspeaker Repair ",99.99,No,99.99,,,Published
+43,"Samsung Galaxy A3 SM-A310F (2016) Repair","Galaxy Series Repair",728,"Microphone Repair ",99.99,No,99.99,,,Published
+43,"Samsung Galaxy A3 SM-A310F (2016) Repair","Galaxy Series Repair",729,"Mute Button Repair ",99.99,No,99.99,,,Published
+43,"Samsung Galaxy A3 SM-A310F (2016) Repair","Galaxy Series Repair",730,"Power Button Repair ",99.99,No,99.99,,,Published
+43,"Samsung Galaxy A3 SM-A310F (2016) Repair","Galaxy Series Repair",731,"Rear Camera Repair ",99.99,No,99.99,,,Published
+43,"Samsung Galaxy A3 SM-A310F (2016) Repair","Galaxy Series Repair",732,"Rear Cover Repair ",99.99,No,99.99,,,Published
+43,"Samsung Galaxy A3 SM-A310F (2016) Repair","Galaxy Series Repair",733,"Vibration Repair ",99.99,No,99.99,,,Published
+43,"Samsung Galaxy A3 SM-A310F (2016) Repair","Galaxy Series Repair",734,"Volume Repair ",99.99,No,99.99,,,Published
+43,"Samsung Galaxy A3 SM-A310F (2016) Repair","Galaxy Series Repair",735,"WIFI Repair ",99.99,No,99.99,,,Published
+44,"Samsung Galaxy Ace 4 Repair","Galaxy Series Repair",736,"Battery Repair ",54.99,No,54.99,,,Published
+44,"Samsung Galaxy Ace 4 Repair","Galaxy Series Repair",737,"Charging Port Repair ",79.99,No,79.99,,,Published
+44,"Samsung Galaxy Ace 4 Repair","Galaxy Series Repair",738,"Diagnostic Service ",39.99,No,39.99,,,Published
+44,"Samsung Galaxy Ace 4 Repair","Galaxy Series Repair",739,"Earpiece Repair ",54.99,No,54.99,,,Published
+44,"Samsung Galaxy Ace 4 Repair","Galaxy Series Repair",740,"Front Camera Repair ",54.99,No,54.99,,,Published
+44,"Samsung Galaxy Ace 4 Repair","Galaxy Series Repair",741,"Headphone Socket Repair ",54.99,No,54.99,,,Published
+44,"Samsung Galaxy Ace 4 Repair","Galaxy Series Repair",742,"Liquid Damage Service ",69.99,No,69.99,,,Published
+44,"Samsung Galaxy Ace 4 Repair","Galaxy Series Repair",743,"Loudspeaker Repair ",54.99,No,54.99,,,Published
+44,"Samsung Galaxy Ace 4 Repair","Galaxy Series Repair",744,"Microphone Repair ",54.99,No,54.99,,,Published
+44,"Samsung Galaxy Ace 4 Repair","Galaxy Series Repair",745,"Mute Button Repair ",54.99,No,54.99,,,Published
+44,"Samsung Galaxy Ace 4 Repair","Galaxy Series Repair",746,"Power Button Repair ",54.99,No,54.99,,,Published
+44,"Samsung Galaxy Ace 4 Repair","Galaxy Series Repair",747,"Rear Camera Repair ",54.99,No,54.99,,,Published
+44,"Samsung Galaxy Ace 4 Repair","Galaxy Series Repair",748,"Vibration Repair ",54.99,No,54.99,,,Published
+44,"Samsung Galaxy Ace 4 Repair","Galaxy Series Repair",749,"Volume Repair ",54.99,No,54.99,,,Published
+44,"Samsung Galaxy Ace 4 Repair","Galaxy Series Repair",750,"WIFI Repair ",54.99,No,54.99,,,Published
+45,"Samsung Galaxy A3 2017 Repairs","Galaxy Series Repair",751,"Front Screen Repair ",159.99,No,159.99,,,Published
+45,"Samsung Galaxy A3 2017 Repairs","Galaxy Series Repair",752,"Antenna Repair ",109.99,No,109.99,,,Published
+45,"Samsung Galaxy A3 2017 Repairs","Galaxy Series Repair",753,"Battery Repair ",109.99,No,109.99,,,Published
+45,"Samsung Galaxy A3 2017 Repairs","Galaxy Series Repair",754,"Charging Port Repair ",109.99,No,109.99,,,Published
+45,"Samsung Galaxy A3 2017 Repairs","Galaxy Series Repair",755,"Diagnostic Service ",39.99,No,39.99,,,Published
+45,"Samsung Galaxy A3 2017 Repairs","Galaxy Series Repair",756,"Earpiece Repair ",109.99,No,109.99,,,Published
+45,"Samsung Galaxy A3 2017 Repairs","Galaxy Series Repair",757,"Front Camera Repair ",109.99,No,109.99,,,Published
+45,"Samsung Galaxy A3 2017 Repairs","Galaxy Series Repair",758,"Headphone Socket Repair ",109.99,No,109.99,,,Published
+45,"Samsung Galaxy A3 2017 Repairs","Galaxy Series Repair",759,"Home Button Repair ",109.99,No,109.99,,,Published
+45,"Samsung Galaxy A3 2017 Repairs","Galaxy Series Repair",760,"Liquid Damage Service ",69.99,No,69.99,,,Published
+45,"Samsung Galaxy A3 2017 Repairs","Galaxy Series Repair",761,"Loudspeaker Repair ",109.99,No,109.99,,,Published
+45,"Samsung Galaxy A3 2017 Repairs","Galaxy Series Repair",762,"Microphone Repair ",109.99,No,109.99,,,Published
+45,"Samsung Galaxy A3 2017 Repairs","Galaxy Series Repair",763,"Mute Button Repair ",109.99,No,109.99,,,Published
+45,"Samsung Galaxy A3 2017 Repairs","Galaxy Series Repair",764,"Power Button Repair ",199.99,No,199.99,,,Published
+45,"Samsung Galaxy A3 2017 Repairs","Galaxy Series Repair",765,"Rear Camera Repair ",109.99,No,109.99,,,Published
+45,"Samsung Galaxy A3 2017 Repairs","Galaxy Series Repair",766,"Rear Cover Repair ",109.99,No,109.99,,,Published
+45,"Samsung Galaxy A3 2017 Repairs","Galaxy Series Repair",767,"Vibration Repair ",109.99,No,109.99,,,Published
+45,"Samsung Galaxy A3 2017 Repairs","Galaxy Series Repair",768,"Volume Repair ",109.99,No,109.99,,,Published
+45,"Samsung Galaxy A3 2017 Repairs","Galaxy Series Repair",769,"WIFI Repair ",109.99,No,109.99,,,Published
+46,"Samsung Galaxy A3 Repair","Galaxy Series Repair",770,"Front Screen Repair ",129.99,No,129.99,,,Published
+46,"Samsung Galaxy A3 Repair","Galaxy Series Repair",771,"Antenna Repair ",79.99,No,79.99,,,Published
+46,"Samsung Galaxy A3 Repair","Galaxy Series Repair",772,"Battery Repair ",79.99,No,79.99,,,Published
+46,"Samsung Galaxy A3 Repair","Galaxy Series Repair",773,"Charging Port Repair ",79.99,No,79.99,,,Published
+46,"Samsung Galaxy A3 Repair","Galaxy Series Repair",774,"Diagnostic Service ",39.99,No,39.99,,,Published
+46,"Samsung Galaxy A3 Repair","Galaxy Series Repair",775,"Earpiece Repair ",79.99,No,79.99,,,Published
+46,"Samsung Galaxy A3 Repair","Galaxy Series Repair",776,"Front Camera Repair ",79.99,No,79.99,,,Published
+46,"Samsung Galaxy A3 Repair","Galaxy Series Repair",777,"Headphone Socket Repair ",79.99,No,79.99,,,Published
+46,"Samsung Galaxy A3 Repair","Galaxy Series Repair",778,"Home Button Repair ",79.99,No,79.99,,,Published
+46,"Samsung Galaxy A3 Repair","Galaxy Series Repair",779,"Liquid Damage Service ",89.99,No,89.99,,,Published
+46,"Samsung Galaxy A3 Repair","Galaxy Series Repair",780,"Loudspeaker Repair ",79.99,No,79.99,,,Published
+46,"Samsung Galaxy A3 Repair","Galaxy Series Repair",781,"Microphone Repair ",79.99,No,79.99,,,Published
+46,"Samsung Galaxy A3 Repair","Galaxy Series Repair",782,"Mute Button Repair ",79.99,No,79.99,,,Published
+46,"Samsung Galaxy A3 Repair","Galaxy Series Repair",783,"Power Button Repair ",79.99,No,79.99,,,Published
+46,"Samsung Galaxy A3 Repair","Galaxy Series Repair",784,"Rear Camera Repair ",79.99,No,79.99,,,Published
+46,"Samsung Galaxy A3 Repair","Galaxy Series Repair",785,"Rear Cover Repair ",79.99,No,79.99,,,Published
+46,"Samsung Galaxy A3 Repair","Galaxy Series Repair",786,"Vibration Repair ",79.99,No,79.99,,,Published
+46,"Samsung Galaxy A3 Repair","Galaxy Series Repair",787,"Volume Repair ",79.99,No,79.99,,,Published
+46,"Samsung Galaxy A3 Repair","Galaxy Series Repair",788,"WIFI Repair ",79.99,No,79.99,,,Published
+69,"Samsung Galaxy J2 Repair","Galaxy Series Repair Continued",1185,"Front Screen Repair ",134.99,No,134.99,,,Published
+69,"Samsung Galaxy J2 Repair","Galaxy Series Repair Continued",1186,"Antenna Repair ",89.99,No,89.99,,,Published
+69,"Samsung Galaxy J2 Repair","Galaxy Series Repair Continued",1187,"Battery Repair ",89.99,No,89.99,,,Published
+69,"Samsung Galaxy J2 Repair","Galaxy Series Repair Continued",1188,"Charging Port Repair ",89.99,No,89.99,,,Published
+69,"Samsung Galaxy J2 Repair","Galaxy Series Repair Continued",1189,"Diagnostic Service ",39.99,No,39.99,,,Published
+69,"Samsung Galaxy J2 Repair","Galaxy Series Repair Continued",1190,"Earpiece Repair ",89.99,No,89.99,,,Published
+69,"Samsung Galaxy J2 Repair","Galaxy Series Repair Continued",1191,"Front Camera Repair ",89.99,No,89.99,,,Published
+69,"Samsung Galaxy J2 Repair","Galaxy Series Repair Continued",1192,"Headphone Socket Repair ",89.99,No,89.99,,,Published
+69,"Samsung Galaxy J2 Repair","Galaxy Series Repair Continued",1193,"Home Button Repair ",89.99,No,89.99,,,Published
+69,"Samsung Galaxy J2 Repair","Galaxy Series Repair Continued",1194,"Liquid Damage Service ",69.99,No,69.99,,,Published
+69,"Samsung Galaxy J2 Repair","Galaxy Series Repair Continued",1195,"Loudspeaker Repair ",89.99,No,89.99,,,Published
+69,"Samsung Galaxy J2 Repair","Galaxy Series Repair Continued",1196,"Microphone Repair ",89.99,No,89.99,,,Published
+69,"Samsung Galaxy J2 Repair","Galaxy Series Repair Continued",1197,"Mute Button Repair ",89.99,No,89.99,,,Published
+69,"Samsung Galaxy J2 Repair","Galaxy Series Repair Continued",1198,"Rear Camera Repair ",89.99,No,89.99,,,Published
+69,"Samsung Galaxy J2 Repair","Galaxy Series Repair Continued",1199,"Rear Cover Repair ",89.99,No,89.99,,,Published
+69,"Samsung Galaxy J2 Repair","Galaxy Series Repair Continued",1200,"Vibration Repair ",89.99,No,89.99,,,Published
+69,"Samsung Galaxy J2 Repair","Galaxy Series Repair Continued",1201,"Volume Repair ",89.99,No,89.99,,,Published
+69,"Samsung Galaxy J2 Repair","Galaxy Series Repair Continued",1202,"WIFI Repair ",89.99,No,89.99,,,Published
+70,"Samsung Galaxy J3 2016 Repair","Galaxy Series Repair Continued",1203,"Front Screen Repair ",99.99,No,99.99,,,Published
+70,"Samsung Galaxy J3 2016 Repair","Galaxy Series Repair Continued",1204,"Antenna Repair ",89.99,No,89.99,,,Published
+70,"Samsung Galaxy J3 2016 Repair","Galaxy Series Repair Continued",1205,"Battery Repair ",89.99,No,89.99,,,Published
+70,"Samsung Galaxy J3 2016 Repair","Galaxy Series Repair Continued",1206,"Charging Port Repair ",89.99,No,89.99,,,Published
+70,"Samsung Galaxy J3 2016 Repair","Galaxy Series Repair Continued",1207,"Diagnostic Service ",39.99,No,39.99,,,Published
+70,"Samsung Galaxy J3 2016 Repair","Galaxy Series Repair Continued",1208,"Earpiece Repair ",89.99,No,89.99,,,Published
+70,"Samsung Galaxy J3 2016 Repair","Galaxy Series Repair Continued",1209,"Front Camera Repair ",89.99,No,89.99,,,Published
+70,"Samsung Galaxy J3 2016 Repair","Galaxy Series Repair Continued",1210,"Headphone Socket Repair ",89.99,No,89.99,,,Published
+70,"Samsung Galaxy J3 2016 Repair","Galaxy Series Repair Continued",1211,"Home Button Repair ",89.99,No,89.99,,,Published
+70,"Samsung Galaxy J3 2016 Repair","Galaxy Series Repair Continued",1212,"Liquid Damage Service ",69.99,No,69.99,,,Published
+70,"Samsung Galaxy J3 2016 Repair","Galaxy Series Repair Continued",1213,"Loudspeaker Repair ",89.99,No,89.99,,,Published
+70,"Samsung Galaxy J3 2016 Repair","Galaxy Series Repair Continued",1214,"Microphone Repair ",89.99,No,89.99,,,Published
+70,"Samsung Galaxy J3 2016 Repair","Galaxy Series Repair Continued",1215,"Mute Button Repair ",89.99,No,89.99,,,Published
+70,"Samsung Galaxy J3 2016 Repair","Galaxy Series Repair Continued",1216,"Rear Camera Repair ",89.99,No,89.99,,,Published
+70,"Samsung Galaxy J3 2016 Repair","Galaxy Series Repair Continued",1217,"Rear Cover Repair ",89.99,No,89.99,,,Published
+70,"Samsung Galaxy J3 2016 Repair","Galaxy Series Repair Continued",1218,"Vibration Repair ",89.99,No,89.99,,,Published
+70,"Samsung Galaxy J3 2016 Repair","Galaxy Series Repair Continued",1219,"Volume Repair ",89.99,No,89.99,,,Published
+70,"Samsung Galaxy J3 2016 Repair","Galaxy Series Repair Continued",1220,"WIFI Repair ",89.99,No,89.99,,,Published
+71,"Samsung Galaxy J5 2016 Repair","Galaxy Series Repair Continued",1221,"Front Screen Repair ",108.99,No,108.99,,,Published
+71,"Samsung Galaxy J5 2016 Repair","Galaxy Series Repair Continued",1222,"Antenna Repair ",89.99,No,89.99,,,Published
+71,"Samsung Galaxy J5 2016 Repair","Galaxy Series Repair Continued",1223,"Battery Repair ",89.99,No,89.99,,,Published
+71,"Samsung Galaxy J5 2016 Repair","Galaxy Series Repair Continued",1224,"Charging Port Repair ",89.99,No,89.99,,,Published
+71,"Samsung Galaxy J5 2016 Repair","Galaxy Series Repair Continued",1225,"Diagnostic Service ",39.99,No,39.99,,,Published
+71,"Samsung Galaxy J5 2016 Repair","Galaxy Series Repair Continued",1226,"Earpiece Repair ",89.99,No,89.99,,,Published
+71,"Samsung Galaxy J5 2016 Repair","Galaxy Series Repair Continued",1227,"Front Camera Repair ",89.99,No,89.99,,,Published
+71,"Samsung Galaxy J5 2016 Repair","Galaxy Series Repair Continued",1228,"Headphone Socket Repair ",89.99,No,89.99,,,Published
+71,"Samsung Galaxy J5 2016 Repair","Galaxy Series Repair Continued",1229,"Home Button Repair ",89.99,No,89.99,,,Published
+71,"Samsung Galaxy J5 2016 Repair","Galaxy Series Repair Continued",1230,"Liquid Damage Service ",69.99,No,69.99,,,Published
+71,"Samsung Galaxy J5 2016 Repair","Galaxy Series Repair Continued",1231,"Loudspeaker Repair ",89.99,No,89.99,,,Published
+71,"Samsung Galaxy J5 2016 Repair","Galaxy Series Repair Continued",1232,"Microphone Repair ",89.99,No,89.99,,,Published
+71,"Samsung Galaxy J5 2016 Repair","Galaxy Series Repair Continued",1233,"Mute Button Repair ",89.99,No,89.99,,,Published
+71,"Samsung Galaxy J5 2016 Repair","Galaxy Series Repair Continued",1234,"Rear Camera Repair ",89.99,No,89.99,,,Published
+71,"Samsung Galaxy J5 2016 Repair","Galaxy Series Repair Continued",1235,"Rear Cover Repair ",89.99,No,89.99,,,Published
+71,"Samsung Galaxy J5 2016 Repair","Galaxy Series Repair Continued",1236,"Vibration Repair ",89.99,No,89.99,,,Published
+71,"Samsung Galaxy J5 2016 Repair","Galaxy Series Repair Continued",1237,"Volume Repair ",89.99,No,89.99,,,Published
+71,"Samsung Galaxy J5 2016 Repair","Galaxy Series Repair Continued",1238,"WIFI Repair ",89.99,No,89.99,,,Published
+72,"Samsung Galaxy J5 Repair","Galaxy Series Repair Continued",1239,"Front Screen Repair ",108.99,No,108.99,,,Published
+72,"Samsung Galaxy J5 Repair","Galaxy Series Repair Continued",1240,"Antenna Repair ",89.99,No,89.99,,,Published
+72,"Samsung Galaxy J5 Repair","Galaxy Series Repair Continued",1241,"Battery Repair ",89.99,No,89.99,,,Published
+72,"Samsung Galaxy J5 Repair","Galaxy Series Repair Continued",1242,"Charging Port Repair ",89.99,No,89.99,,,Published
+72,"Samsung Galaxy J5 Repair","Galaxy Series Repair Continued",1243,"Diagnostic Service ",39.99,No,39.99,,,Published
+72,"Samsung Galaxy J5 Repair","Galaxy Series Repair Continued",1244,"Earpiece Repair ",89.99,No,89.99,,,Published
+72,"Samsung Galaxy J5 Repair","Galaxy Series Repair Continued",1245,"Front Camera Repair ",89.99,No,89.99,,,Published
+72,"Samsung Galaxy J5 Repair","Galaxy Series Repair Continued",1246,"Headphone Socket Repair ",89.99,No,89.99,,,Published
+72,"Samsung Galaxy J5 Repair","Galaxy Series Repair Continued",1247,"Home Button Repair ",89.99,No,89.99,,,Published
+72,"Samsung Galaxy J5 Repair","Galaxy Series Repair Continued",1248,"Liquid Damage Service ",69.99,No,69.99,,,Published
+72,"Samsung Galaxy J5 Repair","Galaxy Series Repair Continued",1249,"Loudspeaker Repair ",89.99,No,89.99,,,Published
+72,"Samsung Galaxy J5 Repair","Galaxy Series Repair Continued",1250,"Microphone Repair ",89.99,No,89.99,,,Published
+72,"Samsung Galaxy J5 Repair","Galaxy Series Repair Continued",1251,"Mute Button Repair ",89.99,No,89.99,,,Published
+72,"Samsung Galaxy J5 Repair","Galaxy Series Repair Continued",1252,"Power Button Repair ",89.99,No,89.99,,,Published
+72,"Samsung Galaxy J5 Repair","Galaxy Series Repair Continued",1253,"Rear Camera Repair ",89.99,No,89.99,,,Published
+72,"Samsung Galaxy J5 Repair","Galaxy Series Repair Continued",1254,"Rear Cover Repair ",89.99,No,89.99,,,Published
+72,"Samsung Galaxy J5 Repair","Galaxy Series Repair Continued",1255,"Vibration Repair ",89.99,No,89.99,,,Published
+72,"Samsung Galaxy J5 Repair","Galaxy Series Repair Continued",1256,"Volume Repair ",89.99,No,89.99,,,Published
+72,"Samsung Galaxy J5 Repair","Galaxy Series Repair Continued",1257,"WIFI Repair ",89.99,No,89.99,,,Published
+73,"Samsung Galaxy J1 Repair","Galaxy Series Repair Continued",1258,"Front Screen Repair ",129.99,No,129.99,,,Published
+73,"Samsung Galaxy J1 Repair","Galaxy Series Repair Continued",1259,"Antenna Repair ",89.99,No,89.99,,,Published
+73,"Samsung Galaxy J1 Repair","Galaxy Series Repair Continued",1260,"Battery Repair ",89.99,No,89.99,,,Published
+73,"Samsung Galaxy J1 Repair","Galaxy Series Repair Continued",1261,"Charging Port Repair ",89.99,No,89.99,,,Published
+73,"Samsung Galaxy J1 Repair","Galaxy Series Repair Continued",1262,"Diagnostic Service ",39.99,No,39.99,,,Published
+73,"Samsung Galaxy J1 Repair","Galaxy Series Repair Continued",1263,"Earpiece Repair ",89.99,No,89.99,,,Published
+73,"Samsung Galaxy J1 Repair","Galaxy Series Repair Continued",1264,"Front Camera Repair ",89.99,No,89.99,,,Published
+73,"Samsung Galaxy J1 Repair","Galaxy Series Repair Continued",1265,"Headphone Socket Repair ",89.99,No,89.99,,,Published
+73,"Samsung Galaxy J1 Repair","Galaxy Series Repair Continued",1266,"Home Button Repair ",89.99,No,89.99,,,Published
+73,"Samsung Galaxy J1 Repair","Galaxy Series Repair Continued",1267,"Liquid Damage Service ",69.99,No,69.99,,,Published
+73,"Samsung Galaxy J1 Repair","Galaxy Series Repair Continued",1268,"Microphone Repair ",89.99,No,89.99,,,Published
+73,"Samsung Galaxy J1 Repair","Galaxy Series Repair Continued",1269,"Mute Button Repair ",89.99,No,89.99,,,Published
+73,"Samsung Galaxy J1 Repair","Galaxy Series Repair Continued",1270,"Rear Camera Repair ",89.99,No,89.99,,,Published
+73,"Samsung Galaxy J1 Repair","Galaxy Series Repair Continued",1271,"Rear Cover Repair ",89.99,No,89.99,,,Published
+73,"Samsung Galaxy J1 Repair","Galaxy Series Repair Continued",1272,"Vibration Repair ",89.99,No,89.99,,,Published
+73,"Samsung Galaxy J1 Repair","Galaxy Series Repair Continued",1273,"Volume Repair ",89.99,No,89.99,,,Published
+73,"Samsung Galaxy J1 Repair","Galaxy Series Repair Continued",1274,"WIFI Repair ",89.99,No,89.99,,,Published
+74,"Samsung Galaxy J1 Ace Repair","Galaxy Series Repair Continued",1275,"Front Screen Repair ",189.99,No,189.99,,,Published
+74,"Samsung Galaxy J1 Ace Repair","Galaxy Series Repair Continued",1276,"Antenna Repair ",89.99,No,89.99,,,Published
+74,"Samsung Galaxy J1 Ace Repair","Galaxy Series Repair Continued",1277,"Battery Repair ",89.99,No,89.99,,,Published
+74,"Samsung Galaxy J1 Ace Repair","Galaxy Series Repair Continued",1278,"Charging Port Repair ",89.99,No,89.99,,,Published
+74,"Samsung Galaxy J1 Ace Repair","Galaxy Series Repair Continued",1279,"Diagnostic Service ",39.99,No,39.99,,,Published
+74,"Samsung Galaxy J1 Ace Repair","Galaxy Series Repair Continued",1280,"Earpiece Repair ",89.99,No,89.99,,,Published
+74,"Samsung Galaxy J1 Ace Repair","Galaxy Series Repair Continued",1281,"Front Camera Repair ",89.99,No,89.99,,,Published
+74,"Samsung Galaxy J1 Ace Repair","Galaxy Series Repair Continued",1282,"Headphone Socket Repair ",89.99,No,89.99,,,Published
+74,"Samsung Galaxy J1 Ace Repair","Galaxy Series Repair Continued",1283,"Home Button Repair ",89.99,No,89.99,,,Published
+74,"Samsung Galaxy J1 Ace Repair","Galaxy Series Repair Continued",1284,"Liquid Damage Service ",69.99,No,69.99,,,Published
+74,"Samsung Galaxy J1 Ace Repair","Galaxy Series Repair Continued",1285,"Loudspeaker Repair ",89.99,No,89.99,,,Published
+74,"Samsung Galaxy J1 Ace Repair","Galaxy Series Repair Continued",1286,"Microphone Repair ",89.99,No,89.99,,,Published
+74,"Samsung Galaxy J1 Ace Repair","Galaxy Series Repair Continued",1287,"Mute Button Repair ",89.99,No,89.99,,,Published
+74,"Samsung Galaxy J1 Ace Repair","Galaxy Series Repair Continued",1288,"Rear Camera Repair ",89.99,No,89.99,,,Published
+74,"Samsung Galaxy J1 Ace Repair","Galaxy Series Repair Continued",1289,"Rear Cover Repair ",89.99,No,89.99,,,Published
+74,"Samsung Galaxy J1 Ace Repair","Galaxy Series Repair Continued",1290,"Vibration Repair ",89.99,No,89.99,,,Published
+74,"Samsung Galaxy J1 Ace Repair","Galaxy Series Repair Continued",1291,"Volume Repair ",89.99,No,89.99,,,Published
+74,"Samsung Galaxy J1 Ace Repair","Galaxy Series Repair Continued",1292,"WIFI Repair ",89.99,No,89.99,,,Published
+75,"Samsung Galaxy Grand 2 Repair","Galaxy Series Repair Continued",1293,"Antenna Repair ",69.99,No,69.99,,,Published
+75,"Samsung Galaxy Grand 2 Repair","Galaxy Series Repair Continued",1294,"Battery Repair ",69.99,No,69.99,,,Published
+75,"Samsung Galaxy Grand 2 Repair","Galaxy Series Repair Continued",1295,"Charging Port Repair ",69.99,No,69.99,,,Published
+75,"Samsung Galaxy Grand 2 Repair","Galaxy Series Repair Continued",1296,"Diagnostic Service ",39.99,No,39.99,,,Published
+75,"Samsung Galaxy Grand 2 Repair","Galaxy Series Repair Continued",1297,"Earpiece Repair ",69.99,No,69.99,,,Published
+75,"Samsung Galaxy Grand 2 Repair","Galaxy Series Repair Continued",1298,"Front Camera Repair ",69.99,No,69.99,,,Published
+75,"Samsung Galaxy Grand 2 Repair","Galaxy Series Repair Continued",1299,"Headphone Socket Repair ",69.99,No,69.99,,,Published
+75,"Samsung Galaxy Grand 2 Repair","Galaxy Series Repair Continued",1300,"Home Button Repair ",69.99,No,69.99,,,Published
+75,"Samsung Galaxy Grand 2 Repair","Galaxy Series Repair Continued",1301,"Liquid Damage Service ",69.99,No,69.99,,,Published
+75,"Samsung Galaxy Grand 2 Repair","Galaxy Series Repair Continued",1302,"Loudspeaker Repair ",69.99,No,69.99,,,Published
+75,"Samsung Galaxy Grand 2 Repair","Galaxy Series Repair Continued",1303,"Microphone Repair ",69.99,No,69.99,,,Published
+75,"Samsung Galaxy Grand 2 Repair","Galaxy Series Repair Continued",1304,"Mute Button Repair ",69.99,No,69.99,,,Published
+75,"Samsung Galaxy Grand 2 Repair","Galaxy Series Repair Continued",1305,"Rear Camera Repair ",69.99,No,69.99,,,Published
+75,"Samsung Galaxy Grand 2 Repair","Galaxy Series Repair Continued",1306,"Rear Cover Repair ",69.99,No,69.99,,,Published
+75,"Samsung Galaxy Grand 2 Repair","Galaxy Series Repair Continued",1307,"Vibration Repair ",69.99,No,69.99,,,Published
+75,"Samsung Galaxy Grand 2 Repair","Galaxy Series Repair Continued",1308,"Volume Repair ",69.99,No,69.99,,,Published
+75,"Samsung Galaxy Grand 2 Repair","Galaxy Series Repair Continued",1309,"WIFI Repair ",69.99,No,69.99,,,Published
+77,"Samsung Galaxy Grand Prime Repair","Galaxy Series Repair Continued",1325,"Antenna Repair ",69.99,No,69.99,,,Published
+77,"Samsung Galaxy Grand Prime Repair","Galaxy Series Repair Continued",1326,"Battery Repair ",69.99,No,69.99,,,Published
+77,"Samsung Galaxy Grand Prime Repair","Galaxy Series Repair Continued",1327,"Charging Port Repair ",69.99,No,69.99,,,Published
+77,"Samsung Galaxy Grand Prime Repair","Galaxy Series Repair Continued",1328,"Diagnostic Service ",39.99,No,39.99,,,Published
+77,"Samsung Galaxy Grand Prime Repair","Galaxy Series Repair Continued",1329,"Earpiece Repair ",69.99,No,69.99,,,Published
+77,"Samsung Galaxy Grand Prime Repair","Galaxy Series Repair Continued",1330,"Front Camera Repair ",69.99,No,69.99,,,Published
+77,"Samsung Galaxy Grand Prime Repair","Galaxy Series Repair Continued",1331,"Headphone Socket Repair ",69.99,No,69.99,,,Published
+77,"Samsung Galaxy Grand Prime Repair","Galaxy Series Repair Continued",1332,"Home Button Repair ",69.99,No,69.99,,,Published
+77,"Samsung Galaxy Grand Prime Repair","Galaxy Series Repair Continued",1333,"Liquid Damage Service ",69.99,No,69.99,,,Published
+77,"Samsung Galaxy Grand Prime Repair","Galaxy Series Repair Continued",1334,"Loudspeaker Repair ",69.99,No,69.99,,,Published
+77,"Samsung Galaxy Grand Prime Repair","Galaxy Series Repair Continued",1335,"Microphone Repair ",69.99,No,69.99,,,Published
+77,"Samsung Galaxy Grand Prime Repair","Galaxy Series Repair Continued",1336,"Mute Button Repair ",69.99,No,69.99,,,Published
+77,"Samsung Galaxy Grand Prime Repair","Galaxy Series Repair Continued",1337,"Rear Camera Repair ",69.99,No,69.99,,,Published
+77,"Samsung Galaxy Grand Prime Repair","Galaxy Series Repair Continued",1338,"Rear Cover Repair ",69.99,No,69.99,,,Published
+77,"Samsung Galaxy Grand Prime Repair","Galaxy Series Repair Continued",1339,"Vibration Repair ",69.99,No,69.99,,,Published
+77,"Samsung Galaxy Grand Prime Repair","Galaxy Series Repair Continued",1340,"Volume Repair ",69.99,No,69.99,,,Published
+77,"Samsung Galaxy Grand Prime Repair","Galaxy Series Repair Continued",1341,"WIFI Repair ",69.99,No,69.99,,,Published
+78,"Samsung Galaxy Grand Neo Repair","Galaxy Series Repair Continued",1342,"Antenna Repair ",69.99,No,69.99,,,Published
+78,"Samsung Galaxy Grand Neo Repair","Galaxy Series Repair Continued",1343,"Battery Repair ",69.99,No,69.99,,,Published
+78,"Samsung Galaxy Grand Neo Repair","Galaxy Series Repair Continued",1344,"Charging Port Repair ",69.99,No,69.99,,,Published
+78,"Samsung Galaxy Grand Neo Repair","Galaxy Series Repair Continued",1345,"Diagnostic Service ",39.99,No,39.99,,,Published
+78,"Samsung Galaxy Grand Neo Repair","Galaxy Series Repair Continued",1346,"Earpiece Repair ",69.99,No,69.99,,,Published
+78,"Samsung Galaxy Grand Neo Repair","Galaxy Series Repair Continued",1347,"Front Camera Repair ",69.99,No,69.99,,,Published
+78,"Samsung Galaxy Grand Neo Repair","Galaxy Series Repair Continued",1348,"Headphone Socket Repair ",69.99,No,69.99,,,Published
+78,"Samsung Galaxy Grand Neo Repair","Galaxy Series Repair Continued",1349,"Home Button Repair ",69.99,No,69.99,,,Published
+78,"Samsung Galaxy Grand Neo Repair","Galaxy Series Repair Continued",1350,"Liquid Damage Service ",69.99,No,69.99,,,Published
+78,"Samsung Galaxy Grand Neo Repair","Galaxy Series Repair Continued",1351,"Loudspeaker Repair ",69.99,No,69.99,,,Published
+78,"Samsung Galaxy Grand Neo Repair","Galaxy Series Repair Continued",1352,"Microphone Repair ",69.99,No,69.99,,,Published
+78,"Samsung Galaxy Grand Neo Repair","Galaxy Series Repair Continued",1353,"Mute Button Repair ",69.99,No,69.99,,,Published
+78,"Samsung Galaxy Grand Neo Repair","Galaxy Series Repair Continued",1354,"Rear Camera Repair ",69.99,No,69.99,,,Published
+78,"Samsung Galaxy Grand Neo Repair","Galaxy Series Repair Continued",1355,"Rear Cover Repair ",69.99,No,69.99,,,Published
+78,"Samsung Galaxy Grand Neo Repair","Galaxy Series Repair Continued",1356,"Vibration Repair ",69.99,No,69.99,,,Published
+78,"Samsung Galaxy Grand Neo Repair","Galaxy Series Repair Continued",1357,"Volume Repair ",69.99,No,69.99,,,Published
+78,"Samsung Galaxy Grand Neo Repair","Galaxy Series Repair Continued",1358,"WIFI Repair ",69.99,No,69.99,,,Published

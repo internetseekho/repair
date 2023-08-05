@@ -1,0 +1,686 @@
+Model_ID,Model_Title,Device,fault_id,fault_name,regular_price,is_on_offer,sale_price,offer_start_date,offer_end_date,status
+7,"HTC One X Repair","One Series Repair",90,"Front Screen Repair ",59.99,No,59.99,,,Published
+7,"HTC One X Repair","One Series Repair",91,"Antenna Repair ",54.99,No,54.99,,,Published
+7,"HTC One X Repair","One Series Repair",92,"Battery Repair ",59.99,No,59.99,,,Published
+7,"HTC One X Repair","One Series Repair",93,"Charging Port Repair ",54.99,No,54.99,,,Published
+7,"HTC One X Repair","One Series Repair",94,"Diagnostic Service ",39.99,No,39.99,,,Published
+7,"HTC One X Repair","One Series Repair",95,"Earpiece Repair ",54.99,No,54.99,,,Published
+7,"HTC One X Repair","One Series Repair",96,"Front Camera Repair ",54.99,No,54.99,,,Published
+7,"HTC One X Repair","One Series Repair",97,"Headphone Socket Repair ",54.99,No,54.99,,,Published
+7,"HTC One X Repair","One Series Repair",98,"Liquid Damage Service ",69.99,No,69.99,,,Published
+7,"HTC One X Repair","One Series Repair",99,"Loudspeaker Repair ",54.99,No,54.99,,,Published
+7,"HTC One X Repair","One Series Repair",100,"Microphone Repair ",54.99,No,54.99,,,Published
+7,"HTC One X Repair","One Series Repair",101,"Mute Button Repair ",54.99,No,54.99,,,Published
+7,"HTC One X Repair","One Series Repair",102,"Power Button Repair ",54.99,No,54.99,,,Published
+7,"HTC One X Repair","One Series Repair",103,"Rear Camera Repair ",59.99,No,59.99,,,Published
+7,"HTC One X Repair","One Series Repair",104,"Vibration Repair ",54.99,No,54.99,,,Published
+7,"HTC One X Repair","One Series Repair",105,"Volume Repair ",54.99,No,54.99,,,Published
+8,"HTC One XL Repair","One Series Repair",106,"Front Screen Repair ",74.99,No,74.99,,,Published
+8,"HTC One XL Repair","One Series Repair",107,"Antenna Repair ",54.99,No,54.99,,,Published
+8,"HTC One XL Repair","One Series Repair",108,"Battery Repair ",59.99,No,59.99,,,Published
+8,"HTC One XL Repair","One Series Repair",109,"Charging Port Repair ",59.99,No,59.99,,,Published
+8,"HTC One XL Repair","One Series Repair",110,"Diagnostic Service ",39.99,No,39.99,,,Published
+8,"HTC One XL Repair","One Series Repair",111,"Earpiece Repair ",54.99,No,54.99,,,Published
+8,"HTC One XL Repair","One Series Repair",112,"Front Camera Repair ",54.99,No,54.99,,,Published
+8,"HTC One XL Repair","One Series Repair",113,"Headphone Socket Repair ",54.99,No,54.99,,,Published
+8,"HTC One XL Repair","One Series Repair",114,"Liquid Damage Service ",69.99,No,69.99,,,Published
+8,"HTC One XL Repair","One Series Repair",115,"Loudspeaker Repair ",54.99,No,54.99,,,Published
+8,"HTC One XL Repair","One Series Repair",116,"Microphone Repair ",54.99,No,54.99,,,Published
+8,"HTC One XL Repair","One Series Repair",117,"Mute Button Repair ",54.99,No,54.99,,,Published
+8,"HTC One XL Repair","One Series Repair",118,"Power Button Repair ",54.99,No,54.99,,,Published
+8,"HTC One XL Repair","One Series Repair",119,"Vibration Repair ",54.99,No,54.99,,,Published
+8,"HTC One XL Repair","One Series Repair",120,"Volume Repair ",54.99,No,54.99,,,Published
+10,"HTC One X+ Repair","One Series Repair",138,"Front Screen Repair ",74.99,No,74.99,,,Published
+10,"HTC One X+ Repair","One Series Repair",139,"Antenna Repair ",54.99,No,54.99,,,Published
+10,"HTC One X+ Repair","One Series Repair",140,"Battery Repair ",59.99,No,59.99,,,Published
+10,"HTC One X+ Repair","One Series Repair",141,"Charging Port Repair ",59.99,No,59.99,,,Published
+10,"HTC One X+ Repair","One Series Repair",142,"Diagnostic Service ",39.99,No,39.99,,,Published
+10,"HTC One X+ Repair","One Series Repair",143,"Earpiece Repair ",54.99,No,54.99,,,Published
+10,"HTC One X+ Repair","One Series Repair",144,"Front Camera Repair ",54.99,No,54.99,,,Published
+10,"HTC One X+ Repair","One Series Repair",145,"Headphone Socket Repair ",54.99,No,54.99,,,Published
+10,"HTC One X+ Repair","One Series Repair",146,"Liquid Damage Service ",69.99,No,69.99,,,Published
+10,"HTC One X+ Repair","One Series Repair",147,"Loudspeaker Repair ",54.99,No,54.99,,,Published
+10,"HTC One X+ Repair","One Series Repair",148,"Microphone Repair ",54.99,No,54.99,,,Published
+10,"HTC One X+ Repair","One Series Repair",149,"Mute Button Repair ",54.99,No,54.99,,,Published
+10,"HTC One X+ Repair","One Series Repair",150,"Power Button Repair ",54.99,No,54.99,,,Published
+10,"HTC One X+ Repair","One Series Repair",151,"Rear Camera Repair ",59.99,No,59.99,,,Published
+10,"HTC One X+ Repair","One Series Repair",152,"Vibration Repair ",54.99,No,54.99,,,Published
+10,"HTC One X+ Repair","One Series Repair",153,"Volume Repair ",54.99,No,54.99,,,Published
+15,"HTC Desire 816 Repair","Desire Repair",216,"Front Screen Repair ",108.99,No,108.99,,,Published
+15,"HTC Desire 816 Repair","Desire Repair",217,"Antenna Repair ",54.99,No,54.99,,,Published
+15,"HTC Desire 816 Repair","Desire Repair",218,"Battery Repair ",54.99,No,54.99,,,Published
+15,"HTC Desire 816 Repair","Desire Repair",219,"Charging Port Repair ",57.99,No,57.99,,,Published
+15,"HTC Desire 816 Repair","Desire Repair",220,"Diagnostic Service ",39.99,No,39.99,,,Published
+15,"HTC Desire 816 Repair","Desire Repair",221,"Earpiece Repair ",54.99,No,54.99,,,Published
+15,"HTC Desire 816 Repair","Desire Repair",222,"Front Camera Repair ",54.99,No,54.99,,,Published
+15,"HTC Desire 816 Repair","Desire Repair",223,"Headphone Socket Repair ",54.99,No,54.99,,,Published
+15,"HTC Desire 816 Repair","Desire Repair",224,"Home Button Repair ",54.99,No,54.99,,,Published
+15,"HTC Desire 816 Repair","Desire Repair",225,"Liquid Damage Service ",69.99,No,69.99,,,Published
+15,"HTC Desire 816 Repair","Desire Repair",226,"Loudspeaker Repair ",54.99,No,54.99,,,Published
+15,"HTC Desire 816 Repair","Desire Repair",227,"Microphone Repair ",54.99,No,54.99,,,Published
+15,"HTC Desire 816 Repair","Desire Repair",228,"Mute Button Repair ",54.99,No,54.99,,,Published
+15,"HTC Desire 816 Repair","Desire Repair",229,"Power Button Repair ",54.99,No,54.99,,,Published
+15,"HTC Desire 816 Repair","Desire Repair",230,"Rear Camera Repair ",59.99,No,59.99,,,Published
+15,"HTC Desire 816 Repair","Desire Repair",231,"Rear Cover Repair ",57.99,No,57.99,,,Published
+15,"HTC Desire 816 Repair","Desire Repair",232,"Vibration Repair ",54.99,No,54.99,,,Published
+15,"HTC Desire 816 Repair","Desire Repair",233,"Volume Repair ",54.99,No,54.99,,,Published
+16,"HTC Desire Eye Repair","Desire Repair",234,"Front Screen Repair ",69.99,No,69.99,,,Published
+16,"HTC Desire Eye Repair","Desire Repair",235,"Antenna Repair ",69.99,No,69.99,,,Published
+16,"HTC Desire Eye Repair","Desire Repair",236,"Battery Repair ",69.99,No,69.99,,,Published
+16,"HTC Desire Eye Repair","Desire Repair",237,"Charging Port Repair ",69.99,No,69.99,,,Published
+16,"HTC Desire Eye Repair","Desire Repair",238,"Diagnostic Service ",39.99,No,39.99,,,Published
+16,"HTC Desire Eye Repair","Desire Repair",239,"Earpiece Repair ",69.99,No,69.99,,,Published
+16,"HTC Desire Eye Repair","Desire Repair",240,"Front Camera Repair ",69.99,No,69.99,,,Published
+16,"HTC Desire Eye Repair","Desire Repair",241,"Headphone Socket Repair ",69.99,No,69.99,,,Published
+16,"HTC Desire Eye Repair","Desire Repair",242,"Home Button Repair ",69.99,No,69.99,,,Published
+16,"HTC Desire Eye Repair","Desire Repair",243,"Liquid Damage Service ",69.99,No,69.99,,,Published
+16,"HTC Desire Eye Repair","Desire Repair",244,"Loudspeaker Repair ",69.99,No,69.99,,,Published
+16,"HTC Desire Eye Repair","Desire Repair",245,"Microphone Repair ",69.99,No,69.99,,,Published
+16,"HTC Desire Eye Repair","Desire Repair",246,"Mute Button Repair ",69.99,No,69.99,,,Published
+16,"HTC Desire Eye Repair","Desire Repair",247,"Power Button Repair ",69.99,No,69.99,,,Published
+16,"HTC Desire Eye Repair","Desire Repair",248,"Rear Camera Repair ",69.99,No,69.99,,,Published
+16,"HTC Desire Eye Repair","Desire Repair",249,"Rear Cover Repair ",69.99,No,69.99,,,Published
+16,"HTC Desire Eye Repair","Desire Repair",250,"Vibration Repair ",69.99,No,69.99,,,Published
+16,"HTC Desire Eye Repair","Desire Repair",251,"Volume Repair ",69.99,No,69.99,,,Published
+47,"HTC Desire 728 Ultra Repairs","Desire Repair",789,"Front Screen Repair ",69.99,No,69.99,,,Published
+47,"HTC Desire 728 Ultra Repairs","Desire Repair",790,"Antenna Repair ",69.99,No,69.99,,,Published
+47,"HTC Desire 728 Ultra Repairs","Desire Repair",791,"Battery Repair ",69.99,No,69.99,,,Published
+47,"HTC Desire 728 Ultra Repairs","Desire Repair",792,"Charging Port Repair ",69.99,No,69.99,,,Published
+47,"HTC Desire 728 Ultra Repairs","Desire Repair",793,"Diagnostic Service ",39.99,No,39.99,,,Published
+47,"HTC Desire 728 Ultra Repairs","Desire Repair",794,"Earpiece Repair ",69.99,No,69.99,,,Published
+47,"HTC Desire 728 Ultra Repairs","Desire Repair",795,"Front Camera Repair ",69.99,No,69.99,,,Published
+47,"HTC Desire 728 Ultra Repairs","Desire Repair",796,"Headphone Socket Repair ",69.99,No,69.99,,,Published
+47,"HTC Desire 728 Ultra Repairs","Desire Repair",797,"Home Button Repair ",69.99,No,69.99,,,Published
+47,"HTC Desire 728 Ultra Repairs","Desire Repair",798,"Liquid Damage Service ",69.99,No,69.99,,,Published
+47,"HTC Desire 728 Ultra Repairs","Desire Repair",799,"Loudspeaker Repair ",69.99,No,69.99,,,Published
+47,"HTC Desire 728 Ultra Repairs","Desire Repair",800,"Microphone Repair ",69.99,No,69.99,,,Published
+47,"HTC Desire 728 Ultra Repairs","Desire Repair",801,"Mute Button Repair ",69.99,No,69.99,,,Published
+47,"HTC Desire 728 Ultra Repairs","Desire Repair",802,"Power Button Repair ",69.99,No,69.99,,,Published
+47,"HTC Desire 728 Ultra Repairs","Desire Repair",803,"Rear Camera Repair ",69.99,No,69.99,,,Published
+47,"HTC Desire 728 Ultra Repairs","Desire Repair",804,"Rear Cover Repair ",69.99,No,69.99,,,Published
+47,"HTC Desire 728 Ultra Repairs","Desire Repair",805,"Software Repair ",69.99,No,69.99,,,Published
+47,"HTC Desire 728 Ultra Repairs","Desire Repair",806,"Vibration Repair ",69.99,No,69.99,,,Published
+47,"HTC Desire 728 Ultra Repairs","Desire Repair",807,"Volume Repair ",69.99,No,69.99,,,Published
+47,"HTC Desire 728 Ultra Repairs","Desire Repair",808,"WIFI Repair ",69.99,No,69.99,,,Published
+48,"HTC Desire 650 Repairs","Desire Repair",809,"Front Screen Repair ",79.99,No,79.99,,,Published
+48,"HTC Desire 650 Repairs","Desire Repair",810,"Antenna Repair ",59.99,No,59.99,,,Published
+48,"HTC Desire 650 Repairs","Desire Repair",811,"Battery Repair ",59.99,No,59.99,,,Published
+48,"HTC Desire 650 Repairs","Desire Repair",812,"Charging Port Repair ",57.99,No,57.99,,,Published
+48,"HTC Desire 650 Repairs","Desire Repair",813,"Diagnostic Service ",39.99,No,39.99,,,Published
+48,"HTC Desire 650 Repairs","Desire Repair",814,"Earpiece Repair ",59.99,No,59.99,,,Published
+48,"HTC Desire 650 Repairs","Desire Repair",815,"Front Camera Repair ",59.99,No,59.99,,,Published
+48,"HTC Desire 650 Repairs","Desire Repair",816,"Headphone Socket Repair ",59.99,No,59.99,,,Published
+48,"HTC Desire 650 Repairs","Desire Repair",817,"Home Button Repair ",59.99,No,59.99,,,Published
+48,"HTC Desire 650 Repairs","Desire Repair",818,"Liquid Damage Service ",69.99,No,69.99,,,Published
+48,"HTC Desire 650 Repairs","Desire Repair",819,"Loudspeaker Repair ",59.99,No,59.99,,,Published
+48,"HTC Desire 650 Repairs","Desire Repair",820,"Microphone Repair ",59.99,No,59.99,,,Published
+48,"HTC Desire 650 Repairs","Desire Repair",821,"Mute Button Repair ",59.99,No,59.99,,,Published
+48,"HTC Desire 650 Repairs","Desire Repair",822,"Power Button Repair ",59.99,No,59.99,,,Published
+48,"HTC Desire 650 Repairs","Desire Repair",823,"Rear Camera Repair ",59.99,No,59.99,,,Published
+48,"HTC Desire 650 Repairs","Desire Repair",824,"Rear Cover Repair ",58.99,No,58.99,,,Published
+48,"HTC Desire 650 Repairs","Desire Repair",825,"Vibration Repair ",59.99,No,59.99,,,Published
+48,"HTC Desire 650 Repairs","Desire Repair",826,"Volume Repair ",59.99,No,59.99,,,Published
+49,"HTC Desire 630 Repairs","Desire Repair",827,"Front Screen Repair ",69.99,No,69.99,,,Published
+49,"HTC Desire 630 Repairs","Desire Repair",828,"Antenna Repair ",69.99,No,69.99,,,Published
+49,"HTC Desire 630 Repairs","Desire Repair",829,"Battery Repair ",69.99,No,69.99,,,Published
+49,"HTC Desire 630 Repairs","Desire Repair",830,"Charging Port Repair ",69.99,No,69.99,,,Published
+49,"HTC Desire 630 Repairs","Desire Repair",831,"Diagnostic Service ",39.99,No,39.99,,,Published
+49,"HTC Desire 630 Repairs","Desire Repair",832,"Earpiece Repair ",69.99,No,69.99,,,Published
+49,"HTC Desire 630 Repairs","Desire Repair",833,"Front Camera Repair ",69.99,No,69.99,,,Published
+49,"HTC Desire 630 Repairs","Desire Repair",834,"Headphone Socket Repair ",69.99,No,69.99,,,Published
+49,"HTC Desire 630 Repairs","Desire Repair",835,"Home Button Repair ",69.99,No,69.99,,,Published
+49,"HTC Desire 630 Repairs","Desire Repair",836,"Liquid Damage Service ",69.99,No,69.99,,,Published
+49,"HTC Desire 630 Repairs","Desire Repair",837,"Loudspeaker Repair ",69.99,No,69.99,,,Published
+49,"HTC Desire 630 Repairs","Desire Repair",838,"Microphone Repair ",69.99,No,69.99,,,Published
+49,"HTC Desire 630 Repairs","Desire Repair",839,"Mute Button Repair ",69.99,No,69.99,,,Published
+49,"HTC Desire 630 Repairs","Desire Repair",840,"Power Button Repair ",69.99,No,69.99,,,Published
+49,"HTC Desire 630 Repairs","Desire Repair",841,"Rear Camera Repair ",69.99,No,69.99,,,Published
+49,"HTC Desire 630 Repairs","Desire Repair",842,"Rear Cover Repair ",69.99,No,69.99,,,Published
+49,"HTC Desire 630 Repairs","Desire Repair",843,"Software Repair ",69.99,No,69.99,,,Published
+49,"HTC Desire 630 Repairs","Desire Repair",844,"Vibration Repair ",69.99,No,69.99,,,Published
+49,"HTC Desire 630 Repairs","Desire Repair",845,"Volume Repair ",69.99,No,69.99,,,Published
+49,"HTC Desire 630 Repairs","Desire Repair",846,"WIFI Repair ",69.99,No,69.99,,,Published
+50,"HTC Desire 628 Repairs","Desire Repair",847,"Front Screen Repair ",69.99,No,69.99,,,Published
+50,"HTC Desire 628 Repairs","Desire Repair",848,"Antenna Repair ",69.99,No,69.99,,,Published
+50,"HTC Desire 628 Repairs","Desire Repair",849,"Battery Repair ",69.99,No,69.99,,,Published
+50,"HTC Desire 628 Repairs","Desire Repair",850,"Charging Port Repair ",69.99,No,69.99,,,Published
+50,"HTC Desire 628 Repairs","Desire Repair",851,"Diagnostic Service ",39.99,No,39.99,,,Published
+50,"HTC Desire 628 Repairs","Desire Repair",852,"Earpiece Repair ",69.99,No,69.99,,,Published
+50,"HTC Desire 628 Repairs","Desire Repair",853,"Front Camera Repair ",69.99,No,69.99,,,Published
+50,"HTC Desire 628 Repairs","Desire Repair",854,"Headphone Socket Repair ",69.99,No,69.99,,,Published
+50,"HTC Desire 628 Repairs","Desire Repair",855,"Home Button Repair ",69.99,No,69.99,,,Published
+50,"HTC Desire 628 Repairs","Desire Repair",856,"Liquid Damage Service ",69.99,No,69.99,,,Published
+50,"HTC Desire 628 Repairs","Desire Repair",857,"Loudspeaker Repair ",69.99,No,69.99,,,Published
+50,"HTC Desire 628 Repairs","Desire Repair",858,"Microphone Repair ",69.99,No,69.99,,,Published
+50,"HTC Desire 628 Repairs","Desire Repair",859,"Mute Button Repair ",69.99,No,69.99,,,Published
+50,"HTC Desire 628 Repairs","Desire Repair",860,"Power Button Repair ",69.99,No,69.99,,,Published
+50,"HTC Desire 628 Repairs","Desire Repair",861,"Rear Camera Repair ",69.99,No,69.99,,,Published
+50,"HTC Desire 628 Repairs","Desire Repair",862,"Rear Cover Repair ",69.99,No,69.99,,,Published
+50,"HTC Desire 628 Repairs","Desire Repair",863,"Software Repair ",69.99,No,69.99,,,Published
+50,"HTC Desire 628 Repairs","Desire Repair",864,"Vibration Repair ",69.99,No,69.99,,,Published
+50,"HTC Desire 628 Repairs","Desire Repair",865,"Volume Repair ",69.99,No,69.99,,,Published
+50,"HTC Desire 628 Repairs","Desire Repair",866,"WIFI Repair ",69.99,No,69.99,,,Published
+51,"HTC Desire 820 Repair","Desire Repair",867,"Front Screen Repair ",88.99,No,88.99,,,Published
+51,"HTC Desire 820 Repair","Desire Repair",868,"Antenna Repair ",69.99,No,69.99,,,Published
+51,"HTC Desire 820 Repair","Desire Repair",869,"Battery Repair ",69.99,No,69.99,,,Published
+51,"HTC Desire 820 Repair","Desire Repair",870,"Charging Port Repair ",69.99,No,69.99,,,Published
+51,"HTC Desire 820 Repair","Desire Repair",871,"Diagnostic Service ",39.99,No,39.99,,,Published
+51,"HTC Desire 820 Repair","Desire Repair",872,"Earpiece Repair ",69.99,No,69.99,,,Published
+51,"HTC Desire 820 Repair","Desire Repair",873,"Front Camera Repair ",69.99,No,69.99,,,Published
+51,"HTC Desire 820 Repair","Desire Repair",874,"Headphone Socket Repair ",69.99,No,69.99,,,Published
+51,"HTC Desire 820 Repair","Desire Repair",875,"Home Button Repair ",69.99,No,69.99,,,Published
+51,"HTC Desire 820 Repair","Desire Repair",876,"Liquid Damage Service ",69.99,No,69.99,,,Published
+51,"HTC Desire 820 Repair","Desire Repair",877,"Loudspeaker Repair ",69.99,No,69.99,,,Published
+51,"HTC Desire 820 Repair","Desire Repair",878,"Microphone Repair ",69.99,No,69.99,,,Published
+51,"HTC Desire 820 Repair","Desire Repair",879,"Mute Button Repair ",69.99,No,69.99,,,Published
+51,"HTC Desire 820 Repair","Desire Repair",880,"Power Button Repair ",69.99,No,69.99,,,Published
+51,"HTC Desire 820 Repair","Desire Repair",881,"Rear Camera Repair ",69.99,No,69.99,,,Published
+51,"HTC Desire 820 Repair","Desire Repair",882,"Rear Cover Repair ",69.99,No,69.99,,,Published
+51,"HTC Desire 820 Repair","Desire Repair",883,"Vibration Repair ",69.99,No,69.99,,,Published
+51,"HTC Desire 820 Repair","Desire Repair",884,"Volume Repair ",69.99,No,69.99,,,Published
+52,"HTC Desire 626 Repair","Desire Repair",885,"Front Screen Repair ",89.99,No,89.99,,,Published
+52,"HTC Desire 626 Repair","Desire Repair",886,"Charging Port Repair ",79.99,No,79.99,,,Published
+52,"HTC Desire 626 Repair","Desire Repair",887,"Diagnostic Service ",39.99,No,39.99,,,Published
+52,"HTC Desire 626 Repair","Desire Repair",888,"Earpiece Repair ",79.99,No,79.99,,,Published
+52,"HTC Desire 626 Repair","Desire Repair",889,"Front Camera Repair ",79.99,No,79.99,,,Published
+52,"HTC Desire 626 Repair","Desire Repair",890,"Headphone Socket Repair ",79.99,No,79.99,,,Published
+52,"HTC Desire 626 Repair","Desire Repair",891,"Home Button Repair ",79.99,No,79.99,,,Published
+52,"HTC Desire 626 Repair","Desire Repair",892,"Liquid Damage Service ",69.99,No,69.99,,,Published
+52,"HTC Desire 626 Repair","Desire Repair",893,"Loudspeaker Repair ",79.99,No,79.99,,,Published
+52,"HTC Desire 626 Repair","Desire Repair",894,"Microphone Repair ",79.99,No,79.99,,,Published
+52,"HTC Desire 626 Repair","Desire Repair",895,"Mute Button Repair ",79.99,No,79.99,,,Published
+52,"HTC Desire 626 Repair","Desire Repair",896,"Power Button Repair ",79.99,No,79.99,,,Published
+52,"HTC Desire 626 Repair","Desire Repair",897,"Rear Camera Repair ",79.99,No,79.99,,,Published
+52,"HTC Desire 626 Repair","Desire Repair",898,"Rear Cover Repair ",79.99,No,79.99,,,Published
+52,"HTC Desire 626 Repair","Desire Repair",899,"Vibration Repair ",79.99,No,79.99,,,Published
+52,"HTC Desire 626 Repair","Desire Repair",900,"Volume Repair ",79.99,No,79.99,,,Published
+53,"HTC Desire 620 Repair","Desire Repair",901,"Front Screen Repair ",89.99,No,89.99,,,Published
+53,"HTC Desire 620 Repair","Desire Repair",902,"Antenna Repair ",54.99,No,54.99,,,Published
+53,"HTC Desire 620 Repair","Desire Repair",903,"Battery Repair ",54.99,No,54.99,,,Published
+53,"HTC Desire 620 Repair","Desire Repair",904,"Charging Port Repair ",57.99,No,57.99,,,Published
+53,"HTC Desire 620 Repair","Desire Repair",905,"Diagnostic Service ",39.99,No,39.99,,,Published
+53,"HTC Desire 620 Repair","Desire Repair",906,"Earpiece Repair ",54.99,No,54.99,,,Published
+53,"HTC Desire 620 Repair","Desire Repair",907,"Front Camera Repair ",54.99,No,54.99,,,Published
+53,"HTC Desire 620 Repair","Desire Repair",908,"Headphone Socket Repair ",54.99,No,54.99,,,Published
+53,"HTC Desire 620 Repair","Desire Repair",909,"Home Button Repair ",54.99,No,54.99,,,Published
+53,"HTC Desire 620 Repair","Desire Repair",910,"Liquid Damage Service ",69.99,No,69.99,,,Published
+53,"HTC Desire 620 Repair","Desire Repair",911,"Loudspeaker Repair ",54.99,No,54.99,,,Published
+53,"HTC Desire 620 Repair","Desire Repair",912,"Microphone Repair ",54.99,No,54.99,,,Published
+53,"HTC Desire 620 Repair","Desire Repair",913,"Mute Button Repair ",54.99,No,54.99,,,Published
+53,"HTC Desire 620 Repair","Desire Repair",914,"Power Button Repair ",54.99,No,54.99,,,Published
+53,"HTC Desire 620 Repair","Desire Repair",915,"Rear Camera Repair ",59.99,No,59.99,,,Published
+53,"HTC Desire 620 Repair","Desire Repair",916,"Rear Cover Repair ",58.99,No,58.99,,,Published
+53,"HTC Desire 620 Repair","Desire Repair",917,"Vibration Repair ",54.99,No,54.99,,,Published
+53,"HTC Desire 620 Repair","Desire Repair",918,"Volume Repair ",54.99,No,54.99,,,Published
+54,"HTC Desire 530 Repair","Desire Repair",919,"Front Screen Repair ",69.99,No,69.99,,,Published
+54,"HTC Desire 530 Repair","Desire Repair",920,"Antenna Repair ",69.99,No,69.99,,,Published
+54,"HTC Desire 530 Repair","Desire Repair",921,"Battery Repair ",69.99,No,69.99,,,Published
+54,"HTC Desire 530 Repair","Desire Repair",922,"Charging Port Repair ",69.99,No,69.99,,,Published
+54,"HTC Desire 530 Repair","Desire Repair",923,"Diagnostic Service ",39.99,No,39.99,,,Published
+54,"HTC Desire 530 Repair","Desire Repair",924,"Earpiece Repair ",69.99,No,69.99,,,Published
+54,"HTC Desire 530 Repair","Desire Repair",925,"Front Camera Repair ",69.99,No,69.99,,,Published
+54,"HTC Desire 530 Repair","Desire Repair",926,"Headphone Socket Repair ",69.99,No,69.99,,,Published
+54,"HTC Desire 530 Repair","Desire Repair",927,"Home Button Repair ",69.99,No,69.99,,,Published
+54,"HTC Desire 530 Repair","Desire Repair",928,"Liquid Damage Service ",69.99,No,69.99,,,Published
+54,"HTC Desire 530 Repair","Desire Repair",929,"Loudspeaker Repair ",69.99,No,69.99,,,Published
+54,"HTC Desire 530 Repair","Desire Repair",930,"Microphone Repair ",69.99,No,69.99,,,Published
+54,"HTC Desire 530 Repair","Desire Repair",931,"Mute Button Repair ",69.99,No,69.99,,,Published
+54,"HTC Desire 530 Repair","Desire Repair",932,"Power Button Repair ",69.99,No,69.99,,,Published
+54,"HTC Desire 530 Repair","Desire Repair",933,"Rear Camera Repair ",69.99,No,69.99,,,Published
+54,"HTC Desire 530 Repair","Desire Repair",934,"Rear Cover Repair ",69.99,No,69.99,,,Published
+54,"HTC Desire 530 Repair","Desire Repair",935,"Vibration Repair ",69.99,No,69.99,,,Published
+54,"HTC Desire 530 Repair","Desire Repair",936,"Volume Repair ",69.99,No,69.99,,,Published
+55,"HTC U12+ Repair","Other HTC Repair",937,"Front Screen Repair ",159.99,No,159.99,,,Published
+55,"HTC U12+ Repair","Other HTC Repair",938,"Antenna Repair ",119.99,No,119.99,,,Published
+55,"HTC U12+ Repair","Other HTC Repair",939,"Battery Repair ",119.99,No,119.99,,,Published
+55,"HTC U12+ Repair","Other HTC Repair",940,"Charging Port Repair ",119.99,No,119.99,,,Published
+55,"HTC U12+ Repair","Other HTC Repair",941,"Diagnostic Service ",39.99,No,39.99,,,Published
+55,"HTC U12+ Repair","Other HTC Repair",942,"Earpiece Repair ",119.99,No,119.99,,,Published
+55,"HTC U12+ Repair","Other HTC Repair",943,"Front Camera Repair ",119.99,No,119.99,,,Published
+55,"HTC U12+ Repair","Other HTC Repair",944,"Headphone Socket Repair ",119.99,No,119.99,,,Published
+55,"HTC U12+ Repair","Other HTC Repair",945,"Home Button Repair ",119.99,No,119.99,,,Published
+55,"HTC U12+ Repair","Other HTC Repair",946,"Liquid Damage Service ",119.99,No,119.99,,,Published
+55,"HTC U12+ Repair","Other HTC Repair",947,"Loudspeaker Repair ",119.99,No,119.99,,,Published
+55,"HTC U12+ Repair","Other HTC Repair",948,"Microphone Repair ",119.99,No,119.99,,,Published
+55,"HTC U12+ Repair","Other HTC Repair",949,"Power Button Repair ",119.99,No,119.99,,,Published
+55,"HTC U12+ Repair","Other HTC Repair",950,"Vibration Repair ",119.99,No,119.99,,,Published
+55,"HTC U12+ Repair","Other HTC Repair",951,"Volume Repair ",119.99,No,119.99,,,Published
+56,"HTC Desire 510 Repair","Desire Repair",952,"Front Glass Repair ",69.99,No,69.99,,,Published
+56,"HTC Desire 510 Repair","Desire Repair",953,"Antenna Repair ",54.99,No,54.99,,,Published
+56,"HTC Desire 510 Repair","Desire Repair",954,"Battery Repair ",54.99,No,54.99,,,Published
+56,"HTC Desire 510 Repair","Desire Repair",955,"Charging Port Repair ",57.99,No,57.99,,,Published
+56,"HTC Desire 510 Repair","Desire Repair",956,"Diagnostic Service ",39.99,No,39.99,,,Published
+56,"HTC Desire 510 Repair","Desire Repair",957,"Earpiece Repair ",54.99,No,54.99,,,Published
+56,"HTC Desire 510 Repair","Desire Repair",958,"Front Camera Repair ",54.99,No,54.99,,,Published
+56,"HTC Desire 510 Repair","Desire Repair",959,"Headphone Socket Repair ",54.99,No,54.99,,,Published
+56,"HTC Desire 510 Repair","Desire Repair",960,"Home Button Repair ",54.99,No,54.99,,,Published
+56,"HTC Desire 510 Repair","Desire Repair",961,"LCD Repair ",69.99,No,69.99,,,Published
+56,"HTC Desire 510 Repair","Desire Repair",962,"Liquid Damage Service ",69.99,No,69.99,,,Published
+56,"HTC Desire 510 Repair","Desire Repair",963,"Loudspeaker Repair ",54.99,No,54.99,,,Published
+56,"HTC Desire 510 Repair","Desire Repair",964,"Microphone Repair ",54.99,No,54.99,,,Published
+56,"HTC Desire 510 Repair","Desire Repair",965,"Mute Button Repair ",54.99,No,54.99,,,Published
+56,"HTC Desire 510 Repair","Desire Repair",966,"Power Button Repair ",54.99,No,54.99,,,Published
+56,"HTC Desire 510 Repair","Desire Repair",967,"Rear Camera Repair ",59.99,No,59.99,,,Published
+56,"HTC Desire 510 Repair","Desire Repair",968,"Rear Cover Repair ",57.99,No,57.99,,,Published
+56,"HTC Desire 510 Repair","Desire Repair",969,"Vibration Repair ",54.99,No,54.99,,,Published
+56,"HTC Desire 510 Repair","Desire Repair",970,"Volume Repair ",54.99,No,54.99,,,Published
+57,"HTC Desire 12 Repair","Desire Repair",971,"Front Screen Repair ",109.99,No,109.99,,,Published
+57,"HTC Desire 12 Repair","Desire Repair",972,"Antenna Repair ",79.99,No,79.99,,,Published
+57,"HTC Desire 12 Repair","Desire Repair",973,"Battery Repair ",79.99,No,79.99,,,Published
+57,"HTC Desire 12 Repair","Desire Repair",974,"Charging Port Repair ",79.99,No,79.99,,,Published
+57,"HTC Desire 12 Repair","Desire Repair",975,"Diagnostic Service ",39.99,No,39.99,,,Published
+57,"HTC Desire 12 Repair","Desire Repair",976,"Earpiece Repair ",79.99,No,79.99,,,Published
+57,"HTC Desire 12 Repair","Desire Repair",977,"Front Camera Repair ",79.99,No,79.99,,,Published
+57,"HTC Desire 12 Repair","Desire Repair",978,"Headphone Socket Repair ",79.99,No,79.99,,,Published
+57,"HTC Desire 12 Repair","Desire Repair",979,"Liquid Damage Service ",79.99,No,79.99,,,Published
+57,"HTC Desire 12 Repair","Desire Repair",980,"Loudspeaker Repair ",79.99,No,79.99,,,Published
+57,"HTC Desire 12 Repair","Desire Repair",981,"Microphone Repair ",79.99,No,79.99,,,Published
+57,"HTC Desire 12 Repair","Desire Repair",982,"Mute Button Repair ",79.99,No,79.99,,,Published
+57,"HTC Desire 12 Repair","Desire Repair",983,"Power Button Repair ",79.99,No,79.99,,,Published
+57,"HTC Desire 12 Repair","Desire Repair",984,"Rear Camera Repair ",79.99,No,79.99,,,Published
+57,"HTC Desire 12 Repair","Desire Repair",985,"Rear Cover Repair ",79.99,No,79.99,,,Published
+57,"HTC Desire 12 Repair","Desire Repair",986,"Vibration Repair ",79.99,No,79.99,,,Published
+57,"HTC Desire 12 Repair","Desire Repair",987,"Volume Repair ",79.99,No,79.99,,,Published
+58,"HTC Desire 10 Pro Repairs","Desire Repair",988,"Front Screen Repair ",99.99,No,99.99,,,Published
+58,"HTC Desire 10 Pro Repairs","Desire Repair",989,"Antenna Repair ",69.99,No,69.99,,,Published
+58,"HTC Desire 10 Pro Repairs","Desire Repair",990,"Battery Repair ",69.99,No,69.99,,,Published
+58,"HTC Desire 10 Pro Repairs","Desire Repair",991,"Charging Port Repair ",69.99,No,69.99,,,Published
+58,"HTC Desire 10 Pro Repairs","Desire Repair",992,"Diagnostic Service ",39.99,No,39.99,,,Published
+58,"HTC Desire 10 Pro Repairs","Desire Repair",993,"Earpiece Repair ",69.99,No,69.99,,,Published
+58,"HTC Desire 10 Pro Repairs","Desire Repair",994,"Front Camera Repair ",69.99,No,69.99,,,Published
+58,"HTC Desire 10 Pro Repairs","Desire Repair",995,"Headphone Socket Repair ",69.99,No,69.99,,,Published
+58,"HTC Desire 10 Pro Repairs","Desire Repair",996,"Home Button Repair ",69.99,No,69.99,,,Published
+58,"HTC Desire 10 Pro Repairs","Desire Repair",997,"Liquid Damage Service ",69.99,No,69.99,,,Published
+58,"HTC Desire 10 Pro Repairs","Desire Repair",998,"Loudspeaker Repair ",69.99,No,69.99,,,Published
+58,"HTC Desire 10 Pro Repairs","Desire Repair",999,"Microphone Repair ",69.99,No,69.99,,,Published
+58,"HTC Desire 10 Pro Repairs","Desire Repair",1000,"Mute Button Repair ",69.99,No,69.99,,,Published
+58,"HTC Desire 10 Pro Repairs","Desire Repair",1001,"Power Button Repair ",69.99,No,69.99,,,Published
+58,"HTC Desire 10 Pro Repairs","Desire Repair",1002,"Rear Camera Repair ",69.99,No,69.99,,,Published
+58,"HTC Desire 10 Pro Repairs","Desire Repair",1003,"Rear Cover Repair ",69.99,No,69.99,,,Published
+58,"HTC Desire 10 Pro Repairs","Desire Repair",1004,"Software Repair ",69.99,No,69.99,,,Published
+58,"HTC Desire 10 Pro Repairs","Desire Repair",1005,"Vibration Repair ",69.99,No,69.99,,,Published
+58,"HTC Desire 10 Pro Repairs","Desire Repair",1006,"Volume Repair ",69.99,No,69.99,,,Published
+58,"HTC Desire 10 Pro Repairs","Desire Repair",1007,"WIFI Repair ",69.99,No,69.99,,,Published
+59,"HTC U12 life Repair","Other HTC Repair",1008,"Front Screen Repair ",119.99,No,119.99,,,Published
+59,"HTC U12 life Repair","Other HTC Repair",1009,"Antenna Repair ",99.99,No,99.99,,,Published
+59,"HTC U12 life Repair","Other HTC Repair",1010,"Battery Repair ",99.99,No,99.99,,,Published
+59,"HTC U12 life Repair","Other HTC Repair",1011,"Charging Port Repair ",99.99,No,99.99,,,Published
+59,"HTC U12 life Repair","Other HTC Repair",1012,"Diagnostic Service ",39.99,No,39.99,,,Published
+59,"HTC U12 life Repair","Other HTC Repair",1013,"Earpiece Repair ",99.99,No,99.99,,,Published
+59,"HTC U12 life Repair","Other HTC Repair",1014,"Front Camera Repair ",99.99,No,99.99,,,Published
+59,"HTC U12 life Repair","Other HTC Repair",1015,"Headphone Socket Repair ",99.99,No,99.99,,,Published
+59,"HTC U12 life Repair","Other HTC Repair",1016,"Home Button Repair ",99.99,No,99.99,,,Published
+59,"HTC U12 life Repair","Other HTC Repair",1017,"Liquid Damage Service ",99.99,No,99.99,,,Published
+59,"HTC U12 life Repair","Other HTC Repair",1018,"Loudspeaker Repair ",99.99,No,99.99,,,Published
+59,"HTC U12 life Repair","Other HTC Repair",1019,"Microphone Repair ",99.99,No,99.99,,,Published
+59,"HTC U12 life Repair","Other HTC Repair",1020,"Power Button Repair ",99.99,No,99.99,,,Published
+59,"HTC U12 life Repair","Other HTC Repair",1021,"Rear Camera Repair ",99.99,No,99.99,,,Published
+59,"HTC U12 life Repair","Other HTC Repair",1022,"Vibration Repair ",99.99,No,99.99,,,Published
+59,"HTC U12 life Repair","Other HTC Repair",1023,"Volume Repair ",99.99,No,99.99,,,Published
+60,"HTC U Ultra Repair","Other HTC Repair",1024,"Front Screen Repair ",253.99,No,253.99,,,Published
+60,"HTC U Ultra Repair","Other HTC Repair",1025,"Antenna Repair ",99.99,No,99.99,,,Published
+60,"HTC U Ultra Repair","Other HTC Repair",1026,"Battery Repair ",99.99,No,99.99,,,Published
+60,"HTC U Ultra Repair","Other HTC Repair",1027,"Charging Port Repair ",99.99,No,99.99,,,Published
+60,"HTC U Ultra Repair","Other HTC Repair",1028,"Diagnostic Service ",39.99,No,39.99,,,Published
+60,"HTC U Ultra Repair","Other HTC Repair",1029,"Earpiece Repair ",99.99,No,99.99,,,Published
+60,"HTC U Ultra Repair","Other HTC Repair",1030,"Front Camera Repair ",99.99,No,99.99,,,Published
+60,"HTC U Ultra Repair","Other HTC Repair",1031,"Headphone Socket Repair ",99.99,No,99.99,,,Published
+60,"HTC U Ultra Repair","Other HTC Repair",1032,"Home Button Repair ",109.99,No,109.99,,,Published
+60,"HTC U Ultra Repair","Other HTC Repair",1033,"Liquid Damage Service ",99.99,No,99.99,,,Published
+60,"HTC U Ultra Repair","Other HTC Repair",1034,"Loudspeaker Repair ",99.99,No,99.99,,,Published
+60,"HTC U Ultra Repair","Other HTC Repair",1035,"Microphone Repair ",99.99,No,99.99,,,Published
+60,"HTC U Ultra Repair","Other HTC Repair",1036,"Mute Button Repair ",99.99,No,99.99,,,Published
+60,"HTC U Ultra Repair","Other HTC Repair",1037,"Power Button Repair ",99.99,No,99.99,,,Published
+60,"HTC U Ultra Repair","Other HTC Repair",1038,"Rear Camera Repair ",79.99,No,79.99,,,Published
+60,"HTC U Ultra Repair","Other HTC Repair",1039,"Rear Cover Repair ",99.99,No,99.99,,,Published
+60,"HTC U Ultra Repair","Other HTC Repair",1040,"Vibration Repair ",99.99,No,99.99,,,Published
+60,"HTC U Ultra Repair","Other HTC Repair",1041,"Volume Repair ",99.99,No,99.99,,,Published
+61,"HTC U11 Eyes Repairs","Other HTC Repair",1042,"Front Screen Repair ",169.99,No,169.99,,,Published
+61,"HTC U11 Eyes Repairs","Other HTC Repair",1043,"Antenna Repair ",119.99,No,119.99,,,Published
+61,"HTC U11 Eyes Repairs","Other HTC Repair",1044,"Battery Repair ",119.99,No,119.99,,,Published
+61,"HTC U11 Eyes Repairs","Other HTC Repair",1045,"Charging Port Repair ",119.99,No,119.99,,,Published
+61,"HTC U11 Eyes Repairs","Other HTC Repair",1046,"Diagnostic Service ",39.99,No,39.99,,,Published
+61,"HTC U11 Eyes Repairs","Other HTC Repair",1047,"Earpiece Repair ",119.99,No,119.99,,,Published
+61,"HTC U11 Eyes Repairs","Other HTC Repair",1048,"Front Camera Repair ",119.99,No,119.99,,,Published
+61,"HTC U11 Eyes Repairs","Other HTC Repair",1049,"Headphone Socket Repair ",119.99,No,119.99,,,Published
+61,"HTC U11 Eyes Repairs","Other HTC Repair",1050,"Home Button Repair ",119.99,No,119.99,,,Published
+61,"HTC U11 Eyes Repairs","Other HTC Repair",1051,"Liquid Damage Service ",119.99,No,119.99,,,Published
+61,"HTC U11 Eyes Repairs","Other HTC Repair",1052,"Loudspeaker Repair ",119.99,No,119.99,,,Published
+61,"HTC U11 Eyes Repairs","Other HTC Repair",1053,"Microphone Repair ",119.99,No,119.99,,,Published
+61,"HTC U11 Eyes Repairs","Other HTC Repair",1054,"Vibration Repair ",119.99,No,119.99,,,Published
+61,"HTC U11 Eyes Repairs","Other HTC Repair",1055,"Volume Repair ",119.99,No,119.99,,,Published
+62,"HTC U Play Repair","Other HTC Repair",1056,"Front Screen Repair ",169.99,No,169.99,,,Published
+62,"HTC U Play Repair","Other HTC Repair",1057,"Antenna Repair ",89.99,No,89.99,,,Published
+62,"HTC U Play Repair","Other HTC Repair",1058,"Battery Repair ",89.99,No,89.99,,,Published
+62,"HTC U Play Repair","Other HTC Repair",1059,"Charging Port Repair ",89.99,No,89.99,,,Published
+62,"HTC U Play Repair","Other HTC Repair",1060,"Diagnostic Service ",39.99,No,39.99,,,Published
+62,"HTC U Play Repair","Other HTC Repair",1061,"Earpiece Repair ",89.99,No,89.99,,,Published
+62,"HTC U Play Repair","Other HTC Repair",1062,"Front Camera Repair ",89.99,No,89.99,,,Published
+62,"HTC U Play Repair","Other HTC Repair",1063,"Headphone Socket Repair ",89.99,No,89.99,,,Published
+62,"HTC U Play Repair","Other HTC Repair",1064,"Home Button Repair ",109.99,No,109.99,,,Published
+62,"HTC U Play Repair","Other HTC Repair",1065,"Liquid Damage Service ",89.99,No,89.99,,,Published
+62,"HTC U Play Repair","Other HTC Repair",1066,"Loudspeaker Repair ",89.99,No,89.99,,,Published
+62,"HTC U Play Repair","Other HTC Repair",1067,"Microphone Repair ",89.99,No,89.99,,,Published
+62,"HTC U Play Repair","Other HTC Repair",1068,"Mute Button Repair ",89.99,No,89.99,,,Published
+62,"HTC U Play Repair","Other HTC Repair",1069,"Power Button Repair ",89.99,No,89.99,,,Published
+62,"HTC U Play Repair","Other HTC Repair",1070,"Rear Camera Repair ",79.99,No,79.99,,,Published
+62,"HTC U Play Repair","Other HTC Repair",1071,"Rear Cover Repair ",89.99,No,89.99,,,Published
+62,"HTC U Play Repair","Other HTC Repair",1072,"Vibration Repair ",89.99,No,89.99,,,Published
+62,"HTC U Play Repair","Other HTC Repair",1073,"Volume Repair ",89.99,No,89.99,,,Published
+63,"HTC U11 Repairs","Other HTC Repair",1074,"Front Screen Repair ",253.99,No,253.99,,,Published
+63,"HTC U11 Repairs","Other HTC Repair",1075,"Antenna Repair ",119.99,No,119.99,,,Published
+63,"HTC U11 Repairs","Other HTC Repair",1076,"Battery Repair ",119.99,No,119.99,,,Published
+63,"HTC U11 Repairs","Other HTC Repair",1077,"Charging Port Repair ",119.99,No,119.99,,,Published
+63,"HTC U11 Repairs","Other HTC Repair",1078,"Diagnostic Service ",39.99,No,39.99,,,Published
+63,"HTC U11 Repairs","Other HTC Repair",1079,"Earpiece Repair ",119.99,No,119.99,,,Published
+63,"HTC U11 Repairs","Other HTC Repair",1080,"Front Camera Repair ",119.99,No,119.99,,,Published
+63,"HTC U11 Repairs","Other HTC Repair",1081,"Headphone Socket Repair ",119.99,No,119.99,,,Published
+63,"HTC U11 Repairs","Other HTC Repair",1082,"Home Button Repair ",119.99,No,119.99,,,Published
+63,"HTC U11 Repairs","Other HTC Repair",1083,"Liquid Damage Service ",69.99,No,69.99,,,Published
+63,"HTC U11 Repairs","Other HTC Repair",1084,"Loudspeaker Repair ",119.99,No,119.99,,,Published
+63,"HTC U11 Repairs","Other HTC Repair",1085,"Microphone Repair ",119.99,No,119.99,,,Published
+63,"HTC U11 Repairs","Other HTC Repair",1086,"Mute Button Repair ",119.99,No,119.99,,,Published
+63,"HTC U11 Repairs","Other HTC Repair",1087,"Power Button Repair ",119.99,No,119.99,,,Published
+63,"HTC U11 Repairs","Other HTC Repair",1088,"Rear Camera Repair ",119.99,No,119.99,,,Published
+63,"HTC U11 Repairs","Other HTC Repair",1089,"Rear Cover Repair ",119.99,No,119.99,,,Published
+63,"HTC U11 Repairs","Other HTC Repair",1090,"Software Repair ",119.99,No,119.99,,,Published
+63,"HTC U11 Repairs","Other HTC Repair",1091,"Vibration Repair ",119.99,No,119.99,,,Published
+63,"HTC U11 Repairs","Other HTC Repair",1092,"Volume Repair ",119.99,No,119.99,,,Published
+63,"HTC U11 Repairs","Other HTC Repair",1093,"WIFI Repair ",119.99,No,119.99,,,Published
+64,"HTC U11+ Repairs","Other HTC Repair",1094,"Front Screen Repair ",219.99,No,219.99,,,Published
+64,"HTC U11+ Repairs","Other HTC Repair",1095,"Antenna Repair ",129.99,No,129.99,,,Published
+64,"HTC U11+ Repairs","Other HTC Repair",1096,"Battery Repair ",129.99,No,129.99,,,Published
+64,"HTC U11+ Repairs","Other HTC Repair",1097,"Charging Port Repair ",129.99,No,129.99,,,Published
+64,"HTC U11+ Repairs","Other HTC Repair",1098,"Diagnostic Service ",39.99,No,39.99,,,Published
+64,"HTC U11+ Repairs","Other HTC Repair",1099,"Earpiece Repair ",129.99,No,129.99,,,Published
+64,"HTC U11+ Repairs","Other HTC Repair",1100,"Front Camera Repair ",129.99,No,129.99,,,Published
+64,"HTC U11+ Repairs","Other HTC Repair",1101,"Headphone Socket Repair ",129.99,No,129.99,,,Published
+64,"HTC U11+ Repairs","Other HTC Repair",1102,"Home Button Repair ",129.99,No,129.99,,,Published
+64,"HTC U11+ Repairs","Other HTC Repair",1103,"Liquid Damage Service ",129.99,No,129.99,,,Published
+64,"HTC U11+ Repairs","Other HTC Repair",1104,"Loudspeaker Repair ",129.99,No,129.99,,,Published
+64,"HTC U11+ Repairs","Other HTC Repair",1105,"Microphone Repair ",129.99,No,129.99,,,Published
+64,"HTC U11+ Repairs","Other HTC Repair",1106,"Vibration Repair ",129.99,No,129.99,,,Published
+64,"HTC U11+ Repairs","Other HTC Repair",1107,"Volume Repair ",129.99,No,129.99,,,Published
+65,"HTC Butterfly 3 Repairs","Other HTC Repair",1108,"Front Screen Repair ",99.99,No,99.99,,,Published
+65,"HTC Butterfly 3 Repairs","Other HTC Repair",1109,"Antenna Repair ",69.99,No,69.99,,,Published
+65,"HTC Butterfly 3 Repairs","Other HTC Repair",1110,"Battery Repair ",69.99,No,69.99,,,Published
+65,"HTC Butterfly 3 Repairs","Other HTC Repair",1111,"Charging Port Repair ",69.99,No,69.99,,,Published
+65,"HTC Butterfly 3 Repairs","Other HTC Repair",1112,"Diagnostic Service ",39.99,No,39.99,,,Published
+65,"HTC Butterfly 3 Repairs","Other HTC Repair",1113,"Earpiece Repair ",69.99,No,69.99,,,Published
+65,"HTC Butterfly 3 Repairs","Other HTC Repair",1114,"Front Camera Repair ",69.99,No,69.99,,,Published
+65,"HTC Butterfly 3 Repairs","Other HTC Repair",1115,"Headphone Socket Repair ",69.99,No,69.99,,,Published
+65,"HTC Butterfly 3 Repairs","Other HTC Repair",1116,"Home Button Repair ",69.99,No,69.99,,,Published
+65,"HTC Butterfly 3 Repairs","Other HTC Repair",1117,"Liquid Damage Service ",69.99,No,69.99,,,Published
+65,"HTC Butterfly 3 Repairs","Other HTC Repair",1118,"Loudspeaker Repair ",69.99,No,69.99,,,Published
+65,"HTC Butterfly 3 Repairs","Other HTC Repair",1119,"Microphone Repair ",69.99,No,69.99,,,Published
+65,"HTC Butterfly 3 Repairs","Other HTC Repair",1120,"Mute Button Repair ",69.99,No,69.99,,,Published
+65,"HTC Butterfly 3 Repairs","Other HTC Repair",1121,"Power Button Repair ",69.99,No,69.99,,,Published
+65,"HTC Butterfly 3 Repairs","Other HTC Repair",1122,"Rear Camera Repair ",69.99,No,69.99,,,Published
+65,"HTC Butterfly 3 Repairs","Other HTC Repair",1123,"Rear Cover Repair ",69.99,No,69.99,,,Published
+65,"HTC Butterfly 3 Repairs","Other HTC Repair",1124,"Software Repair ",69.99,No,69.99,,,Published
+65,"HTC Butterfly 3 Repairs","Other HTC Repair",1125,"Vibration Repair ",69.99,No,69.99,,,Published
+65,"HTC Butterfly 3 Repairs","Other HTC Repair",1126,"Volume Repair ",69.99,No,69.99,,,Published
+65,"HTC Butterfly 3 Repairs","Other HTC Repair",1127,"WIFI Repair ",69.99,No,69.99,,,Published
+66,"HTC Bolt Repair","Other HTC Repair",1128,"Antenna Repair ",69.99,No,69.99,,,Published
+66,"HTC Bolt Repair","Other HTC Repair",1129,"Battery Repair ",69.99,No,69.99,,,Published
+66,"HTC Bolt Repair","Other HTC Repair",1130,"Charging Port Repair ",69.99,No,69.99,,,Published
+66,"HTC Bolt Repair","Other HTC Repair",1131,"Diagnostic Service ",39.99,No,39.99,,,Published
+66,"HTC Bolt Repair","Other HTC Repair",1132,"Earpiece Repair ",69.99,No,69.99,,,Published
+66,"HTC Bolt Repair","Other HTC Repair",1133,"Front Camera Repair ",69.99,No,69.99,,,Published
+66,"HTC Bolt Repair","Other HTC Repair",1134,"Headphone Socket Repair ",69.99,No,69.99,,,Published
+66,"HTC Bolt Repair","Other HTC Repair",1135,"Home Button Repair ",69.99,No,69.99,,,Published
+66,"HTC Bolt Repair","Other HTC Repair",1136,"Liquid Damage Service ",69.99,No,69.99,,,Published
+66,"HTC Bolt Repair","Other HTC Repair",1137,"Loudspeaker Repair ",69.99,No,69.99,,,Published
+66,"HTC Bolt Repair","Other HTC Repair",1138,"Microphone Repair ",69.99,No,69.99,,,Published
+66,"HTC Bolt Repair","Other HTC Repair",1139,"Mute Button Repair ",69.99,No,69.99,,,Published
+66,"HTC Bolt Repair","Other HTC Repair",1140,"Power Button Repair ",69.99,No,69.99,,,Published
+66,"HTC Bolt Repair","Other HTC Repair",1141,"Rear Camera Repair ",69.99,No,69.99,,,Published
+66,"HTC Bolt Repair","Other HTC Repair",1142,"Rear Cover Repair ",69.99,No,69.99,,,Published
+66,"HTC Bolt Repair","Other HTC Repair",1143,"Vibration Repair ",69.99,No,69.99,,,Published
+66,"HTC Bolt Repair","Other HTC Repair",1144,"Volume Repair ",69.99,No,69.99,,,Published
+67,"HTC Desire 10 Lifestyle Repairs","Desire Repair",1145,"Front Screen Repair ",99.99,No,99.99,,,Published
+67,"HTC Desire 10 Lifestyle Repairs","Desire Repair",1146,"Antenna Repair ",69.99,No,69.99,,,Published
+67,"HTC Desire 10 Lifestyle Repairs","Desire Repair",1147,"Battery Repair ",69.99,No,69.99,,,Published
+67,"HTC Desire 10 Lifestyle Repairs","Desire Repair",1148,"Charging Port Repair ",69.99,No,69.99,,,Published
+67,"HTC Desire 10 Lifestyle Repairs","Desire Repair",1149,"Diagnostic Service ",39.99,No,39.99,,,Published
+67,"HTC Desire 10 Lifestyle Repairs","Desire Repair",1150,"Earpiece Repair ",69.99,No,69.99,,,Published
+67,"HTC Desire 10 Lifestyle Repairs","Desire Repair",1151,"Front Camera Repair ",69.99,No,69.99,,,Published
+67,"HTC Desire 10 Lifestyle Repairs","Desire Repair",1152,"Headphone Socket Repair ",69.99,No,69.99,,,Published
+67,"HTC Desire 10 Lifestyle Repairs","Desire Repair",1153,"Home Button Repair ",69.99,No,69.99,,,Published
+67,"HTC Desire 10 Lifestyle Repairs","Desire Repair",1154,"Liquid Damage Service ",69.99,No,69.99,,,Published
+67,"HTC Desire 10 Lifestyle Repairs","Desire Repair",1155,"Loudspeaker Repair ",69.99,No,69.99,,,Published
+67,"HTC Desire 10 Lifestyle Repairs","Desire Repair",1156,"Microphone Repair ",69.99,No,69.99,,,Published
+67,"HTC Desire 10 Lifestyle Repairs","Desire Repair",1157,"Mute Button Repair ",69.99,No,69.99,,,Published
+67,"HTC Desire 10 Lifestyle Repairs","Desire Repair",1158,"Power Button Repair ",69.99,No,69.99,,,Published
+67,"HTC Desire 10 Lifestyle Repairs","Desire Repair",1159,"Rear Camera Repair ",69.99,No,69.99,,,Published
+67,"HTC Desire 10 Lifestyle Repairs","Desire Repair",1160,"Rear Cover Repair ",69.99,No,69.99,,,Published
+67,"HTC Desire 10 Lifestyle Repairs","Desire Repair",1161,"Software Repair ",69.99,No,69.99,,,Published
+67,"HTC Desire 10 Lifestyle Repairs","Desire Repair",1162,"Vibration Repair ",69.99,No,69.99,,,Published
+67,"HTC Desire 10 Lifestyle Repairs","Desire Repair",1163,"Volume Repair ",69.99,No,69.99,,,Published
+67,"HTC Desire 10 Lifestyle Repairs","Desire Repair",1164,"WIFI Repair ",69.99,No,69.99,,,Published
+68,"HTC 10 Evo Repairs","Other HTC Repair",1165,"Front Screen Repair ",119.99,No,119.99,,,Published
+68,"HTC 10 Evo Repairs","Other HTC Repair",1166,"Antenna Repair ",89.99,No,89.99,,,Published
+68,"HTC 10 Evo Repairs","Other HTC Repair",1167,"Battery Repair ",89.99,No,89.99,,,Published
+68,"HTC 10 Evo Repairs","Other HTC Repair",1168,"Charging Port Repair ",89.99,No,89.99,,,Published
+68,"HTC 10 Evo Repairs","Other HTC Repair",1169,"Diagnostic Service ",39.99,No,39.99,,,Published
+68,"HTC 10 Evo Repairs","Other HTC Repair",1170,"Earpiece Repair ",89.99,No,89.99,,,Published
+68,"HTC 10 Evo Repairs","Other HTC Repair",1171,"Front Camera Repair ",89.99,No,89.99,,,Published
+68,"HTC 10 Evo Repairs","Other HTC Repair",1172,"Headphone Socket Repair ",89.99,No,89.99,,,Published
+68,"HTC 10 Evo Repairs","Other HTC Repair",1173,"Home Button Repair ",89.99,No,89.99,,,Published
+68,"HTC 10 Evo Repairs","Other HTC Repair",1174,"Liquid Damage Service ",69.99,No,69.99,,,Published
+68,"HTC 10 Evo Repairs","Other HTC Repair",1175,"Loudspeaker Repair ",89.99,No,89.99,,,Published
+68,"HTC 10 Evo Repairs","Other HTC Repair",1176,"Microphone Repair ",89.99,No,89.99,,,Published
+68,"HTC 10 Evo Repairs","Other HTC Repair",1177,"Mute Button Repair ",89.99,No,89.99,,,Published
+68,"HTC 10 Evo Repairs","Other HTC Repair",1178,"Power Button Repair ",89.99,No,89.99,,,Published
+68,"HTC 10 Evo Repairs","Other HTC Repair",1179,"Rear Camera Repair ",89.99,No,89.99,,,Published
+68,"HTC 10 Evo Repairs","Other HTC Repair",1180,"Rear Cover Repair ",89.99,No,89.99,,,Published
+68,"HTC 10 Evo Repairs","Other HTC Repair",1181,"Software Repair ",89.99,No,89.99,,,Published
+68,"HTC 10 Evo Repairs","Other HTC Repair",1182,"Vibration Repair ",89.99,No,89.99,,,Published
+68,"HTC 10 Evo Repairs","Other HTC Repair",1183,"Volume Repair ",89.99,No,89.99,,,Published
+68,"HTC 10 Evo Repairs","Other HTC Repair",1184,"WIFI Repair ",89.99,No,89.99,,,Published
+127,"HTC One X10 Repairs","One Series Repair",1855,"Front Screen Repair ",99.99,No,99.99,,,Published
+127,"HTC One X10 Repairs","One Series Repair",1856,"Antenna Repair ",119.99,No,119.99,,,Published
+127,"HTC One X10 Repairs","One Series Repair",1857,"Battery Repair ",119.99,No,119.99,,,Published
+127,"HTC One X10 Repairs","One Series Repair",1858,"Charging Port Repair ",119.99,No,119.99,,,Published
+127,"HTC One X10 Repairs","One Series Repair",1859,"Diagnostic Service ",39.99,No,39.99,,,Published
+127,"HTC One X10 Repairs","One Series Repair",1860,"Earpiece Repair ",119.99,No,119.99,,,Published
+127,"HTC One X10 Repairs","One Series Repair",1861,"Front Camera Repair ",119.99,No,119.99,,,Published
+127,"HTC One X10 Repairs","One Series Repair",1862,"Headphone Socket Repair ",119.99,No,119.99,,,Published
+127,"HTC One X10 Repairs","One Series Repair",1863,"Home Button Repair ",119.99,No,119.99,,,Published
+127,"HTC One X10 Repairs","One Series Repair",1864,"Liquid Damage Service ",69.99,No,69.99,,,Published
+127,"HTC One X10 Repairs","One Series Repair",1865,"Loudspeaker Repair ",119.99,No,119.99,,,Published
+127,"HTC One X10 Repairs","One Series Repair",1866,"Microphone Repair ",119.99,No,119.99,,,Published
+127,"HTC One X10 Repairs","One Series Repair",1867,"Mute Button Repair ",119.99,No,119.99,,,Published
+127,"HTC One X10 Repairs","One Series Repair",1868,"Power Button Repair ",119.99,No,119.99,,,Published
+127,"HTC One X10 Repairs","One Series Repair",1869,"Rear Camera Repair ",119.99,No,119.99,,,Published
+127,"HTC One X10 Repairs","One Series Repair",1870,"Rear Cover Repair ",119.99,No,119.99,,,Published
+127,"HTC One X10 Repairs","One Series Repair",1871,"Software Repair ",119.99,No,119.99,,,Published
+127,"HTC One X10 Repairs","One Series Repair",1872,"Vibration Repair ",119.99,No,119.99,,,Published
+127,"HTC One X10 Repairs","One Series Repair",1873,"Volume Repair ",119.99,No,119.99,,,Published
+127,"HTC One X10 Repairs","One Series Repair",1874,"WIFI Repair ",119.99,No,119.99,,,Published
+128,"HTC One ME Repairs","One Series Repair",1875,"Front Screen Repair ",69.99,No,69.99,,,Published
+128,"HTC One ME Repairs","One Series Repair",1876,"Antenna Repair ",119.99,No,119.99,,,Published
+128,"HTC One ME Repairs","One Series Repair",1877,"Battery Repair ",119.99,No,119.99,,,Published
+128,"HTC One ME Repairs","One Series Repair",1878,"Charging Port Repair ",119.99,No,119.99,,,Published
+128,"HTC One ME Repairs","One Series Repair",1879,"Diagnostic Service ",39.99,No,39.99,,,Published
+128,"HTC One ME Repairs","One Series Repair",1880,"Earpiece Repair ",119.99,No,119.99,,,Published
+128,"HTC One ME Repairs","One Series Repair",1881,"Front Camera Repair ",119.99,No,119.99,,,Published
+128,"HTC One ME Repairs","One Series Repair",1882,"Headphone Socket Repair ",119.99,No,119.99,,,Published
+128,"HTC One ME Repairs","One Series Repair",1883,"Home Button Repair ",119.99,No,119.99,,,Published
+128,"HTC One ME Repairs","One Series Repair",1884,"Liquid Damage Service ",69.99,No,69.99,,,Published
+128,"HTC One ME Repairs","One Series Repair",1885,"Loudspeaker Repair ",119.99,No,119.99,,,Published
+128,"HTC One ME Repairs","One Series Repair",1886,"Microphone Repair ",119.99,No,119.99,,,Published
+128,"HTC One ME Repairs","One Series Repair",1887,"Mute Button Repair ",119.99,No,119.99,,,Published
+128,"HTC One ME Repairs","One Series Repair",1888,"Power Button Repair ",119.99,No,119.99,,,Published
+128,"HTC One ME Repairs","One Series Repair",1889,"Rear Camera Repair ",119.99,No,119.99,,,Published
+128,"HTC One ME Repairs","One Series Repair",1890,"Rear Cover Repair ",119.99,No,119.99,,,Published
+128,"HTC One ME Repairs","One Series Repair",1891,"Software Repair ",119.99,No,119.99,,,Published
+128,"HTC One ME Repairs","One Series Repair",1892,"Vibration Repair ",119.99,No,119.99,,,Published
+128,"HTC One ME Repairs","One Series Repair",1893,"Volume Repair ",119.99,No,119.99,,,Published
+128,"HTC One ME Repairs","One Series Repair",1894,"WIFI Repair ",119.99,No,119.99,,,Published
+131,"HTC One Max Repair","One Series Repair",1929,"Front Screen Repair ",89.99,No,89.99,,,Published
+131,"HTC One Max Repair","One Series Repair",1930,"Antenna Repair ",69.99,No,69.99,,,Published
+131,"HTC One Max Repair","One Series Repair",1931,"Battery Repair ",69.99,No,69.99,,,Published
+131,"HTC One Max Repair","One Series Repair",1932,"Charging Port Repair ",69.99,No,69.99,,,Published
+131,"HTC One Max Repair","One Series Repair",1933,"Diagnostic Service ",39.99,No,39.99,,,Published
+131,"HTC One Max Repair","One Series Repair",1934,"Earpiece Repair ",69.99,No,69.99,,,Published
+131,"HTC One Max Repair","One Series Repair",1935,"Front Camera Repair ",69.99,No,69.99,,,Published
+131,"HTC One Max Repair","One Series Repair",1936,"Headphone Socket Repair ",69.99,No,69.99,,,Published
+131,"HTC One Max Repair","One Series Repair",1937,"Liquid Damage Service ",69.99,No,69.99,,,Published
+131,"HTC One Max Repair","One Series Repair",1938,"Loudspeaker Repair ",69.99,No,69.99,,,Published
+131,"HTC One Max Repair","One Series Repair",1939,"Microphone Repair ",69.99,No,69.99,,,Published
+131,"HTC One Max Repair","One Series Repair",1940,"Mute Button Repair ",69.99,No,69.99,,,Published
+131,"HTC One Max Repair","One Series Repair",1941,"Power Button Repair ",69.99,No,69.99,,,Published
+131,"HTC One Max Repair","One Series Repair",1942,"Rear Camera Repair ",69.99,No,69.99,,,Published
+131,"HTC One Max Repair","One Series Repair",1943,"Rear Cover Repair ",69.99,No,69.99,,,Published
+131,"HTC One Max Repair","One Series Repair",1944,"Vibration Repair ",69.99,No,69.99,,,Published
+131,"HTC One Max Repair","One Series Repair",1945,"Volume Repair ",69.99,No,69.99,,,Published
+132,"HTC One M9 Repair","One Series Repair",1946,"Front Screen Repair ",89.99,No,89.99,,,Published
+132,"HTC One M9 Repair","One Series Repair",1947,"Antenna Repair ",79.99,No,79.99,,,Published
+132,"HTC One M9 Repair","One Series Repair",1948,"Battery Repair ",69.99,No,69.99,,,Published
+132,"HTC One M9 Repair","One Series Repair",1949,"Charging Port Repair ",79.99,No,79.99,,,Published
+132,"HTC One M9 Repair","One Series Repair",1950,"Diagnostic Service ",79.99,No,79.99,,,Published
+132,"HTC One M9 Repair","One Series Repair",1951,"Earpiece Repair ",79.99,No,79.99,,,Published
+132,"HTC One M9 Repair","One Series Repair",1952,"Front Camera Repair ",79.99,No,79.99,,,Published
+132,"HTC One M9 Repair","One Series Repair",1953,"Headphone Socket Repair ",79.99,No,79.99,,,Published
+132,"HTC One M9 Repair","One Series Repair",1954,"Liquid Damage Service ",89.99,No,89.99,,,Published
+132,"HTC One M9 Repair","One Series Repair",1955,"Loudspeaker Repair ",79.99,No,79.99,,,Published
+132,"HTC One M9 Repair","One Series Repair",1956,"Microphone Repair ",79.99,No,79.99,,,Published
+132,"HTC One M9 Repair","One Series Repair",1957,"Mute Button Repair ",79.99,No,79.99,,,Published
+132,"HTC One M9 Repair","One Series Repair",1958,"Power Button Repair ",79.99,No,79.99,,,Published
+132,"HTC One M9 Repair","One Series Repair",1959,"Rear Camera Repair ",79.99,No,79.99,,,Published
+132,"HTC One M9 Repair","One Series Repair",1960,"Rear Cover Repair ",79.99,No,79.99,,,Published
+132,"HTC One M9 Repair","One Series Repair",1961,"Vibration Repair ",79.99,No,79.99,,,Published
+132,"HTC One M9 Repair","One Series Repair",1962,"Volume Repair ",79.99,No,79.99,,,Published
+133,"HTC One M9+ Repairs","One Series Repair",1963,"Front Screen Repair ",69.99,No,69.99,,,Published
+133,"HTC One M9+ Repairs","One Series Repair",1964,"Antenna Repair ",69.99,No,69.99,,,Published
+133,"HTC One M9+ Repairs","One Series Repair",1965,"Battery Repair ",69.99,No,69.99,,,Published
+133,"HTC One M9+ Repairs","One Series Repair",1966,"Charging Port Repair ",119.99,No,119.99,,,Published
+133,"HTC One M9+ Repairs","One Series Repair",1967,"Diagnostic Service ",39.99,No,39.99,,,Published
+133,"HTC One M9+ Repairs","One Series Repair",1968,"Earpiece Repair ",69.99,No,69.99,,,Published
+133,"HTC One M9+ Repairs","One Series Repair",1969,"Front Camera Repair ",69.99,No,69.99,,,Published
+133,"HTC One M9+ Repairs","One Series Repair",1970,"Headphone Socket Repair ",69.99,No,69.99,,,Published
+133,"HTC One M9+ Repairs","One Series Repair",1971,"Home Button Repair ",69.99,No,69.99,,,Published
+133,"HTC One M9+ Repairs","One Series Repair",1972,"Liquid Damage Service ",69.99,No,69.99,,,Published
+133,"HTC One M9+ Repairs","One Series Repair",1973,"Loudspeaker Repair ",69.99,No,69.99,,,Published
+133,"HTC One M9+ Repairs","One Series Repair",1974,"Microphone Repair ",69.99,No,69.99,,,Published
+133,"HTC One M9+ Repairs","One Series Repair",1975,"Mute Button Repair ",69.99,No,69.99,,,Published
+133,"HTC One M9+ Repairs","One Series Repair",1976,"Power Button Repair ",69.99,No,69.99,,,Published
+133,"HTC One M9+ Repairs","One Series Repair",1977,"Rear Camera Repair ",69.99,No,69.99,,,Published
+133,"HTC One M9+ Repairs","One Series Repair",1978,"Rear Cover Repair ",69.99,No,69.99,,,Published
+133,"HTC One M9+ Repairs","One Series Repair",1979,"Software Repair ",69.99,No,69.99,,,Published
+133,"HTC One M9+ Repairs","One Series Repair",1980,"Vibration Repair ",69.99,No,69.99,,,Published
+133,"HTC One M9+ Repairs","One Series Repair",1981,"Volume Repair ",69.99,No,69.99,,,Published
+133,"HTC One M9+ Repairs","One Series Repair",1982,"WIFI Repair ",69.99,No,69.99,,,Published
+134,"HTC One M8 Repair","One Series Repair",1983,"Front Screen Repair ",88.99,No,88.99,,,Published
+134,"HTC One M8 Repair","One Series Repair",1984,"Antenna Repair ",54.99,No,54.99,,,Published
+134,"HTC One M8 Repair","One Series Repair",1985,"Battery Repair ",59.99,No,59.99,,,Published
+134,"HTC One M8 Repair","One Series Repair",1986,"Charging Port Repair ",59.99,No,59.99,,,Published
+134,"HTC One M8 Repair","One Series Repair",1987,"Diagnostic Service ",39.99,No,39.99,,,Published
+134,"HTC One M8 Repair","One Series Repair",1988,"Earpiece Repair ",54.99,No,54.99,,,Published
+134,"HTC One M8 Repair","One Series Repair",1989,"Front Camera Repair ",54.99,No,54.99,,,Published
+134,"HTC One M8 Repair","One Series Repair",1990,"Front Grill Cover Repair ",69.99,No,69.99,,,Published
+134,"HTC One M8 Repair","One Series Repair",1991,"Headphone Socket Repair ",54.99,No,54.99,,,Published
+134,"HTC One M8 Repair","One Series Repair",1992,"Liquid Damage Service ",69.99,No,69.99,,,Published
+134,"HTC One M8 Repair","One Series Repair",1993,"Loudspeaker Repair ",54.99,No,54.99,,,Published
+134,"HTC One M8 Repair","One Series Repair",1994,"Microphone Repair ",79.99,No,79.99,,,Published
+134,"HTC One M8 Repair","One Series Repair",1995,"Mute Button Repair ",54.99,No,54.99,,,Published
+134,"HTC One M8 Repair","One Series Repair",1996,"Power Button Repair ",79.99,No,79.99,,,Published
+134,"HTC One M8 Repair","One Series Repair",1997,"Rear Camera Repair ",59.99,No,59.99,,,Published
+134,"HTC One M8 Repair","One Series Repair",1998,"Rear Cover Repair ",59.99,No,59.99,,,Published
+134,"HTC One M8 Repair","One Series Repair",1999,"Vibration Repair ",54.99,No,54.99,,,Published
+134,"HTC One M8 Repair","One Series Repair",2000,"Volume Repair ",54.99,No,54.99,,,Published
+135,"HTC One M7 (801n) Repair","One Series Repair",2001,"Front Screen Repair ",88.99,No,88.99,,,Published
+135,"HTC One M7 (801n) Repair","One Series Repair",2002,"Antenna Repair ",54.99,No,54.99,,,Published
+135,"HTC One M7 (801n) Repair","One Series Repair",2003,"Battery Repair ",54.99,No,54.99,,,Published
+135,"HTC One M7 (801n) Repair","One Series Repair",2004,"Charging Port Repair ",59.99,No,59.99,,,Published
+135,"HTC One M7 (801n) Repair","One Series Repair",2005,"Diagnostic Service ",39.99,No,39.99,,,Published
+135,"HTC One M7 (801n) Repair","One Series Repair",2006,"Earpiece Repair ",54.99,No,54.99,,,Published
+135,"HTC One M7 (801n) Repair","One Series Repair",2007,"Front Camera Repair ",54.99,No,54.99,,,Published
+135,"HTC One M7 (801n) Repair","One Series Repair",2008,"Front Grill Cover Repair ",69.99,No,69.99,,,Published
+135,"HTC One M7 (801n) Repair","One Series Repair",2009,"Headphone Socket Repair ",59.99,No,59.99,,,Published
+135,"HTC One M7 (801n) Repair","One Series Repair",2010,"Liquid Damage Service ",69.99,No,69.99,,,Published
+135,"HTC One M7 (801n) Repair","One Series Repair",2011,"Loudspeaker Repair ",54.99,No,54.99,,,Published
+135,"HTC One M7 (801n) Repair","One Series Repair",2012,"Microphone Repair ",79.99,No,79.99,,,Published
+135,"HTC One M7 (801n) Repair","One Series Repair",2013,"Mute Button Repair ",54.99,No,54.99,,,Published
+135,"HTC One M7 (801n) Repair","One Series Repair",2014,"Power Button Repair ",54.99,No,54.99,,,Published
+135,"HTC One M7 (801n) Repair","One Series Repair",2015,"Rear Camera Repair ",59.99,No,59.99,,,Published
+135,"HTC One M7 (801n) Repair","One Series Repair",2016,"Rear Cover Repair ",59.99,No,59.99,,,Published
+135,"HTC One M7 (801n) Repair","One Series Repair",2017,"Vibration Repair ",54.99,No,54.99,,,Published
+135,"HTC One M7 (801n) Repair","One Series Repair",2018,"Volume Repair ",59.99,No,59.99,,,Published
+136,"HTC One E9+ Repairs","One Series Repair",2019,"Front Screen Repair ",69.99,No,69.99,,,Published
+136,"HTC One E9+ Repairs","One Series Repair",2020,"Antenna Repair ",119.99,No,119.99,,,Published
+136,"HTC One E9+ Repairs","One Series Repair",2021,"Battery Repair ",119.99,No,119.99,,,Published
+136,"HTC One E9+ Repairs","One Series Repair",2022,"Charging Port Repair ",119.99,No,119.99,,,Published
+136,"HTC One E9+ Repairs","One Series Repair",2023,"Diagnostic Service ",39.99,No,39.99,,,Published
+136,"HTC One E9+ Repairs","One Series Repair",2024,"Earpiece Repair ",119.99,No,119.99,,,Published
+136,"HTC One E9+ Repairs","One Series Repair",2025,"Front Camera Repair ",119.99,No,119.99,,,Published
+136,"HTC One E9+ Repairs","One Series Repair",2026,"Headphone Socket Repair ",119.99,No,119.99,,,Published
+136,"HTC One E9+ Repairs","One Series Repair",2027,"Home Button Repair ",119.99,No,119.99,,,Published
+136,"HTC One E9+ Repairs","One Series Repair",2028,"Liquid Damage Service ",69.99,No,69.99,,,Published
+136,"HTC One E9+ Repairs","One Series Repair",2029,"Loudspeaker Repair ",119.99,No,119.99,,,Published
+136,"HTC One E9+ Repairs","One Series Repair",2030,"Microphone Repair ",119.99,No,119.99,,,Published
+136,"HTC One E9+ Repairs","One Series Repair",2031,"Mute Button Repair ",119.99,No,119.99,,,Published
+136,"HTC One E9+ Repairs","One Series Repair",2032,"Power Button Repair ",119.99,No,119.99,,,Published
+136,"HTC One E9+ Repairs","One Series Repair",2033,"Rear Camera Repair ",119.99,No,119.99,,,Published
+136,"HTC One E9+ Repairs","One Series Repair",2034,"Rear Cover Repair ",119.99,No,119.99,,,Published
+136,"HTC One E9+ Repairs","One Series Repair",2035,"Software Repair ",119.99,No,119.99,,,Published
+136,"HTC One E9+ Repairs","One Series Repair",2036,"Vibration Repair ",119.99,No,119.99,,,Published
+136,"HTC One E9+ Repairs","One Series Repair",2037,"Volume Repair ",119.99,No,119.99,,,Published
+136,"HTC One E9+ Repairs","One Series Repair",2038,"WIFI Repair ",119.99,No,119.99,,,Published
+138,"HTC One E8 Repairs","One Series Repair",2054,"Front Screen Repair ",69.99,No,69.99,,,Published
+138,"HTC One E8 Repairs","One Series Repair",2055,"Antenna Repair ",119.99,No,119.99,,,Published
+138,"HTC One E8 Repairs","One Series Repair",2056,"Battery Repair ",119.99,No,119.99,,,Published
+138,"HTC One E8 Repairs","One Series Repair",2057,"Charging Port Repair ",119.99,No,119.99,,,Published
+138,"HTC One E8 Repairs","One Series Repair",2058,"Diagnostic Service ",39.99,No,39.99,,,Published
+138,"HTC One E8 Repairs","One Series Repair",2059,"Earpiece Repair ",119.99,No,119.99,,,Published
+138,"HTC One E8 Repairs","One Series Repair",2060,"Front Camera Repair ",119.99,No,119.99,,,Published
+138,"HTC One E8 Repairs","One Series Repair",2061,"Headphone Socket Repair ",119.99,No,119.99,,,Published
+138,"HTC One E8 Repairs","One Series Repair",2062,"Home Button Repair ",119.99,No,119.99,,,Published
+138,"HTC One E8 Repairs","One Series Repair",2063,"Liquid Damage Service ",69.99,No,69.99,,,Published
+138,"HTC One E8 Repairs","One Series Repair",2064,"Loudspeaker Repair ",119.99,No,119.99,,,Published
+138,"HTC One E8 Repairs","One Series Repair",2065,"Microphone Repair ",119.99,No,119.99,,,Published
+138,"HTC One E8 Repairs","One Series Repair",2066,"Mute Button Repair ",119.99,No,119.99,,,Published
+138,"HTC One E8 Repairs","One Series Repair",2067,"Power Button Repair ",119.99,No,119.99,,,Published
+138,"HTC One E8 Repairs","One Series Repair",2068,"Rear Camera Repair ",119.99,No,119.99,,,Published
+138,"HTC One E8 Repairs","One Series Repair",2069,"Rear Cover Repair ",119.99,No,119.99,,,Published
+138,"HTC One E8 Repairs","One Series Repair",2070,"Software Repair ",119.99,No,119.99,,,Published
+138,"HTC One E8 Repairs","One Series Repair",2071,"Vibration Repair ",119.99,No,119.99,,,Published
+138,"HTC One E8 Repairs","One Series Repair",2072,"Volume Repair ",119.99,No,119.99,,,Published
+138,"HTC One E8 Repairs","One Series Repair",2073,"WIFI Repair ",119.99,No,119.99,,,Published
+139,"HTC One A9s Repairs","One Series Repair",2074,"Front Screen Repair ",118.99,No,118.99,,,Published
+139,"HTC One A9s Repairs","One Series Repair",2075,"Antenna Repair ",119.99,No,119.99,,,Published
+139,"HTC One A9s Repairs","One Series Repair",2076,"Battery Repair ",119.99,No,119.99,,,Published
+139,"HTC One A9s Repairs","One Series Repair",2077,"Charging Port Repair ",119.99,No,119.99,,,Published
+139,"HTC One A9s Repairs","One Series Repair",2078,"Diagnostic Service ",39.99,No,39.99,,,Published
+139,"HTC One A9s Repairs","One Series Repair",2079,"Earpiece Repair ",119.99,No,119.99,,,Published
+139,"HTC One A9s Repairs","One Series Repair",2080,"Front Camera Repair ",119.99,No,119.99,,,Published
+139,"HTC One A9s Repairs","One Series Repair",2081,"Headphone Socket Repair ",119.99,No,119.99,,,Published
+139,"HTC One A9s Repairs","One Series Repair",2082,"Home Button Repair ",119.99,No,119.99,,,Published
+139,"HTC One A9s Repairs","One Series Repair",2083,"Liquid Damage Service ",69.99,No,69.99,,,Published
+139,"HTC One A9s Repairs","One Series Repair",2084,"Loudspeaker Repair ",119.99,No,119.99,,,Published
+139,"HTC One A9s Repairs","One Series Repair",2085,"Microphone Repair ",119.99,No,119.99,,,Published
+139,"HTC One A9s Repairs","One Series Repair",2086,"Mute Button Repair ",119.99,No,119.99,,,Published
+139,"HTC One A9s Repairs","One Series Repair",2087,"Power Button Repair ",119.99,No,119.99,,,Published
+139,"HTC One A9s Repairs","One Series Repair",2088,"Rear Camera Repair ",119.99,No,119.99,,,Published
+139,"HTC One A9s Repairs","One Series Repair",2089,"Rear Cover Repair ",119.99,No,119.99,,,Published
+139,"HTC One A9s Repairs","One Series Repair",2090,"Software Repair ",119.99,No,119.99,,,Published
+139,"HTC One A9s Repairs","One Series Repair",2091,"Vibration Repair ",119.99,No,119.99,,,Published
+139,"HTC One A9s Repairs","One Series Repair",2092,"Volume Repair ",119.99,No,119.99,,,Published
+139,"HTC One A9s Repairs","One Series Repair",2093,"WIFI Repair ",119.99,No,119.99,,,Published
+143,"HTC One A9 Repair","One Series Repair",2134,"Front Screen Repair ",139.99,No,139.99,,,Published
+143,"HTC One A9 Repair","One Series Repair",2135,"Battery Repair ",119.99,No,119.99,,,Published
+143,"HTC One A9 Repair","One Series Repair",2136,"Charging Port Repair ",119.99,No,119.99,,,Published
+143,"HTC One A9 Repair","One Series Repair",2137,"Diagnostic Service ",119.99,No,119.99,,,Published
+143,"HTC One A9 Repair","One Series Repair",2138,"Earpiece Repair ",119.99,No,119.99,,,Published
+143,"HTC One A9 Repair","One Series Repair",2139,"Front Camera Repair ",119.99,No,119.99,,,Published
+143,"HTC One A9 Repair","One Series Repair",2140,"Headphone Socket Repair ",119.99,No,119.99,,,Published
+143,"HTC One A9 Repair","One Series Repair",2141,"Liquid Damage Service ",69.99,No,69.99,,,Published
+143,"HTC One A9 Repair","One Series Repair",2142,"Loudspeaker Repair ",119.99,No,119.99,,,Published
+143,"HTC One A9 Repair","One Series Repair",2143,"Microphone Repair ",119.99,No,119.99,,,Published
+143,"HTC One A9 Repair","One Series Repair",2144,"Mute Button Repair ",119.99,No,119.99,,,Published
+143,"HTC One A9 Repair","One Series Repair",2145,"Power Button Repair ",119.99,No,119.99,,,Published
+143,"HTC One A9 Repair","One Series Repair",2146,"Rear Camera Repair ",119.99,No,119.99,,,Published
+143,"HTC One A9 Repair","One Series Repair",2147,"Rear Cover Repair ",119.99,No,119.99,,,Published
+143,"HTC One A9 Repair","One Series Repair",2148,"Vibration Repair ",119.99,No,119.99,,,Published
+143,"HTC One A9 Repair","One Series Repair",2149,"Volume Repair ",119.99,No,119.99,,,Published

@@ -1,0 +1,193 @@
+Model_ID,Model_Title,Device,fault_id,fault_name,regular_price,is_on_offer,sale_price,offer_start_date,offer_end_date,status
+137,"iPad Mini 3 Repair","iPad Repair",2039,"Front Glass Repair ",79.99,No,79.99,,,Published
+137,"iPad Mini 3 Repair","iPad Repair",2040,"Battery Repair ",57.99,No,57.99,,,Published
+137,"iPad Mini 3 Repair","iPad Repair",2041,"Charging Port Repair ",89.99,No,89.99,,,Published
+137,"iPad Mini 3 Repair","iPad Repair",2042,"Diagnostic Service ",39.99,No,39.99,,,Published
+137,"iPad Mini 3 Repair","iPad Repair",2043,"Front Camera Repair ",57.99,No,57.99,,,Published
+137,"iPad Mini 3 Repair","iPad Repair",2044,"Headphone Socket Repair ",59.99,No,59.99,,,Published
+137,"iPad Mini 3 Repair","iPad Repair",2045,"Home Button Repair ",59.99,No,59.99,,,Published
+137,"iPad Mini 3 Repair","iPad Repair",2046,"LCD Repair ",74.99,No,74.99,,,Published
+137,"iPad Mini 3 Repair","iPad Repair",2047,"Liquid Damage Service ",74.99,No,74.99,,,Published
+137,"iPad Mini 3 Repair","iPad Repair",2048,"Loudspeaker Repair ",63.99,No,63.99,,,Published
+137,"iPad Mini 3 Repair","iPad Repair",2049,"Microphone Repair ",63.99,No,63.99,,,Published
+137,"iPad Mini 3 Repair","iPad Repair",2050,"Mute Button Repair ",59.99,No,59.99,,,Published
+137,"iPad Mini 3 Repair","iPad Repair",2051,"Power Button Repair ",59.99,No,59.99,,,Published
+137,"iPad Mini 3 Repair","iPad Repair",2052,"Rear Camera Repair ",63.99,No,63.99,,,Published
+137,"iPad Mini 3 Repair","iPad Repair",2053,"Volume Repair ",59.99,No,59.99,,,Published
+140,"iPad Mini 2019 Repairs","iPad Repair",2094,"Front Screen Repair ",369.99,No,369.99,,,Published
+140,"iPad Mini 2019 Repairs","iPad Repair",2095,"Battery Repair ",169.99,No,169.99,,,Published
+140,"iPad Mini 2019 Repairs","iPad Repair",2096,"Charging Port Repair ",199.99,No,199.99,,,Published
+140,"iPad Mini 2019 Repairs","iPad Repair",2097,"Diagnostic Service ",39.99,No,39.99,,,Published
+140,"iPad Mini 2019 Repairs","iPad Repair",2098,"Front Camera Repair ",169.99,No,169.99,,,Published
+140,"iPad Mini 2019 Repairs","iPad Repair",2099,"Headphone Socket Repair ",169.99,No,169.99,,,Published
+140,"iPad Mini 2019 Repairs","iPad Repair",2100,"Liquid Damage Service ",89.99,No,89.99,,,Published
+140,"iPad Mini 2019 Repairs","iPad Repair",2101,"Loudspeaker Repair ",169.99,No,169.99,,,Published
+140,"iPad Mini 2019 Repairs","iPad Repair",2102,"Microphone Repair ",169.99,No,169.99,,,Published
+140,"iPad Mini 2019 Repairs","iPad Repair",2103,"Mute Button Repair ",169.99,No,169.99,,,Published
+140,"iPad Mini 2019 Repairs","iPad Repair",2104,"Power Button Repair ",169.99,No,169.99,,,Published
+140,"iPad Mini 2019 Repairs","iPad Repair",2105,"Rear Camera Repair ",169.99,No,169.99,,,Published
+140,"iPad Mini 2019 Repairs","iPad Repair",2106,"Rear Cover Repair ",169.99,No,169.99,,,Published
+140,"iPad Mini 2019 Repairs","iPad Repair",2107,"Volume Repair ",169.99,No,169.99,,,Published
+141,"iPad Mini 4 Repair","iPad Repair",2108,"Front Screen Repair ",149.99,No,149.99,,,Published
+141,"iPad Mini 4 Repair","iPad Repair",2109,"Battery Repair ",64.99,No,64.99,,,Published
+141,"iPad Mini 4 Repair","iPad Repair",2110,"Charging Port Repair ",169.99,No,169.99,,,Published
+141,"iPad Mini 4 Repair","iPad Repair",2111,"Diagnostic Service ",39.99,No,39.99,,,Published
+141,"iPad Mini 4 Repair","iPad Repair",2112,"Front Camera Repair ",63.99,No,63.99,,,Published
+141,"iPad Mini 4 Repair","iPad Repair",2113,"Headphone Socket Repair ",59.99,No,59.99,,,Published
+141,"iPad Mini 4 Repair","iPad Repair",2114,"Liquid Damage Service ",89.99,No,89.99,,,Published
+141,"iPad Mini 4 Repair","iPad Repair",2115,"Loudspeaker Repair ",63.99,No,63.99,,,Published
+141,"iPad Mini 4 Repair","iPad Repair",2116,"Microphone Repair ",63.99,No,63.99,,,Published
+141,"iPad Mini 4 Repair","iPad Repair",2117,"Mute Button Repair ",59.99,No,59.99,,,Published
+141,"iPad Mini 4 Repair","iPad Repair",2118,"Power Button Repair ",54.99,No,54.99,,,Published
+141,"iPad Mini 4 Repair","iPad Repair",2119,"Rear Camera Repair ",69.99,No,69.99,,,Published
+141,"iPad Mini 4 Repair","iPad Repair",2120,"Volume Repair ",63.99,No,63.99,,,Published
+142,"iPad Pro 11"" (2018) Repair","iPad Repair",2121,"Front Screen Repair ",399.99,No,399.99,,,Published
+142,"iPad Pro 11"" (2018) Repair","iPad Repair",2122,"Battery Repair ",299.99,No,299.99,,,Published
+142,"iPad Pro 11"" (2018) Repair","iPad Repair",2123,"Charging Port Repair ",299.99,No,299.99,,,Published
+142,"iPad Pro 11"" (2018) Repair","iPad Repair",2124,"Diagnostic Service ",39.99,No,39.99,,,Published
+142,"iPad Pro 11"" (2018) Repair","iPad Repair",2125,"Front Camera Repair ",299.99,No,299.99,,,Published
+142,"iPad Pro 11"" (2018) Repair","iPad Repair",2126,"Headphone Socket Repair ",299.99,No,299.99,,,Published
+142,"iPad Pro 11"" (2018) Repair","iPad Repair",2127,"Liquid Damage Service ",299.99,No,299.99,,,Published
+142,"iPad Pro 11"" (2018) Repair","iPad Repair",2128,"Loudspeaker Repair ",299.99,No,299.99,,,Published
+142,"iPad Pro 11"" (2018) Repair","iPad Repair",2129,"Microphone Repair ",299.99,No,299.99,,,Published
+142,"iPad Pro 11"" (2018) Repair","iPad Repair",2130,"Mute Button Repair ",299.99,No,299.99,,,Published
+142,"iPad Pro 11"" (2018) Repair","iPad Repair",2131,"Power Button Repair ",299.99,No,299.99,,,Published
+142,"iPad Pro 11"" (2018) Repair","iPad Repair",2132,"Rear Camera Repair ",299.99,No,299.99,,,Published
+142,"iPad Pro 11"" (2018) Repair","iPad Repair",2133,"Volume Repair ",299.99,No,299.99,,,Published
+144,"iPad Pro 10.5 Repair","iPad Repair",2150,"Battery Repair ",119.99,No,119.99,,,Published
+144,"iPad Pro 10.5 Repair","iPad Repair",2151,"Charging Port Repair ",469.99,No,469.99,,,Published
+144,"iPad Pro 10.5 Repair","iPad Repair",2152,"Diagnostic Service ",39.99,No,39.99,,,Published
+144,"iPad Pro 10.5 Repair","iPad Repair",2153,"Front Camera Repair ",119.99,No,119.99,,,Published
+144,"iPad Pro 10.5 Repair","iPad Repair",2154,"Headphone Socket Repair ",119.99,No,119.99,,,Published
+144,"iPad Pro 10.5 Repair","iPad Repair",2155,"Liquid Damage Service ",89.99,No,89.99,,,Published
+144,"iPad Pro 10.5 Repair","iPad Repair",2156,"Loudspeaker Repair ",119.99,No,119.99,,,Published
+144,"iPad Pro 10.5 Repair","iPad Repair",2157,"Microphone Repair ",119.99,No,119.99,,,Published
+144,"iPad Pro 10.5 Repair","iPad Repair",2158,"Mute Button Repair ",119.99,No,119.99,,,Published
+144,"iPad Pro 10.5 Repair","iPad Repair",2159,"Power Button Repair ",119.99,No,119.99,,,Published
+144,"iPad Pro 10.5 Repair","iPad Repair",2160,"Rear Camera Repair ",119.99,No,119.99,,,Published
+144,"iPad Pro 10.5 Repair","iPad Repair",2161,"Volume Repair ",119.99,No,119.99,,,Published
+145,"iPad Air 2 Repair","iPad Repair",2162,"Front Screen Repair ",164.99,No,164.99,,,Published
+145,"iPad Air 2 Repair","iPad Repair",2163,"Battery Repair ",99.99,No,99.99,,,Published
+145,"iPad Air 2 Repair","iPad Repair",2164,"Charging Port Repair ",179.99,No,179.99,,,Published
+145,"iPad Air 2 Repair","iPad Repair",2165,"Diagnostic Service ",39.99,No,39.99,,,Published
+145,"iPad Air 2 Repair","iPad Repair",2166,"Front Camera Repair ",99.99,No,99.99,,,Published
+145,"iPad Air 2 Repair","iPad Repair",2167,"Headphone Socket Repair ",99.99,No,99.99,,,Published
+145,"iPad Air 2 Repair","iPad Repair",2168,"Liquid Damage Service ",69.99,No,69.99,,,Published
+145,"iPad Air 2 Repair","iPad Repair",2169,"Loudspeaker Repair ",99.99,No,99.99,,,Published
+145,"iPad Air 2 Repair","iPad Repair",2170,"Microphone Repair ",99.99,No,99.99,,,Published
+145,"iPad Air 2 Repair","iPad Repair",2171,"Mute Button Repair ",99.99,No,99.99,,,Published
+145,"iPad Air 2 Repair","iPad Repair",2172,"Power Button Repair ",99.99,No,99.99,,,Published
+145,"iPad Air 2 Repair","iPad Repair",2173,"Rear Camera Repair ",99.99,No,99.99,,,Published
+145,"iPad Air 2 Repair","iPad Repair",2174,"Rear Cover Repair ",99.99,No,99.99,,,Published
+145,"iPad Air 2 Repair","iPad Repair",2175,"Volume Repair ",99.99,No,99.99,,,Published
+146,"iPad Air 2019 Repairs","iPad Repair",2176,"Front Screen Repair ",299.99,No,299.99,,,Published
+146,"iPad Air 2019 Repairs","iPad Repair",2177,"Battery Repair ",269.99,No,269.99,,,Published
+146,"iPad Air 2019 Repairs","iPad Repair",2178,"Charging Port Repair ",319.99,No,319.99,,,Published
+146,"iPad Air 2019 Repairs","iPad Repair",2179,"Diagnostic Service ",39.99,No,39.99,,,Published
+146,"iPad Air 2019 Repairs","iPad Repair",2180,"Front Camera Repair ",269.99,No,269.99,,,Published
+146,"iPad Air 2019 Repairs","iPad Repair",2181,"Headphone Socket Repair ",269.99,No,269.99,,,Published
+146,"iPad Air 2019 Repairs","iPad Repair",2182,"Liquid Damage Service ",89.99,No,89.99,,,Published
+146,"iPad Air 2019 Repairs","iPad Repair",2183,"Loudspeaker Repair ",269.99,No,269.99,,,Published
+146,"iPad Air 2019 Repairs","iPad Repair",2184,"Microphone Repair ",269.99,No,269.99,,,Published
+146,"iPad Air 2019 Repairs","iPad Repair",2185,"Mute Button Repair ",269.99,No,269.99,,,Published
+146,"iPad Air 2019 Repairs","iPad Repair",2186,"Power Button Repair ",269.99,No,269.99,,,Published
+146,"iPad Air 2019 Repairs","iPad Repair",2187,"Rear Camera Repair ",269.99,No,269.99,,,Published
+146,"iPad Air 2019 Repairs","iPad Repair",2188,"Rear Cover Repair ",269.99,No,269.99,,,Published
+146,"iPad Air 2019 Repairs","iPad Repair",2189,"Volume Repair ",269.99,No,269.99,,,Published
+147,"iPad Air Repair","iPad Repair",2190,"Front Glass Repair ",54.99,No,54.99,,,Published
+147,"iPad Air Repair","iPad Repair",2191,"LCD Repair ",79.99,No,79.99,,,Published
+147,"iPad Air Repair","iPad Repair",2192,"Antenna Repair ",69.99,No,69.99,,,Published
+147,"iPad Air Repair","iPad Repair",2193,"Battery Repair ",54.99,No,54.99,,,Published
+147,"iPad Air Repair","iPad Repair",2194,"Charging Port Repair ",119.99,No,119.99,,,Published
+147,"iPad Air Repair","iPad Repair",2195,"Diagnostic Service ",39.99,No,39.99,,,Published
+147,"iPad Air Repair","iPad Repair",2196,"Front Camera Repair ",54.99,No,54.99,,,Published
+147,"iPad Air Repair","iPad Repair",2197,"Headphone Socket Repair ",54.99,No,54.99,,,Published
+147,"iPad Air Repair","iPad Repair",2198,"Home Button Repair ",54.99,No,54.99,,,Published
+147,"iPad Air Repair","iPad Repair",2199,"Liquid Damage Service ",69.99,No,69.99,,,Published
+147,"iPad Air Repair","iPad Repair",2200,"Loudspeaker Repair ",54.99,No,54.99,,,Published
+147,"iPad Air Repair","iPad Repair",2201,"Microphone Repair ",54.99,No,54.99,,,Published
+147,"iPad Air Repair","iPad Repair",2202,"Mute Button Repair ",54.99,No,54.99,,,Published
+147,"iPad Air Repair","iPad Repair",2203,"Power Button Repair ",54.99,No,54.99,,,Published
+147,"iPad Air Repair","iPad Repair",2204,"Rear Camera Repair ",54.99,No,54.99,,,Published
+147,"iPad Air Repair","iPad Repair",2205,"Rear Cover Repair ",69.99,No,69.99,,,Published
+147,"iPad Air Repair","iPad Repair",2206,"Volume Repair ",54.99,No,54.99,,,Published
+148,"iPad 9.7 2017 Repair","iPad Repair",2207,"Front Screen Repair ",189.99,No,189.99,,,Published
+148,"iPad 9.7 2017 Repair","iPad Repair",2208,"Battery Repair ",139.99,No,139.99,,,Published
+148,"iPad 9.7 2017 Repair","iPad Repair",2209,"Charging Port Repair ",219.99,No,219.99,,,Published
+148,"iPad 9.7 2017 Repair","iPad Repair",2210,"Diagnostic Service ",39.99,No,39.99,,,Published
+148,"iPad 9.7 2017 Repair","iPad Repair",2211,"Front Camera Repair ",79.99,No,79.99,,,Published
+148,"iPad 9.7 2017 Repair","iPad Repair",2212,"Headphone Socket Repair ",69.99,No,69.99,,,Published
+148,"iPad 9.7 2017 Repair","iPad Repair",2213,"Liquid Damage Service ",89.99,No,89.99,,,Published
+148,"iPad 9.7 2017 Repair","iPad Repair",2214,"Loudspeaker Repair ",84.99,No,84.99,,,Published
+148,"iPad 9.7 2017 Repair","iPad Repair",2215,"Microphone Repair ",84.99,No,84.99,,,Published
+148,"iPad 9.7 2017 Repair","iPad Repair",2216,"Mute Button Repair ",119.99,No,119.99,,,Published
+148,"iPad 9.7 2017 Repair","iPad Repair",2217,"Power Button Repair ",69.99,No,69.99,,,Published
+148,"iPad 9.7 2017 Repair","iPad Repair",2218,"Rear Camera Repair ",119.99,No,119.99,,,Published
+148,"iPad 9.7 2017 Repair","iPad Repair",2219,"Volume Repair ",79.99,No,79.99,,,Published
+149,"iPad Pro 12.9 (2018) Repair","iPad Repair",2220,"Front Screen Repair ",549.99,No,549.99,,,Published
+149,"iPad Pro 12.9 (2018) Repair","iPad Repair",2221,"Battery Repair ",449.99,No,449.99,,,Published
+149,"iPad Pro 12.9 (2018) Repair","iPad Repair",2222,"Charging Port Repair ",449.99,No,449.99,,,Published
+149,"iPad Pro 12.9 (2018) Repair","iPad Repair",2223,"Diagnostic Service ",39.99,No,39.99,,,Published
+149,"iPad Pro 12.9 (2018) Repair","iPad Repair",2224,"Front Camera Repair ",449.99,No,449.99,,,Published
+149,"iPad Pro 12.9 (2018) Repair","iPad Repair",2225,"Headphone Socket Repair ",449.99,No,449.99,,,Published
+149,"iPad Pro 12.9 (2018) Repair","iPad Repair",2226,"Liquid Damage Service ",449.99,No,449.99,,,Published
+149,"iPad Pro 12.9 (2018) Repair","iPad Repair",2227,"Loudspeaker Repair ",449.99,No,449.99,,,Published
+149,"iPad Pro 12.9 (2018) Repair","iPad Repair",2228,"Microphone Repair ",449.99,No,449.99,,,Published
+149,"iPad Pro 12.9 (2018) Repair","iPad Repair",2229,"Mute Button Repair ",449.99,No,449.99,,,Published
+149,"iPad Pro 12.9 (2018) Repair","iPad Repair",2230,"Power Button Repair ",449.99,No,449.99,,,Published
+149,"iPad Pro 12.9 (2018) Repair","iPad Repair",2231,"Rear Camera Repair ",449.99,No,449.99,,,Published
+149,"iPad Pro 12.9 (2018) Repair","iPad Repair",2232,"Volume Repair ",449.99,No,449.99,,,Published
+150,"iPad Pro 10.2 (2019) Repair","iPad Repair",2233,"Front Screen Repair ",299.99,No,299.99,,,Published
+150,"iPad Pro 10.2 (2019) Repair","iPad Repair",2234,"Battery Repair ",249.99,No,249.99,,,Published
+150,"iPad Pro 10.2 (2019) Repair","iPad Repair",2235,"Charging Port Repair ",249.99,No,249.99,,,Published
+150,"iPad Pro 10.2 (2019) Repair","iPad Repair",2236,"Diagnostic Service ",39.99,No,39.99,,,Published
+150,"iPad Pro 10.2 (2019) Repair","iPad Repair",2237,"Front Camera Repair ",249.99,No,249.99,,,Published
+150,"iPad Pro 10.2 (2019) Repair","iPad Repair",2238,"Headphone Socket Repair ",249.99,No,249.99,,,Published
+150,"iPad Pro 10.2 (2019) Repair","iPad Repair",2239,"Liquid Damage Service ",249.99,No,249.99,,,Published
+150,"iPad Pro 10.2 (2019) Repair","iPad Repair",2240,"Loudspeaker Repair ",249.99,No,249.99,,,Published
+150,"iPad Pro 10.2 (2019) Repair","iPad Repair",2241,"Microphone Repair ",249.99,No,249.99,,,Published
+150,"iPad Pro 10.2 (2019) Repair","iPad Repair",2242,"Mute Button Repair ",249.99,No,249.99,,,Published
+150,"iPad Pro 10.2 (2019) Repair","iPad Repair",2243,"Power Button Repair ",249.99,No,249.99,,,Published
+150,"iPad Pro 10.2 (2019) Repair","iPad Repair",2244,"Rear Camera Repair ",249.99,No,249.99,,,Published
+150,"iPad Pro 10.2 (2019) Repair","iPad Repair",2245,"Volume Repair ",249.99,No,249.99,,,Published
+151,"iPad 6th Gen 2018 9.7"" Repairs","iPad Repair",2246,"Front Glass Repair ",119.99,No,119.99,,,Published
+151,"iPad 6th Gen 2018 9.7"" Repairs","iPad Repair",2247,"LCD Repair ",189.99,No,189.99,,,Published
+151,"iPad 6th Gen 2018 9.7"" Repairs","iPad Repair",2248,"Antenna Repair ",69.99,No,69.99,,,Published
+151,"iPad 6th Gen 2018 9.7"" Repairs","iPad Repair",2249,"Battery Repair ",59.99,No,59.99,,,Published
+151,"iPad 6th Gen 2018 9.7"" Repairs","iPad Repair",2250,"Charging Port Repair ",219.99,No,219.99,,,Published
+151,"iPad 6th Gen 2018 9.7"" Repairs","iPad Repair",2251,"Diagnostic Service ",39.99,No,39.99,,,Published
+151,"iPad 6th Gen 2018 9.7"" Repairs","iPad Repair",2252,"Front Camera Repair ",59.99,No,59.99,,,Published
+151,"iPad 6th Gen 2018 9.7"" Repairs","iPad Repair",2253,"Headphone Socket Repair ",59.99,No,59.99,,,Published
+151,"iPad 6th Gen 2018 9.7"" Repairs","iPad Repair",2254,"Home Button Repair ",59.99,No,59.99,,,Published
+151,"iPad 6th Gen 2018 9.7"" Repairs","iPad Repair",2255,"Liquid Damage Service ",69.99,No,69.99,,,Published
+151,"iPad 6th Gen 2018 9.7"" Repairs","iPad Repair",2256,"Loudspeaker Repair ",59.99,No,59.99,,,Published
+151,"iPad 6th Gen 2018 9.7"" Repairs","iPad Repair",2257,"Microphone Repair ",59.99,No,59.99,,,Published
+151,"iPad 6th Gen 2018 9.7"" Repairs","iPad Repair",2258,"Mute Button Repair ",59.99,No,59.99,,,Published
+151,"iPad 6th Gen 2018 9.7"" Repairs","iPad Repair",2259,"Power Button Repair ",59.99,No,59.99,,,Published
+151,"iPad 6th Gen 2018 9.7"" Repairs","iPad Repair",2260,"Volume Repair ",59.99,No,59.99,,,Published
+152,"iPad Pro 11 (2020) Repair","iPad Repair",2261,"Front Screen Repair ",599.99,No,599.99,,,Published
+152,"iPad Pro 11 (2020) Repair","iPad Repair",2262,"Battery Repair ",519.99,No,519.99,,,Published
+152,"iPad Pro 11 (2020) Repair","iPad Repair",2263,"Charging Port Repair ",519.99,No,519.99,,,Published
+152,"iPad Pro 11 (2020) Repair","iPad Repair",2264,"Diagnostic Service ",39.99,No,39.99,,,Published
+152,"iPad Pro 11 (2020) Repair","iPad Repair",2265,"Front Camera Repair ",519.99,No,519.99,,,Published
+152,"iPad Pro 11 (2020) Repair","iPad Repair",2266,"Headphone Socket Repair ",519.99,No,519.99,,,Published
+152,"iPad Pro 11 (2020) Repair","iPad Repair",2267,"Liquid Damage Service ",519.99,No,519.99,,,Published
+152,"iPad Pro 11 (2020) Repair","iPad Repair",2268,"Loudspeaker Repair ",519.99,No,519.99,,,Published
+152,"iPad Pro 11 (2020) Repair","iPad Repair",2269,"Microphone Repair ",519.99,No,519.99,,,Published
+152,"iPad Pro 11 (2020) Repair","iPad Repair",2270,"Mute Button Repair ",519.99,No,519.99,,,Published
+152,"iPad Pro 11 (2020) Repair","iPad Repair",2271,"Power Button Repair ",519.99,No,519.99,,,Published
+152,"iPad Pro 11 (2020) Repair","iPad Repair",2272,"Rear Camera Repair ",519.99,No,519.99,,,Published
+152,"iPad Pro 11 (2020) Repair","iPad Repair",2273,"Volume Repair ",519.99,No,519.99,,,Published
+166,"iPad Pro 12.9 (2020) Repair","iPad Repair",2510,"Front Screen Repair ",349.99,No,349.99,,,Published
+166,"iPad Pro 12.9 (2020) Repair","iPad Repair",2511,"Battery Repair ",349.99,No,349.99,,,Published
+166,"iPad Pro 12.9 (2020) Repair","iPad Repair",2512,"Charging Port Repair ",349.99,No,349.99,,,Published
+166,"iPad Pro 12.9 (2020) Repair","iPad Repair",2513,"Diagnostic Service ",39.99,No,39.99,,,Published
+166,"iPad Pro 12.9 (2020) Repair","iPad Repair",2514,"Front Camera Repair ",349.99,No,349.99,,,Published
+166,"iPad Pro 12.9 (2020) Repair","iPad Repair",2515,"Headphone Socket Repair ",349.99,No,349.99,,,Published
+166,"iPad Pro 12.9 (2020) Repair","iPad Repair",2516,"Liquid Damage Service ",349.99,No,349.99,,,Published
+166,"iPad Pro 12.9 (2020) Repair","iPad Repair",2517,"Loudspeaker Repair ",349.99,No,349.99,,,Published
+166,"iPad Pro 12.9 (2020) Repair","iPad Repair",2518,"Microphone Repair ",349.99,No,349.99,,,Published
+166,"iPad Pro 12.9 (2020) Repair","iPad Repair",2519,"Mute Button Repair ",349.99,No,349.99,,,Published
+166,"iPad Pro 12.9 (2020) Repair","iPad Repair",2520,"Power Button Repair ",349.99,No,349.99,,,Published
+166,"iPad Pro 12.9 (2020) Repair","iPad Repair",2521,"Rear Camera Repair ",349.99,No,349.99,,,Published
+166,"iPad Pro 12.9 (2020) Repair","iPad Repair",2522,"Volume Repair ",349.99,No,349.99,,,Published

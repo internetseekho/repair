@@ -1,0 +1,11 @@
+Model_ID,Brand,Model_Title,Device,Model_Price,Field_ID,Field_Title,Field_Item_ID,Field_Item_Title,Field_Item_Price
+58,LG,Test,"G Series",100,1451,"iPhone X Repair Options",4211,"Front Display Screen Replacement",399
+,,,,,,,4212,"Back Glass Replacement",499
+,,,,,,,4213,"Battery Replacement",199
+,,,,,,,4214,"Multiple Issues",0
+,,,,,,,4215,"Water Damage Diagnose",0
+,,,,,1452,"What color is your iPhone X?",4216,Gold,0
+,,,,,,,4217,Silver,0
+,,,,,,,4218,"Space Grey",0
+,,,,,1456,"What color is your TV?",4222,"Space Grey",500
+,,,,,,,4223,Silver,300

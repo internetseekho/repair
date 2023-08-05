@@ -1,0 +1,19 @@
+Model_ID,Model_Title,Device,fault_id,fault_name,regular_price,is_on_offer,sale_price,offer_start_date,offer_end_date,status
+33,"iPhone 5S Repair",iPhone,11,edited,253,No,85,,,Published
+33,"iPhone 5S Repair",iPhone,12,"test 6 edited",78,Yes,778,,,Unpublished
+1,"iPhone X",iPhone,13,"ok sir",89,Yes,10,2018-11-26,2018-11-27,Unpublished
+28,"iPhone 6S Plus",iPhone,14,one,2423,No,,,,Unpublished
+28,"iPhone 6S Plus",iPhone,15,two,85.98,No,,,,Unpublished
+28,"iPhone 6S Plus",iPhone,16,three,40,No,,,,Unpublished
+28,"iPhone 6S Plus",iPhone,17,four,50,No,20,2018-11-01,2018-12-08,Unpublished
+28,"iPhone 6S Plus",iPhone,18,five,23,No,,,,Unpublished
+28,"iPhone 6S Plus",iPhone,19,six,55,No,,,,Unpublished
+28,"iPhone 6S Plus",iPhone,20,seven,66,No,,,,Unpublished
+28,"iPhone 6S Plus",iPhone,21,"eight edited",435.50,No,,,,Unpublished
+28,"iPhone 6S Plus",iPhone,22,nine,435435,No,,,,Unpublished
+28,"iPhone 6S Plus",iPhone,23,ten,43543543,No,,,,Published
+1,"iPhone X",iPhone,24,LCD,500.05,No,500,2018-11-27,,Published
+23,"iPad Pro 12.9",iPad,25,rdryr,435,Yes,,,,Published
+23,"iPad Pro 12.9",iPad,26,rtyrtyrtyr,435435,Yes,53543,2018-11-21,2018-12-19,Published
+1,"iPhone X",iPhone,27,test,25,No,,,,Published
+77,"iphone 15","iPad Mini",28,test,99.94,No,,,,Published

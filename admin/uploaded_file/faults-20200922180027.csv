@@ -1,0 +1,242 @@
+Model_ID,Model_Title,Device,fault_id,fault_name,regular_price,is_on_offer,sale_price,offer_start_date,offer_end_date,status
+202,"Moto Z4 Repair",,3054,"Front Screen Repair ",79.99,No,79.99,,,Published
+202,"Moto Z4 Repair",,3057,"Antenna Repair ",69.99,No,69.99,,,Published
+202,"Moto Z4 Repair",,3058,"Battery Repair ",69.99,No,69.99,,,Published
+202,"Moto Z4 Repair",,3062,"Charging Port Repair ",69.99,No,69.99,,,Published
+202,"Moto Z4 Repair",,3063,"Diagnostic Service ",39.99,No,39.99,,,Published
+202,"Moto Z4 Repair",,3068,"Earpiece Repair ",69.99,No,69.99,,,Published
+202,"Moto Z4 Repair",,3069,"Front Camera Repair ",69.99,No,69.99,,,Published
+202,"Moto Z4 Repair",,3074,"Headphone Socket Repair ",69.99,No,69.99,,,Published
+202,"Moto Z4 Repair",,3075,"Home Button Repair ",69.99,No,69.99,,,Published
+202,"Moto Z4 Repair",,3080,"Liquid Damage Service ",69.99,No,69.99,,,Published
+202,"Moto Z4 Repair",,3081,"Loudspeaker Repair ",69.99,No,69.99,,,Published
+202,"Moto Z4 Repair",,3086,"Microphone Repair ",69.99,No,69.99,,,Published
+202,"Moto Z4 Repair",,3087,"Mute Button Repair ",69.99,No,69.99,,,Published
+202,"Moto Z4 Repair",,3092,"Power Button Repair ",69.99,No,69.99,,,Published
+202,"Moto Z4 Repair",,3093,"Rear Camera Repair ",69.99,No,69.99,,,Published
+202,"Moto Z4 Repair",,3097,"Rear Cover Repair ",69.99,No,69.99,,,Published
+202,"Moto Z4 Repair",,3098,"Vibration Repair ",69.99,No,69.99,,,Published
+202,"Moto Z4 Repair",,3101,"Volume Repair ",69.99,No,69.99,,,Published
+202,"Moto Z4 Repair",,3102,"WIFI Repair ",69.99,No,69.99,,,Published
+266,"Moto E5 Plus Repair",,4183,"Front Screen Repair ",99.99,No,99.99,,,Published
+266,"Moto E5 Plus Repair",,4186,"Antenna Repair ",79.99,No,79.99,,,Published
+266,"Moto E5 Plus Repair",,4187,"Battery Repair ",79.99,No,79.99,,,Published
+266,"Moto E5 Plus Repair",,4191,"Charging Port Repair ",79.99,No,79.99,,,Published
+266,"Moto E5 Plus Repair",,4192,"Diagnostic Service  ",39.99,No,39.99,,,Published
+266,"Moto E5 Plus Repair",,4197,"Earpiece Repair ",79.99,No,79.99,,,Published
+266,"Moto E5 Plus Repair",,4198,"Front Camera Repair ",79.99,No,79.99,,,Published
+266,"Moto E5 Plus Repair",,4201,"Headphone Socket Repair ",79.99,No,79.99,,,Published
+266,"Moto E5 Plus Repair",,4202,"Liquid Damage Service ",79.99,No,79.99,,,Published
+266,"Moto E5 Plus Repair",,4205,"Loudspeaker Repair ",79.99,No,79.99,,,Published
+266,"Moto E5 Plus Repair",,4206,"Microphone Repair ",79.99,No,79.99,,,Published
+266,"Moto E5 Plus Repair",,4209,"Mute Button Repair ",79.99,No,79.99,,,Published
+266,"Moto E5 Plus Repair",,4210,"Power Button Repair ",79.99,No,79.99,,,Published
+266,"Moto E5 Plus Repair",,4213,"Rear Camera Repair ",79.99,No,79.99,,,Published
+266,"Moto E5 Plus Repair",,4214,"Rear Cover Repair ",79.99,No,79.99,,,Published
+266,"Moto E5 Plus Repair",,4217,"Vibration Repair ",79.99,No,79.99,,,Published
+266,"Moto E5 Plus Repair",,4218,"Volume Repair ",79.99,No,79.99,,,Published
+268,"Moto G6 Play Repair",,4224,"Front Screen Repair ",99.99,No,99.99,,,Published
+268,"Moto G6 Play Repair",,4225,"Antenna Repair ",79.99,No,79.99,,,Published
+268,"Moto G6 Play Repair",,4226,"Battery Repair ",79.99,No,79.99,,,Published
+268,"Moto G6 Play Repair",,4227,"Charging Port Repair ",79.99,No,79.99,,,Published
+268,"Moto G6 Play Repair",,4228,"Diagnostic Service  ",39.99,No,39.99,,,Published
+269,"Motorola Moto G4 Plus Repair",,4229,"Antenna Repair ",69.99,No,69.99,,,Published
+268,"Moto G6 Play Repair",,4230,"Earpiece Repair ",79.99,No,79.99,,,Published
+268,"Moto G6 Play Repair",,4231,"Front Camera Repair ",79.99,No,79.99,,,Published
+269,"Motorola Moto G4 Plus Repair",,4232,"Battery Repair ",69.99,No,69.99,,,Published
+269,"Motorola Moto G4 Plus Repair",,4233,"Charging Port Repair ",69.99,No,69.99,,,Published
+268,"Moto G6 Play Repair",,4234,"Headphone Socket Repair ",79.99,No,79.99,,,Published
+268,"Moto G6 Play Repair",,4235,"Liquid Damage Service ",79.99,No,79.99,,,Published
+269,"Motorola Moto G4 Plus Repair",,4236,"Diagnostic Service ",39.99,No,39.99,,,Published
+269,"Motorola Moto G4 Plus Repair",,4237,"Earpiece Repair ",69.99,No,69.99,,,Published
+268,"Moto G6 Play Repair",,4238,"Loudspeaker Repair ",79.99,No,79.99,,,Published
+268,"Moto G6 Play Repair",,4239,"Microphone Repair ",79.99,No,79.99,,,Published
+270,"Moto G7 Repair",,4240,"Front Screen Repair ",79.99,No,79.99,,,Published
+269,"Motorola Moto G4 Plus Repair",,4241,"Front Camera Repair ",69.99,No,69.99,,,Published
+269,"Motorola Moto G4 Plus Repair",,4242,"Front Screen Repair ",89.99,No,89.99,,,Published
+271,"Moto G7 Power Repair",,4243,"Front Screen Repair ",79.99,No,79.99,,,Published
+268,"Moto G6 Play Repair",,4244,"Mute Button Repair ",79.99,No,79.99,,,Published
+268,"Moto G6 Play Repair",,4245,"Power Button Repair ",79.99,No,79.99,,,Published
+270,"Moto G7 Repair",,4246,"Antenna Repair ",69.99,No,69.99,,,Published
+270,"Moto G7 Repair",,4247,"Battery Repair ",69.99,No,69.99,,,Published
+269,"Motorola Moto G4 Plus Repair",,4248,"Headphone Socket Repair ",69.99,No,69.99,,,Published
+269,"Motorola Moto G4 Plus Repair",,4249,"Home Button Repair ",69.99,No,69.99,,,Published
+271,"Moto G7 Power Repair",,4250,"Antenna Repair ",69.99,No,69.99,,,Published
+271,"Moto G7 Power Repair",,4251,"Battery Repair ",69.99,No,69.99,,,Published
+272,"Moto G6 Repair",,4252,"Front Screen Repair ",89.99,No,89.99,,,Published
+268,"Moto G6 Play Repair",,4253,"Rear Camera Repair ",79.99,No,79.99,,,Published
+268,"Moto G6 Play Repair",,4254,"Rear Cover Repair ",79.99,No,79.99,,,Published
+270,"Moto G7 Repair",,4255,"Charging Port Repair ",69.99,No,69.99,,,Published
+270,"Moto G7 Repair",,4256,"Diagnostic Service ",39.99,No,39.99,,,Published
+273,"Moto G6 Plus Repair",,4257,"Front Screen Repair ",89.99,No,89.99,,,Published
+269,"Motorola Moto G4 Plus Repair",,4258,"Liquid Damage Service ",69.99,No,69.99,,,Published
+269,"Motorola Moto G4 Plus Repair",,4259,"Loudspeaker Repair ",69.99,No,69.99,,,Published
+271,"Moto G7 Power Repair",,4260,"Charging Port Repair ",69.99,No,69.99,,,Published
+271,"Moto G7 Power Repair",,4261,"Diagnostic Service ",39.99,No,39.99,,,Published
+272,"Moto G6 Repair",,4262,"Antenna Repair ",69.99,No,69.99,,,Published
+272,"Moto G6 Repair",,4263,"Battery Repair ",69.99,No,69.99,,,Published
+268,"Moto G6 Play Repair",,4264,"Vibration Repair ",79.99,No,79.99,,,Published
+268,"Moto G6 Play Repair",,4265,"Volume Repair ",79.99,No,79.99,,,Published
+270,"Moto G7 Repair",,4266,"Earpiece Repair ",69.99,No,69.99,,,Published
+270,"Moto G7 Repair",,4267,"Front Camera Repair ",69.99,No,69.99,,,Published
+270,"Moto G7 Repair",,4268,"Headphone Socket Repair ",69.99,No,69.99,,,Published
+273,"Moto G6 Plus Repair",,4269,"Antenna Repair ",69.99,No,69.99,,,Published
+273,"Moto G6 Plus Repair",,4270,"Battery Repair ",69.99,No,69.99,,,Published
+269,"Motorola Moto G4 Plus Repair",,4271,"Microphone Repair ",69.99,No,69.99,,,Published
+269,"Motorola Moto G4 Plus Repair",,4272,"Mute Button Repair ",69.99,No,69.99,,,Published
+271,"Moto G7 Power Repair",,4273,"Earpiece Repair ",69.99,No,69.99,,,Published
+271,"Moto G7 Power Repair",,4274,"Front Camera Repair ",69.99,No,69.99,,,Published
+272,"Moto G6 Repair",,4275,"Charging Port Repair ",69.99,No,69.99,,,Published
+272,"Moto G6 Repair",,4276,"Diagnostic Service ",39.99,No,39.99,,,Published
+270,"Moto G7 Repair",,4277,"Home Button Repair ",69.99,No,69.99,,,Published
+270,"Moto G7 Repair",,4278,"Liquid Damage Service ",69.99,No,69.99,,,Published
+273,"Moto G6 Plus Repair",,4279,"Charging Port Repair ",69.99,No,69.99,,,Published
+273,"Moto G6 Plus Repair",,4280,"Diagnostic Service ",39.99,No,39.99,,,Published
+269,"Motorola Moto G4 Plus Repair",,4281,"Power Button Repair ",69.99,No,69.99,,,Published
+269,"Motorola Moto G4 Plus Repair",,4282,"Rear Camera Repair ",69.99,No,69.99,,,Published
+271,"Moto G7 Power Repair",,4283,"Headphone Socket Repair ",69.99,No,69.99,,,Published
+271,"Moto G7 Power Repair",,4284,"Home Button Repair ",69.99,No,69.99,,,Published
+272,"Moto G6 Repair",,4285,"Earpiece Repair ",69.99,No,69.99,,,Published
+272,"Moto G6 Repair",,4286,"Front Camera Repair ",69.99,No,69.99,,,Published
+270,"Moto G7 Repair",,4287,"Loudspeaker Repair ",69.99,No,69.99,,,Published
+270,"Moto G7 Repair",,4288,"Microphone Repair ",69.99,No,69.99,,,Published
+273,"Moto G6 Plus Repair",,4289,"Earpiece Repair ",69.99,No,69.99,,,Published
+273,"Moto G6 Plus Repair",,4290,"Front Camera Repair ",69.99,No,69.99,,,Published
+269,"Motorola Moto G4 Plus Repair",,4291,"Rear Cover Repair ",69.99,No,69.99,,,Published
+269,"Motorola Moto G4 Plus Repair",,4292,"Software Repair ",69.99,No,69.99,,,Published
+271,"Moto G7 Power Repair",,4293,"Liquid Damage Service ",69.99,No,69.99,,,Published
+271,"Moto G7 Power Repair",,4294,"Loudspeaker Repair ",69.99,No,69.99,,,Published
+272,"Moto G6 Repair",,4295,"Headphone Socket Repair ",69.99,No,69.99,,,Published
+272,"Moto G6 Repair",,4296,"Home Button Repair ",69.99,No,69.99,,,Published
+270,"Moto G7 Repair",,4297,"Mute Button Repair ",69.99,No,69.99,,,Published
+270,"Moto G7 Repair",,4298,"Power Button Repair ",119.99,No,119.99,,,Published
+273,"Moto G6 Plus Repair",,4299,"Headphone Socket Repair ",69.99,No,69.99,,,Published
+273,"Moto G6 Plus Repair",,4300,"Home Button Repair ",69.99,No,69.99,,,Published
+269,"Motorola Moto G4 Plus Repair",,4301,"Vibration Repair ",69.99,No,69.99,,,Published
+269,"Motorola Moto G4 Plus Repair",,4302,"Volume Repair ",69.99,No,69.99,,,Published
+271,"Moto G7 Power Repair",,4303,"Microphone Repair ",69.99,No,69.99,,,Published
+271,"Moto G7 Power Repair",,4304,"Mute Button Repair ",69.99,No,69.99,,,Published
+272,"Moto G6 Repair",,4305,"Liquid Damage Service ",69.99,No,69.99,,,Published
+272,"Moto G6 Repair",,4306,"Loudspeaker Repair ",69.99,No,69.99,,,Published
+270,"Moto G7 Repair",,4307,"Rear Camera Repair ",69.99,No,69.99,,,Published
+270,"Moto G7 Repair",,4308,"Rear Cover Repair ",69.99,No,69.99,,,Published
+273,"Moto G6 Plus Repair",,4309,"Liquid Damage Service ",69.99,No,69.99,,,Published
+273,"Moto G6 Plus Repair",,4310,"Loudspeaker Repair ",69.99,No,69.99,,,Published
+269,"Motorola Moto G4 Plus Repair",,4311,"WIFI Repair ",69.99,No,69.99,,,Published
+271,"Moto G7 Power Repair",,4312,"Power Button Repair ",69.99,No,69.99,,,Published
+271,"Moto G7 Power Repair",,4313,"Rear Camera Repair ",69.99,No,69.99,,,Published
+274,"Moto G7 Play Repair",,4314,"Front Screen Repair ",79.99,No,79.99,,,Published
+272,"Moto G6 Repair",,4315,"Microphone Repair ",69.99,No,69.99,,,Published
+272,"Moto G6 Repair",,4316,"Vibration Repair ",69.99,No,69.99,,,Published
+270,"Moto G7 Repair",,4317,"Software Repair ",69.99,No,69.99,,,Published
+270,"Moto G7 Repair",,4318,"Vibration Repair ",69.99,No,69.99,,,Published
+273,"Moto G6 Plus Repair",,4319,"Microphone Repair ",69.99,No,69.99,,,Published
+273,"Moto G6 Plus Repair",,4320,"Vibration Repair ",69.99,No,69.99,,,Published
+271,"Moto G7 Power Repair",,4321,"Rear Cover Repair ",69.99,No,69.99,,,Published
+271,"Moto G7 Power Repair",,4322,"Software Repair ",69.99,No,69.99,,,Published
+274,"Moto G7 Play Repair",,4323,"Antenna Repair ",69.99,No,69.99,,,Published
+274,"Moto G7 Play Repair",,4324,"Battery Repair ",69.99,No,69.99,,,Published
+272,"Moto G6 Repair",,4325,"Volume Repair ",69.99,No,69.99,,,Published
+270,"Moto G7 Repair",,4326,"Volume Repair ",69.99,No,69.99,,,Published
+270,"Moto G7 Repair",,4327,"WIFI Repair ",69.99,No,69.99,,,Published
+273,"Moto G6 Plus Repair",,4328,"Volume Repair ",69.99,No,69.99,,,Published
+271,"Moto G7 Power Repair",,4329,"Vibration Repair ",69.99,No,69.99,,,Published
+271,"Moto G7 Power Repair",,4330,"Volume Repair ",69.99,No,69.99,,,Published
+274,"Moto G7 Play Repair",,4331,"Charging Port Repair ",69.99,No,69.99,,,Published
+274,"Moto G7 Play Repair",,4332,"Diagnostic Service ",39.99,No,39.99,,,Published
+271,"Moto G7 Power Repair",,4333,"WIFI Repair ",69.99,No,69.99,,,Published
+274,"Moto G7 Play Repair",,4334,"Earpiece Repair ",69.99,No,69.99,,,Published
+274,"Moto G7 Play Repair",,4335,"Front Camera Repair ",69.99,No,69.99,,,Published
+274,"Moto G7 Play Repair",,4336,"Headphone Socket Repair ",69.99,No,69.99,,,Published
+274,"Moto G7 Play Repair",,4337,"Home Button Repair ",69.99,No,69.99,,,Published
+274,"Moto G7 Play Repair",,4338,"Liquid Damage Service ",69.99,No,69.99,,,Published
+274,"Moto G7 Play Repair",,4339,"Loudspeaker Repair ",69.99,No,69.99,,,Published
+274,"Moto G7 Play Repair",,4340,"Microphone Repair ",69.99,No,69.99,,,Published
+274,"Moto G7 Play Repair",,4341,"Mute Button Repair ",69.99,No,69.99,,,Published
+274,"Moto G7 Play Repair",,4342,"Power Button Repair ",69.99,No,69.99,,,Published
+274,"Moto G7 Play Repair",,4343,"Rear Camera Repair ",69.99,No,69.99,,,Published
+274,"Moto G7 Play Repair",,4344,"Rear Cover Repair ",69.99,No,69.99,,,Published
+274,"Moto G7 Play Repair",,4345,"Software Repair ",69.99,No,69.99,,,Published
+274,"Moto G7 Play Repair",,4346,"Vibration Repair ",69.99,No,69.99,,,Published
+274,"Moto G7 Play Repair",,4347,"Volume Repair ",69.99,No,69.99,,,Published
+274,"Moto G7 Play Repair",,4348,"WIFI Repair ",69.99,No,69.99,,,Published
+275,"Moto G7 Plus Repair",,4349,"Front Screen Repair ",79.99,No,79.99,,,Published
+275,"Moto G7 Plus Repair",,4350,"Antenna Repair ",69.99,No,69.99,,,Published
+275,"Moto G7 Plus Repair",,4351,"Battery Repair ",69.99,No,69.99,,,Published
+275,"Moto G7 Plus Repair",,4352,"Charging Port Repair ",69.99,No,69.99,,,Published
+275,"Moto G7 Plus Repair",,4353,"Diagnostic Service ",39.99,No,39.99,,,Published
+275,"Moto G7 Plus Repair",,4354,"Earpiece Repair ",69.99,No,69.99,,,Published
+275,"Moto G7 Plus Repair",,4355,"Front Camera Repair ",69.99,No,69.99,,,Published
+275,"Moto G7 Plus Repair",,4356,"Headphone Socket Repair ",69.99,No,69.99,,,Published
+275,"Moto G7 Plus Repair",,4357,"Home Button Repair ",69.99,No,69.99,,,Published
+275,"Moto G7 Plus Repair",,4358,"Liquid Damage Service ",69.99,No,69.99,,,Published
+275,"Moto G7 Plus Repair",,4359,"Loudspeaker Repair ",69.99,No,69.99,,,Published
+275,"Moto G7 Plus Repair",,4360,"Microphone Repair ",69.99,No,69.99,,,Published
+275,"Moto G7 Plus Repair",,4361,"Mute Button Repair ",69.99,No,69.99,,,Published
+275,"Moto G7 Plus Repair",,4362,"Power Button Repair ",69.99,No,69.99,,,Published
+275,"Moto G7 Plus Repair",,4363,"Rear Camera Repair ",69.99,No,69.99,,,Published
+275,"Moto G7 Plus Repair",,4364,"Rear Cover Repair ",69.99,No,69.99,,,Published
+275,"Moto G7 Plus Repair",,4365,"Software Repair ",69.99,No,69.99,,,Published
+275,"Moto G7 Plus Repair",,4366,"Vibration Repair ",69.99,No,69.99,,,Published
+275,"Moto G7 Plus Repair",,4367,"Volume Repair ",69.99,No,69.99,,,Published
+275,"Moto G7 Plus Repair",,4368,"WIFI Repair ",69.99,No,69.99,,,Published
+276,"Moto One Power (P30 Note) Repair",,4369,"Front Screen Repair ",89.99,No,89.99,,,Published
+276,"Moto One Power (P30 Note) Repair",,4370,"Antenna Repair ",69.99,No,69.99,,,Published
+276,"Moto One Power (P30 Note) Repair",,4371,"Battery Repair ",69.99,No,69.99,,,Published
+276,"Moto One Power (P30 Note) Repair",,4372,"Charging Port Repair ",69.99,No,69.99,,,Published
+276,"Moto One Power (P30 Note) Repair",,4373,"Diagnostic Service ",39.99,No,39.99,,,Published
+276,"Moto One Power (P30 Note) Repair",,4374,"Earpiece Repair ",69.99,No,69.99,,,Published
+276,"Moto One Power (P30 Note) Repair",,4375,"Front Camera Repair ",69.99,No,69.99,,,Published
+276,"Moto One Power (P30 Note) Repair",,4376,"Headphone Socket Repair ",69.99,No,69.99,,,Published
+276,"Moto One Power (P30 Note) Repair",,4377,"Home Button Repair ",69.99,No,69.99,,,Published
+276,"Moto One Power (P30 Note) Repair",,4378,"Liquid Damage Service ",69.99,No,69.99,,,Published
+276,"Moto One Power (P30 Note) Repair",,4379,"Loudspeaker Repair ",69.99,No,69.99,,,Published
+276,"Moto One Power (P30 Note) Repair",,4380,"Microphone Repair ",69.99,No,69.99,,,Published
+276,"Moto One Power (P30 Note) Repair",,4381,"Power Button Repair ",69.99,No,69.99,,,Published
+276,"Moto One Power (P30 Note) Repair",,4382,"Vibration Repair ",69.99,No,69.99,,,Published
+276,"Moto One Power (P30 Note) Repair",,4383,"Volume Repair ",69.99,No,69.99,,,Published
+277,"Moto Z3 Play Repair",,4384,"Front Screen Repair ",149.99,No,149.99,,,Published
+277,"Moto Z3 Play Repair",,4385,"Antenna Repair ",99.99,No,99.99,,,Published
+277,"Moto Z3 Play Repair",,4386,"Battery Repair ",99.99,No,99.99,,,Published
+277,"Moto Z3 Play Repair",,4387,"Charging Port Repair ",99.99,No,99.99,,,Published
+277,"Moto Z3 Play Repair",,4388,"Diagnostic Service ",39.99,No,39.99,,,Published
+277,"Moto Z3 Play Repair",,4389,"Earpiece Repair ",99.99,No,99.99,,,Published
+277,"Moto Z3 Play Repair",,4390,"Front Camera Repair ",99.99,No,99.99,,,Published
+277,"Moto Z3 Play Repair",,4391,"Headphone Socket Repair ",99.99,No,99.99,,,Published
+277,"Moto Z3 Play Repair",,4392,"Home Button Repair ",99.99,No,99.99,,,Published
+277,"Moto Z3 Play Repair",,4393,"Liquid Damage Service ",99.99,No,99.99,,,Published
+277,"Moto Z3 Play Repair",,4394,"Loudspeaker Repair ",99.99,No,99.99,,,Published
+278,"Moto One (P30 Play) Repair",,4395,"Front Screen Repair ",84.99,No,84.99,,,Published
+277,"Moto Z3 Play Repair",,4396,"Microphone Repair ",99.99,No,99.99,,,Published
+277,"Moto Z3 Play Repair",,4397,"Vibration Repair ",99.99,No,99.99,,,Published
+278,"Moto One (P30 Play) Repair",,4398,"Antenna Repair ",69.99,No,69.99,,,Published
+278,"Moto One (P30 Play) Repair",,4399,"Battery Repair ",69.99,No,69.99,,,Published
+277,"Moto Z3 Play Repair",,4400,"Volume Repair ",99.99,No,99.99,,,Published
+278,"Moto One (P30 Play) Repair",,4401,"Charging Port Repair ",69.99,No,69.99,,,Published
+278,"Moto One (P30 Play) Repair",,4402,"Diagnostic Service ",39.99,No,39.99,,,Published
+278,"Moto One (P30 Play) Repair",,4403,"Earpiece Repair ",69.99,No,69.99,,,Published
+278,"Moto One (P30 Play) Repair",,4404,"Front Camera Repair ",69.99,No,69.99,,,Published
+278,"Moto One (P30 Play) Repair",,4405,"Headphone Socket Repair ",69.99,No,69.99,,,Published
+278,"Moto One (P30 Play) Repair",,4406,"Home Button Repair ",69.99,No,69.99,,,Published
+278,"Moto One (P30 Play) Repair",,4407,"Liquid Damage Service ",69.99,No,69.99,,,Published
+278,"Moto One (P30 Play) Repair",,4408,"Loudspeaker Repair ",69.99,No,69.99,,,Published
+278,"Moto One (P30 Play) Repair",,4409,"Microphone Repair ",69.99,No,69.99,,,Published
+278,"Moto One (P30 Play) Repair",,4410,"Power Button Repair ",69.99,No,69.99,,,Published
+278,"Moto One (P30 Play) Repair",,4411,"Vibration Repair ",69.99,No,69.99,,,Published
+278,"Moto One (P30 Play) Repair",,4412,"Volume Repair ",69.99,No,69.99,,,Published
+279,"Motorola Moto X4 Repair",,4413,"Front Screen Repair ",119.99,No,119.99,,,Published
+279,"Motorola Moto X4 Repair",,4414,"Battery Repair ",89.99,No,89.99,,,Published
+279,"Motorola Moto X4 Repair",,4415,"Charging Port Repair ",89.99,No,89.99,,,Published
+279,"Motorola Moto X4 Repair",,4416,"Earpiece Repair ",89.99,No,89.99,,,Published
+279,"Motorola Moto X4 Repair",,4417,"Front Camera Repair ",89.99,No,89.99,,,Published
+279,"Motorola Moto X4 Repair",,4418,"Headphone Socket Repair ",89.99,No,89.99,,,Published
+279,"Motorola Moto X4 Repair",,4419,"Liquid Damage Service ",89.99,No,89.99,,,Published
+279,"Motorola Moto X4 Repair",,4420,"Loudspeaker Repair ",89.99,No,89.99,,,Published
+279,"Motorola Moto X4 Repair",,4421,"Microphone Repair ",89.99,No,89.99,,,Published
+279,"Motorola Moto X4 Repair",,4422,"Mute Button Repair ",89.99,No,89.99,,,Published
+279,"Motorola Moto X4 Repair",,4423,"Power Button Repair ",89.99,No,89.99,,,Published
+279,"Motorola Moto X4 Repair",,4425,"Rear Camera Repair ",89.99,No,89.99,,,Published
+279,"Motorola Moto X4 Repair",,4426,"Rear Cover Repair ",89.99,No,89.99,,,Published
+279,"Motorola Moto X4 Repair",,4429,"Vibration Repair ",89.99,No,89.99,,,Published
+279,"Motorola Moto X4 Repair",,4430,"Volume Repair ",89.99,No,89.99,,,Published
+279,"Motorola Moto X4 Repair",,4434,"Diagnostic Service  ",39.99,No,39.99,,,Published

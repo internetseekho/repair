@@ -1,0 +1,523 @@
+Model_ID,Model_Title,Device,fault_id,fault_name,regular_price,is_on_offer,sale_price,offer_start_date,offer_end_date,status
+1,"iPhone 6 Repair","iPhone Repair",1,"Front Screen Repair ",47.99,No,47.99,,,Published
+1,"iPhone 6 Repair","iPhone Repair",2,"Antenna Repair ",69.99,No,69.99,,,Published
+1,"iPhone 6 Repair","iPhone Repair",3,"Battery Repair ",34.99,No,34.99,,,Published
+1,"iPhone 6 Repair","iPhone Repair",4,"Charging Port Repair ",34.99,No,34.99,,,Published
+1,"iPhone 6 Repair","iPhone Repair",5,"Diagnostic Service ",19.99,No,19.99,,,Published
+1,"iPhone 6 Repair","iPhone Repair",6,"Earpiece Repair ",34.99,No,34.99,,,Published
+1,"iPhone 6 Repair","iPhone Repair",7,"Front Camera Repair ",34.99,No,34.99,,,Published
+1,"iPhone 6 Repair","iPhone Repair",8,"Headphone Socket Repair ",34.99,No,34.99,,,Published
+1,"iPhone 6 Repair","iPhone Repair",9,"Home Button Repair ",34.99,No,34.99,,,Published
+1,"iPhone 6 Repair","iPhone Repair",10,"Liquid Damage Service ",69.99,No,69.99,,,Published
+1,"iPhone 6 Repair","iPhone Repair",11,"Loudspeaker Repair ",34.99,No,34.99,,,Published
+1,"iPhone 6 Repair","iPhone Repair",12,"Microphone Repair ",34.99,No,34.99,,,Published
+1,"iPhone 6 Repair","iPhone Repair",13,"Mute Button Repair ",34.99,No,34.99,,,Published
+1,"iPhone 6 Repair","iPhone Repair",14,"Power Button Repair ",34.99,No,34.99,,,Published
+1,"iPhone 6 Repair","iPhone Repair",15,"Rear Camera Repair ",34.99,No,34.99,,,Published
+1,"iPhone 6 Repair","iPhone Repair",16,"Rear Cover Repair ",69.99,No,69.99,,,Published
+1,"iPhone 6 Repair","iPhone Repair",17,"Sim Fault Repair ",69.99,No,69.99,,,Published
+1,"iPhone 6 Repair","iPhone Repair",18,"Vibration Repair ",34.99,No,34.99,,,Published
+1,"iPhone 6 Repair","iPhone Repair",19,"Volume Repair ",34.99,No,34.99,,,Published
+1,"iPhone 6 Repair","iPhone Repair",20,"WIFI Repair ",69.99,No,69.99,,,Published
+2,"iPhone 6S Repair","iPhone Repair",21,"Front Screen Repair ",44.99,No,44.99,,,Published
+2,"iPhone 6S Repair","iPhone Repair",22,"Antenna Repair ",49.99,No,49.99,,,Published
+2,"iPhone 6S Repair","iPhone Repair",23,"Battery Repair ",37.99,No,37.99,,,Published
+2,"iPhone 6S Repair","iPhone Repair",24,"Charging Port Repair ",38.99,No,38.99,,,Published
+2,"iPhone 6S Repair","iPhone Repair",25,"Diagnostic Service ",19.99,No,19.99,,,Published
+2,"iPhone 6S Repair","iPhone Repair",26,"Earpiece Repair ",38.99,No,38.99,,,Published
+2,"iPhone 6S Repair","iPhone Repair",27,"Front Camera Repair ",38.99,No,38.99,,,Published
+2,"iPhone 6S Repair","iPhone Repair",28,"Headphone Socket Repair ",38.99,No,38.99,,,Published
+2,"iPhone 6S Repair","iPhone Repair",29,"Home Button Repair ",38.99,No,38.99,,,Published
+2,"iPhone 6S Repair","iPhone Repair",30,"Liquid Damage Service ",49.99,No,49.99,,,Published
+2,"iPhone 6S Repair","iPhone Repair",31,"Loudspeaker Repair ",38.99,No,38.99,,,Published
+2,"iPhone 6S Repair","iPhone Repair",32,"Microphone Repair ",38.99,No,38.99,,,Published
+2,"iPhone 6S Repair","iPhone Repair",33,"Mute Button Repair ",38.99,No,38.99,,,Published
+2,"iPhone 6S Repair","iPhone Repair",34,"Power Button Repair ",38.99,No,38.99,,,Published
+2,"iPhone 6S Repair","iPhone Repair",35,"Rear Camera Repair ",38.99,No,38.99,,,Published
+2,"iPhone 6S Repair","iPhone Repair",36,"Rear Cover Repair ",89.99,No,89.99,,,Published
+2,"iPhone 6S Repair","iPhone Repair",37,"Vibration Repair ",38.99,No,38.99,,,Published
+2,"iPhone 6S Repair","iPhone Repair",38,"Volume Repair ",38.99,No,38.99,,,Published
+3,"iPhone 11 Pro Repair","iPhone Repair",39,"Front Screen Repair ",429.99,No,429.99,,,Published
+3,"iPhone 11 Pro Repair","iPhone Repair",40,"Battery Repair ",399.99,No,399.99,,,Published
+3,"iPhone 11 Pro Repair","iPhone Repair",41,"Charging Port Repair ",399.99,No,399.99,,,Published
+3,"iPhone 11 Pro Repair","iPhone Repair",42,"Diagnostic Service  ",19.99,No,19.99,,,Published
+3,"iPhone 11 Pro Repair","iPhone Repair",43,"Earpiece Repair ",399.99,No,399.99,,,Published
+3,"iPhone 11 Pro Repair","iPhone Repair",44,"Front Camera Repair ",399.99,No,399.99,,,Published
+3,"iPhone 11 Pro Repair","iPhone Repair",45,"Headphone Socket Repair ",399.99,No,399.99,,,Published
+3,"iPhone 11 Pro Repair","iPhone Repair",46,"Liquid Damage Service ",399.99,No,399.99,,,Published
+3,"iPhone 11 Pro Repair","iPhone Repair",47,"Loudspeaker Repair ",399.99,No,399.99,,,Published
+3,"iPhone 11 Pro Repair","iPhone Repair",48,"Microphone Repair ",399.99,No,399.99,,,Published
+3,"iPhone 11 Pro Repair","iPhone Repair",49,"Mute Button Repair ",399.99,No,399.99,,,Published
+3,"iPhone 11 Pro Repair","iPhone Repair",50,"Power Button Repair ",399.99,No,399.99,,,Published
+3,"iPhone 11 Pro Repair","iPhone Repair",51,"Rear Camera Repair ",449.99,No,449.99,,,Published
+3,"iPhone 11 Pro Repair","iPhone Repair",52,"Rear Cover Repair ",449.99,No,449.99,,,Published
+3,"iPhone 11 Pro Repair","iPhone Repair",53,"Vibration Repair ",399.99,No,399.99,,,Published
+3,"iPhone 11 Pro Repair","iPhone Repair",54,"Volume Repair ",399.99,No,399.99,,,Published
+12,"iPod Nano 6th Gen Repair","iPod Repair",169,"Battery Repair ",89.99,No,89.99,,,Published
+12,"iPod Nano 6th Gen Repair","iPod Repair",170,"Charging Port Repair ",89.99,No,89.99,,,Published
+12,"iPod Nano 6th Gen Repair","iPod Repair",171,"Diagnostic Service ",39.99,No,39.99,,,Published
+12,"iPod Nano 6th Gen Repair","iPod Repair",172,"Front Camera Repair ",89.99,No,89.99,,,Published
+12,"iPod Nano 6th Gen Repair","iPod Repair",173,"Headphone Socket Repair ",89.99,No,89.99,,,Published
+12,"iPod Nano 6th Gen Repair","iPod Repair",174,"Liquid Damage Service ",69.99,No,69.99,,,Published
+12,"iPod Nano 6th Gen Repair","iPod Repair",175,"Loudspeaker Repair ",89.99,No,89.99,,,Published
+12,"iPod Nano 6th Gen Repair","iPod Repair",176,"Microphone Repair ",89.99,No,89.99,,,Published
+12,"iPod Nano 6th Gen Repair","iPod Repair",177,"Mute Button Repair ",89.99,No,89.99,,,Published
+12,"iPod Nano 6th Gen Repair","iPod Repair",178,"Power Button Repair ",89.99,No,89.99,,,Published
+12,"iPod Nano 6th Gen Repair","iPod Repair",179,"Rear Camera Repair ",89.99,No,89.99,,,Published
+12,"iPod Nano 6th Gen Repair","iPod Repair",180,"Volume Repair ",89.99,No,89.99,,,Published
+91,"iPod Nano 7th Gen Repair","iPod Repair",1535,"Diagnostic Service ",39.99,No,39.99,,,Published
+92,"iPod Touch 3rd Gen Repair","iPod Repair",1536,"Battery Repair ",89.99,No,89.99,,,Published
+92,"iPod Touch 3rd Gen Repair","iPod Repair",1537,"Charging Port Repair ",89.99,No,89.99,,,Published
+92,"iPod Touch 3rd Gen Repair","iPod Repair",1538,"Diagnostic Service ",39.99,No,39.99,,,Published
+92,"iPod Touch 3rd Gen Repair","iPod Repair",1539,"Front Camera Repair ",89.99,No,89.99,,,Published
+92,"iPod Touch 3rd Gen Repair","iPod Repair",1540,"Headphone Socket Repair ",89.99,No,89.99,,,Published
+92,"iPod Touch 3rd Gen Repair","iPod Repair",1541,"Home Button Repair ",89.99,No,89.99,,,Published
+92,"iPod Touch 3rd Gen Repair","iPod Repair",1542,"Liquid Damage Service ",69.99,No,69.99,,,Published
+92,"iPod Touch 3rd Gen Repair","iPod Repair",1543,"Loudspeaker Repair ",89.99,No,89.99,,,Published
+92,"iPod Touch 3rd Gen Repair","iPod Repair",1544,"Mute Button Repair ",89.99,No,89.99,,,Published
+92,"iPod Touch 3rd Gen Repair","iPod Repair",1545,"Power Button Repair ",89.99,No,89.99,,,Published
+92,"iPod Touch 3rd Gen Repair","iPod Repair",1546,"Rear Camera Repair ",89.99,No,89.99,,,Published
+92,"iPod Touch 3rd Gen Repair","iPod Repair",1547,"Rear Cover Repair ",89.99,No,89.99,,,Published
+92,"iPod Touch 3rd Gen Repair","iPod Repair",1548,"Vibration Repair ",89.99,No,89.99,,,Published
+92,"iPod Touch 3rd Gen Repair","iPod Repair",1549,"Volume Repair ",89.99,No,89.99,,,Published
+93,"iPod Touch 4th Gen Repair","iPod Repair",1550,"Front Screen Repair ",59.99,No,59.99,,,Published
+93,"iPod Touch 4th Gen Repair","iPod Repair",1551,"Charging Port Repair ",89.99,No,89.99,,,Published
+93,"iPod Touch 4th Gen Repair","iPod Repair",1552,"Diagnostic Service ",39.99,No,39.99,,,Published
+93,"iPod Touch 4th Gen Repair","iPod Repair",1553,"Front Camera Repair ",89.99,No,89.99,,,Published
+93,"iPod Touch 4th Gen Repair","iPod Repair",1554,"Headphone Socket Repair ",89.99,No,89.99,,,Published
+93,"iPod Touch 4th Gen Repair","iPod Repair",1555,"Home Button Repair ",89.99,No,89.99,,,Published
+93,"iPod Touch 4th Gen Repair","iPod Repair",1556,"Liquid Damage Service ",69.99,No,69.99,,,Published
+93,"iPod Touch 4th Gen Repair","iPod Repair",1557,"Loudspeaker Repair ",89.99,No,89.99,,,Published
+93,"iPod Touch 4th Gen Repair","iPod Repair",1558,"Mute Button Repair ",89.99,No,89.99,,,Published
+93,"iPod Touch 4th Gen Repair","iPod Repair",1559,"Power Button Repair ",89.99,No,89.99,,,Published
+93,"iPod Touch 4th Gen Repair","iPod Repair",1560,"Rear Camera Repair ",89.99,No,89.99,,,Published
+93,"iPod Touch 4th Gen Repair","iPod Repair",1561,"Rear Cover Repair ",89.99,No,89.99,,,Published
+93,"iPod Touch 4th Gen Repair","iPod Repair",1562,"Vibration Repair ",89.99,No,89.99,,,Published
+93,"iPod Touch 4th Gen Repair","iPod Repair",1563,"Volume Repair ",89.99,No,89.99,,,Published
+94,"Apple Watch 1st Gen 38mm","Watch Repair",1564,"Battery Repair ",69.99,No,69.99,,,Published
+94,"Apple Watch 1st Gen 38mm","Watch Repair",1565,"Front Screen Repair ",129.99,No,129.99,,,Published
+94,"Apple Watch 1st Gen 38mm","Watch Repair",1566,"Liquid Damage Service ",89.99,No,89.99,,,Published
+95,"iPod Touch 5th Gen Repair","iPod Repair",1567,"Front Screen Repair ",99.99,No,99.99,,,Published
+95,"iPod Touch 5th Gen Repair","iPod Repair",1568,"Battery Repair ",89.99,No,89.99,,,Published
+95,"iPod Touch 5th Gen Repair","iPod Repair",1569,"Charging Port Repair ",89.99,No,89.99,,,Published
+95,"iPod Touch 5th Gen Repair","iPod Repair",1570,"Diagnostic Service ",39.99,No,39.99,,,Published
+95,"iPod Touch 5th Gen Repair","iPod Repair",1571,"Front Camera Repair ",89.99,No,89.99,,,Published
+95,"iPod Touch 5th Gen Repair","iPod Repair",1572,"Headphone Socket Repair ",89.99,No,89.99,,,Published
+95,"iPod Touch 5th Gen Repair","iPod Repair",1573,"Home Button Repair ",89.99,No,89.99,,,Published
+95,"iPod Touch 5th Gen Repair","iPod Repair",1574,"Liquid Damage Service ",69.99,No,69.99,,,Published
+95,"iPod Touch 5th Gen Repair","iPod Repair",1575,"Loudspeaker Repair ",89.99,No,89.99,,,Published
+95,"iPod Touch 5th Gen Repair","iPod Repair",1576,"Microphone Repair ",89.99,No,89.99,,,Published
+95,"iPod Touch 5th Gen Repair","iPod Repair",1577,"Mute Button Repair ",89.99,No,89.99,,,Published
+95,"iPod Touch 5th Gen Repair","iPod Repair",1578,"Power Button Repair ",89.99,No,89.99,,,Published
+95,"iPod Touch 5th Gen Repair","iPod Repair",1579,"Rear Camera Repair ",89.99,No,89.99,,,Published
+95,"iPod Touch 5th Gen Repair","iPod Repair",1580,"Volume Repair ",89.99,No,89.99,,,Published
+96,"Apple Watch 1st Gen 42mm","Watch Repair",1581,"Battery Repair ",69.99,No,69.99,,,Published
+96,"Apple Watch 1st Gen 42mm","Watch Repair",1582,"Front Screen Repair ",128.99,No,128.99,,,Published
+96,"Apple Watch 1st Gen 42mm","Watch Repair",1583,"Liquid Damage Service ",89.99,No,89.99,,,Published
+97,"MacBook Pro 17"" (A1297)","MacBook Repair",1584,"Front Glass (High Quality)  ",99.99,No,99.99,,,Published
+97,"MacBook Pro 17"" (A1297)","MacBook Repair",1585,"LCD Display Screen ",279.99,No,279.99,,,Published
+98,"Apple Watch Series 4 40mm Repair","Watch Repair",1586,"Front Screen Repair ",419.99,No,419.99,,,Published
+98,"Apple Watch Series 4 40mm Repair","Watch Repair",1587,"Liquid Damage Service ",69.99,No,69.99,,,Published
+98,"Apple Watch Series 4 40mm Repair","Watch Repair",1588,"Diagnostic Service ",39.99,No,39.99,,,Published
+99,"Apple Watch Series 4 44mm Repair","Watch Repair",1589,"Liquid Damage Service ",69.99,No,69.99,,,Published
+99,"Apple Watch Series 4 44mm Repair","Watch Repair",1590,"Diagnostic Service ",39.99,No,39.99,,,Published
+99,"Apple Watch Series 4 44mm Repair","Watch Repair",1591,"Front Screen Repair ",419.99,No,419.99,,,Published
+100,"Apple Watch 2nd Gen 42mm Repair","Watch Repair",1592,"Front Screen Repair ",259.99,No,259.99,,,Published
+100,"Apple Watch 2nd Gen 42mm Repair","Watch Repair",1593,"Battery Repair ",69.99,No,69.99,,,Published
+100,"Apple Watch 2nd Gen 42mm Repair","Watch Repair",1594,"Liquid Damage Service ",89.99,No,89.99,,,Published
+101,"Apple Watch 2nd Gen 38mm Repair","Watch Repair",1595,"Front Screen Repair ",249.99,No,249.99,,,Published
+101,"Apple Watch 2nd Gen 38mm Repair","Watch Repair",1596,"Battery Repair ",69.99,No,69.99,,,Published
+101,"Apple Watch 2nd Gen 38mm Repair","Watch Repair",1597,"Liquid Damage Service ",89.99,No,89.99,,,Published
+102,"MacBook Pro 15"" Retina display (A1398)","MacBook Repair",1598,"Cracked Glass + LCD Display ",449.99,No,449.99,,,Published
+103,"Apple Watch 3rd Gen 42mm Repair","Watch Repair",1599,"Front Screen Repair ",319.99,No,319.99,,,Published
+103,"Apple Watch 3rd Gen 42mm Repair","Watch Repair",1600,"Battery Repair ",99.99,No,99.99,,,Published
+103,"Apple Watch 3rd Gen 42mm Repair","Watch Repair",1601,"Liquid Damage Service ",119.99,No,119.99,,,Published
+104,"Apple Watch 3rd Gen 38mm Repair","Watch Repair",1602,"Front Screen Repair ",319.99,No,319.99,,,Published
+104,"Apple Watch 3rd Gen 38mm Repair","Watch Repair",1603,"Battery Repair ",99.99,No,99.99,,,Published
+104,"Apple Watch 3rd Gen 38mm Repair","Watch Repair",1604,"Liquid Damage Service ",119.99,No,119.99,,,Published
+105,"MacBook Pro 13"" (A1278/A1342)","MacBook Repair",1605,"Front Glass (High Quality)  ",99.99,No,99.99,,,Published
+105,"MacBook Pro 13"" (A1278/A1342)","MacBook Repair",1606,"LCD Display Screen ",149.99,No,149.99,,,Published
+106,"MacBook Pro 13"" Retina Display (A1425)","MacBook Repair",1607,"Full Screen ",399.99,No,399.99,,,Published
+107,"MacBook Air 13.3"" (A1466/A1369)","MacBook Repair",1608,"Full Screen ",599.99,No,599.99,,,Published
+108,"MacBook Air 13.3"" (A1237/ A1304)","MacBook Repair",1609,"Full Screen ",149.99,No,149.99,,,Published
+109,"MacBook Air 11"" (A1370)","MacBook Repair",1610,"Full Screen ",149.99,No,149.99,,,Published
+110,"MacBook Pro 15"" (A1286)","MacBook Repair",1611,"Front Glass (High Quality)  ",99.99,No,99.99,,,Published
+110,"MacBook Pro 15"" (A1286)","MacBook Repair",1612,"LCD Display Screen ",149.99,No,149.99,,,Published
+111,"MacBook Air 11.6"" (A1465)","MacBook Repair",1613,"Full Screen ",149.99,No,149.99,,,Published
+112,"MacBook 13"" (A1181)","MacBook Repair",1614,"Full Screen ",149.99,No,149.99,,,Published
+120,"MacBook Pro 13"" Retina Display (A1502)","MacBook Repair",1747,"Cracked Glass + LCD Display ",449.99,No,449.99,,,Published
+137,"iPad Mini 3 Repair","iPad Repair",2039,"Front Glass Repair ",79.99,No,79.99,,,Published
+137,"iPad Mini 3 Repair","iPad Repair",2040,"Battery Repair ",57.99,No,57.99,,,Published
+137,"iPad Mini 3 Repair","iPad Repair",2041,"Charging Port Repair ",89.99,No,89.99,,,Published
+137,"iPad Mini 3 Repair","iPad Repair",2042,"Diagnostic Service ",39.99,No,39.99,,,Published
+137,"iPad Mini 3 Repair","iPad Repair",2043,"Front Camera Repair ",57.99,No,57.99,,,Published
+137,"iPad Mini 3 Repair","iPad Repair",2044,"Headphone Socket Repair ",59.99,No,59.99,,,Published
+137,"iPad Mini 3 Repair","iPad Repair",2045,"Home Button Repair ",59.99,No,59.99,,,Published
+137,"iPad Mini 3 Repair","iPad Repair",2046,"LCD Repair ",74.99,No,74.99,,,Published
+137,"iPad Mini 3 Repair","iPad Repair",2047,"Liquid Damage Service ",74.99,No,74.99,,,Published
+137,"iPad Mini 3 Repair","iPad Repair",2048,"Loudspeaker Repair ",63.99,No,63.99,,,Published
+137,"iPad Mini 3 Repair","iPad Repair",2049,"Microphone Repair ",63.99,No,63.99,,,Published
+137,"iPad Mini 3 Repair","iPad Repair",2050,"Mute Button Repair ",59.99,No,59.99,,,Published
+137,"iPad Mini 3 Repair","iPad Repair",2051,"Power Button Repair ",59.99,No,59.99,,,Published
+137,"iPad Mini 3 Repair","iPad Repair",2052,"Rear Camera Repair ",63.99,No,63.99,,,Published
+137,"iPad Mini 3 Repair","iPad Repair",2053,"Volume Repair ",59.99,No,59.99,,,Published
+140,"iPad Mini 2019 Repairs","iPad Repair",2094,"Front Screen Repair ",369.99,No,369.99,,,Published
+140,"iPad Mini 2019 Repairs","iPad Repair",2095,"Battery Repair ",169.99,No,169.99,,,Published
+140,"iPad Mini 2019 Repairs","iPad Repair",2096,"Charging Port Repair ",199.99,No,199.99,,,Published
+140,"iPad Mini 2019 Repairs","iPad Repair",2097,"Diagnostic Service ",39.99,No,39.99,,,Published
+140,"iPad Mini 2019 Repairs","iPad Repair",2098,"Front Camera Repair ",169.99,No,169.99,,,Published
+140,"iPad Mini 2019 Repairs","iPad Repair",2099,"Headphone Socket Repair ",169.99,No,169.99,,,Published
+140,"iPad Mini 2019 Repairs","iPad Repair",2100,"Liquid Damage Service ",89.99,No,89.99,,,Published
+140,"iPad Mini 2019 Repairs","iPad Repair",2101,"Loudspeaker Repair ",169.99,No,169.99,,,Published
+140,"iPad Mini 2019 Repairs","iPad Repair",2102,"Microphone Repair ",169.99,No,169.99,,,Published
+140,"iPad Mini 2019 Repairs","iPad Repair",2103,"Mute Button Repair ",169.99,No,169.99,,,Published
+140,"iPad Mini 2019 Repairs","iPad Repair",2104,"Power Button Repair ",169.99,No,169.99,,,Published
+140,"iPad Mini 2019 Repairs","iPad Repair",2105,"Rear Camera Repair ",169.99,No,169.99,,,Published
+140,"iPad Mini 2019 Repairs","iPad Repair",2106,"Rear Cover Repair ",169.99,No,169.99,,,Published
+140,"iPad Mini 2019 Repairs","iPad Repair",2107,"Volume Repair ",169.99,No,169.99,,,Published
+141,"iPad Mini 4 Repair","iPad Repair",2108,"Front Screen Repair ",149.99,No,149.99,,,Published
+141,"iPad Mini 4 Repair","iPad Repair",2109,"Battery Repair ",64.99,No,64.99,,,Published
+141,"iPad Mini 4 Repair","iPad Repair",2110,"Charging Port Repair ",169.99,No,169.99,,,Published
+141,"iPad Mini 4 Repair","iPad Repair",2111,"Diagnostic Service ",39.99,No,39.99,,,Published
+141,"iPad Mini 4 Repair","iPad Repair",2112,"Front Camera Repair ",63.99,No,63.99,,,Published
+141,"iPad Mini 4 Repair","iPad Repair",2113,"Headphone Socket Repair ",59.99,No,59.99,,,Published
+141,"iPad Mini 4 Repair","iPad Repair",2114,"Liquid Damage Service ",89.99,No,89.99,,,Published
+141,"iPad Mini 4 Repair","iPad Repair",2115,"Loudspeaker Repair ",63.99,No,63.99,,,Published
+141,"iPad Mini 4 Repair","iPad Repair",2116,"Microphone Repair ",63.99,No,63.99,,,Published
+141,"iPad Mini 4 Repair","iPad Repair",2117,"Mute Button Repair ",59.99,No,59.99,,,Published
+141,"iPad Mini 4 Repair","iPad Repair",2118,"Power Button Repair ",54.99,No,54.99,,,Published
+141,"iPad Mini 4 Repair","iPad Repair",2119,"Rear Camera Repair ",69.99,No,69.99,,,Published
+141,"iPad Mini 4 Repair","iPad Repair",2120,"Volume Repair ",63.99,No,63.99,,,Published
+142,"iPad Pro 11"" (2018) Repair","iPad Repair",2121,"Front Screen Repair ",399.99,No,399.99,,,Published
+142,"iPad Pro 11"" (2018) Repair","iPad Repair",2122,"Battery Repair ",299.99,No,299.99,,,Published
+142,"iPad Pro 11"" (2018) Repair","iPad Repair",2123,"Charging Port Repair ",299.99,No,299.99,,,Published
+142,"iPad Pro 11"" (2018) Repair","iPad Repair",2124,"Diagnostic Service ",39.99,No,39.99,,,Published
+142,"iPad Pro 11"" (2018) Repair","iPad Repair",2125,"Front Camera Repair ",299.99,No,299.99,,,Published
+142,"iPad Pro 11"" (2018) Repair","iPad Repair",2126,"Headphone Socket Repair ",299.99,No,299.99,,,Published
+142,"iPad Pro 11"" (2018) Repair","iPad Repair",2127,"Liquid Damage Service ",299.99,No,299.99,,,Published
+142,"iPad Pro 11"" (2018) Repair","iPad Repair",2128,"Loudspeaker Repair ",299.99,No,299.99,,,Published
+142,"iPad Pro 11"" (2018) Repair","iPad Repair",2129,"Microphone Repair ",299.99,No,299.99,,,Published
+142,"iPad Pro 11"" (2018) Repair","iPad Repair",2130,"Mute Button Repair ",299.99,No,299.99,,,Published
+142,"iPad Pro 11"" (2018) Repair","iPad Repair",2131,"Power Button Repair ",299.99,No,299.99,,,Published
+142,"iPad Pro 11"" (2018) Repair","iPad Repair",2132,"Rear Camera Repair ",299.99,No,299.99,,,Published
+142,"iPad Pro 11"" (2018) Repair","iPad Repair",2133,"Volume Repair ",299.99,No,299.99,,,Published
+144,"iPad Pro 10.5 Repair","iPad Repair",2150,"Battery Repair ",119.99,No,119.99,,,Published
+144,"iPad Pro 10.5 Repair","iPad Repair",2151,"Charging Port Repair ",469.99,No,469.99,,,Published
+144,"iPad Pro 10.5 Repair","iPad Repair",2152,"Diagnostic Service ",39.99,No,39.99,,,Published
+144,"iPad Pro 10.5 Repair","iPad Repair",2153,"Front Camera Repair ",119.99,No,119.99,,,Published
+144,"iPad Pro 10.5 Repair","iPad Repair",2154,"Headphone Socket Repair ",119.99,No,119.99,,,Published
+144,"iPad Pro 10.5 Repair","iPad Repair",2155,"Liquid Damage Service ",89.99,No,89.99,,,Published
+144,"iPad Pro 10.5 Repair","iPad Repair",2156,"Loudspeaker Repair ",119.99,No,119.99,,,Published
+144,"iPad Pro 10.5 Repair","iPad Repair",2157,"Microphone Repair ",119.99,No,119.99,,,Published
+144,"iPad Pro 10.5 Repair","iPad Repair",2158,"Mute Button Repair ",119.99,No,119.99,,,Published
+144,"iPad Pro 10.5 Repair","iPad Repair",2159,"Power Button Repair ",119.99,No,119.99,,,Published
+144,"iPad Pro 10.5 Repair","iPad Repair",2160,"Rear Camera Repair ",119.99,No,119.99,,,Published
+144,"iPad Pro 10.5 Repair","iPad Repair",2161,"Volume Repair ",119.99,No,119.99,,,Published
+145,"iPad Air 2 Repair","iPad Repair",2162,"Front Screen Repair ",164.99,No,164.99,,,Published
+145,"iPad Air 2 Repair","iPad Repair",2163,"Battery Repair ",99.99,No,99.99,,,Published
+145,"iPad Air 2 Repair","iPad Repair",2164,"Charging Port Repair ",179.99,No,179.99,,,Published
+145,"iPad Air 2 Repair","iPad Repair",2165,"Diagnostic Service ",39.99,No,39.99,,,Published
+145,"iPad Air 2 Repair","iPad Repair",2166,"Front Camera Repair ",99.99,No,99.99,,,Published
+145,"iPad Air 2 Repair","iPad Repair",2167,"Headphone Socket Repair ",99.99,No,99.99,,,Published
+145,"iPad Air 2 Repair","iPad Repair",2168,"Liquid Damage Service ",69.99,No,69.99,,,Published
+145,"iPad Air 2 Repair","iPad Repair",2169,"Loudspeaker Repair ",99.99,No,99.99,,,Published
+145,"iPad Air 2 Repair","iPad Repair",2170,"Microphone Repair ",99.99,No,99.99,,,Published
+145,"iPad Air 2 Repair","iPad Repair",2171,"Mute Button Repair ",99.99,No,99.99,,,Published
+145,"iPad Air 2 Repair","iPad Repair",2172,"Power Button Repair ",99.99,No,99.99,,,Published
+145,"iPad Air 2 Repair","iPad Repair",2173,"Rear Camera Repair ",99.99,No,99.99,,,Published
+145,"iPad Air 2 Repair","iPad Repair",2174,"Rear Cover Repair ",99.99,No,99.99,,,Published
+145,"iPad Air 2 Repair","iPad Repair",2175,"Volume Repair ",99.99,No,99.99,,,Published
+146,"iPad Air 2019 Repairs","iPad Repair",2176,"Front Screen Repair ",299.99,No,299.99,,,Published
+146,"iPad Air 2019 Repairs","iPad Repair",2177,"Battery Repair ",269.99,No,269.99,,,Published
+146,"iPad Air 2019 Repairs","iPad Repair",2178,"Charging Port Repair ",319.99,No,319.99,,,Published
+146,"iPad Air 2019 Repairs","iPad Repair",2179,"Diagnostic Service ",39.99,No,39.99,,,Published
+146,"iPad Air 2019 Repairs","iPad Repair",2180,"Front Camera Repair ",269.99,No,269.99,,,Published
+146,"iPad Air 2019 Repairs","iPad Repair",2181,"Headphone Socket Repair ",269.99,No,269.99,,,Published
+146,"iPad Air 2019 Repairs","iPad Repair",2182,"Liquid Damage Service ",89.99,No,89.99,,,Published
+146,"iPad Air 2019 Repairs","iPad Repair",2183,"Loudspeaker Repair ",269.99,No,269.99,,,Published
+146,"iPad Air 2019 Repairs","iPad Repair",2184,"Microphone Repair ",269.99,No,269.99,,,Published
+146,"iPad Air 2019 Repairs","iPad Repair",2185,"Mute Button Repair ",269.99,No,269.99,,,Published
+146,"iPad Air 2019 Repairs","iPad Repair",2186,"Power Button Repair ",269.99,No,269.99,,,Published
+146,"iPad Air 2019 Repairs","iPad Repair",2187,"Rear Camera Repair ",269.99,No,269.99,,,Published
+146,"iPad Air 2019 Repairs","iPad Repair",2188,"Rear Cover Repair ",269.99,No,269.99,,,Published
+146,"iPad Air 2019 Repairs","iPad Repair",2189,"Volume Repair ",269.99,No,269.99,,,Published
+147,"iPad Air Repair","iPad Repair",2190,"Front Glass Repair ",54.99,No,54.99,,,Published
+147,"iPad Air Repair","iPad Repair",2191,"LCD Repair ",79.99,No,79.99,,,Published
+147,"iPad Air Repair","iPad Repair",2192,"Antenna Repair ",69.99,No,69.99,,,Published
+147,"iPad Air Repair","iPad Repair",2193,"Battery Repair ",54.99,No,54.99,,,Published
+147,"iPad Air Repair","iPad Repair",2194,"Charging Port Repair ",119.99,No,119.99,,,Published
+147,"iPad Air Repair","iPad Repair",2195,"Diagnostic Service ",39.99,No,39.99,,,Published
+147,"iPad Air Repair","iPad Repair",2196,"Front Camera Repair ",54.99,No,54.99,,,Published
+147,"iPad Air Repair","iPad Repair",2197,"Headphone Socket Repair ",54.99,No,54.99,,,Published
+147,"iPad Air Repair","iPad Repair",2198,"Home Button Repair ",54.99,No,54.99,,,Published
+147,"iPad Air Repair","iPad Repair",2199,"Liquid Damage Service ",69.99,No,69.99,,,Published
+147,"iPad Air Repair","iPad Repair",2200,"Loudspeaker Repair ",54.99,No,54.99,,,Published
+147,"iPad Air Repair","iPad Repair",2201,"Microphone Repair ",54.99,No,54.99,,,Published
+147,"iPad Air Repair","iPad Repair",2202,"Mute Button Repair ",54.99,No,54.99,,,Published
+147,"iPad Air Repair","iPad Repair",2203,"Power Button Repair ",54.99,No,54.99,,,Published
+147,"iPad Air Repair","iPad Repair",2204,"Rear Camera Repair ",54.99,No,54.99,,,Published
+147,"iPad Air Repair","iPad Repair",2205,"Rear Cover Repair ",69.99,No,69.99,,,Published
+147,"iPad Air Repair","iPad Repair",2206,"Volume Repair ",54.99,No,54.99,,,Published
+148,"iPad 9.7 2017 Repair","iPad Repair",2207,"Front Screen Repair ",189.99,No,189.99,,,Published
+148,"iPad 9.7 2017 Repair","iPad Repair",2208,"Battery Repair ",139.99,No,139.99,,,Published
+148,"iPad 9.7 2017 Repair","iPad Repair",2209,"Charging Port Repair ",219.99,No,219.99,,,Published
+148,"iPad 9.7 2017 Repair","iPad Repair",2210,"Diagnostic Service ",39.99,No,39.99,,,Published
+148,"iPad 9.7 2017 Repair","iPad Repair",2211,"Front Camera Repair ",79.99,No,79.99,,,Published
+148,"iPad 9.7 2017 Repair","iPad Repair",2212,"Headphone Socket Repair ",69.99,No,69.99,,,Published
+148,"iPad 9.7 2017 Repair","iPad Repair",2213,"Liquid Damage Service ",89.99,No,89.99,,,Published
+148,"iPad 9.7 2017 Repair","iPad Repair",2214,"Loudspeaker Repair ",84.99,No,84.99,,,Published
+148,"iPad 9.7 2017 Repair","iPad Repair",2215,"Microphone Repair ",84.99,No,84.99,,,Published
+148,"iPad 9.7 2017 Repair","iPad Repair",2216,"Mute Button Repair ",119.99,No,119.99,,,Published
+148,"iPad 9.7 2017 Repair","iPad Repair",2217,"Power Button Repair ",69.99,No,69.99,,,Published
+148,"iPad 9.7 2017 Repair","iPad Repair",2218,"Rear Camera Repair ",119.99,No,119.99,,,Published
+148,"iPad 9.7 2017 Repair","iPad Repair",2219,"Volume Repair ",79.99,No,79.99,,,Published
+149,"iPad Pro 12.9 (2018) Repair","iPad Repair",2220,"Front Screen Repair ",549.99,No,549.99,,,Published
+149,"iPad Pro 12.9 (2018) Repair","iPad Repair",2221,"Battery Repair ",449.99,No,449.99,,,Published
+149,"iPad Pro 12.9 (2018) Repair","iPad Repair",2222,"Charging Port Repair ",449.99,No,449.99,,,Published
+149,"iPad Pro 12.9 (2018) Repair","iPad Repair",2223,"Diagnostic Service ",39.99,No,39.99,,,Published
+149,"iPad Pro 12.9 (2018) Repair","iPad Repair",2224,"Front Camera Repair ",449.99,No,449.99,,,Published
+149,"iPad Pro 12.9 (2018) Repair","iPad Repair",2225,"Headphone Socket Repair ",449.99,No,449.99,,,Published
+149,"iPad Pro 12.9 (2018) Repair","iPad Repair",2226,"Liquid Damage Service ",449.99,No,449.99,,,Published
+149,"iPad Pro 12.9 (2018) Repair","iPad Repair",2227,"Loudspeaker Repair ",449.99,No,449.99,,,Published
+149,"iPad Pro 12.9 (2018) Repair","iPad Repair",2228,"Microphone Repair ",449.99,No,449.99,,,Published
+149,"iPad Pro 12.9 (2018) Repair","iPad Repair",2229,"Mute Button Repair ",449.99,No,449.99,,,Published
+149,"iPad Pro 12.9 (2018) Repair","iPad Repair",2230,"Power Button Repair ",449.99,No,449.99,,,Published
+149,"iPad Pro 12.9 (2018) Repair","iPad Repair",2231,"Rear Camera Repair ",449.99,No,449.99,,,Published
+149,"iPad Pro 12.9 (2018) Repair","iPad Repair",2232,"Volume Repair ",449.99,No,449.99,,,Published
+150,"iPad Pro 10.2 (2019) Repair","iPad Repair",2233,"Front Screen Repair ",299.99,No,299.99,,,Published
+150,"iPad Pro 10.2 (2019) Repair","iPad Repair",2234,"Battery Repair ",249.99,No,249.99,,,Published
+150,"iPad Pro 10.2 (2019) Repair","iPad Repair",2235,"Charging Port Repair ",249.99,No,249.99,,,Published
+150,"iPad Pro 10.2 (2019) Repair","iPad Repair",2236,"Diagnostic Service ",39.99,No,39.99,,,Published
+150,"iPad Pro 10.2 (2019) Repair","iPad Repair",2237,"Front Camera Repair ",249.99,No,249.99,,,Published
+150,"iPad Pro 10.2 (2019) Repair","iPad Repair",2238,"Headphone Socket Repair ",249.99,No,249.99,,,Published
+150,"iPad Pro 10.2 (2019) Repair","iPad Repair",2239,"Liquid Damage Service ",249.99,No,249.99,,,Published
+150,"iPad Pro 10.2 (2019) Repair","iPad Repair",2240,"Loudspeaker Repair ",249.99,No,249.99,,,Published
+150,"iPad Pro 10.2 (2019) Repair","iPad Repair",2241,"Microphone Repair ",249.99,No,249.99,,,Published
+150,"iPad Pro 10.2 (2019) Repair","iPad Repair",2242,"Mute Button Repair ",249.99,No,249.99,,,Published
+150,"iPad Pro 10.2 (2019) Repair","iPad Repair",2243,"Power Button Repair ",249.99,No,249.99,,,Published
+150,"iPad Pro 10.2 (2019) Repair","iPad Repair",2244,"Rear Camera Repair ",249.99,No,249.99,,,Published
+150,"iPad Pro 10.2 (2019) Repair","iPad Repair",2245,"Volume Repair ",249.99,No,249.99,,,Published
+151,"iPad 6th Gen 2018 9.7"" Repairs","iPad Repair",2246,"Front Glass Repair ",119.99,No,119.99,,,Published
+151,"iPad 6th Gen 2018 9.7"" Repairs","iPad Repair",2247,"LCD Repair ",189.99,No,189.99,,,Published
+151,"iPad 6th Gen 2018 9.7"" Repairs","iPad Repair",2248,"Antenna Repair ",69.99,No,69.99,,,Published
+151,"iPad 6th Gen 2018 9.7"" Repairs","iPad Repair",2249,"Battery Repair ",59.99,No,59.99,,,Published
+151,"iPad 6th Gen 2018 9.7"" Repairs","iPad Repair",2250,"Charging Port Repair ",219.99,No,219.99,,,Published
+151,"iPad 6th Gen 2018 9.7"" Repairs","iPad Repair",2251,"Diagnostic Service ",39.99,No,39.99,,,Published
+151,"iPad 6th Gen 2018 9.7"" Repairs","iPad Repair",2252,"Front Camera Repair ",59.99,No,59.99,,,Published
+151,"iPad 6th Gen 2018 9.7"" Repairs","iPad Repair",2253,"Headphone Socket Repair ",59.99,No,59.99,,,Published
+151,"iPad 6th Gen 2018 9.7"" Repairs","iPad Repair",2254,"Home Button Repair ",59.99,No,59.99,,,Published
+151,"iPad 6th Gen 2018 9.7"" Repairs","iPad Repair",2255,"Liquid Damage Service ",69.99,No,69.99,,,Published
+151,"iPad 6th Gen 2018 9.7"" Repairs","iPad Repair",2256,"Loudspeaker Repair ",59.99,No,59.99,,,Published
+151,"iPad 6th Gen 2018 9.7"" Repairs","iPad Repair",2257,"Microphone Repair ",59.99,No,59.99,,,Published
+151,"iPad 6th Gen 2018 9.7"" Repairs","iPad Repair",2258,"Mute Button Repair ",59.99,No,59.99,,,Published
+151,"iPad 6th Gen 2018 9.7"" Repairs","iPad Repair",2259,"Power Button Repair ",59.99,No,59.99,,,Published
+151,"iPad 6th Gen 2018 9.7"" Repairs","iPad Repair",2260,"Volume Repair ",59.99,No,59.99,,,Published
+152,"iPad Pro 11 (2020) Repair","iPad Repair",2261,"Front Screen Repair ",599.99,No,599.99,,,Published
+152,"iPad Pro 11 (2020) Repair","iPad Repair",2262,"Battery Repair ",519.99,No,519.99,,,Published
+152,"iPad Pro 11 (2020) Repair","iPad Repair",2263,"Charging Port Repair ",519.99,No,519.99,,,Published
+152,"iPad Pro 11 (2020) Repair","iPad Repair",2264,"Diagnostic Service ",39.99,No,39.99,,,Published
+152,"iPad Pro 11 (2020) Repair","iPad Repair",2265,"Front Camera Repair ",519.99,No,519.99,,,Published
+152,"iPad Pro 11 (2020) Repair","iPad Repair",2266,"Headphone Socket Repair ",519.99,No,519.99,,,Published
+152,"iPad Pro 11 (2020) Repair","iPad Repair",2267,"Liquid Damage Service ",519.99,No,519.99,,,Published
+152,"iPad Pro 11 (2020) Repair","iPad Repair",2268,"Loudspeaker Repair ",519.99,No,519.99,,,Published
+152,"iPad Pro 11 (2020) Repair","iPad Repair",2269,"Microphone Repair ",519.99,No,519.99,,,Published
+152,"iPad Pro 11 (2020) Repair","iPad Repair",2270,"Mute Button Repair ",519.99,No,519.99,,,Published
+152,"iPad Pro 11 (2020) Repair","iPad Repair",2271,"Power Button Repair ",519.99,No,519.99,,,Published
+152,"iPad Pro 11 (2020) Repair","iPad Repair",2272,"Rear Camera Repair ",519.99,No,519.99,,,Published
+152,"iPad Pro 11 (2020) Repair","iPad Repair",2273,"Volume Repair ",519.99,No,519.99,,,Published
+166,"iPad Pro 12.9 (2020) Repair","iPad Repair",2510,"Front Screen Repair ",349.99,No,349.99,,,Published
+166,"iPad Pro 12.9 (2020) Repair","iPad Repair",2511,"Battery Repair ",349.99,No,349.99,,,Published
+166,"iPad Pro 12.9 (2020) Repair","iPad Repair",2512,"Charging Port Repair ",349.99,No,349.99,,,Published
+166,"iPad Pro 12.9 (2020) Repair","iPad Repair",2513,"Diagnostic Service ",39.99,No,39.99,,,Published
+166,"iPad Pro 12.9 (2020) Repair","iPad Repair",2514,"Front Camera Repair ",349.99,No,349.99,,,Published
+166,"iPad Pro 12.9 (2020) Repair","iPad Repair",2515,"Headphone Socket Repair ",349.99,No,349.99,,,Published
+166,"iPad Pro 12.9 (2020) Repair","iPad Repair",2516,"Liquid Damage Service ",349.99,No,349.99,,,Published
+166,"iPad Pro 12.9 (2020) Repair","iPad Repair",2517,"Loudspeaker Repair ",349.99,No,349.99,,,Published
+166,"iPad Pro 12.9 (2020) Repair","iPad Repair",2518,"Microphone Repair ",349.99,No,349.99,,,Published
+166,"iPad Pro 12.9 (2020) Repair","iPad Repair",2519,"Mute Button Repair ",349.99,No,349.99,,,Published
+166,"iPad Pro 12.9 (2020) Repair","iPad Repair",2520,"Power Button Repair ",349.99,No,349.99,,,Published
+166,"iPad Pro 12.9 (2020) Repair","iPad Repair",2521,"Rear Camera Repair ",349.99,No,349.99,,,Published
+166,"iPad Pro 12.9 (2020) Repair","iPad Repair",2522,"Volume Repair ",349.99,No,349.99,,,Published
+180,"iPhone SE Repair","iPhone Repair",2730,"Front Screen Repair ",38.99,No,38.99,,,Published
+180,"iPhone SE Repair","iPhone Repair",2731,"Antenna Repair ",49.99,No,49.99,,,Published
+180,"iPhone SE Repair","iPhone Repair",2732,"Battery Repair ",34.99,No,34.99,,,Published
+180,"iPhone SE Repair","iPhone Repair",2733,"Charging Port Repair ",34.99,No,34.99,,,Published
+180,"iPhone SE Repair","iPhone Repair",2734,"Diagnostic Service ",19.99,No,19.99,,,Published
+180,"iPhone SE Repair","iPhone Repair",2735,"Earpiece Repair ",34.99,No,34.99,,,Published
+180,"iPhone SE Repair","iPhone Repair",2736,"Front Camera Repair ",34.99,No,34.99,,,Published
+180,"iPhone SE Repair","iPhone Repair",2737,"Headphone Socket Repair ",34.99,No,34.99,,,Published
+180,"iPhone SE Repair","iPhone Repair",2738,"Home Button Repair ",34.99,No,34.99,,,Published
+180,"iPhone SE Repair","iPhone Repair",2739,"Liquid Damage Service ",49.99,No,49.99,,,Published
+180,"iPhone SE Repair","iPhone Repair",2740,"Loudspeaker Repair ",34.99,No,34.99,,,Published
+180,"iPhone SE Repair","iPhone Repair",2741,"Microphone Repair ",34.99,No,34.99,,,Published
+180,"iPhone SE Repair","iPhone Repair",2742,"Mute Button Repair ",34.99,No,34.99,,,Published
+180,"iPhone SE Repair","iPhone Repair",2743,"Power Button Repair ",34.99,No,34.99,,,Published
+180,"iPhone SE Repair","iPhone Repair",2744,"Rear Camera Repair ",59.99,No,59.99,,,Published
+180,"iPhone SE Repair","iPhone Repair",2745,"Rear Cover Glass Repair ",34.99,No,34.99,,,Published
+180,"iPhone SE Repair","iPhone Repair",2746,"Rear Cover Repair ",49.99,No,49.99,,,Published
+180,"iPhone SE Repair","iPhone Repair",2747,"Vibration Repair ",34.99,No,34.99,,,Published
+180,"iPhone SE Repair","iPhone Repair",2748,"Volume Repair ",34.99,No,34.99,,,Published
+181,"iPhone 6S Plus Repair","iPhone Repair",2749,"Front Screen Repair ",49.99,No,49.99,,,Published
+181,"iPhone 6S Plus Repair","iPhone Repair",2750,"Antenna Repair ",69.99,No,69.99,,,Published
+181,"iPhone 6S Plus Repair","iPhone Repair",2751,"Battery Repair ",39.99,No,39.99,,,Published
+181,"iPhone 6S Plus Repair","iPhone Repair",2752,"Charging Port Repair ",39.99,No,39.99,,,Published
+181,"iPhone 6S Plus Repair","iPhone Repair",2753,"Diagnostic Service ",19.99,No,19.99,,,Published
+181,"iPhone 6S Plus Repair","iPhone Repair",2754,"Earpiece Repair ",38.99,No,38.99,,,Published
+181,"iPhone 6S Plus Repair","iPhone Repair",2755,"Front Camera Repair ",39.99,No,39.99,,,Published
+181,"iPhone 6S Plus Repair","iPhone Repair",2756,"Headphone Socket Repair ",37.99,No,37.99,,,Published
+181,"iPhone 6S Plus Repair","iPhone Repair",2757,"Home Button Repair ",39.99,No,39.99,,,Published
+181,"iPhone 6S Plus Repair","iPhone Repair",2758,"Liquid Damage Service ",69.99,No,69.99,,,Published
+181,"iPhone 6S Plus Repair","iPhone Repair",2759,"Loudspeaker Repair ",39.99,No,39.99,,,Published
+181,"iPhone 6S Plus Repair","iPhone Repair",2760,"Microphone Repair ",39.99,No,39.99,,,Published
+181,"iPhone 6S Plus Repair","iPhone Repair",2761,"Mute Button Repair ",39.99,No,39.99,,,Published
+181,"iPhone 6S Plus Repair","iPhone Repair",2762,"Power Button Repair ",39.99,No,39.99,,,Published
+181,"iPhone 6S Plus Repair","iPhone Repair",2763,"Rear Camera Repair ",79.99,No,79.99,,,Published
+181,"iPhone 6S Plus Repair","iPhone Repair",2764,"Rear Cover Repair ",89.99,No,89.99,,,Published
+181,"iPhone 6S Plus Repair","iPhone Repair",2765,"Vibration Repair ",39.99,No,39.99,,,Published
+181,"iPhone 6S Plus Repair","iPhone Repair",2766,"Volume Repair ",39.99,No,39.99,,,Published
+182,"iPhone 7 Repair","iPhone Repair",2767,"Front Screen Repair ",64.99,No,64.99,,,Published
+182,"iPhone 7 Repair","iPhone Repair",2768,"Antenna Repair ",49.99,No,49.99,,,Published
+182,"iPhone 7 Repair","iPhone Repair",2769,"Battery Repair ",38.99,No,38.99,,,Published
+182,"iPhone 7 Repair","iPhone Repair",2770,"Charging Port Repair ",64.99,No,64.99,,,Published
+182,"iPhone 7 Repair","iPhone Repair",2771,"Diagnostic Service ",19.99,No,19.99,,,Published
+182,"iPhone 7 Repair","iPhone Repair",2772,"Earpiece Repair ",38.99,No,38.99,,,Published
+182,"iPhone 7 Repair","iPhone Repair",2773,"Front Camera Repair ",38.99,No,38.99,,,Published
+182,"iPhone 7 Repair","iPhone Repair",2774,"Headphone Socket Repair ",64.99,No,64.99,,,Published
+182,"iPhone 7 Repair","iPhone Repair",2775,"Liquid Damage Service ",69.99,No,69.99,,,Published
+182,"iPhone 7 Repair","iPhone Repair",2776,"Loudspeaker Repair ",38.99,No,38.99,,,Published
+182,"iPhone 7 Repair","iPhone Repair",2777,"Microphone Repair ",38.99,No,38.99,,,Published
+182,"iPhone 7 Repair","iPhone Repair",2778,"Mute Button Repair ",38.99,No,38.99,,,Published
+182,"iPhone 7 Repair","iPhone Repair",2779,"Power Button Repair ",38.99,No,38.99,,,Published
+182,"iPhone 7 Repair","iPhone Repair",2780,"Rear Camera Repair ",79.99,No,79.99,,,Published
+182,"iPhone 7 Repair","iPhone Repair",2781,"Rear Cover Repair ",74.99,No,74.99,,,Published
+182,"iPhone 7 Repair","iPhone Repair",2782,"Vibration Repair ",34.99,No,34.99,,,Published
+182,"iPhone 7 Repair","iPhone Repair",2783,"Volume Repair ",38.99,No,38.99,,,Published
+183,"iPhone 7 Plus Repair","iPhone Repair",2784,"Front Screen Repair ",69.99,No,69.99,,,Published
+183,"iPhone 7 Plus Repair","iPhone Repair",2785,"Antenna Repair ",49.99,No,49.99,,,Published
+183,"iPhone 7 Plus Repair","iPhone Repair",2786,"Battery Repair ",43.99,No,43.99,,,Published
+183,"iPhone 7 Plus Repair","iPhone Repair",2787,"Charging Port Repair ",64.99,No,64.99,,,Published
+183,"iPhone 7 Plus Repair","iPhone Repair",2788,"Diagnostic Service  ",19.99,No,19.99,,,Published
+183,"iPhone 7 Plus Repair","iPhone Repair",2789,"Earpiece Repair ",42.99,No,42.99,,,Published
+183,"iPhone 7 Plus Repair","iPhone Repair",2790,"Front Camera Repair ",43.99,No,43.99,,,Published
+183,"iPhone 7 Plus Repair","iPhone Repair",2791,"Headphone Socket Repair ",64.99,No,64.99,,,Published
+183,"iPhone 7 Plus Repair","iPhone Repair",2792,"Liquid Damage Service ",69.99,No,69.99,,,Published
+183,"iPhone 7 Plus Repair","iPhone Repair",2793,"Loudspeaker Repair ",43.99,No,43.99,,,Published
+183,"iPhone 7 Plus Repair","iPhone Repair",2794,"Microphone Repair ",43.99,No,43.99,,,Published
+183,"iPhone 7 Plus Repair","iPhone Repair",2795,"Mute Button Repair ",43.99,No,43.99,,,Published
+183,"iPhone 7 Plus Repair","iPhone Repair",2796,"Power Button Repair ",43.99,No,43.99,,,Published
+183,"iPhone 7 Plus Repair","iPhone Repair",2797,"Rear Camera Repair ",129.99,No,129.99,,,Published
+183,"iPhone 7 Plus Repair","iPhone Repair",2798,"Rear Cover Repair ",49.99,No,49.99,,,Published
+183,"iPhone 7 Plus Repair","iPhone Repair",2799,"Vibration Repair ",59.99,No,59.99,,,Published
+183,"iPhone 7 Plus Repair","iPhone Repair",2800,"Volume Repair ",43.99,No,43.99,,,Published
+184,"iPhone XS Repair","iPhone Repair",2801,"Front Screen Repair ",149.99,No,149.99,,,Published
+184,"iPhone XS Repair","iPhone Repair",2802,"Battery Repair ",149.99,No,149.99,,,Published
+184,"iPhone XS Repair","iPhone Repair",2803,"Charging Port Repair ",149.99,No,149.99,,,Published
+184,"iPhone XS Repair","iPhone Repair",2804,"Diagnostic Service  ",19.99,No,19.99,,,Published
+184,"iPhone XS Repair","iPhone Repair",2805,"Earpiece Repair ",149.99,No,149.99,,,Published
+184,"iPhone XS Repair","iPhone Repair",2806,"Front Camera Repair ",149.99,No,149.99,,,Published
+184,"iPhone XS Repair","iPhone Repair",2807,"Headphone Socket Repair ",149.99,No,149.99,,,Published
+184,"iPhone XS Repair","iPhone Repair",2808,"Liquid Damage Service ",149.99,No,149.99,,,Published
+184,"iPhone XS Repair","iPhone Repair",2809,"Loudspeaker Repair ",149.99,No,149.99,,,Published
+184,"iPhone XS Repair","iPhone Repair",2810,"Microphone Repair ",149.99,No,149.99,,,Published
+184,"iPhone XS Repair","iPhone Repair",2811,"Mute Button Repair ",149.99,No,149.99,,,Published
+184,"iPhone XS Repair","iPhone Repair",2812,"Power Button Repair ",149.99,No,149.99,,,Published
+184,"iPhone XS Repair","iPhone Repair",2813,"Rear Camera Repair ",149.99,No,149.99,,,Published
+184,"iPhone XS Repair","iPhone Repair",2814,"Rear Cover Repair ",149.99,No,149.99,,,Published
+184,"iPhone XS Repair","iPhone Repair",2815,"Vibration Repair ",149.99,No,149.99,,,Published
+184,"iPhone XS Repair","iPhone Repair",2816,"Volume Repair ",149.99,No,149.99,,,Published
+185,"iPhone XS Max Repair","iPhone Repair",2817,"Front Screen Repair ",199.99,No,199.99,,,Published
+185,"iPhone XS Max Repair","iPhone Repair",2818,"Battery Repair ",199.99,No,199.99,,,Published
+185,"iPhone XS Max Repair","iPhone Repair",2819,"Charging Port Repair ",199.99,No,199.99,,,Published
+185,"iPhone XS Max Repair","iPhone Repair",2820,"Diagnostic Service  ",19.99,No,19.99,,,Published
+185,"iPhone XS Max Repair","iPhone Repair",2821,"Earpiece Repair ",199.99,No,199.99,,,Published
+185,"iPhone XS Max Repair","iPhone Repair",2822,"Headphone Socket Repair ",199.99,No,199.99,,,Published
+185,"iPhone XS Max Repair","iPhone Repair",2823,"Liquid Damage Service ",199.99,No,199.99,,,Published
+185,"iPhone XS Max Repair","iPhone Repair",2824,"Loudspeaker Repair ",199.99,No,199.99,,,Published
+185,"iPhone XS Max Repair","iPhone Repair",2825,"Microphone Repair ",199.99,No,199.99,,,Published
+185,"iPhone XS Max Repair","iPhone Repair",2826,"Mute Button Repair ",199.99,No,199.99,,,Published
+185,"iPhone XS Max Repair","iPhone Repair",2827,"Power Button Repair ",199.99,No,199.99,,,Published
+185,"iPhone XS Max Repair","iPhone Repair",2828,"Rear Camera Repair ",199.99,No,199.99,,,Published
+185,"iPhone XS Max Repair","iPhone Repair",2829,"Rear Cover Repair ",199.99,No,199.99,,,Published
+185,"iPhone XS Max Repair","iPhone Repair",2830,"Vibration Repair ",199.99,No,199.99,,,Published
+185,"iPhone XS Max Repair","iPhone Repair",2831,"Volume Repair ",199.99,No,199.99,,,Published
+186,"iPhone 11 Pro Max Repair","iPhone Repair",2832,"Front Screen Repair ",429.99,No,429.99,,,Published
+186,"iPhone 11 Pro Max Repair","iPhone Repair",2833,"Battery Repair ",399.99,No,399.99,,,Published
+186,"iPhone 11 Pro Max Repair","iPhone Repair",2834,"Charging Port Repair ",399.99,No,399.99,,,Published
+186,"iPhone 11 Pro Max Repair","iPhone Repair",2835,"Diagnostic Service  ",19.99,No,19.99,,,Published
+186,"iPhone 11 Pro Max Repair","iPhone Repair",2836,"Earpiece Repair ",399.99,No,399.99,,,Published
+186,"iPhone 11 Pro Max Repair","iPhone Repair",2837,"Front Camera Repair ",399.99,No,399.99,,,Published
+186,"iPhone 11 Pro Max Repair","iPhone Repair",2838,"Headphone Socket Repair ",399.99,No,399.99,,,Published
+186,"iPhone 11 Pro Max Repair","iPhone Repair",2839,"Liquid Damage Service ",399.99,No,399.99,,,Published
+186,"iPhone 11 Pro Max Repair","iPhone Repair",2840,"Loudspeaker Repair ",399.99,No,399.99,,,Published
+186,"iPhone 11 Pro Max Repair","iPhone Repair",2841,"Microphone Repair ",399.99,No,399.99,,,Published
+186,"iPhone 11 Pro Max Repair","iPhone Repair",2842,"Mute Button Repair ",399.99,No,399.99,,,Published
+186,"iPhone 11 Pro Max Repair","iPhone Repair",2843,"Power Button Repair ",399.99,No,399.99,,,Published
+186,"iPhone 11 Pro Max Repair","iPhone Repair",2844,"Rear Camera Repair ",494.99,No,494.99,,,Published
+186,"iPhone 11 Pro Max Repair","iPhone Repair",2845,"Rear Cover Repair ",494.99,No,494.99,,,Published
+186,"iPhone 11 Pro Max Repair","iPhone Repair",2846,"Vibration Repair ",399.99,No,399.99,,,Published
+186,"iPhone 11 Pro Max Repair","iPhone Repair",2847,"Volume Repair ",399.99,No,399.99,,,Published
+187,"iPhone X Repair","iPhone Repair",2848,"Front Screen Repair ",139.99,No,139.99,,,Published
+187,"iPhone X Repair","iPhone Repair",2849,"Battery Repair ",99.99,No,99.99,,,Published
+187,"iPhone X Repair","iPhone Repair",2850,"Charging Port Repair ",99.99,No,99.99,,,Published
+187,"iPhone X Repair","iPhone Repair",2851,"Diagnostic Service  ",19.99,No,19.99,,,Published
+187,"iPhone X Repair","iPhone Repair",2852,"Earpiece Repair ",99.99,No,99.99,,,Published
+187,"iPhone X Repair","iPhone Repair",2853,"Front Camera Repair ",99.99,No,99.99,,,Published
+187,"iPhone X Repair","iPhone Repair",2854,"Headphone Socket Repair ",99.99,No,99.99,,,Published
+187,"iPhone X Repair","iPhone Repair",2855,"Liquid Damage Service ",99.99,No,99.99,,,Published
+187,"iPhone X Repair","iPhone Repair",2856,"Loudspeaker Repair ",99.99,No,99.99,,,Published
+187,"iPhone X Repair","iPhone Repair",2857,"Microphone Repair ",99.99,No,99.99,,,Published
+187,"iPhone X Repair","iPhone Repair",2858,"Mute Button Repair ",99.99,No,99.99,,,Published
+187,"iPhone X Repair","iPhone Repair",2859,"Power Button Repair ",99.99,No,99.99,,,Published
+187,"iPhone X Repair","iPhone Repair",2860,"Rear Camera Repair ",399.99,No,399.99,,,Published
+187,"iPhone X Repair","iPhone Repair",2861,"Rear Cover Repair ",169.99,No,169.99,,,Published
+187,"iPhone X Repair","iPhone Repair",2862,"Vibration Repair ",99.99,No,99.99,,,Published
+187,"iPhone X Repair","iPhone Repair",2863,"Volume Repair ",99.99,No,99.99,,,Published
+188,"iPhone 8 Repair","iPhone Repair",2864,"Front Screen Repair ",69.99,No,69.99,,,Published
+188,"iPhone 8 Repair","iPhone Repair",2865,"Battery Repair ",69.99,No,69.99,,,Published
+188,"iPhone 8 Repair","iPhone Repair",2866,"Charging Port Repair ",69.99,No,69.99,,,Published
+188,"iPhone 8 Repair","iPhone Repair",2867,"Diagnostic Service  ",19.99,No,19.99,,,Published
+188,"iPhone 8 Repair","iPhone Repair",2868,"Earpiece Repair ",69.99,No,69.99,,,Published
+188,"iPhone 8 Repair","iPhone Repair",2869,"Front Camera Repair ",69.99,No,69.99,,,Published
+188,"iPhone 8 Repair","iPhone Repair",2870,"Headphone Socket Repair ",69.99,No,69.99,,,Published
+188,"iPhone 8 Repair","iPhone Repair",2871,"Liquid Damage Service ",69.99,No,69.99,,,Published
+188,"iPhone 8 Repair","iPhone Repair",2872,"Loudspeaker Repair ",69.99,No,69.99,,,Published
+188,"iPhone 8 Repair","iPhone Repair",2873,"Microphone Repair ",69.99,No,69.99,,,Published
+188,"iPhone 8 Repair","iPhone Repair",2874,"Mute Button Repair ",69.99,No,69.99,,,Published
+188,"iPhone 8 Repair","iPhone Repair",2875,"Power Button Repair ",69.99,No,69.99,,,Published
+188,"iPhone 8 Repair","iPhone Repair",2876,"Rear Camera Repair ",199.99,No,199.99,,,Published
+188,"iPhone 8 Repair","iPhone Repair",2877,"Rear Cover Repair ",139.99,No,139.99,,,Published
+188,"iPhone 8 Repair","iPhone Repair",2878,"Vibration Repair ",69.99,No,69.99,,,Published
+188,"iPhone 8 Repair","iPhone Repair",2879,"Volume Repair ",69.99,No,69.99,,,Published
+189,"iPhone XR Repair","iPhone Repair",2880,"Front Screen Repair ",74.99,No,74.99,,,Published
+189,"iPhone XR Repair","iPhone Repair",2881,"Battery Repair ",69.99,No,69.99,,,Published
+189,"iPhone XR Repair","iPhone Repair",2882,"Charging Port Repair ",69.99,No,69.99,,,Published
+189,"iPhone XR Repair","iPhone Repair",2883,"Diagnostic Service  ",19.99,No,19.99,,,Published
+189,"iPhone XR Repair","iPhone Repair",2884,"Earpiece Repair ",69.99,No,69.99,,,Published
+189,"iPhone XR Repair","iPhone Repair",2885,"Front Camera Repair ",69.99,No,69.99,,,Published
+189,"iPhone XR Repair","iPhone Repair",2886,"Headphone Socket Repair ",69.99,No,69.99,,,Published
+189,"iPhone XR Repair","iPhone Repair",2887,"Liquid Damage Service ",69.99,No,69.99,,,Published
+189,"iPhone XR Repair","iPhone Repair",2888,"Loudspeaker Repair ",69.99,No,69.99,,,Published
+189,"iPhone XR Repair","iPhone Repair",2889,"Microphone Repair ",69.99,No,69.99,,,Published
+189,"iPhone XR Repair","iPhone Repair",2890,"Mute Button Repair ",69.99,No,69.99,,,Published
+189,"iPhone XR Repair","iPhone Repair",2891,"Power Button Repair ",69.99,No,69.99,,,Published
+189,"iPhone XR Repair","iPhone Repair",2892,"Rear Camera Repair ",69.99,No,69.99,,,Published
+189,"iPhone XR Repair","iPhone Repair",2893,"Rear Cover Repair ",169.99,No,169.99,,,Published
+189,"iPhone XR Repair","iPhone Repair",2894,"Vibration Repair ",69.99,No,69.99,,,Published
+189,"iPhone XR Repair","iPhone Repair",2895,"Volume Repair ",69.99,No,69.99,,,Published
+189,"iPhone XR Repair","iPhone Repair",2896,"Front Screen Repair ",199.99,No,199.99,,,Published
+190,"iPhone 8 Plus Repair","iPhone Repair",2897,"Front Screen Repair ",69.99,No,69.99,,,Published
+190,"iPhone 8 Plus Repair","iPhone Repair",2898,"Battery Repair ",59.99,No,59.99,,,Published
+190,"iPhone 8 Plus Repair","iPhone Repair",2899,"Charging Port Repair ",59.99,No,59.99,,,Published
+190,"iPhone 8 Plus Repair","iPhone Repair",2900,"Diagnostic Service  ",19.99,No,19.99,,,Published
+190,"iPhone 8 Plus Repair","iPhone Repair",2901,"Earpiece Repair ",59.99,No,59.99,,,Published
+190,"iPhone 8 Plus Repair","iPhone Repair",2902,"Front Camera Repair ",59.99,No,59.99,,,Published
+190,"iPhone 8 Plus Repair","iPhone Repair",2903,"Headphone Socket Repair ",59.99,No,59.99,,,Published
+190,"iPhone 8 Plus Repair","iPhone Repair",2904,"Liquid Damage Service ",59.99,No,59.99,,,Published
+190,"iPhone 8 Plus Repair","iPhone Repair",2905,"Loudspeaker Repair ",59.99,No,59.99,,,Published
+190,"iPhone 8 Plus Repair","iPhone Repair",2906,"Microphone Repair ",59.99,No,59.99,,,Published
+190,"iPhone 8 Plus Repair","iPhone Repair",2907,"Mute Button Repair ",59.99,No,59.99,,,Published
+190,"iPhone 8 Plus Repair","iPhone Repair",2908,"Power Button Repair ",59.99,No,59.99,,,Published
+190,"iPhone 8 Plus Repair","iPhone Repair",2909,"Rear Camera Repair ",199.99,No,199.99,,,Published
+190,"iPhone 8 Plus Repair","iPhone Repair",2910,"Rear Cover Repair ",139.99,No,139.99,,,Published
+190,"iPhone 8 Plus Repair","iPhone Repair",2911,"Vibration Repair ",59.99,No,59.99,,,Published
+190,"iPhone 8 Plus Repair","iPhone Repair",2912,"Volume Repair ",59.99,No,59.99,,,Published

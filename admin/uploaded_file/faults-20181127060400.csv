@@ -1,0 +1,14 @@
+Model_ID,Model_Title,Device,fault_id,fault_name,regular_price,is_on_offer,sale_price,offer_start_date,offer_end_date,status
+33,"iPhone 5S Repair - A1533 A1453",iPhone,11,retretret,253,1,85,,,Unpublished
+33,"iPhone 5S Repair - A1533 A1453",iPhone,12,"test 6 edited",78,1,77,,,Unpublished
+1,"iPhone X - A1865 A1901 A1902",iPhone,13,"edited fault with instant edite",89,1,10,2018-11-26,2018-11-27,Unpublished
+28,"iPhone 6S Plus A1634 A1687 A1699",iPhone,14,one,2423,0,,,,Unpublished
+28,"iPhone 6S Plus A1634 A1687 A1699",iPhone,15,two,85.98,0,,,,Unpublished
+28,"iPhone 6S Plus A1634 A1687 A1699",iPhone,16,three,40,0,,,,Unpublished
+28,"iPhone 6S Plus A1634 A1687 A1699",iPhone,17,four,50,1,20,2018-11-01,2018-12-08,Unpublished
+28,"iPhone 6S Plus A1634 A1687 A1699",iPhone,18,five,23,0,,,,Unpublished
+28,"iPhone 6S Plus A1634 A1687 A1699",iPhone,19,six,55,0,,,,Unpublished
+28,"iPhone 6S Plus A1634 A1687 A1699",iPhone,20,seven,66,0,,,,Unpublished
+28,"iPhone 6S Plus A1634 A1687 A1699",iPhone,21,eight,435,0,,,,published
+28,"iPhone 6S Plus A1634 A1687 A1699",iPhone,22,nine,435435,0,,,,published
+28,"iPhone 6S Plus A1634 A1687 A1699",iPhone,23,ten,43543543,0,,,,published

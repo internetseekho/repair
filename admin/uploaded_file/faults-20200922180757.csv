@@ -1,0 +1,25 @@
+Model_ID,Model_Title,Device,fault_id,fault_name,regular_price,is_on_offer,sale_price,offer_start_date,offer_end_date,status
+94,"Apple Watch 1st Gen 38mm","Watch Repair",1564,"Battery Repair ",69.99,No,69.99,,,Published
+94,"Apple Watch 1st Gen 38mm","Watch Repair",1565,"Front Screen Repair ",129.99,No,129.99,,,Published
+94,"Apple Watch 1st Gen 38mm","Watch Repair",1566,"Liquid Damage Service ",89.99,No,89.99,,,Published
+96,"Apple Watch 1st Gen 42mm","Watch Repair",1581,"Battery Repair ",69.99,No,69.99,,,Published
+96,"Apple Watch 1st Gen 42mm","Watch Repair",1582,"Front Screen Repair ",128.99,No,128.99,,,Published
+96,"Apple Watch 1st Gen 42mm","Watch Repair",1583,"Liquid Damage Service ",89.99,No,89.99,,,Published
+98,"Apple Watch Series 4 40mm Repair","Watch Repair",1586,"Front Screen Repair ",419.99,No,419.99,,,Published
+98,"Apple Watch Series 4 40mm Repair","Watch Repair",1587,"Liquid Damage Service ",69.99,No,69.99,,,Published
+98,"Apple Watch Series 4 40mm Repair","Watch Repair",1588,"Diagnostic Service ",39.99,No,39.99,,,Published
+99,"Apple Watch Series 4 44mm Repair","Watch Repair",1589,"Liquid Damage Service ",69.99,No,69.99,,,Published
+99,"Apple Watch Series 4 44mm Repair","Watch Repair",1590,"Diagnostic Service ",39.99,No,39.99,,,Published
+99,"Apple Watch Series 4 44mm Repair","Watch Repair",1591,"Front Screen Repair ",419.99,No,419.99,,,Published
+100,"Apple Watch 2nd Gen 42mm Repair","Watch Repair",1592,"Front Screen Repair ",259.99,No,259.99,,,Published
+100,"Apple Watch 2nd Gen 42mm Repair","Watch Repair",1593,"Battery Repair ",69.99,No,69.99,,,Published
+100,"Apple Watch 2nd Gen 42mm Repair","Watch Repair",1594,"Liquid Damage Service ",89.99,No,89.99,,,Published
+101,"Apple Watch 2nd Gen 38mm Repair","Watch Repair",1595,"Front Screen Repair ",249.99,No,249.99,,,Published
+101,"Apple Watch 2nd Gen 38mm Repair","Watch Repair",1596,"Battery Repair ",69.99,No,69.99,,,Published
+101,"Apple Watch 2nd Gen 38mm Repair","Watch Repair",1597,"Liquid Damage Service ",89.99,No,89.99,,,Published
+103,"Apple Watch 3rd Gen 42mm Repair","Watch Repair",1599,"Front Screen Repair ",319.99,No,319.99,,,Published
+103,"Apple Watch 3rd Gen 42mm Repair","Watch Repair",1600,"Battery Repair ",99.99,No,99.99,,,Published
+103,"Apple Watch 3rd Gen 42mm Repair","Watch Repair",1601,"Liquid Damage Service ",119.99,No,119.99,,,Published
+104,"Apple Watch 3rd Gen 38mm Repair","Watch Repair",1602,"Front Screen Repair ",319.99,No,319.99,,,Published
+104,"Apple Watch 3rd Gen 38mm Repair","Watch Repair",1603,"Battery Repair ",99.99,No,99.99,,,Published
+104,"Apple Watch 3rd Gen 38mm Repair","Watch Repair",1604,"Liquid Damage Service ",119.99,No,119.99,,,Published

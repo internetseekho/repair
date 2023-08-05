@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /ajax/
+Disallow: /contractor/
+Disallow: /controllers/
+Disallow: /libraries/
+Disallow: /models/
+Disallow: /pdf/
+Disallow: /rest_api/
+Disallow: /social/

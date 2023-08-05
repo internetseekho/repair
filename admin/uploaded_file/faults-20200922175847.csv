@@ -1,0 +1,479 @@
+Model_ID,Model_Title,Device,fault_id,fault_name,regular_price,is_on_offer,sale_price,offer_start_date,offer_end_date,status
+5,"Sony Xperia XZ Repair","Sony Xperia Series Repair",55,"Front Screen Repair ",109.99,No,109.99,,,Published
+5,"Sony Xperia XZ Repair","Sony Xperia Series Repair",56,"Antenna Repair ",89.99,No,89.99,,,Published
+5,"Sony Xperia XZ Repair","Sony Xperia Series Repair",57,"Battery Repair ",89.99,No,89.99,,,Published
+5,"Sony Xperia XZ Repair","Sony Xperia Series Repair",58,"Charging Port Repair ",89.99,No,89.99,,,Published
+5,"Sony Xperia XZ Repair","Sony Xperia Series Repair",59,"Earpiece Repair ",89.99,No,89.99,,,Published
+5,"Sony Xperia XZ Repair","Sony Xperia Series Repair",60,"Front Camera Repair ",89.99,No,89.99,,,Published
+5,"Sony Xperia XZ Repair","Sony Xperia Series Repair",61,"Headphone Socket Repair ",89.99,No,89.99,,,Published
+5,"Sony Xperia XZ Repair","Sony Xperia Series Repair",62,"Home Button Repair ",109.99,No,109.99,,,Published
+5,"Sony Xperia XZ Repair","Sony Xperia Series Repair",63,"Liquid Damage Service ",69.99,No,69.99,,,Published
+5,"Sony Xperia XZ Repair","Sony Xperia Series Repair",64,"Loudspeaker Repair ",89.99,No,89.99,,,Published
+5,"Sony Xperia XZ Repair","Sony Xperia Series Repair",65,"Microphone Repair ",89.99,No,89.99,,,Published
+5,"Sony Xperia XZ Repair","Sony Xperia Series Repair",66,"Mute Button Repair ",89.99,No,89.99,,,Published
+5,"Sony Xperia XZ Repair","Sony Xperia Series Repair",67,"Power Button Repair ",89.99,No,89.99,,,Published
+5,"Sony Xperia XZ Repair","Sony Xperia Series Repair",68,"Rear Camera Repair ",79.99,No,79.99,,,Published
+5,"Sony Xperia XZ Repair","Sony Xperia Series Repair",69,"Rear Cover Repair ",89.99,No,89.99,,,Published
+5,"Sony Xperia XZ Repair","Sony Xperia Series Repair",70,"Vibration Repair ",89.99,No,89.99,,,Published
+5,"Sony Xperia XZ Repair","Sony Xperia Series Repair",71,"Volume Repair ",89.99,No,89.99,,,Published
+5,"Sony Xperia XZ Repair","Sony Xperia Series Repair",72,"Diagnostic Service ",39.99,No,39.99,,,Published
+6,"Sony Xperia XZ Premium Repair","Sony Xperia Series Repair",73,"Front Screen Repair ",109.99,No,109.99,,,Published
+6,"Sony Xperia XZ Premium Repair","Sony Xperia Series Repair",74,"Antenna Repair ",89.99,No,89.99,,,Published
+6,"Sony Xperia XZ Premium Repair","Sony Xperia Series Repair",75,"Battery Repair ",89.99,No,89.99,,,Published
+6,"Sony Xperia XZ Premium Repair","Sony Xperia Series Repair",76,"Charging Port Repair ",89.99,No,89.99,,,Published
+6,"Sony Xperia XZ Premium Repair","Sony Xperia Series Repair",77,"Earpiece Repair ",89.99,No,89.99,,,Published
+6,"Sony Xperia XZ Premium Repair","Sony Xperia Series Repair",78,"Front Camera Repair ",89.99,No,89.99,,,Published
+6,"Sony Xperia XZ Premium Repair","Sony Xperia Series Repair",79,"Headphone Socket Repair ",89.99,No,89.99,,,Published
+6,"Sony Xperia XZ Premium Repair","Sony Xperia Series Repair",80,"Home Button Repair ",109.99,No,109.99,,,Published
+6,"Sony Xperia XZ Premium Repair","Sony Xperia Series Repair",81,"Liquid Damage Service ",69.99,No,69.99,,,Published
+6,"Sony Xperia XZ Premium Repair","Sony Xperia Series Repair",82,"Loudspeaker Repair ",89.99,No,89.99,,,Published
+6,"Sony Xperia XZ Premium Repair","Sony Xperia Series Repair",83,"Microphone Repair ",89.99,No,89.99,,,Published
+6,"Sony Xperia XZ Premium Repair","Sony Xperia Series Repair",84,"Mute Button Repair ",89.99,No,89.99,,,Published
+6,"Sony Xperia XZ Premium Repair","Sony Xperia Series Repair",85,"Power Button Repair ",89.99,No,89.99,,,Published
+6,"Sony Xperia XZ Premium Repair","Sony Xperia Series Repair",86,"Rear Camera Repair ",79.99,No,79.99,,,Published
+6,"Sony Xperia XZ Premium Repair","Sony Xperia Series Repair",87,"Rear Cover Repair ",89.99,No,89.99,,,Published
+6,"Sony Xperia XZ Premium Repair","Sony Xperia Series Repair",88,"Vibration Repair ",89.99,No,89.99,,,Published
+6,"Sony Xperia XZ Premium Repair","Sony Xperia Series Repair",89,"Volume Repair ",89.99,No,89.99,,,Published
+153,"Sony Xperia XA1 Ultra Repairs","Sony Xperia Series Repair",2274,"Front Screen Repair ",119.99,No,119.99,,,Published
+153,"Sony Xperia XA1 Ultra Repairs","Sony Xperia Series Repair",2275,"Antenna Repair ",79.99,No,79.99,,,Published
+153,"Sony Xperia XA1 Ultra Repairs","Sony Xperia Series Repair",2276,"Battery Repair ",79.99,No,79.99,,,Published
+153,"Sony Xperia XA1 Ultra Repairs","Sony Xperia Series Repair",2277,"Charging Port Repair ",79.99,No,79.99,,,Published
+153,"Sony Xperia XA1 Ultra Repairs","Sony Xperia Series Repair",2278,"Earpiece Repair ",99.99,No,99.99,,,Published
+153,"Sony Xperia XA1 Ultra Repairs","Sony Xperia Series Repair",2279,"Front Camera Repair ",79.99,No,79.99,,,Published
+153,"Sony Xperia XA1 Ultra Repairs","Sony Xperia Series Repair",2280,"Headphone Socket Repair ",79.99,No,79.99,,,Published
+153,"Sony Xperia XA1 Ultra Repairs","Sony Xperia Series Repair",2281,"Liquid Damage Service ",69.99,No,69.99,,,Published
+153,"Sony Xperia XA1 Ultra Repairs","Sony Xperia Series Repair",2282,"Loudspeaker Repair ",79.99,No,79.99,,,Published
+153,"Sony Xperia XA1 Ultra Repairs","Sony Xperia Series Repair",2283,"Microphone Repair ",79.99,No,79.99,,,Published
+153,"Sony Xperia XA1 Ultra Repairs","Sony Xperia Series Repair",2284,"Mute Button Repair ",79.99,No,79.99,,,Published
+153,"Sony Xperia XA1 Ultra Repairs","Sony Xperia Series Repair",2285,"Power Button Repair ",79.99,No,79.99,,,Published
+153,"Sony Xperia XA1 Ultra Repairs","Sony Xperia Series Repair",2286,"Rear Camera Repair ",79.99,No,79.99,,,Published
+153,"Sony Xperia XA1 Ultra Repairs","Sony Xperia Series Repair",2287,"Vibration Repair ",79.99,No,79.99,,,Published
+153,"Sony Xperia XA1 Ultra Repairs","Sony Xperia Series Repair",2288,"Volume Repair ",79.99,No,79.99,,,Published
+153,"Sony Xperia XA1 Ultra Repairs","Sony Xperia Series Repair",2289,"Diagnostic Service ",39.99,No,39.99,,,Published
+154,"Sony Xperia X Performance Repairs","Sony Xperia Series Repair",2290,"Front Screen Repair ",159.99,No,159.99,,,Published
+154,"Sony Xperia X Performance Repairs","Sony Xperia Series Repair",2291,"Antenna Repair ",89.99,No,89.99,,,Published
+154,"Sony Xperia X Performance Repairs","Sony Xperia Series Repair",2292,"Battery Repair ",89.99,No,89.99,,,Published
+154,"Sony Xperia X Performance Repairs","Sony Xperia Series Repair",2293,"Charging Port Repair ",89.99,No,89.99,,,Published
+154,"Sony Xperia X Performance Repairs","Sony Xperia Series Repair",2294,"Earpiece Repair ",89.99,No,89.99,,,Published
+154,"Sony Xperia X Performance Repairs","Sony Xperia Series Repair",2295,"Front Camera Repair ",89.99,No,89.99,,,Published
+154,"Sony Xperia X Performance Repairs","Sony Xperia Series Repair",2296,"Headphone Socket Repair ",89.99,No,89.99,,,Published
+154,"Sony Xperia X Performance Repairs","Sony Xperia Series Repair",2297,"Home Button Repair ",89.99,No,89.99,,,Published
+154,"Sony Xperia X Performance Repairs","Sony Xperia Series Repair",2298,"Liquid Damage Service ",69.99,No,69.99,,,Published
+154,"Sony Xperia X Performance Repairs","Sony Xperia Series Repair",2299,"Loudspeaker Repair ",89.99,No,89.99,,,Published
+154,"Sony Xperia X Performance Repairs","Sony Xperia Series Repair",2300,"Microphone Repair ",89.99,No,89.99,,,Published
+154,"Sony Xperia X Performance Repairs","Sony Xperia Series Repair",2301,"Mute Button Repair ",89.99,No,89.99,,,Published
+154,"Sony Xperia X Performance Repairs","Sony Xperia Series Repair",2302,"Power Button Repair ",89.99,No,89.99,,,Published
+154,"Sony Xperia X Performance Repairs","Sony Xperia Series Repair",2303,"Rear Camera Repair ",89.99,No,89.99,,,Published
+154,"Sony Xperia X Performance Repairs","Sony Xperia Series Repair",2304,"Rear Cover Repair ",89.99,No,89.99,,,Published
+154,"Sony Xperia X Performance Repairs","Sony Xperia Series Repair",2305,"Software Repair ",89.99,No,89.99,,,Published
+154,"Sony Xperia X Performance Repairs","Sony Xperia Series Repair",2306,"Vibration Repair ",89.99,No,89.99,,,Published
+154,"Sony Xperia X Performance Repairs","Sony Xperia Series Repair",2307,"Volume Repair ",89.99,No,89.99,,,Published
+154,"Sony Xperia X Performance Repairs","Sony Xperia Series Repair",2308,"WIFI Repair ",89.99,No,89.99,,,Published
+154,"Sony Xperia X Performance Repairs","Sony Xperia Series Repair",2309,"Diagnostic Service ",39.99,No,39.99,,,Published
+155,"Sony Xperia X Compact Repairs","Sony Xperia Series Repair",2310,"Front Screen Repair ",118.99,No,118.99,,,Published
+155,"Sony Xperia X Compact Repairs","Sony Xperia Series Repair",2311,"Antenna Repair ",99.99,No,99.99,,,Published
+155,"Sony Xperia X Compact Repairs","Sony Xperia Series Repair",2312,"Battery Repair ",99.99,No,99.99,,,Published
+155,"Sony Xperia X Compact Repairs","Sony Xperia Series Repair",2313,"Charging Port Repair ",99.99,No,99.99,,,Published
+155,"Sony Xperia X Compact Repairs","Sony Xperia Series Repair",2314,"Earpiece Repair ",99.99,No,99.99,,,Published
+155,"Sony Xperia X Compact Repairs","Sony Xperia Series Repair",2315,"Front Camera Repair ",99.99,No,99.99,,,Published
+155,"Sony Xperia X Compact Repairs","Sony Xperia Series Repair",2316,"Headphone Socket Repair ",99.99,No,99.99,,,Published
+155,"Sony Xperia X Compact Repairs","Sony Xperia Series Repair",2317,"Home Button Repair ",99.99,No,99.99,,,Published
+155,"Sony Xperia X Compact Repairs","Sony Xperia Series Repair",2318,"Liquid Damage Service ",69.99,No,69.99,,,Published
+155,"Sony Xperia X Compact Repairs","Sony Xperia Series Repair",2319,"Loudspeaker Repair ",99.99,No,99.99,,,Published
+155,"Sony Xperia X Compact Repairs","Sony Xperia Series Repair",2320,"Microphone Repair ",99.99,No,99.99,,,Published
+155,"Sony Xperia X Compact Repairs","Sony Xperia Series Repair",2321,"Mute Button Repair ",99.99,No,99.99,,,Published
+155,"Sony Xperia X Compact Repairs","Sony Xperia Series Repair",2322,"Power Button Repair ",99.99,No,99.99,,,Published
+155,"Sony Xperia X Compact Repairs","Sony Xperia Series Repair",2323,"Rear Camera Repair ",99.99,No,99.99,,,Published
+155,"Sony Xperia X Compact Repairs","Sony Xperia Series Repair",2324,"Rear Cover Repair ",99.99,No,99.99,,,Published
+155,"Sony Xperia X Compact Repairs","Sony Xperia Series Repair",2325,"Software Repair ",99.99,No,99.99,,,Published
+155,"Sony Xperia X Compact Repairs","Sony Xperia Series Repair",2326,"Vibration Repair ",99.99,No,99.99,,,Published
+155,"Sony Xperia X Compact Repairs","Sony Xperia Series Repair",2327,"Volume Repair ",99.99,No,99.99,,,Published
+155,"Sony Xperia X Compact Repairs","Sony Xperia Series Repair",2328,"WIFI Repair ",99.99,No,99.99,,,Published
+155,"Sony Xperia X Compact Repairs","Sony Xperia Series Repair",2329,"Diagnostic Service ",39.99,No,39.99,,,Published
+156,"Sony Xperia XA Ultra Repairs","Sony Xperia Series Repair",2330,"Front Screen Repair ",119.99,No,119.99,,,Published
+156,"Sony Xperia XA Ultra Repairs","Sony Xperia Series Repair",2331,"Antenna Repair ",99.99,No,99.99,,,Published
+156,"Sony Xperia XA Ultra Repairs","Sony Xperia Series Repair",2332,"Battery Repair ",99.99,No,99.99,,,Published
+156,"Sony Xperia XA Ultra Repairs","Sony Xperia Series Repair",2333,"Charging Port Repair ",99.99,No,99.99,,,Published
+156,"Sony Xperia XA Ultra Repairs","Sony Xperia Series Repair",2334,"Earpiece Repair ",99.99,No,99.99,,,Published
+156,"Sony Xperia XA Ultra Repairs","Sony Xperia Series Repair",2335,"Front Camera Repair ",99.99,No,99.99,,,Published
+156,"Sony Xperia XA Ultra Repairs","Sony Xperia Series Repair",2336,"Headphone Socket Repair ",99.99,No,99.99,,,Published
+156,"Sony Xperia XA Ultra Repairs","Sony Xperia Series Repair",2337,"Home Button Repair ",99.99,No,99.99,,,Published
+156,"Sony Xperia XA Ultra Repairs","Sony Xperia Series Repair",2338,"Liquid Damage Service ",69.99,No,69.99,,,Published
+156,"Sony Xperia XA Ultra Repairs","Sony Xperia Series Repair",2339,"Loudspeaker Repair ",99.99,No,99.99,,,Published
+156,"Sony Xperia XA Ultra Repairs","Sony Xperia Series Repair",2340,"Microphone Repair ",99.99,No,99.99,,,Published
+156,"Sony Xperia XA Ultra Repairs","Sony Xperia Series Repair",2341,"Mute Button Repair ",99.99,No,99.99,,,Published
+156,"Sony Xperia XA Ultra Repairs","Sony Xperia Series Repair",2342,"Power Button Repair ",99.99,No,99.99,,,Published
+156,"Sony Xperia XA Ultra Repairs","Sony Xperia Series Repair",2343,"Rear Camera Repair ",99.99,No,99.99,,,Published
+156,"Sony Xperia XA Ultra Repairs","Sony Xperia Series Repair",2344,"Rear Cover Repair ",99.99,No,99.99,,,Published
+156,"Sony Xperia XA Ultra Repairs","Sony Xperia Series Repair",2345,"Software Repair ",99.99,No,99.99,,,Published
+156,"Sony Xperia XA Ultra Repairs","Sony Xperia Series Repair",2346,"Vibration Repair ",99.99,No,99.99,,,Published
+156,"Sony Xperia XA Ultra Repairs","Sony Xperia Series Repair",2347,"Volume Repair ",99.99,No,99.99,,,Published
+156,"Sony Xperia XA Ultra Repairs","Sony Xperia Series Repair",2348,"WIFI Repair ",99.99,No,99.99,,,Published
+156,"Sony Xperia XA Ultra Repairs","Sony Xperia Series Repair",2349,"Diagnostic Service ",39.99,No,39.99,,,Published
+157,"Sony Xperia U Repair","Sony Xperia Series Repair",2350,"Antenna Repair ",69.99,No,69.99,,,Published
+157,"Sony Xperia U Repair","Sony Xperia Series Repair",2351,"Charging Port Repair ",69.99,No,69.99,,,Published
+157,"Sony Xperia U Repair","Sony Xperia Series Repair",2352,"Earpiece Repair ",69.99,No,69.99,,,Published
+157,"Sony Xperia U Repair","Sony Xperia Series Repair",2353,"Front Camera Repair ",69.99,No,69.99,,,Published
+157,"Sony Xperia U Repair","Sony Xperia Series Repair",2354,"Headphone Socket Repair ",69.99,No,69.99,,,Published
+157,"Sony Xperia U Repair","Sony Xperia Series Repair",2355,"Home Button Repair ",69.99,No,69.99,,,Published
+157,"Sony Xperia U Repair","Sony Xperia Series Repair",2356,"Liquid Damage Service ",69.99,No,69.99,,,Published
+157,"Sony Xperia U Repair","Sony Xperia Series Repair",2357,"Loudspeaker Repair ",69.99,No,69.99,,,Published
+157,"Sony Xperia U Repair","Sony Xperia Series Repair",2358,"Microphone Repair ",69.99,No,69.99,,,Published
+157,"Sony Xperia U Repair","Sony Xperia Series Repair",2359,"Mute Button Repair ",69.99,No,69.99,,,Published
+157,"Sony Xperia U Repair","Sony Xperia Series Repair",2360,"Power Button Repair ",69.99,No,69.99,,,Published
+157,"Sony Xperia U Repair","Sony Xperia Series Repair",2361,"Rear Camera Repair ",69.99,No,69.99,,,Published
+157,"Sony Xperia U Repair","Sony Xperia Series Repair",2362,"Vibration Repair ",69.99,No,69.99,,,Published
+157,"Sony Xperia U Repair","Sony Xperia Series Repair",2363,"Volume Repair ",69.99,No,69.99,,,Published
+157,"Sony Xperia U Repair","Sony Xperia Series Repair",2364,"Diagnostic Service ",39.99,No,39.99,,,Published
+158,"Sony Xperia T3 Repair","Sony Xperia Series Repair",2365,"Front Screen Repair ",109.99,No,109.99,,,Published
+158,"Sony Xperia T3 Repair","Sony Xperia Series Repair",2366,"Antenna Repair ",99.99,No,99.99,,,Published
+158,"Sony Xperia T3 Repair","Sony Xperia Series Repair",2367,"Battery Repair ",59.99,No,59.99,,,Published
+158,"Sony Xperia T3 Repair","Sony Xperia Series Repair",2368,"Charging Port Repair ",99.99,No,99.99,,,Published
+158,"Sony Xperia T3 Repair","Sony Xperia Series Repair",2369,"Earpiece Repair ",99.99,No,99.99,,,Published
+158,"Sony Xperia T3 Repair","Sony Xperia Series Repair",2370,"Front Camera Repair ",99.99,No,99.99,,,Published
+158,"Sony Xperia T3 Repair","Sony Xperia Series Repair",2371,"Headphone Socket Repair ",99.99,No,99.99,,,Published
+158,"Sony Xperia T3 Repair","Sony Xperia Series Repair",2372,"Home Button Repair ",99.99,No,99.99,,,Published
+158,"Sony Xperia T3 Repair","Sony Xperia Series Repair",2373,"Liquid Damage Service ",69.99,No,69.99,,,Published
+158,"Sony Xperia T3 Repair","Sony Xperia Series Repair",2374,"Diagnostic Service ",39.99,No,39.99,,,Published
+158,"Sony Xperia T3 Repair","Sony Xperia Series Repair",2375,"Loudspeaker Repair ",99.99,No,99.99,,,Published
+158,"Sony Xperia T3 Repair","Sony Xperia Series Repair",2376,"Microphone Repair ",99.99,No,99.99,,,Published
+158,"Sony Xperia T3 Repair","Sony Xperia Series Repair",2377,"Mute Button Repair ",99.99,No,99.99,,,Published
+158,"Sony Xperia T3 Repair","Sony Xperia Series Repair",2378,"Power Button Repair ",99.99,No,99.99,,,Published
+158,"Sony Xperia T3 Repair","Sony Xperia Series Repair",2379,"Rear Camera Repair ",99.99,No,99.99,,,Published
+158,"Sony Xperia T3 Repair","Sony Xperia Series Repair",2380,"Vibration Repair ",99.99,No,99.99,,,Published
+158,"Sony Xperia T3 Repair","Sony Xperia Series Repair",2381,"Volume Repair ",99.99,No,99.99,,,Published
+159,"Sony Xperia X Repair","Sony Xperia Series Repair",2382,"Front Screen Repair ",104.99,No,104.99,,,Published
+159,"Sony Xperia X Repair","Sony Xperia Series Repair",2383,"Antenna Repair ",69.99,No,69.99,,,Published
+159,"Sony Xperia X Repair","Sony Xperia Series Repair",2384,"Battery Repair ",69.99,No,69.99,,,Published
+159,"Sony Xperia X Repair","Sony Xperia Series Repair",2385,"Charging Port Repair ",69.99,No,69.99,,,Published
+159,"Sony Xperia X Repair","Sony Xperia Series Repair",2386,"Earpiece Repair ",69.99,No,69.99,,,Published
+159,"Sony Xperia X Repair","Sony Xperia Series Repair",2387,"Front Camera Repair ",69.99,No,69.99,,,Published
+159,"Sony Xperia X Repair","Sony Xperia Series Repair",2388,"Headphone Socket Repair ",69.99,No,69.99,,,Published
+159,"Sony Xperia X Repair","Sony Xperia Series Repair",2389,"Liquid Damage Service ",69.99,No,69.99,,,Published
+159,"Sony Xperia X Repair","Sony Xperia Series Repair",2390,"Loudspeaker Repair ",69.99,No,69.99,,,Published
+159,"Sony Xperia X Repair","Sony Xperia Series Repair",2391,"Microphone Repair ",69.99,No,69.99,,,Published
+159,"Sony Xperia X Repair","Sony Xperia Series Repair",2392,"Mute Button Repair ",69.99,No,69.99,,,Published
+159,"Sony Xperia X Repair","Sony Xperia Series Repair",2393,"Power Button Repair ",69.99,No,69.99,,,Published
+159,"Sony Xperia X Repair","Sony Xperia Series Repair",2394,"Rear Camera Repair ",69.99,No,69.99,,,Published
+159,"Sony Xperia X Repair","Sony Xperia Series Repair",2395,"Vibration Repair ",69.99,No,69.99,,,Published
+159,"Sony Xperia X Repair","Sony Xperia Series Repair",2396,"Volume Repair ",69.99,No,69.99,,,Published
+159,"Sony Xperia X Repair","Sony Xperia Series Repair",2397,"Diagnostic Service ",39.99,No,39.99,,,Published
+160,"Sony Xperia T2 Ultra Repair","Sony Xperia Series Repair",2398,"Front Screen Repair ",69.99,No,69.99,,,Published
+160,"Sony Xperia T2 Ultra Repair","Sony Xperia Series Repair",2399,"Antenna Repair ",79.99,No,79.99,,,Published
+160,"Sony Xperia T2 Ultra Repair","Sony Xperia Series Repair",2400,"Battery Repair ",79.99,No,79.99,,,Published
+160,"Sony Xperia T2 Ultra Repair","Sony Xperia Series Repair",2401,"Charging Port Repair ",79.99,No,79.99,,,Published
+160,"Sony Xperia T2 Ultra Repair","Sony Xperia Series Repair",2402,"Earpiece Repair ",79.99,No,79.99,,,Published
+160,"Sony Xperia T2 Ultra Repair","Sony Xperia Series Repair",2403,"Front Camera Repair ",79.99,No,79.99,,,Published
+160,"Sony Xperia T2 Ultra Repair","Sony Xperia Series Repair",2404,"Headphone Socket Repair ",79.99,No,79.99,,,Published
+160,"Sony Xperia T2 Ultra Repair","Sony Xperia Series Repair",2405,"Home Button Repair ",69.99,No,69.99,,,Published
+160,"Sony Xperia T2 Ultra Repair","Sony Xperia Series Repair",2406,"Liquid Damage Service ",69.99,No,69.99,,,Published
+160,"Sony Xperia T2 Ultra Repair","Sony Xperia Series Repair",2407,"Loudspeaker Repair ",79.99,No,79.99,,,Published
+160,"Sony Xperia T2 Ultra Repair","Sony Xperia Series Repair",2408,"Microphone Repair ",79.99,No,79.99,,,Published
+160,"Sony Xperia T2 Ultra Repair","Sony Xperia Series Repair",2409,"Mute Button Repair ",79.99,No,79.99,,,Published
+160,"Sony Xperia T2 Ultra Repair","Sony Xperia Series Repair",2410,"Power Button Repair ",79.99,No,79.99,,,Published
+160,"Sony Xperia T2 Ultra Repair","Sony Xperia Series Repair",2411,"Rear Camera Repair ",79.99,No,79.99,,,Published
+160,"Sony Xperia T2 Ultra Repair","Sony Xperia Series Repair",2412,"Rear Cover Repair ",69.99,No,69.99,,,Published
+160,"Sony Xperia T2 Ultra Repair","Sony Xperia Series Repair",2413,"Vibration Repair ",79.99,No,79.99,,,Published
+160,"Sony Xperia T2 Ultra Repair","Sony Xperia Series Repair",2414,"Volume Repair ",79.99,No,79.99,,,Published
+160,"Sony Xperia T2 Ultra Repair","Sony Xperia Series Repair",2415,"Diagnostic Service ",39.99,No,39.99,,,Published
+161,"Sony Xperia XA1 Plus Repairs","Sony Xperia Series Repair",2416,"Front Screen Repair ",109.99,No,109.99,,,Published
+161,"Sony Xperia XA1 Plus Repairs","Sony Xperia Series Repair",2417,"Antenna Repair ",69.99,No,69.99,,,Published
+161,"Sony Xperia XA1 Plus Repairs","Sony Xperia Series Repair",2418,"Battery Repair ",69.99,No,69.99,,,Published
+161,"Sony Xperia XA1 Plus Repairs","Sony Xperia Series Repair",2419,"Charging Port Repair ",69.99,No,69.99,,,Published
+161,"Sony Xperia XA1 Plus Repairs","Sony Xperia Series Repair",2420,"Earpiece Repair ",69.99,No,69.99,,,Published
+161,"Sony Xperia XA1 Plus Repairs","Sony Xperia Series Repair",2421,"Front Camera Repair ",69.99,No,69.99,,,Published
+161,"Sony Xperia XA1 Plus Repairs","Sony Xperia Series Repair",2422,"Headphone Socket Repair ",69.99,No,69.99,,,Published
+161,"Sony Xperia XA1 Plus Repairs","Sony Xperia Series Repair",2423,"Home Button Repair ",69.99,No,69.99,,,Published
+161,"Sony Xperia XA1 Plus Repairs","Sony Xperia Series Repair",2424,"Liquid Damage Service ",69.99,No,69.99,,,Published
+161,"Sony Xperia XA1 Plus Repairs","Sony Xperia Series Repair",2425,"Loudspeaker Repair ",69.99,No,69.99,,,Published
+161,"Sony Xperia XA1 Plus Repairs","Sony Xperia Series Repair",2426,"Microphone Repair ",69.99,No,69.99,,,Published
+161,"Sony Xperia XA1 Plus Repairs","Sony Xperia Series Repair",2427,"Mute Button Repair ",69.99,No,69.99,,,Published
+161,"Sony Xperia XA1 Plus Repairs","Sony Xperia Series Repair",2428,"Power Button Repair ",69.99,No,69.99,,,Published
+161,"Sony Xperia XA1 Plus Repairs","Sony Xperia Series Repair",2429,"Rear Camera Repair ",69.99,No,69.99,,,Published
+161,"Sony Xperia XA1 Plus Repairs","Sony Xperia Series Repair",2430,"Rear Cover Repair ",69.99,No,69.99,,,Published
+161,"Sony Xperia XA1 Plus Repairs","Sony Xperia Series Repair",2431,"Software Repair ",69.99,No,69.99,,,Published
+161,"Sony Xperia XA1 Plus Repairs","Sony Xperia Series Repair",2432,"Vibration Repair ",69.99,No,69.99,,,Published
+161,"Sony Xperia XA1 Plus Repairs","Sony Xperia Series Repair",2433,"Volume Repair ",69.99,No,69.99,,,Published
+161,"Sony Xperia XA1 Plus Repairs","Sony Xperia Series Repair",2434,"WIFI Repair ",69.99,No,69.99,,,Published
+161,"Sony Xperia XA1 Plus Repairs","Sony Xperia Series Repair",2435,"Diagnostic Service ",39.99,No,39.99,,,Published
+162,"Sony Xperia T2 Repair","Sony Xperia Series Repair",2436,"Front Screen Repair ",69.99,No,69.99,,,Published
+162,"Sony Xperia T2 Repair","Sony Xperia Series Repair",2437,"Antenna Repair ",79.99,No,79.99,,,Published
+162,"Sony Xperia T2 Repair","Sony Xperia Series Repair",2438,"Battery Repair ",79.99,No,79.99,,,Published
+162,"Sony Xperia T2 Repair","Sony Xperia Series Repair",2439,"Charging Port Repair ",79.99,No,79.99,,,Published
+162,"Sony Xperia T2 Repair","Sony Xperia Series Repair",2440,"Earpiece Repair ",79.99,No,79.99,,,Published
+162,"Sony Xperia T2 Repair","Sony Xperia Series Repair",2441,"Front Camera Repair ",79.99,No,79.99,,,Published
+162,"Sony Xperia T2 Repair","Sony Xperia Series Repair",2442,"Headphone Socket Repair ",79.99,No,79.99,,,Published
+162,"Sony Xperia T2 Repair","Sony Xperia Series Repair",2443,"Liquid Damage Service ",69.99,No,69.99,,,Published
+162,"Sony Xperia T2 Repair","Sony Xperia Series Repair",2444,"Loudspeaker Repair ",79.99,No,79.99,,,Published
+162,"Sony Xperia T2 Repair","Sony Xperia Series Repair",2445,"Microphone Repair ",79.99,No,79.99,,,Published
+162,"Sony Xperia T2 Repair","Sony Xperia Series Repair",2446,"Mute Button Repair ",79.99,No,79.99,,,Published
+162,"Sony Xperia T2 Repair","Sony Xperia Series Repair",2447,"Power Button Repair ",79.99,No,79.99,,,Published
+162,"Sony Xperia T2 Repair","Sony Xperia Series Repair",2448,"Rear Camera Repair ",79.99,No,79.99,,,Published
+162,"Sony Xperia T2 Repair","Sony Xperia Series Repair",2449,"Vibration Repair ",79.99,No,79.99,,,Published
+162,"Sony Xperia T2 Repair","Sony Xperia Series Repair",2450,"Volume Repair ",79.99,No,79.99,,,Published
+162,"Sony Xperia T2 Repair","Sony Xperia Series Repair",2451,"Diagnostic Service ",39.99,No,39.99,,,Published
+163,"Sony Xperia C4 Repair","Sony Xperia Series Repair",2452,"Front Screen Repair ",99.99,No,99.99,,,Published
+163,"Sony Xperia C4 Repair","Sony Xperia Series Repair",2453,"Antenna Repair ",69.99,No,69.99,,,Published
+163,"Sony Xperia C4 Repair","Sony Xperia Series Repair",2454,"Battery Repair ",69.99,No,69.99,,,Published
+163,"Sony Xperia C4 Repair","Sony Xperia Series Repair",2455,"Charging Port Repair ",69.99,No,69.99,,,Published
+163,"Sony Xperia C4 Repair","Sony Xperia Series Repair",2456,"Earpiece Repair ",69.99,No,69.99,,,Published
+163,"Sony Xperia C4 Repair","Sony Xperia Series Repair",2457,"Front Camera Repair ",69.99,No,69.99,,,Published
+163,"Sony Xperia C4 Repair","Sony Xperia Series Repair",2458,"Headphone Socket Repair ",69.99,No,69.99,,,Published
+163,"Sony Xperia C4 Repair","Sony Xperia Series Repair",2459,"Home Button Repair ",69.99,No,69.99,,,Published
+163,"Sony Xperia C4 Repair","Sony Xperia Series Repair",2460,"Liquid Damage Service ",69.99,No,69.99,,,Published
+163,"Sony Xperia C4 Repair","Sony Xperia Series Repair",2461,"Loudspeaker Repair ",69.99,No,69.99,,,Published
+163,"Sony Xperia C4 Repair","Sony Xperia Series Repair",2462,"Microphone Repair ",69.99,No,69.99,,,Published
+163,"Sony Xperia C4 Repair","Sony Xperia Series Repair",2463,"Mute Button Repair ",69.99,No,69.99,,,Published
+163,"Sony Xperia C4 Repair","Sony Xperia Series Repair",2464,"Power Button Repair ",69.99,No,69.99,,,Published
+163,"Sony Xperia C4 Repair","Sony Xperia Series Repair",2465,"Rear Camera Repair ",69.99,No,69.99,,,Published
+163,"Sony Xperia C4 Repair","Sony Xperia Series Repair",2466,"Rear Cover Repair ",69.99,No,69.99,,,Published
+163,"Sony Xperia C4 Repair","Sony Xperia Series Repair",2467,"Vibration Repair ",69.99,No,69.99,,,Published
+163,"Sony Xperia C4 Repair","Sony Xperia Series Repair",2468,"Volume Repair ",69.99,No,69.99,,,Published
+163,"Sony Xperia C4 Repair","Sony Xperia Series Repair",2469,"Diagnostic Service ",39.99,No,39.99,,,Published
+164,"Sony Xperia ZR Repairs","Sony Xperia Z Series Repair",2470,"Front Screen Repair ",71.99,No,71.99,,,Published
+164,"Sony Xperia ZR Repairs","Sony Xperia Z Series Repair",2471,"Antenna Repair ",59.99,No,59.99,,,Published
+164,"Sony Xperia ZR Repairs","Sony Xperia Z Series Repair",2472,"Battery Repair ",59.99,No,59.99,,,Published
+164,"Sony Xperia ZR Repairs","Sony Xperia Z Series Repair",2473,"Charging Port Repair ",59.99,No,59.99,,,Published
+164,"Sony Xperia ZR Repairs","Sony Xperia Z Series Repair",2474,"Earpiece Repair ",59.99,No,59.99,,,Published
+164,"Sony Xperia ZR Repairs","Sony Xperia Z Series Repair",2475,"Front Camera Repair ",59.99,No,59.99,,,Published
+164,"Sony Xperia ZR Repairs","Sony Xperia Z Series Repair",2476,"Headphone Socket Repair ",59.99,No,59.99,,,Published
+164,"Sony Xperia ZR Repairs","Sony Xperia Z Series Repair",2477,"Home Button Repair ",59.99,No,59.99,,,Published
+164,"Sony Xperia ZR Repairs","Sony Xperia Z Series Repair",2478,"Liquid Damage Service ",69.99,No,69.99,,,Published
+164,"Sony Xperia ZR Repairs","Sony Xperia Z Series Repair",2479,"Loudspeaker Repair ",59.99,No,59.99,,,Published
+164,"Sony Xperia ZR Repairs","Sony Xperia Z Series Repair",2480,"Microphone Repair ",59.99,No,59.99,,,Published
+164,"Sony Xperia ZR Repairs","Sony Xperia Z Series Repair",2481,"Mute Button Repair ",59.99,No,59.99,,,Published
+164,"Sony Xperia ZR Repairs","Sony Xperia Z Series Repair",2482,"Power Button Repair ",59.99,No,59.99,,,Published
+164,"Sony Xperia ZR Repairs","Sony Xperia Z Series Repair",2483,"Rear Camera Repair ",59.99,No,59.99,,,Published
+164,"Sony Xperia ZR Repairs","Sony Xperia Z Series Repair",2484,"Rear Cover Repair ",59.99,No,59.99,,,Published
+164,"Sony Xperia ZR Repairs","Sony Xperia Z Series Repair",2485,"Software Repair ",59.99,No,59.99,,,Published
+164,"Sony Xperia ZR Repairs","Sony Xperia Z Series Repair",2486,"Vibration Repair ",59.99,No,59.99,,,Published
+164,"Sony Xperia ZR Repairs","Sony Xperia Z Series Repair",2487,"Volume Repair ",59.99,No,59.99,,,Published
+164,"Sony Xperia ZR Repairs","Sony Xperia Z Series Repair",2488,"WIFI Repair ",59.99,No,59.99,,,Published
+164,"Sony Xperia ZR Repairs","Sony Xperia Z Series Repair",2489,"Diagnostic Service ",39.99,No,39.99,,,Published
+165,"Sony Xperia ZL Repairs","Sony Xperia Z Series Repair",2490,"Front Screen Repair ",69.99,No,69.99,,,Published
+165,"Sony Xperia ZL Repairs","Sony Xperia Z Series Repair",2491,"Antenna Repair ",59.99,No,59.99,,,Published
+165,"Sony Xperia ZL Repairs","Sony Xperia Z Series Repair",2492,"Battery Repair ",59.99,No,59.99,,,Published
+165,"Sony Xperia ZL Repairs","Sony Xperia Z Series Repair",2493,"Charging Port Repair ",59.99,No,59.99,,,Published
+165,"Sony Xperia ZL Repairs","Sony Xperia Z Series Repair",2494,"Earpiece Repair ",59.99,No,59.99,,,Published
+165,"Sony Xperia ZL Repairs","Sony Xperia Z Series Repair",2495,"Front Camera Repair ",59.99,No,59.99,,,Published
+165,"Sony Xperia ZL Repairs","Sony Xperia Z Series Repair",2496,"Headphone Socket Repair ",59.99,No,59.99,,,Published
+165,"Sony Xperia ZL Repairs","Sony Xperia Z Series Repair",2497,"Home Button Repair ",59.99,No,59.99,,,Published
+165,"Sony Xperia ZL Repairs","Sony Xperia Z Series Repair",2498,"Liquid Damage Service ",69.99,No,69.99,,,Published
+165,"Sony Xperia ZL Repairs","Sony Xperia Z Series Repair",2499,"Loudspeaker Repair ",59.99,No,59.99,,,Published
+165,"Sony Xperia ZL Repairs","Sony Xperia Z Series Repair",2500,"Microphone Repair ",59.99,No,59.99,,,Published
+165,"Sony Xperia ZL Repairs","Sony Xperia Z Series Repair",2501,"Mute Button Repair ",59.99,No,59.99,,,Published
+165,"Sony Xperia ZL Repairs","Sony Xperia Z Series Repair",2502,"Power Button Repair ",59.99,No,59.99,,,Published
+165,"Sony Xperia ZL Repairs","Sony Xperia Z Series Repair",2503,"Rear Camera Repair ",59.99,No,59.99,,,Published
+165,"Sony Xperia ZL Repairs","Sony Xperia Z Series Repair",2504,"Rear Cover Repair ",59.99,No,59.99,,,Published
+165,"Sony Xperia ZL Repairs","Sony Xperia Z Series Repair",2505,"Software Repair ",59.99,No,59.99,,,Published
+165,"Sony Xperia ZL Repairs","Sony Xperia Z Series Repair",2506,"Vibration Repair ",59.99,No,59.99,,,Published
+165,"Sony Xperia ZL Repairs","Sony Xperia Z Series Repair",2507,"Volume Repair ",59.99,No,59.99,,,Published
+165,"Sony Xperia ZL Repairs","Sony Xperia Z Series Repair",2508,"WIFI Repair ",59.99,No,59.99,,,Published
+165,"Sony Xperia ZL Repairs","Sony Xperia Z Series Repair",2509,"Diagnostic Service ",39.99,No,39.99,,,Published
+167,"Sony Xperia Z Repair","Sony Xperia Z Series Repair",2523,"Front Screen Repair ",84.99,No,84.99,,,Published
+167,"Sony Xperia Z Repair","Sony Xperia Z Series Repair",2524,"Antenna Repair ",69.99,No,69.99,,,Published
+167,"Sony Xperia Z Repair","Sony Xperia Z Series Repair",2525,"Battery Repair ",54.99,No,54.99,,,Published
+167,"Sony Xperia Z Repair","Sony Xperia Z Series Repair",2526,"Charging Port Cover ",59.99,No,59.99,,,Published
+167,"Sony Xperia Z Repair","Sony Xperia Z Series Repair",2527,"Charging Port Repair ",62.99,No,62.99,,,Published
+167,"Sony Xperia Z Repair","Sony Xperia Z Series Repair",2528,"Earpiece Repair ",57.99,No,57.99,,,Published
+167,"Sony Xperia Z Repair","Sony Xperia Z Series Repair",2529,"Headphone Socket Repair ",69.99,No,69.99,,,Published
+167,"Sony Xperia Z Repair","Sony Xperia Z Series Repair",2530,"Liquid Damage Service ",69.99,No,69.99,,,Published
+167,"Sony Xperia Z Repair","Sony Xperia Z Series Repair",2531,"Diagnostic Service ",39.99,No,39.99,,,Published
+167,"Sony Xperia Z Repair","Sony Xperia Z Series Repair",2532,"Loudspeaker Repair ",57.99,No,57.99,,,Published
+167,"Sony Xperia Z Repair","Sony Xperia Z Series Repair",2533,"Microphone Repair ",57.99,No,57.99,,,Published
+167,"Sony Xperia Z Repair","Sony Xperia Z Series Repair",2534,"Mute Button Repair ",57.99,No,57.99,,,Published
+167,"Sony Xperia Z Repair","Sony Xperia Z Series Repair",2535,"Power Button Repair ",57.99,No,57.99,,,Published
+167,"Sony Xperia Z Repair","Sony Xperia Z Series Repair",2536,"Rear Camera Repair ",57.99,No,57.99,,,Published
+167,"Sony Xperia Z Repair","Sony Xperia Z Series Repair",2537,"Rear Cover Repair ",54.99,No,54.99,,,Published
+167,"Sony Xperia Z Repair","Sony Xperia Z Series Repair",2538,"Volume Repair ",57.99,No,57.99,,,Published
+168,"Sony Xperia Z1 Repair","Sony Xperia Z Series Repair",2539,"Front Screen Repair ",89.99,No,89.99,,,Published
+168,"Sony Xperia Z1 Repair","Sony Xperia Z Series Repair",2540,"Battery Repair ",54.99,No,54.99,,,Published
+168,"Sony Xperia Z1 Repair","Sony Xperia Z Series Repair",2541,"Charging Port Repair ",62.99,No,62.99,,,Published
+168,"Sony Xperia Z1 Repair","Sony Xperia Z Series Repair",2542,"Earpiece Repair ",57.99,No,57.99,,,Published
+168,"Sony Xperia Z1 Repair","Sony Xperia Z Series Repair",2543,"Headphone Socket Repair ",57.99,No,57.99,,,Published
+168,"Sony Xperia Z1 Repair","Sony Xperia Z Series Repair",2544,"Liquid Damage Service ",69.99,No,69.99,,,Published
+168,"Sony Xperia Z1 Repair","Sony Xperia Z Series Repair",2545,"Loudspeaker Repair ",57.99,No,57.99,,,Published
+168,"Sony Xperia Z1 Repair","Sony Xperia Z Series Repair",2546,"Microphone Repair ",57.99,No,57.99,,,Published
+168,"Sony Xperia Z1 Repair","Sony Xperia Z Series Repair",2547,"Mute Button Repair ",57.99,No,57.99,,,Published
+168,"Sony Xperia Z1 Repair","Sony Xperia Z Series Repair",2548,"Power Button Repair ",57.99,No,57.99,,,Published
+168,"Sony Xperia Z1 Repair","Sony Xperia Z Series Repair",2549,"Rear Camera Repair ",57.99,No,57.99,,,Published
+168,"Sony Xperia Z1 Repair","Sony Xperia Z Series Repair",2550,"Rear Cover Repair ",59.99,No,59.99,,,Published
+168,"Sony Xperia Z1 Repair","Sony Xperia Z Series Repair",2551,"Vibration Repair ",69.99,No,69.99,,,Published
+168,"Sony Xperia Z1 Repair","Sony Xperia Z Series Repair",2552,"Volume Repair ",57.99,No,57.99,,,Published
+168,"Sony Xperia Z1 Repair","Sony Xperia Z Series Repair",2553,"Diagnostic Service ",39.99,No,39.99,,,Published
+169,"Sony Xperia Z Ultra Repair","Sony Xperia Z Series Repair",2554,"Battery Repair ",59.99,No,59.99,,,Published
+169,"Sony Xperia Z Ultra Repair","Sony Xperia Z Series Repair",2555,"Charging Port Cover ",59.99,No,59.99,,,Published
+169,"Sony Xperia Z Ultra Repair","Sony Xperia Z Series Repair",2556,"Charging Port Repair ",59.99,No,59.99,,,Published
+169,"Sony Xperia Z Ultra Repair","Sony Xperia Z Series Repair",2557,"Earpiece Repair ",59.99,No,59.99,,,Published
+169,"Sony Xperia Z Ultra Repair","Sony Xperia Z Series Repair",2558,"Headphone Socket Repair ",59.99,No,59.99,,,Published
+169,"Sony Xperia Z Ultra Repair","Sony Xperia Z Series Repair",2559,"Liquid Damage Service ",89.99,No,89.99,,,Published
+169,"Sony Xperia Z Ultra Repair","Sony Xperia Z Series Repair",2560,"Loudspeaker Repair ",59.99,No,59.99,,,Published
+169,"Sony Xperia Z Ultra Repair","Sony Xperia Z Series Repair",2561,"Microphone Repair ",59.99,No,59.99,,,Published
+169,"Sony Xperia Z Ultra Repair","Sony Xperia Z Series Repair",2562,"Mute Button Repair ",59.99,No,59.99,,,Published
+169,"Sony Xperia Z Ultra Repair","Sony Xperia Z Series Repair",2563,"Power Button Repair ",59.99,No,59.99,,,Published
+169,"Sony Xperia Z Ultra Repair","Sony Xperia Z Series Repair",2564,"Rear Camera Repair ",59.99,No,59.99,,,Published
+169,"Sony Xperia Z Ultra Repair","Sony Xperia Z Series Repair",2565,"Volume Repair ",59.99,No,59.99,,,Published
+169,"Sony Xperia Z Ultra Repair","Sony Xperia Z Series Repair",2566,"Diagnostic Service ",39.99,No,39.99,,,Published
+170,"Sony Xperia Z2 Compact (A2) Repair","Sony Xperia Z Series Repair",2567,"Battery Repair ",54.99,No,54.99,,,Published
+170,"Sony Xperia Z2 Compact (A2) Repair","Sony Xperia Z Series Repair",2568,"Charging Port Cover ",59.99,No,59.99,,,Published
+170,"Sony Xperia Z2 Compact (A2) Repair","Sony Xperia Z Series Repair",2569,"Earpiece Repair ",58.99,No,58.99,,,Published
+170,"Sony Xperia Z2 Compact (A2) Repair","Sony Xperia Z Series Repair",2570,"Headphone Socket Repair ",58.99,No,58.99,,,Published
+170,"Sony Xperia Z2 Compact (A2) Repair","Sony Xperia Z Series Repair",2571,"Liquid Damage Service ",69.99,No,69.99,,,Published
+170,"Sony Xperia Z2 Compact (A2) Repair","Sony Xperia Z Series Repair",2572,"Loudspeaker Repair ",58.99,No,58.99,,,Published
+170,"Sony Xperia Z2 Compact (A2) Repair","Sony Xperia Z Series Repair",2573,"Microphone Repair ",58.99,No,58.99,,,Published
+170,"Sony Xperia Z2 Compact (A2) Repair","Sony Xperia Z Series Repair",2574,"Mute Button Repair ",58.99,No,58.99,,,Published
+170,"Sony Xperia Z2 Compact (A2) Repair","Sony Xperia Z Series Repair",2575,"Power Button Repair ",58.99,No,58.99,,,Published
+170,"Sony Xperia Z2 Compact (A2) Repair","Sony Xperia Z Series Repair",2576,"Rear Camera Repair ",58.99,No,58.99,,,Published
+170,"Sony Xperia Z2 Compact (A2) Repair","Sony Xperia Z Series Repair",2577,"Rear Cover Repair ",54.99,No,54.99,,,Published
+170,"Sony Xperia Z2 Compact (A2) Repair","Sony Xperia Z Series Repair",2578,"Vibration Repair ",69.99,No,69.99,,,Published
+170,"Sony Xperia Z2 Compact (A2) Repair","Sony Xperia Z Series Repair",2579,"Volume Repair ",58.99,No,58.99,,,Published
+170,"Sony Xperia Z2 Compact (A2) Repair","Sony Xperia Z Series Repair",2580,"Diagnostic Service ",39.99,No,39.99,,,Published
+171,"Sony Xperia XA Repair","Sony Xperia Series Repair",2581,"Front Screen Repair ",88.99,No,88.99,,,Published
+171,"Sony Xperia XA Repair","Sony Xperia Series Repair",2582,"Antenna Repair ",79.99,No,79.99,,,Published
+171,"Sony Xperia XA Repair","Sony Xperia Series Repair",2583,"Battery Repair ",79.99,No,79.99,,,Published
+171,"Sony Xperia XA Repair","Sony Xperia Series Repair",2584,"Charging Port Repair ",79.99,No,79.99,,,Published
+171,"Sony Xperia XA Repair","Sony Xperia Series Repair",2585,"Earpiece Repair ",79.99,No,79.99,,,Published
+171,"Sony Xperia XA Repair","Sony Xperia Series Repair",2586,"Front Camera Repair ",79.99,No,79.99,,,Published
+171,"Sony Xperia XA Repair","Sony Xperia Series Repair",2587,"Headphone Socket Repair ",79.99,No,79.99,,,Published
+171,"Sony Xperia XA Repair","Sony Xperia Series Repair",2588,"Liquid Damage Service ",69.99,No,69.99,,,Published
+171,"Sony Xperia XA Repair","Sony Xperia Series Repair",2589,"Loudspeaker Repair ",79.99,No,79.99,,,Published
+171,"Sony Xperia XA Repair","Sony Xperia Series Repair",2590,"Microphone Repair ",79.99,No,79.99,,,Published
+171,"Sony Xperia XA Repair","Sony Xperia Series Repair",2591,"Mute Button Repair ",79.99,No,79.99,,,Published
+171,"Sony Xperia XA Repair","Sony Xperia Series Repair",2592,"Power Button Repair ",79.99,No,79.99,,,Published
+171,"Sony Xperia XA Repair","Sony Xperia Series Repair",2593,"Rear Camera Repair ",79.99,No,79.99,,,Published
+171,"Sony Xperia XA Repair","Sony Xperia Series Repair",2594,"Vibration Repair ",79.99,No,79.99,,,Published
+171,"Sony Xperia XA Repair","Sony Xperia Series Repair",2595,"Volume Repair ",79.99,No,79.99,,,Published
+171,"Sony Xperia XA Repair","Sony Xperia Series Repair",2596,"Diagnostic Service ",39.99,No,39.99,,,Published
+172,"Sony Xperia Z3 Repair","Sony Xperia Z Series Repair",2597,"Front Screen Repair ",83.99,No,83.99,,,Published
+172,"Sony Xperia Z3 Repair","Sony Xperia Z Series Repair",2598,"Battery Repair ",69.99,No,69.99,,,Published
+172,"Sony Xperia Z3 Repair","Sony Xperia Z Series Repair",2599,"Charging Port Cover ",59.99,No,59.99,,,Published
+172,"Sony Xperia Z3 Repair","Sony Xperia Z Series Repair",2600,"Charging Port Repair ",69.99,No,69.99,,,Published
+172,"Sony Xperia Z3 Repair","Sony Xperia Z Series Repair",2601,"Earpiece Repair ",69.99,No,69.99,,,Published
+172,"Sony Xperia Z3 Repair","Sony Xperia Z Series Repair",2602,"Headphone Socket Repair ",69.99,No,69.99,,,Published
+172,"Sony Xperia Z3 Repair","Sony Xperia Z Series Repair",2603,"Liquid Damage Service ",69.99,No,69.99,,,Published
+172,"Sony Xperia Z3 Repair","Sony Xperia Z Series Repair",2604,"Loudspeaker Repair ",69.99,No,69.99,,,Published
+172,"Sony Xperia Z3 Repair","Sony Xperia Z Series Repair",2605,"Microphone Repair ",69.99,No,69.99,,,Published
+172,"Sony Xperia Z3 Repair","Sony Xperia Z Series Repair",2606,"Mute Button Repair ",69.99,No,69.99,,,Published
+172,"Sony Xperia Z3 Repair","Sony Xperia Z Series Repair",2607,"Power Button Repair ",69.99,No,69.99,,,Published
+172,"Sony Xperia Z3 Repair","Sony Xperia Z Series Repair",2608,"Rear Camera Repair ",69.99,No,69.99,,,Published
+172,"Sony Xperia Z3 Repair","Sony Xperia Z Series Repair",2609,"Rear Cover Repair ",69.99,No,69.99,,,Published
+172,"Sony Xperia Z3 Repair","Sony Xperia Z Series Repair",2610,"Vibration Repair ",69.99,No,69.99,,,Published
+172,"Sony Xperia Z3 Repair","Sony Xperia Z Series Repair",2611,"Volume Repair ",69.99,No,69.99,,,Published
+172,"Sony Xperia Z3 Repair","Sony Xperia Z Series Repair",2612,"Diagnostic Service ",39.99,No,39.99,,,Published
+173,"Sony Xperia Z1 Compact Repair","Sony Xperia Z Series Repair",2613,"Front Screen Repair ",109.99,No,109.99,,,Published
+173,"Sony Xperia Z1 Compact Repair","Sony Xperia Z Series Repair",2614,"Battery Repair ",54.99,No,54.99,,,Published
+173,"Sony Xperia Z1 Compact Repair","Sony Xperia Z Series Repair",2615,"Charging Port Cover ",59.99,No,59.99,,,Published
+173,"Sony Xperia Z1 Compact Repair","Sony Xperia Z Series Repair",2616,"Earpiece Repair ",58.99,No,58.99,,,Published
+173,"Sony Xperia Z1 Compact Repair","Sony Xperia Z Series Repair",2617,"Headphone Socket Repair ",58.99,No,58.99,,,Published
+173,"Sony Xperia Z1 Compact Repair","Sony Xperia Z Series Repair",2618,"Liquid Damage Service ",69.99,No,69.99,,,Published
+173,"Sony Xperia Z1 Compact Repair","Sony Xperia Z Series Repair",2619,"Loudspeaker Repair ",58.99,No,58.99,,,Published
+173,"Sony Xperia Z1 Compact Repair","Sony Xperia Z Series Repair",2620,"Microphone Repair ",58.99,No,58.99,,,Published
+173,"Sony Xperia Z1 Compact Repair","Sony Xperia Z Series Repair",2621,"Mute Button Repair ",58.99,No,58.99,,,Published
+173,"Sony Xperia Z1 Compact Repair","Sony Xperia Z Series Repair",2622,"Power Button Repair ",58.99,No,58.99,,,Published
+173,"Sony Xperia Z1 Compact Repair","Sony Xperia Z Series Repair",2623,"Rear Camera Repair ",58.99,No,58.99,,,Published
+173,"Sony Xperia Z1 Compact Repair","Sony Xperia Z Series Repair",2624,"Rear Cover Repair ",54.99,No,54.99,,,Published
+173,"Sony Xperia Z1 Compact Repair","Sony Xperia Z Series Repair",2625,"Vibration Repair ",69.99,No,69.99,,,Published
+173,"Sony Xperia Z1 Compact Repair","Sony Xperia Z Series Repair",2626,"Volume Repair ",58.99,No,58.99,,,Published
+173,"Sony Xperia Z1 Compact Repair","Sony Xperia Z Series Repair",2627,"Diagnostic Service ",39.99,No,39.99,,,Published
+173,"Sony Xperia Z1 Compact Repair","Sony Xperia Z Series Repair",2628,"Charging Port ",59.99,No,59.99,,,Published
+174,"Sony Xperia Z5 Repair","Sony Xperia Z Series Repair",2629,"Front Screen Repair ",99.99,No,99.99,,,Published
+174,"Sony Xperia Z5 Repair","Sony Xperia Z Series Repair",2630,"Antenna Repair ",69.99,No,69.99,,,Published
+174,"Sony Xperia Z5 Repair","Sony Xperia Z Series Repair",2631,"Battery Repair ",69.99,No,69.99,,,Published
+174,"Sony Xperia Z5 Repair","Sony Xperia Z Series Repair",2632,"Charging Port Repair ",69.99,No,69.99,,,Published
+174,"Sony Xperia Z5 Repair","Sony Xperia Z Series Repair",2633,"Earpiece Repair ",69.99,No,69.99,,,Published
+174,"Sony Xperia Z5 Repair","Sony Xperia Z Series Repair",2634,"Front Camera Repair ",69.99,No,69.99,,,Published
+174,"Sony Xperia Z5 Repair","Sony Xperia Z Series Repair",2635,"Headphone Socket Repair ",69.99,No,69.99,,,Published
+174,"Sony Xperia Z5 Repair","Sony Xperia Z Series Repair",2636,"Home Button Repair ",69.99,No,69.99,,,Published
+174,"Sony Xperia Z5 Repair","Sony Xperia Z Series Repair",2637,"Liquid Damage Service ",89.99,No,89.99,,,Published
+174,"Sony Xperia Z5 Repair","Sony Xperia Z Series Repair",2638,"Diagnostic Service ",39.99,No,39.99,,,Published
+174,"Sony Xperia Z5 Repair","Sony Xperia Z Series Repair",2639,"Loudspeaker Repair ",69.99,No,69.99,,,Published
+174,"Sony Xperia Z5 Repair","Sony Xperia Z Series Repair",2640,"Microphone Repair ",69.99,No,69.99,,,Published
+174,"Sony Xperia Z5 Repair","Sony Xperia Z Series Repair",2641,"Mute Button Repair ",69.99,No,69.99,,,Published
+174,"Sony Xperia Z5 Repair","Sony Xperia Z Series Repair",2642,"Power Button Repair ",69.99,No,69.99,,,Published
+174,"Sony Xperia Z5 Repair","Sony Xperia Z Series Repair",2643,"Rear Camera Repair ",69.99,No,69.99,,,Published
+174,"Sony Xperia Z5 Repair","Sony Xperia Z Series Repair",2644,"Rear Cover Repair ",69.99,No,69.99,,,Published
+174,"Sony Xperia Z5 Repair","Sony Xperia Z Series Repair",2645,"Vibration Repair ",69.99,No,69.99,,,Published
+174,"Sony Xperia Z5 Repair","Sony Xperia Z Series Repair",2646,"Volume Repair ",69.99,No,69.99,,,Published
+175,"Sony Xperia Z2 Repair","Sony Xperia Z Series Repair",2647,"Front Screen Repair ",89.99,No,89.99,,,Published
+175,"Sony Xperia Z2 Repair","Sony Xperia Z Series Repair",2648,"Battery Repair ",54.99,No,54.99,,,Published
+175,"Sony Xperia Z2 Repair","Sony Xperia Z Series Repair",2649,"Charging Port Cover ",59.99,No,59.99,,,Published
+175,"Sony Xperia Z2 Repair","Sony Xperia Z Series Repair",2650,"Charging Port Repair ",62.99,No,62.99,,,Published
+175,"Sony Xperia Z2 Repair","Sony Xperia Z Series Repair",2651,"Earpiece Repair ",57.99,No,57.99,,,Published
+175,"Sony Xperia Z2 Repair","Sony Xperia Z Series Repair",2652,"Headphone Socket Repair ",57.99,No,57.99,,,Published
+175,"Sony Xperia Z2 Repair","Sony Xperia Z Series Repair",2653,"Liquid Damage Service ",69.99,No,69.99,,,Published
+175,"Sony Xperia Z2 Repair","Sony Xperia Z Series Repair",2654,"Loudspeaker Repair ",57.99,No,57.99,,,Published
+175,"Sony Xperia Z2 Repair","Sony Xperia Z Series Repair",2655,"Microphone Repair ",57.99,No,57.99,,,Published
+175,"Sony Xperia Z2 Repair","Sony Xperia Z Series Repair",2656,"Mute Button Repair ",57.99,No,57.99,,,Published
+175,"Sony Xperia Z2 Repair","Sony Xperia Z Series Repair",2657,"Power Button Repair ",57.99,No,57.99,,,Published
+175,"Sony Xperia Z2 Repair","Sony Xperia Z Series Repair",2658,"Rear Camera Repair ",57.99,No,57.99,,,Published
+175,"Sony Xperia Z2 Repair","Sony Xperia Z Series Repair",2659,"Rear Cover Repair ",59.99,No,59.99,,,Published
+175,"Sony Xperia Z2 Repair","Sony Xperia Z Series Repair",2660,"Vibration Repair ",69.99,No,69.99,,,Published
+175,"Sony Xperia Z2 Repair","Sony Xperia Z Series Repair",2661,"Volume Repair ",57.99,No,57.99,,,Published
+175,"Sony Xperia Z2 Repair","Sony Xperia Z Series Repair",2662,"Diagnostic Service ",39.99,No,39.99,,,Published
+176,"Sony Xperia Z5 Compact Repair","Sony Xperia Z Series Repair",2663,"Front Screen Repair ",138.99,No,138.99,,,Published
+176,"Sony Xperia Z5 Compact Repair","Sony Xperia Z Series Repair",2664,"Antenna Repair ",69.99,No,69.99,,,Published
+176,"Sony Xperia Z5 Compact Repair","Sony Xperia Z Series Repair",2665,"Battery Repair ",69.99,No,69.99,,,Published
+176,"Sony Xperia Z5 Compact Repair","Sony Xperia Z Series Repair",2666,"Charging Port Repair ",69.99,No,69.99,,,Published
+176,"Sony Xperia Z5 Compact Repair","Sony Xperia Z Series Repair",2667,"Earpiece Repair ",69.99,No,69.99,,,Published
+176,"Sony Xperia Z5 Compact Repair","Sony Xperia Z Series Repair",2668,"Front Camera Repair ",69.99,No,69.99,,,Published
+176,"Sony Xperia Z5 Compact Repair","Sony Xperia Z Series Repair",2669,"Headphone Socket Repair ",69.99,No,69.99,,,Published
+176,"Sony Xperia Z5 Compact Repair","Sony Xperia Z Series Repair",2670,"Home Button Repair ",69.99,No,69.99,,,Published
+176,"Sony Xperia Z5 Compact Repair","Sony Xperia Z Series Repair",2671,"Liquid Damage Service ",89.99,No,89.99,,,Published
+176,"Sony Xperia Z5 Compact Repair","Sony Xperia Z Series Repair",2672,"Loudspeaker Repair ",69.99,No,69.99,,,Published
+176,"Sony Xperia Z5 Compact Repair","Sony Xperia Z Series Repair",2673,"Microphone Repair ",69.99,No,69.99,,,Published
+176,"Sony Xperia Z5 Compact Repair","Sony Xperia Z Series Repair",2674,"Mute Button Repair ",69.99,No,69.99,,,Published
+176,"Sony Xperia Z5 Compact Repair","Sony Xperia Z Series Repair",2675,"Power Button Repair ",69.99,No,69.99,,,Published
+176,"Sony Xperia Z5 Compact Repair","Sony Xperia Z Series Repair",2676,"Rear Camera Repair ",69.99,No,69.99,,,Published
+176,"Sony Xperia Z5 Compact Repair","Sony Xperia Z Series Repair",2677,"Rear Cover Repair ",69.99,No,69.99,,,Published
+176,"Sony Xperia Z5 Compact Repair","Sony Xperia Z Series Repair",2678,"Vibration Repair ",69.99,No,69.99,,,Published
+176,"Sony Xperia Z5 Compact Repair","Sony Xperia Z Series Repair",2679,"Volume Repair ",69.99,No,69.99,,,Published
+176,"Sony Xperia Z5 Compact Repair","Sony Xperia Z Series Repair",2680,"Diagnostic Service ",39.99,No,39.99,,,Published
+177,"Sony Xperia Z5 Premium Repair","Sony Xperia Z Series Repair",2681,"Front Screen Repair ",119.99,No,119.99,,,Published
+177,"Sony Xperia Z5 Premium Repair","Sony Xperia Z Series Repair",2682,"Antenna Repair ",69.99,No,69.99,,,Published
+177,"Sony Xperia Z5 Premium Repair","Sony Xperia Z Series Repair",2683,"Battery Repair ",69.99,No,69.99,,,Published
+177,"Sony Xperia Z5 Premium Repair","Sony Xperia Z Series Repair",2684,"Charging Port Repair ",69.99,No,69.99,,,Published
+177,"Sony Xperia Z5 Premium Repair","Sony Xperia Z Series Repair",2685,"Earpiece Repair ",69.99,No,69.99,,,Published
+177,"Sony Xperia Z5 Premium Repair","Sony Xperia Z Series Repair",2686,"Front Camera Repair ",69.99,No,69.99,,,Published
+177,"Sony Xperia Z5 Premium Repair","Sony Xperia Z Series Repair",2687,"Headphone Socket Repair ",69.99,No,69.99,,,Published
+177,"Sony Xperia Z5 Premium Repair","Sony Xperia Z Series Repair",2688,"Home Button Repair ",69.99,No,69.99,,,Published
+177,"Sony Xperia Z5 Premium Repair","Sony Xperia Z Series Repair",2689,"Liquid Damage Service ",89.99,No,89.99,,,Published
+177,"Sony Xperia Z5 Premium Repair","Sony Xperia Z Series Repair",2690,"Loudspeaker Repair ",69.99,No,69.99,,,Published
+177,"Sony Xperia Z5 Premium Repair","Sony Xperia Z Series Repair",2691,"Microphone Repair ",69.99,No,69.99,,,Published
+177,"Sony Xperia Z5 Premium Repair","Sony Xperia Z Series Repair",2692,"Mute Button Repair ",69.99,No,69.99,,,Published
+177,"Sony Xperia Z5 Premium Repair","Sony Xperia Z Series Repair",2693,"Power Button Repair ",69.99,No,69.99,,,Published
+177,"Sony Xperia Z5 Premium Repair","Sony Xperia Z Series Repair",2694,"Rear Camera Repair ",69.99,No,69.99,,,Published
+177,"Sony Xperia Z5 Premium Repair","Sony Xperia Z Series Repair",2695,"Rear Cover Repair ",69.99,No,69.99,,,Published
+177,"Sony Xperia Z5 Premium Repair","Sony Xperia Z Series Repair",2696,"Vibration Repair ",69.99,No,69.99,,,Published
+177,"Sony Xperia Z5 Premium Repair","Sony Xperia Z Series Repair",2697,"Volume Repair ",69.99,No,69.99,,,Published
+177,"Sony Xperia Z5 Premium Repair","Sony Xperia Z Series Repair",2698,"Diagnostic Service ",39.99,No,39.99,,,Published
+178,"Sony Xperia Z3 Compact Repair","Sony Xperia Z Series Repair",2699,"Front Screen Repair ",94.99,No,94.99,,,Published
+178,"Sony Xperia Z3 Compact Repair","Sony Xperia Z Series Repair",2700,"Battery Repair ",69.99,No,69.99,,,Published
+178,"Sony Xperia Z3 Compact Repair","Sony Xperia Z Series Repair",2701,"Charging Port Cover ",59.99,No,59.99,,,Published
+178,"Sony Xperia Z3 Compact Repair","Sony Xperia Z Series Repair",2702,"Charging Port Repair ",69.99,No,69.99,,,Published
+178,"Sony Xperia Z3 Compact Repair","Sony Xperia Z Series Repair",2703,"Earpiece Repair ",69.99,No,69.99,,,Published
+178,"Sony Xperia Z3 Compact Repair","Sony Xperia Z Series Repair",2704,"Headphone Socket Repair ",69.99,No,69.99,,,Published
+178,"Sony Xperia Z3 Compact Repair","Sony Xperia Z Series Repair",2705,"Liquid Damage Service ",69.99,No,69.99,,,Published
+178,"Sony Xperia Z3 Compact Repair","Sony Xperia Z Series Repair",2706,"Loudspeaker Repair ",69.99,No,69.99,,,Published
+178,"Sony Xperia Z3 Compact Repair","Sony Xperia Z Series Repair",2707,"Microphone Repair ",69.99,No,69.99,,,Published
+178,"Sony Xperia Z3 Compact Repair","Sony Xperia Z Series Repair",2708,"Mute Button Repair ",69.99,No,69.99,,,Published
+178,"Sony Xperia Z3 Compact Repair","Sony Xperia Z Series Repair",2709,"Power Button Repair ",69.99,No,69.99,,,Published
+178,"Sony Xperia Z3 Compact Repair","Sony Xperia Z Series Repair",2710,"Rear Camera Repair ",69.99,No,69.99,,,Published
+178,"Sony Xperia Z3 Compact Repair","Sony Xperia Z Series Repair",2711,"Rear Cover Repair ",69.99,No,69.99,,,Published
+178,"Sony Xperia Z3 Compact Repair","Sony Xperia Z Series Repair",2712,"Vibration Repair ",69.99,No,69.99,,,Published
+178,"Sony Xperia Z3 Compact Repair","Sony Xperia Z Series Repair",2713,"Volume Repair ",69.99,No,69.99,,,Published
+178,"Sony Xperia Z3 Compact Repair","Sony Xperia Z Series Repair",2714,"Diagnostic Service ",39.99,No,39.99,,,Published
+179,"Sony Xperia Z3+ Repair","Sony Xperia Z Series Repair",2715,"Front Screen Repair ",94.99,No,94.99,,,Published
+179,"Sony Xperia Z3+ Repair","Sony Xperia Z Series Repair",2716,"Battery Repair ",69.99,No,69.99,,,Published
+179,"Sony Xperia Z3+ Repair","Sony Xperia Z Series Repair",2717,"Charging Port Repair ",69.99,No,69.99,,,Published
+179,"Sony Xperia Z3+ Repair","Sony Xperia Z Series Repair",2718,"Earpiece Repair ",69.99,No,69.99,,,Published
+179,"Sony Xperia Z3+ Repair","Sony Xperia Z Series Repair",2719,"Headphone Socket Repair ",69.99,No,69.99,,,Published
+179,"Sony Xperia Z3+ Repair","Sony Xperia Z Series Repair",2720,"Liquid Damage Service ",69.99,No,69.99,,,Published
+179,"Sony Xperia Z3+ Repair","Sony Xperia Z Series Repair",2721,"Loudspeaker Repair ",69.99,No,69.99,,,Published
+179,"Sony Xperia Z3+ Repair","Sony Xperia Z Series Repair",2722,"Microphone Repair ",69.99,No,69.99,,,Published
+179,"Sony Xperia Z3+ Repair","Sony Xperia Z Series Repair",2723,"Mute Button Repair ",69.99,No,69.99,,,Published
+179,"Sony Xperia Z3+ Repair","Sony Xperia Z Series Repair",2724,"Power Button Repair ",69.99,No,69.99,,,Published
+179,"Sony Xperia Z3+ Repair","Sony Xperia Z Series Repair",2725,"Rear Camera Repair ",69.99,No,69.99,,,Published
+179,"Sony Xperia Z3+ Repair","Sony Xperia Z Series Repair",2726,"Rear Cover Repair ",69.99,No,69.99,,,Published
+179,"Sony Xperia Z3+ Repair","Sony Xperia Z Series Repair",2727,"Vibration Repair ",69.99,No,69.99,,,Published
+179,"Sony Xperia Z3+ Repair","Sony Xperia Z Series Repair",2728,"Volume Repair ",69.99,No,69.99,,,Published
+179,"Sony Xperia Z3+ Repair","Sony Xperia Z Series Repair",2729,"Diagnostic Service ",39.99,No,39.99,,,Published

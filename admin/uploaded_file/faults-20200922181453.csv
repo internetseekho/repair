@@ -1,0 +1,173 @@
+Model_ID,Model_Title,Device,fault_id,fault_name,regular_price,is_on_offer,sale_price,offer_start_date,offer_end_date,status
+55,"HTC U12+ Repair","Other HTC Repair",937,"Front Screen Repair ",159.99,No,159.99,,,Published
+55,"HTC U12+ Repair","Other HTC Repair",938,"Antenna Repair ",119.99,No,119.99,,,Published
+55,"HTC U12+ Repair","Other HTC Repair",939,"Battery Repair ",119.99,No,119.99,,,Published
+55,"HTC U12+ Repair","Other HTC Repair",940,"Charging Port Repair ",119.99,No,119.99,,,Published
+55,"HTC U12+ Repair","Other HTC Repair",941,"Diagnostic Service ",39.99,No,39.99,,,Published
+55,"HTC U12+ Repair","Other HTC Repair",942,"Earpiece Repair ",119.99,No,119.99,,,Published
+55,"HTC U12+ Repair","Other HTC Repair",943,"Front Camera Repair ",119.99,No,119.99,,,Published
+55,"HTC U12+ Repair","Other HTC Repair",944,"Headphone Socket Repair ",119.99,No,119.99,,,Published
+55,"HTC U12+ Repair","Other HTC Repair",945,"Home Button Repair ",119.99,No,119.99,,,Published
+55,"HTC U12+ Repair","Other HTC Repair",946,"Liquid Damage Service ",119.99,No,119.99,,,Published
+55,"HTC U12+ Repair","Other HTC Repair",947,"Loudspeaker Repair ",119.99,No,119.99,,,Published
+55,"HTC U12+ Repair","Other HTC Repair",948,"Microphone Repair ",119.99,No,119.99,,,Published
+55,"HTC U12+ Repair","Other HTC Repair",949,"Power Button Repair ",119.99,No,119.99,,,Published
+55,"HTC U12+ Repair","Other HTC Repair",950,"Vibration Repair ",119.99,No,119.99,,,Published
+55,"HTC U12+ Repair","Other HTC Repair",951,"Volume Repair ",119.99,No,119.99,,,Published
+59,"HTC U12 life Repair","Other HTC Repair",1008,"Front Screen Repair ",119.99,No,119.99,,,Published
+59,"HTC U12 life Repair","Other HTC Repair",1009,"Antenna Repair ",99.99,No,99.99,,,Published
+59,"HTC U12 life Repair","Other HTC Repair",1010,"Battery Repair ",99.99,No,99.99,,,Published
+59,"HTC U12 life Repair","Other HTC Repair",1011,"Charging Port Repair ",99.99,No,99.99,,,Published
+59,"HTC U12 life Repair","Other HTC Repair",1012,"Diagnostic Service ",39.99,No,39.99,,,Published
+59,"HTC U12 life Repair","Other HTC Repair",1013,"Earpiece Repair ",99.99,No,99.99,,,Published
+59,"HTC U12 life Repair","Other HTC Repair",1014,"Front Camera Repair ",99.99,No,99.99,,,Published
+59,"HTC U12 life Repair","Other HTC Repair",1015,"Headphone Socket Repair ",99.99,No,99.99,,,Published
+59,"HTC U12 life Repair","Other HTC Repair",1016,"Home Button Repair ",99.99,No,99.99,,,Published
+59,"HTC U12 life Repair","Other HTC Repair",1017,"Liquid Damage Service ",99.99,No,99.99,,,Published
+59,"HTC U12 life Repair","Other HTC Repair",1018,"Loudspeaker Repair ",99.99,No,99.99,,,Published
+59,"HTC U12 life Repair","Other HTC Repair",1019,"Microphone Repair ",99.99,No,99.99,,,Published
+59,"HTC U12 life Repair","Other HTC Repair",1020,"Power Button Repair ",99.99,No,99.99,,,Published
+59,"HTC U12 life Repair","Other HTC Repair",1021,"Rear Camera Repair ",99.99,No,99.99,,,Published
+59,"HTC U12 life Repair","Other HTC Repair",1022,"Vibration Repair ",99.99,No,99.99,,,Published
+59,"HTC U12 life Repair","Other HTC Repair",1023,"Volume Repair ",99.99,No,99.99,,,Published
+60,"HTC U Ultra Repair","Other HTC Repair",1024,"Front Screen Repair ",253.99,No,253.99,,,Published
+60,"HTC U Ultra Repair","Other HTC Repair",1025,"Antenna Repair ",99.99,No,99.99,,,Published
+60,"HTC U Ultra Repair","Other HTC Repair",1026,"Battery Repair ",99.99,No,99.99,,,Published
+60,"HTC U Ultra Repair","Other HTC Repair",1027,"Charging Port Repair ",99.99,No,99.99,,,Published
+60,"HTC U Ultra Repair","Other HTC Repair",1028,"Diagnostic Service ",39.99,No,39.99,,,Published
+60,"HTC U Ultra Repair","Other HTC Repair",1029,"Earpiece Repair ",99.99,No,99.99,,,Published
+60,"HTC U Ultra Repair","Other HTC Repair",1030,"Front Camera Repair ",99.99,No,99.99,,,Published
+60,"HTC U Ultra Repair","Other HTC Repair",1031,"Headphone Socket Repair ",99.99,No,99.99,,,Published
+60,"HTC U Ultra Repair","Other HTC Repair",1032,"Home Button Repair ",109.99,No,109.99,,,Published
+60,"HTC U Ultra Repair","Other HTC Repair",1033,"Liquid Damage Service ",99.99,No,99.99,,,Published
+60,"HTC U Ultra Repair","Other HTC Repair",1034,"Loudspeaker Repair ",99.99,No,99.99,,,Published
+60,"HTC U Ultra Repair","Other HTC Repair",1035,"Microphone Repair ",99.99,No,99.99,,,Published
+60,"HTC U Ultra Repair","Other HTC Repair",1036,"Mute Button Repair ",99.99,No,99.99,,,Published
+60,"HTC U Ultra Repair","Other HTC Repair",1037,"Power Button Repair ",99.99,No,99.99,,,Published
+60,"HTC U Ultra Repair","Other HTC Repair",1038,"Rear Camera Repair ",79.99,No,79.99,,,Published
+60,"HTC U Ultra Repair","Other HTC Repair",1039,"Rear Cover Repair ",99.99,No,99.99,,,Published
+60,"HTC U Ultra Repair","Other HTC Repair",1040,"Vibration Repair ",99.99,No,99.99,,,Published
+60,"HTC U Ultra Repair","Other HTC Repair",1041,"Volume Repair ",99.99,No,99.99,,,Published
+61,"HTC U11 Eyes Repairs","Other HTC Repair",1042,"Front Screen Repair ",169.99,No,169.99,,,Published
+61,"HTC U11 Eyes Repairs","Other HTC Repair",1043,"Antenna Repair ",119.99,No,119.99,,,Published
+61,"HTC U11 Eyes Repairs","Other HTC Repair",1044,"Battery Repair ",119.99,No,119.99,,,Published
+61,"HTC U11 Eyes Repairs","Other HTC Repair",1045,"Charging Port Repair ",119.99,No,119.99,,,Published
+61,"HTC U11 Eyes Repairs","Other HTC Repair",1046,"Diagnostic Service ",39.99,No,39.99,,,Published
+61,"HTC U11 Eyes Repairs","Other HTC Repair",1047,"Earpiece Repair ",119.99,No,119.99,,,Published
+61,"HTC U11 Eyes Repairs","Other HTC Repair",1048,"Front Camera Repair ",119.99,No,119.99,,,Published
+61,"HTC U11 Eyes Repairs","Other HTC Repair",1049,"Headphone Socket Repair ",119.99,No,119.99,,,Published
+61,"HTC U11 Eyes Repairs","Other HTC Repair",1050,"Home Button Repair ",119.99,No,119.99,,,Published
+61,"HTC U11 Eyes Repairs","Other HTC Repair",1051,"Liquid Damage Service ",119.99,No,119.99,,,Published
+61,"HTC U11 Eyes Repairs","Other HTC Repair",1052,"Loudspeaker Repair ",119.99,No,119.99,,,Published
+61,"HTC U11 Eyes Repairs","Other HTC Repair",1053,"Microphone Repair ",119.99,No,119.99,,,Published
+61,"HTC U11 Eyes Repairs","Other HTC Repair",1054,"Vibration Repair ",119.99,No,119.99,,,Published
+61,"HTC U11 Eyes Repairs","Other HTC Repair",1055,"Volume Repair ",119.99,No,119.99,,,Published
+62,"HTC U Play Repair","Other HTC Repair",1056,"Front Screen Repair ",169.99,No,169.99,,,Published
+62,"HTC U Play Repair","Other HTC Repair",1057,"Antenna Repair ",89.99,No,89.99,,,Published
+62,"HTC U Play Repair","Other HTC Repair",1058,"Battery Repair ",89.99,No,89.99,,,Published
+62,"HTC U Play Repair","Other HTC Repair",1059,"Charging Port Repair ",89.99,No,89.99,,,Published
+62,"HTC U Play Repair","Other HTC Repair",1060,"Diagnostic Service ",39.99,No,39.99,,,Published
+62,"HTC U Play Repair","Other HTC Repair",1061,"Earpiece Repair ",89.99,No,89.99,,,Published
+62,"HTC U Play Repair","Other HTC Repair",1062,"Front Camera Repair ",89.99,No,89.99,,,Published
+62,"HTC U Play Repair","Other HTC Repair",1063,"Headphone Socket Repair ",89.99,No,89.99,,,Published
+62,"HTC U Play Repair","Other HTC Repair",1064,"Home Button Repair ",109.99,No,109.99,,,Published
+62,"HTC U Play Repair","Other HTC Repair",1065,"Liquid Damage Service ",89.99,No,89.99,,,Published
+62,"HTC U Play Repair","Other HTC Repair",1066,"Loudspeaker Repair ",89.99,No,89.99,,,Published
+62,"HTC U Play Repair","Other HTC Repair",1067,"Microphone Repair ",89.99,No,89.99,,,Published
+62,"HTC U Play Repair","Other HTC Repair",1068,"Mute Button Repair ",89.99,No,89.99,,,Published
+62,"HTC U Play Repair","Other HTC Repair",1069,"Power Button Repair ",89.99,No,89.99,,,Published
+62,"HTC U Play Repair","Other HTC Repair",1070,"Rear Camera Repair ",79.99,No,79.99,,,Published
+62,"HTC U Play Repair","Other HTC Repair",1071,"Rear Cover Repair ",89.99,No,89.99,,,Published
+62,"HTC U Play Repair","Other HTC Repair",1072,"Vibration Repair ",89.99,No,89.99,,,Published
+62,"HTC U Play Repair","Other HTC Repair",1073,"Volume Repair ",89.99,No,89.99,,,Published
+63,"HTC U11 Repairs","Other HTC Repair",1074,"Front Screen Repair ",253.99,No,253.99,,,Published
+63,"HTC U11 Repairs","Other HTC Repair",1075,"Antenna Repair ",119.99,No,119.99,,,Published
+63,"HTC U11 Repairs","Other HTC Repair",1076,"Battery Repair ",119.99,No,119.99,,,Published
+63,"HTC U11 Repairs","Other HTC Repair",1077,"Charging Port Repair ",119.99,No,119.99,,,Published
+63,"HTC U11 Repairs","Other HTC Repair",1078,"Diagnostic Service ",39.99,No,39.99,,,Published
+63,"HTC U11 Repairs","Other HTC Repair",1079,"Earpiece Repair ",119.99,No,119.99,,,Published
+63,"HTC U11 Repairs","Other HTC Repair",1080,"Front Camera Repair ",119.99,No,119.99,,,Published
+63,"HTC U11 Repairs","Other HTC Repair",1081,"Headphone Socket Repair ",119.99,No,119.99,,,Published
+63,"HTC U11 Repairs","Other HTC Repair",1082,"Home Button Repair ",119.99,No,119.99,,,Published
+63,"HTC U11 Repairs","Other HTC Repair",1083,"Liquid Damage Service ",69.99,No,69.99,,,Published
+63,"HTC U11 Repairs","Other HTC Repair",1084,"Loudspeaker Repair ",119.99,No,119.99,,,Published
+63,"HTC U11 Repairs","Other HTC Repair",1085,"Microphone Repair ",119.99,No,119.99,,,Published
+63,"HTC U11 Repairs","Other HTC Repair",1086,"Mute Button Repair ",119.99,No,119.99,,,Published
+63,"HTC U11 Repairs","Other HTC Repair",1087,"Power Button Repair ",119.99,No,119.99,,,Published
+63,"HTC U11 Repairs","Other HTC Repair",1088,"Rear Camera Repair ",119.99,No,119.99,,,Published
+63,"HTC U11 Repairs","Other HTC Repair",1089,"Rear Cover Repair ",119.99,No,119.99,,,Published
+63,"HTC U11 Repairs","Other HTC Repair",1090,"Software Repair ",119.99,No,119.99,,,Published
+63,"HTC U11 Repairs","Other HTC Repair",1091,"Vibration Repair ",119.99,No,119.99,,,Published
+63,"HTC U11 Repairs","Other HTC Repair",1092,"Volume Repair ",119.99,No,119.99,,,Published
+63,"HTC U11 Repairs","Other HTC Repair",1093,"WIFI Repair ",119.99,No,119.99,,,Published
+64,"HTC U11+ Repairs","Other HTC Repair",1094,"Front Screen Repair ",219.99,No,219.99,,,Published
+64,"HTC U11+ Repairs","Other HTC Repair",1095,"Antenna Repair ",129.99,No,129.99,,,Published
+64,"HTC U11+ Repairs","Other HTC Repair",1096,"Battery Repair ",129.99,No,129.99,,,Published
+64,"HTC U11+ Repairs","Other HTC Repair",1097,"Charging Port Repair ",129.99,No,129.99,,,Published
+64,"HTC U11+ Repairs","Other HTC Repair",1098,"Diagnostic Service ",39.99,No,39.99,,,Published
+64,"HTC U11+ Repairs","Other HTC Repair",1099,"Earpiece Repair ",129.99,No,129.99,,,Published
+64,"HTC U11+ Repairs","Other HTC Repair",1100,"Front Camera Repair ",129.99,No,129.99,,,Published
+64,"HTC U11+ Repairs","Other HTC Repair",1101,"Headphone Socket Repair ",129.99,No,129.99,,,Published
+64,"HTC U11+ Repairs","Other HTC Repair",1102,"Home Button Repair ",129.99,No,129.99,,,Published
+64,"HTC U11+ Repairs","Other HTC Repair",1103,"Liquid Damage Service ",129.99,No,129.99,,,Published
+64,"HTC U11+ Repairs","Other HTC Repair",1104,"Loudspeaker Repair ",129.99,No,129.99,,,Published
+64,"HTC U11+ Repairs","Other HTC Repair",1105,"Microphone Repair ",129.99,No,129.99,,,Published
+64,"HTC U11+ Repairs","Other HTC Repair",1106,"Vibration Repair ",129.99,No,129.99,,,Published
+64,"HTC U11+ Repairs","Other HTC Repair",1107,"Volume Repair ",129.99,No,129.99,,,Published
+65,"HTC Butterfly 3 Repairs","Other HTC Repair",1108,"Front Screen Repair ",99.99,No,99.99,,,Published
+65,"HTC Butterfly 3 Repairs","Other HTC Repair",1109,"Antenna Repair ",69.99,No,69.99,,,Published
+65,"HTC Butterfly 3 Repairs","Other HTC Repair",1110,"Battery Repair ",69.99,No,69.99,,,Published
+65,"HTC Butterfly 3 Repairs","Other HTC Repair",1111,"Charging Port Repair ",69.99,No,69.99,,,Published
+65,"HTC Butterfly 3 Repairs","Other HTC Repair",1112,"Diagnostic Service ",39.99,No,39.99,,,Published
+65,"HTC Butterfly 3 Repairs","Other HTC Repair",1113,"Earpiece Repair ",69.99,No,69.99,,,Published
+65,"HTC Butterfly 3 Repairs","Other HTC Repair",1114,"Front Camera Repair ",69.99,No,69.99,,,Published
+65,"HTC Butterfly 3 Repairs","Other HTC Repair",1115,"Headphone Socket Repair ",69.99,No,69.99,,,Published
+65,"HTC Butterfly 3 Repairs","Other HTC Repair",1116,"Home Button Repair ",69.99,No,69.99,,,Published
+65,"HTC Butterfly 3 Repairs","Other HTC Repair",1117,"Liquid Damage Service ",69.99,No,69.99,,,Published
+65,"HTC Butterfly 3 Repairs","Other HTC Repair",1118,"Loudspeaker Repair ",69.99,No,69.99,,,Published
+65,"HTC Butterfly 3 Repairs","Other HTC Repair",1119,"Microphone Repair ",69.99,No,69.99,,,Published
+65,"HTC Butterfly 3 Repairs","Other HTC Repair",1120,"Mute Button Repair ",69.99,No,69.99,,,Published
+65,"HTC Butterfly 3 Repairs","Other HTC Repair",1121,"Power Button Repair ",69.99,No,69.99,,,Published
+65,"HTC Butterfly 3 Repairs","Other HTC Repair",1122,"Rear Camera Repair ",69.99,No,69.99,,,Published
+65,"HTC Butterfly 3 Repairs","Other HTC Repair",1123,"Rear Cover Repair ",69.99,No,69.99,,,Published
+65,"HTC Butterfly 3 Repairs","Other HTC Repair",1124,"Software Repair ",69.99,No,69.99,,,Published
+65,"HTC Butterfly 3 Repairs","Other HTC Repair",1125,"Vibration Repair ",69.99,No,69.99,,,Published
+65,"HTC Butterfly 3 Repairs","Other HTC Repair",1126,"Volume Repair ",69.99,No,69.99,,,Published
+65,"HTC Butterfly 3 Repairs","Other HTC Repair",1127,"WIFI Repair ",69.99,No,69.99,,,Published
+66,"HTC Bolt Repair","Other HTC Repair",1128,"Antenna Repair ",69.99,No,69.99,,,Published
+66,"HTC Bolt Repair","Other HTC Repair",1129,"Battery Repair ",69.99,No,69.99,,,Published
+66,"HTC Bolt Repair","Other HTC Repair",1130,"Charging Port Repair ",69.99,No,69.99,,,Published
+66,"HTC Bolt Repair","Other HTC Repair",1131,"Diagnostic Service ",39.99,No,39.99,,,Published
+66,"HTC Bolt Repair","Other HTC Repair",1132,"Earpiece Repair ",69.99,No,69.99,,,Published
+66,"HTC Bolt Repair","Other HTC Repair",1133,"Front Camera Repair ",69.99,No,69.99,,,Published
+66,"HTC Bolt Repair","Other HTC Repair",1134,"Headphone Socket Repair ",69.99,No,69.99,,,Published
+66,"HTC Bolt Repair","Other HTC Repair",1135,"Home Button Repair ",69.99,No,69.99,,,Published
+66,"HTC Bolt Repair","Other HTC Repair",1136,"Liquid Damage Service ",69.99,No,69.99,,,Published
+66,"HTC Bolt Repair","Other HTC Repair",1137,"Loudspeaker Repair ",69.99,No,69.99,,,Published
+66,"HTC Bolt Repair","Other HTC Repair",1138,"Microphone Repair ",69.99,No,69.99,,,Published
+66,"HTC Bolt Repair","Other HTC Repair",1139,"Mute Button Repair ",69.99,No,69.99,,,Published
+66,"HTC Bolt Repair","Other HTC Repair",1140,"Power Button Repair ",69.99,No,69.99,,,Published
+66,"HTC Bolt Repair","Other HTC Repair",1141,"Rear Camera Repair ",69.99,No,69.99,,,Published
+66,"HTC Bolt Repair","Other HTC Repair",1142,"Rear Cover Repair ",69.99,No,69.99,,,Published
+66,"HTC Bolt Repair","Other HTC Repair",1143,"Vibration Repair ",69.99,No,69.99,,,Published
+66,"HTC Bolt Repair","Other HTC Repair",1144,"Volume Repair ",69.99,No,69.99,,,Published
+68,"HTC 10 Evo Repairs","Other HTC Repair",1165,"Front Screen Repair ",119.99,No,119.99,,,Published
+68,"HTC 10 Evo Repairs","Other HTC Repair",1166,"Antenna Repair ",89.99,No,89.99,,,Published
+68,"HTC 10 Evo Repairs","Other HTC Repair",1167,"Battery Repair ",89.99,No,89.99,,,Published
+68,"HTC 10 Evo Repairs","Other HTC Repair",1168,"Charging Port Repair ",89.99,No,89.99,,,Published
+68,"HTC 10 Evo Repairs","Other HTC Repair",1169,"Diagnostic Service ",39.99,No,39.99,,,Published
+68,"HTC 10 Evo Repairs","Other HTC Repair",1170,"Earpiece Repair ",89.99,No,89.99,,,Published
+68,"HTC 10 Evo Repairs","Other HTC Repair",1171,"Front Camera Repair ",89.99,No,89.99,,,Published
+68,"HTC 10 Evo Repairs","Other HTC Repair",1172,"Headphone Socket Repair ",89.99,No,89.99,,,Published
+68,"HTC 10 Evo Repairs","Other HTC Repair",1173,"Home Button Repair ",89.99,No,89.99,,,Published
+68,"HTC 10 Evo Repairs","Other HTC Repair",1174,"Liquid Damage Service ",69.99,No,69.99,,,Published
+68,"HTC 10 Evo Repairs","Other HTC Repair",1175,"Loudspeaker Repair ",89.99,No,89.99,,,Published
+68,"HTC 10 Evo Repairs","Other HTC Repair",1176,"Microphone Repair ",89.99,No,89.99,,,Published
+68,"HTC 10 Evo Repairs","Other HTC Repair",1177,"Mute Button Repair ",89.99,No,89.99,,,Published
+68,"HTC 10 Evo Repairs","Other HTC Repair",1178,"Power Button Repair ",89.99,No,89.99,,,Published
+68,"HTC 10 Evo Repairs","Other HTC Repair",1179,"Rear Camera Repair ",89.99,No,89.99,,,Published
+68,"HTC 10 Evo Repairs","Other HTC Repair",1180,"Rear Cover Repair ",89.99,No,89.99,,,Published
+68,"HTC 10 Evo Repairs","Other HTC Repair",1181,"Software Repair ",89.99,No,89.99,,,Published
+68,"HTC 10 Evo Repairs","Other HTC Repair",1182,"Vibration Repair ",89.99,No,89.99,,,Published
+68,"HTC 10 Evo Repairs","Other HTC Repair",1183,"Volume Repair ",89.99,No,89.99,,,Published
+68,"HTC 10 Evo Repairs","Other HTC Repair",1184,"WIFI Repair ",89.99,No,89.99,,,Published

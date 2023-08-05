@@ -1,0 +1,2 @@
+[16-May-2020 08:35:50 CST6CDT] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/webgrowt/public_html/repairdevice-demo5/controllers/model.php on line 204
+[16-May-2020 09:10:33 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/webgrowt/public_html/repairdevice-demo5/controllers/model.php on line 35

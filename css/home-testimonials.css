@@ -1,0 +1,40 @@
+
+/* Testimonials Carousel Hosting Demo
+-----------------------------------------------------------------*/
+.testimonials-carousel .owl-stage { padding-top: 40px }
+
+.testimonials-carousel .owl-item {
+	opacity: .6;
+	transition: transform .3s ease;
+	transform: scale(0.8);
+}
+
+.testimonials-carousel .owl-item.active.center {
+	opacity: 1;
+	transform: scale(1);
+}
+
+.testimonial {
+	border: 0;
+	box-shadow: 0 0 35px rgba(140, 152, 164, 0.2);
+	border-radius: 0.25rem;
+	padding: 25px;
+}
+
+.testi-image {
+	float: none;
+	margin: -55px auto 0;
+	margin-bottom: 20px;
+}
+
+.testi-content p {
+	text-align: center;
+	font-style: normal;
+	font-family: var(--fontfamily);
+	font-size: var(--basefontsize);
+}
+
+.testi-meta {
+	text-align: center;
+	margin-top: 20px;
+}

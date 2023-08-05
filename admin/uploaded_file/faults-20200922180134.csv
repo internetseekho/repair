@@ -1,0 +1,237 @@
+Model_ID,Model_Title,Device,fault_id,fault_name,regular_price,is_on_offer,sale_price,offer_start_date,offer_end_date,status
+250,"Nokia 8 Repairs",,3925,"Front Screen Repair ",169.99,No,169.99,,,Published
+250,"Nokia 8 Repairs",,3926,"Antenna Repair ",89.99,No,89.99,,,Published
+250,"Nokia 8 Repairs",,3927,"Battery Repair ",89.99,No,89.99,,,Published
+250,"Nokia 8 Repairs",,3928,"Charging Port Repair ",89.99,No,89.99,,,Published
+250,"Nokia 8 Repairs",,3929,"Earpiece Repair ",89.99,No,89.99,,,Published
+250,"Nokia 8 Repairs",,3930,"Front Camera Repair ",89.99,No,89.99,,,Published
+250,"Nokia 8 Repairs",,3931,"Headphone Socket Repair ",89.99,No,89.99,,,Published
+250,"Nokia 8 Repairs",,3932,"Home Button Repair ",89.99,No,89.99,,,Published
+250,"Nokia 8 Repairs",,3933,"Liquid Damage Service ",89.99,No,89.99,,,Published
+251,"Nokia 7.1 Repair",,3934,"Front Screen Repair ",84.99,No,84.99,,,Published
+250,"Nokia 8 Repairs",,3935,"Loudspeaker Repair ",89.99,No,89.99,,,Published
+250,"Nokia 8 Repairs",,3936,"Microphone Repair ",89.99,No,89.99,,,Published
+251,"Nokia 7.1 Repair",,3937,"Antenna Repair ",69.99,No,69.99,,,Published
+251,"Nokia 7.1 Repair",,3938,"Battery Repair ",69.99,No,69.99,,,Published
+250,"Nokia 8 Repairs",,3939,"Mute Button Repair ",89.99,No,89.99,,,Published
+250,"Nokia 8 Repairs",,3940,"Power Button Repair ",89.99,No,89.99,,,Published
+252,"Nokia 9 Pureview Repair",,3941,"Front Screen Repair ",349.99,No,349.99,,,Published
+251,"Nokia 7.1 Repair",,3942,"Charging Port Repair ",69.99,No,69.99,,,Published
+251,"Nokia 7.1 Repair",,3943,"Diagnostic Service ",39.99,No,39.99,,,Published
+250,"Nokia 8 Repairs",,3944,"Rear Camera Repair ",89.99,No,89.99,,,Published
+250,"Nokia 8 Repairs",,3945,"Rear Cover Repair ",89.99,No,89.99,,,Published
+252,"Nokia 9 Pureview Repair",,3946,"Antenna Repair ",269.99,No,269.99,,,Published
+252,"Nokia 9 Pureview Repair",,3947,"Battery Repair ",269.99,No,269.99,,,Published
+251,"Nokia 7.1 Repair",,3948,"Earpiece Repair ",69.99,No,69.99,,,Published
+251,"Nokia 7.1 Repair",,3949,"Front Camera Repair ",69.99,No,69.99,,,Published
+250,"Nokia 8 Repairs",,3950,"Software Repair ",89.99,No,89.99,,,Published
+250,"Nokia 8 Repairs",,3951,"Vibration Repair ",89.99,No,89.99,,,Published
+253,"Nokia 8.1 Repair",,3952,"Antenna Repair ",79.99,No,79.99,,,Published
+252,"Nokia 9 Pureview Repair",,3953,"Charging Port Repair ",269.99,No,269.99,,,Published
+252,"Nokia 9 Pureview Repair",,3954,"Diagnostic Service ",39.99,No,39.99,,,Published
+251,"Nokia 7.1 Repair",,3955,"Headphone Socket Repair ",69.99,No,69.99,,,Published
+251,"Nokia 7.1 Repair",,3956,"Home Button Repair ",69.99,No,69.99,,,Published
+250,"Nokia 8 Repairs",,3957,"Volume Repair ",89.99,No,89.99,,,Published
+250,"Nokia 8 Repairs",,3958,"WIFI Repair ",89.99,No,89.99,,,Published
+253,"Nokia 8.1 Repair",,3959,"Battery Repair ",79.99,No,79.99,,,Published
+253,"Nokia 8.1 Repair",,3960,"Charging Port Repair ",79.99,No,79.99,,,Published
+252,"Nokia 9 Pureview Repair",,3961,"Earpiece Repair ",269.99,No,269.99,,,Published
+252,"Nokia 9 Pureview Repair",,3962,"Front Camera Repair ",269.99,No,269.99,,,Published
+251,"Nokia 7.1 Repair",,3963,"Liquid Damage Service ",69.99,No,69.99,,,Published
+251,"Nokia 7.1 Repair",,3964,"Loudspeaker Repair ",69.99,No,69.99,,,Published
+250,"Nokia 8 Repairs",,3965,"Diagnostic Service ",39.99,No,39.99,,,Published
+253,"Nokia 8.1 Repair",,3966,"Diagnostic Service ",39.99,No,39.99,,,Published
+252,"Nokia 9 Pureview Repair",,3967,"Headphone Socket Repair ",269.99,No,269.99,,,Published
+252,"Nokia 9 Pureview Repair",,3968,"Home Button Repair ",269.99,No,269.99,,,Published
+251,"Nokia 7.1 Repair",,3969,"Microphone Repair ",69.99,No,69.99,,,Published
+251,"Nokia 7.1 Repair",,3970,"Power Button Repair ",69.99,No,69.99,,,Published
+253,"Nokia 8.1 Repair",,3971,"Earpiece Repair ",79.99,No,79.99,,,Published
+253,"Nokia 8.1 Repair",,3972,"Front Camera Repair ",79.99,No,79.99,,,Published
+252,"Nokia 9 Pureview Repair",,3973,"Liquid Damage Service ",89.99,No,89.99,,,Published
+252,"Nokia 9 Pureview Repair",,3974,"Loudspeaker Repair ",269.99,No,269.99,,,Published
+251,"Nokia 7.1 Repair",,3975,"Vibration Repair ",69.99,No,69.99,,,Published
+251,"Nokia 7.1 Repair",,3976,"Volume Repair ",69.99,No,69.99,,,Published
+253,"Nokia 8.1 Repair",,3977,"Headphone Socket Repair ",79.99,No,79.99,,,Published
+253,"Nokia 8.1 Repair",,3978,"Home Button Repair ",79.99,No,79.99,,,Published
+252,"Nokia 9 Pureview Repair",,3979,"Microphone Repair ",269.99,No,269.99,,,Published
+252,"Nokia 9 Pureview Repair",,3980,"Mute Button Repair ",269.99,No,269.99,,,Published
+253,"Nokia 8.1 Repair",,3981,"Liquid Damage Service ",79.99,No,79.99,,,Published
+253,"Nokia 8.1 Repair",,3982,"Loudspeaker Repair ",79.99,No,79.99,,,Published
+252,"Nokia 9 Pureview Repair",,3983,"Power Button Repair ",269.99,No,269.99,,,Published
+252,"Nokia 9 Pureview Repair",,3984,"Rear Camera Repair ",269.99,No,269.99,,,Published
+253,"Nokia 8.1 Repair",,3985,"Microphone Repair ",79.99,No,79.99,,,Published
+253,"Nokia 8.1 Repair",,3986,"Mute Button Repair ",79.99,No,79.99,,,Published
+252,"Nokia 9 Pureview Repair",,3987,"Rear Cover Repair ",269.99,No,269.99,,,Published
+252,"Nokia 9 Pureview Repair",,3988,"Software Repair ",269.99,No,269.99,,,Published
+253,"Nokia 8.1 Repair",,3989,"Power Button Repair ",79.99,No,79.99,,,Published
+253,"Nokia 8.1 Repair",,3990,"Rear Camera Repair ",79.99,No,79.99,,,Published
+252,"Nokia 9 Pureview Repair",,3991,"Vibration Repair ",269.99,No,269.99,,,Published
+252,"Nokia 9 Pureview Repair",,3992,"Volume Repair ",269.99,No,269.99,,,Published
+253,"Nokia 8.1 Repair",,3993,"Rear Cover Repair ",79.99,No,79.99,,,Published
+253,"Nokia 8.1 Repair",,3994,"Vibration Repair ",79.99,No,79.99,,,Published
+252,"Nokia 9 Pureview Repair",,3995,"WIFI Repair ",269.99,No,269.99,,,Published
+253,"Nokia 8.1 Repair",,3996,"Volume Repair ",79.99,No,79.99,,,Published
+255,"Nokia X71 Repair",,4000,"Front Screen Repair ",219.99,No,219.99,,,Published
+255,"Nokia X71 Repair",,4004,"Antenna Repair ",149.99,No,149.99,,,Published
+255,"Nokia X71 Repair",,4005,"Battery Repair ",149.99,No,149.99,,,Published
+255,"Nokia X71 Repair",,4010,"Charging Port Repair ",149.99,No,149.99,,,Published
+255,"Nokia X71 Repair",,4011,"Diagnostic Service ",39.99,No,39.99,,,Published
+255,"Nokia X71 Repair",,4016,"Earpiece Repair ",149.99,No,149.99,,,Published
+255,"Nokia X71 Repair",,4017,"Front Camera Repair ",149.99,No,149.99,,,Published
+255,"Nokia X71 Repair",,4022,"Headphone Socket Repair ",149.99,No,149.99,,,Published
+255,"Nokia X71 Repair",,4023,"Home Button Repair ",149.99,No,149.99,,,Published
+255,"Nokia X71 Repair",,4028,"Liquid Damage Service ",149.99,No,149.99,,,Published
+255,"Nokia X71 Repair",,4029,"Loudspeaker Repair ",149.99,No,149.99,,,Published
+255,"Nokia X71 Repair",,4034,"Microphone Repair ",149.99,No,149.99,,,Published
+255,"Nokia X71 Repair",,4035,"Power Button Repair ",149.99,No,149.99,,,Published
+255,"Nokia X71 Repair",,4039,"Rear Camera Repair ",149.99,No,149.99,,,Published
+255,"Nokia X71 Repair",,4040,"Vibration Repair ",149.99,No,149.99,,,Published
+255,"Nokia X71 Repair",,4043,"Volume Repair ",149.99,No,149.99,,,Published
+258,"Nokia 6.1 Plus Repair",,4059,"Front Screen Repair ",79.99,No,79.99,,,Published
+258,"Nokia 6.1 Plus Repair",,4060,"Antenna Repair ",69.99,No,69.99,,,Published
+258,"Nokia 6.1 Plus Repair",,4061,"Battery Repair ",69.99,No,69.99,,,Published
+258,"Nokia 6.1 Plus Repair",,4062,"Charging Port Repair ",69.99,No,69.99,,,Published
+258,"Nokia 6.1 Plus Repair",,4063,"Diagnostic Service ",39.99,No,39.99,,,Published
+258,"Nokia 6.1 Plus Repair",,4064,"Earpiece Repair ",69.99,No,69.99,,,Published
+258,"Nokia 6.1 Plus Repair",,4065,"Front Camera Repair ",69.99,No,69.99,,,Published
+258,"Nokia 6.1 Plus Repair",,4066,"Headphone Socket Repair ",69.99,No,69.99,,,Published
+258,"Nokia 6.1 Plus Repair",,4067,"Home Button Repair ",69.99,No,69.99,,,Published
+258,"Nokia 6.1 Plus Repair",,4068,"Liquid Damage Service ",69.99,No,69.99,,,Published
+258,"Nokia 6.1 Plus Repair",,4069,"Loudspeaker Repair ",69.99,No,69.99,,,Published
+258,"Nokia 6.1 Plus Repair",,4070,"Microphone Repair ",69.99,No,69.99,,,Published
+258,"Nokia 6.1 Plus Repair",,4071,"Power Button Repair ",69.99,No,69.99,,,Published
+258,"Nokia 6.1 Plus Repair",,4072,"Vibration Repair ",69.99,No,69.99,,,Published
+259,"Nokia 7 Plus Repair",,4073,"Antenna Repair ",109.99,No,109.99,,,Published
+258,"Nokia 6.1 Plus Repair",,4074,"Volume Repair ",69.99,No,69.99,,,Published
+259,"Nokia 7 Plus Repair",,4075,"Battery Repair ",109.99,No,109.99,,,Published
+259,"Nokia 7 Plus Repair",,4076,"Charging Port Repair ",109.99,No,109.99,,,Published
+259,"Nokia 7 Plus Repair",,4077,"Diagnostic Service ",39.99,No,39.99,,,Published
+259,"Nokia 7 Plus Repair",,4078,"Earpiece Repair ",109.99,No,109.99,,,Published
+259,"Nokia 7 Plus Repair",,4079,"Front Camera Repair ",109.99,No,109.99,,,Published
+259,"Nokia 7 Plus Repair",,4080,"Headphone Socket Repair ",109.99,No,109.99,,,Published
+259,"Nokia 7 Plus Repair",,4081,"Home Button Repair ",109.99,No,109.99,,,Published
+259,"Nokia 7 Plus Repair",,4082,"Liquid Damage Service ",109.99,No,109.99,,,Published
+259,"Nokia 7 Plus Repair",,4083,"Loudspeaker Repair ",109.99,No,109.99,,,Published
+259,"Nokia 7 Plus Repair",,4084,"Microphone Repair ",109.99,No,109.99,,,Published
+259,"Nokia 7 Plus Repair",,4085,"Mute Button Repair ",109.99,No,109.99,,,Published
+259,"Nokia 7 Plus Repair",,4086,"Power Button Repair ",109.99,No,109.99,,,Published
+259,"Nokia 7 Plus Repair",,4087,"Rear Camera Repair ",109.99,No,109.99,,,Published
+259,"Nokia 7 Plus Repair",,4088,"Rear Cover Repair ",109.99,No,109.99,,,Published
+259,"Nokia 7 Plus Repair",,4089,"Vibration Repair ",109.99,No,109.99,,,Published
+259,"Nokia 7 Plus Repair",,4090,"Volume Repair ",109.99,No,109.99,,,Published
+260,"Nokia 3.2 Repair",,4091,"Front Screen Repair ",89.99,No,89.99,,,Published
+260,"Nokia 3.2 Repair",,4092,"Antenna Repair ",79.99,No,79.99,,,Published
+260,"Nokia 3.2 Repair",,4093,"Battery Repair ",79.99,No,79.99,,,Published
+261,"Nokia 6.1 Repair",,4094,"Front Screen Repair ",89.99,No,89.99,,,Published
+260,"Nokia 3.2 Repair",,4095,"Charging Port Repair ",79.99,No,79.99,,,Published
+260,"Nokia 3.2 Repair",,4096,"Diagnostic Service ",39.99,No,39.99,,,Published
+261,"Nokia 6.1 Repair",,4097,"Antenna Repair ",69.99,No,69.99,,,Published
+261,"Nokia 6.1 Repair",,4098,"Battery Repair ",69.99,No,69.99,,,Published
+260,"Nokia 3.2 Repair",,4099,"Earpiece Repair ",79.99,No,79.99,,,Published
+260,"Nokia 3.2 Repair",,4100,"Front Camera Repair ",79.99,No,79.99,,,Published
+262,"Nokia 3.1 Plus Repair",,4101,"Antenna Repair ",79.99,No,79.99,,,Published
+261,"Nokia 6.1 Repair",,4102,"Charging Port Repair ",69.99,No,69.99,,,Published
+261,"Nokia 6.1 Repair",,4103,"Diagnostic Service ",39.99,No,39.99,,,Published
+260,"Nokia 3.2 Repair",,4104,"Headphone Socket Repair ",79.99,No,79.99,,,Published
+260,"Nokia 3.2 Repair",,4105,"Home Button Repair ",79.99,No,79.99,,,Published
+262,"Nokia 3.1 Plus Repair",,4106,"Battery Repair ",79.99,No,79.99,,,Published
+262,"Nokia 3.1 Plus Repair",,4107,"Charging Port Repair ",79.99,No,79.99,,,Published
+261,"Nokia 6.1 Repair",,4108,"Earpiece Repair ",69.99,No,69.99,,,Published
+261,"Nokia 6.1 Repair",,4109,"Front Camera Repair ",69.99,No,69.99,,,Published
+260,"Nokia 3.2 Repair",,4110,"Liquid Damage Service ",79.99,No,79.99,,,Published
+260,"Nokia 3.2 Repair",,4111,"Loudspeaker Repair ",79.99,No,79.99,,,Published
+262,"Nokia 3.1 Plus Repair",,4112,"Diagnostic Service ",39.99,No,39.99,,,Published
+262,"Nokia 3.1 Plus Repair",,4113,"Earpiece Repair ",79.99,No,79.99,,,Published
+261,"Nokia 6.1 Repair",,4114,"Headphone Socket Repair ",69.99,No,69.99,,,Published
+261,"Nokia 6.1 Repair",,4115,"Liquid Damage Service ",69.99,No,69.99,,,Published
+260,"Nokia 3.2 Repair",,4116,"Microphone Repair ",79.99,No,79.99,,,Published
+260,"Nokia 3.2 Repair",,4117,"Power Button Repair ",79.99,No,79.99,,,Published
+262,"Nokia 3.1 Plus Repair",,4118,"Front Camera Repair ",79.99,No,79.99,,,Published
+262,"Nokia 3.1 Plus Repair",,4119,"Headphone Socket Repair ",79.99,No,79.99,,,Published
+261,"Nokia 6.1 Repair",,4120,"Loudspeaker Repair ",69.99,No,69.99,,,Published
+261,"Nokia 6.1 Repair",,4121,"Microphone Repair ",69.99,No,69.99,,,Published
+260,"Nokia 3.2 Repair",,4122,"Rear Camera Repair ",79.99,No,79.99,,,Published
+260,"Nokia 3.2 Repair",,4123,"Vibration Repair ",79.99,No,79.99,,,Published
+262,"Nokia 3.1 Plus Repair",,4124,"Home Button Repair ",79.99,No,79.99,,,Published
+262,"Nokia 3.1 Plus Repair",,4125,"Liquid Damage Service ",79.99,No,79.99,,,Published
+261,"Nokia 6.1 Repair",,4126,"Mute Button Repair ",69.99,No,69.99,,,Published
+261,"Nokia 6.1 Repair",,4127,"Power Button Repair ",69.99,No,69.99,,,Published
+260,"Nokia 3.2 Repair",,4128,"Volume Repair ",79.99,No,79.99,,,Published
+262,"Nokia 3.1 Plus Repair",,4129,"Loudspeaker Repair ",79.99,No,79.99,,,Published
+262,"Nokia 3.1 Plus Repair",,4130,"Microphone Repair ",79.99,No,79.99,,,Published
+261,"Nokia 6.1 Repair",,4131,"Rear Camera Repair ",69.99,No,69.99,,,Published
+261,"Nokia 6.1 Repair",,4132,"Vibration Repair ",69.99,No,69.99,,,Published
+262,"Nokia 3.1 Plus Repair",,4133,"Mute Button Repair ",79.99,No,79.99,,,Published
+262,"Nokia 3.1 Plus Repair",,4134,"Power Button Repair ",79.99,No,79.99,,,Published
+261,"Nokia 6.1 Repair",,4135,"Volume Repair ",69.99,No,69.99,,,Published
+262,"Nokia 3.1 Plus Repair",,4136,"Rear Camera Repair ",79.99,No,79.99,,,Published
+262,"Nokia 3.1 Plus Repair",,4137,"Rear Cover Repair ",79.99,No,79.99,,,Published
+262,"Nokia 3.1 Plus Repair",,4138,"Vibration Repair ",79.99,No,79.99,,,Published
+262,"Nokia 3.1 Plus Repair",,4139,"Volume Repair ",79.99,No,79.99,,,Published
+263,"Nokia 1 Plus Repair",,4140,"Front Screen Repair ",99.99,No,99.99,,,Published
+263,"Nokia 1 Plus Repair",,4141,"Antenna Repair ",79.99,No,79.99,,,Published
+263,"Nokia 1 Plus Repair",,4142,"Battery Repair ",79.99,No,79.99,,,Published
+263,"Nokia 1 Plus Repair",,4143,"Charging Port Repair ",79.99,No,79.99,,,Published
+263,"Nokia 1 Plus Repair",,4144,"Diagnostic Service ",39.99,No,39.99,,,Published
+263,"Nokia 1 Plus Repair",,4145,"Earpiece Repair ",79.99,No,79.99,,,Published
+263,"Nokia 1 Plus Repair",,4146,"Front Camera Repair ",79.99,No,79.99,,,Published
+263,"Nokia 1 Plus Repair",,4147,"Headphone Socket Repair ",79.99,No,79.99,,,Published
+263,"Nokia 1 Plus Repair",,4148,"Home Button Repair ",79.99,No,79.99,,,Published
+263,"Nokia 1 Plus Repair",,4149,"Liquid Damage Service ",79.99,No,79.99,,,Published
+263,"Nokia 1 Plus Repair",,4150,"Loudspeaker Repair ",79.99,No,79.99,,,Published
+263,"Nokia 1 Plus Repair",,4151,"Microphone Repair ",79.99,No,79.99,,,Published
+263,"Nokia 1 Plus Repair",,4152,"Power Button Repair ",79.99,No,79.99,,,Published
+263,"Nokia 1 Plus Repair",,4153,"Rear Camera Repair ",79.99,No,79.99,,,Published
+263,"Nokia 1 Plus Repair",,4154,"Vibration Repair ",79.99,No,79.99,,,Published
+263,"Nokia 1 Plus Repair",,4155,"Volume Repair ",79.99,No,79.99,,,Published
+264,"Nokia 4.2 Repair",,4156,"Front Screen Repair ",89.99,No,89.99,,,Published
+264,"Nokia 4.2 Repair",,4157,"Antenna Repair ",79.99,No,79.99,,,Published
+264,"Nokia 4.2 Repair",,4158,"Battery Repair ",79.99,No,79.99,,,Published
+264,"Nokia 4.2 Repair",,4159,"Charging Port Repair ",79.99,No,79.99,,,Published
+264,"Nokia 4.2 Repair",,4160,"Diagnostic Service ",39.99,No,39.99,,,Published
+264,"Nokia 4.2 Repair",,4161,"Earpiece Repair ",79.99,No,79.99,,,Published
+264,"Nokia 4.2 Repair",,4162,"Front Camera Repair ",79.99,No,79.99,,,Published
+264,"Nokia 4.2 Repair",,4163,"Headphone Socket Repair ",79.99,No,79.99,,,Published
+264,"Nokia 4.2 Repair",,4164,"Home Button Repair ",79.99,No,79.99,,,Published
+264,"Nokia 4.2 Repair",,4165,"Liquid Damage Service ",89.99,No,89.99,,,Published
+264,"Nokia 4.2 Repair",,4166,"Loudspeaker Repair ",79.99,No,79.99,,,Published
+264,"Nokia 4.2 Repair",,4167,"Microphone Repair ",79.99,No,79.99,,,Published
+264,"Nokia 4.2 Repair",,4168,"Mute Button Repair ",79.99,No,79.99,,,Published
+264,"Nokia 4.2 Repair",,4169,"Power Button Repair ",79.99,No,79.99,,,Published
+264,"Nokia 4.2 Repair",,4170,"Rear Camera Repair ",79.99,No,79.99,,,Published
+264,"Nokia 4.2 Repair",,4171,"Rear Cover Repair ",79.99,No,79.99,,,Published
+264,"Nokia 4.2 Repair",,4172,"Software Repair ",79.99,No,79.99,,,Published
+264,"Nokia 4.2 Repair",,4173,"Vibration Repair ",79.99,No,79.99,,,Published
+264,"Nokia 4.2 Repair",,4174,"Volume Repair ",79.99,No,79.99,,,Published
+264,"Nokia 4.2 Repair",,4175,"WIFI Repair ",79.99,No,79.99,,,Published
+265,"Nokia 6 (2018) Repairs",,4176,"Front Screen Repair ",149.99,No,149.99,,,Published
+265,"Nokia 6 (2018) Repairs",,4177,"Antenna Repair ",89.99,No,89.99,,,Published
+265,"Nokia 6 (2018) Repairs",,4178,"Battery Repair ",89.99,No,89.99,,,Published
+265,"Nokia 6 (2018) Repairs",,4179,"Charging Port Repair ",89.99,No,89.99,,,Published
+265,"Nokia 6 (2018) Repairs",,4180,"Earpiece Repair ",89.99,No,89.99,,,Published
+265,"Nokia 6 (2018) Repairs",,4181,"Front Camera Repair ",89.99,No,89.99,,,Published
+265,"Nokia 6 (2018) Repairs",,4182,"Headphone Socket Repair ",89.99,No,89.99,,,Published
+265,"Nokia 6 (2018) Repairs",,4184,"Home Button Repair ",89.99,No,89.99,,,Published
+265,"Nokia 6 (2018) Repairs",,4185,"Liquid Damage Service ",89.99,No,89.99,,,Published
+265,"Nokia 6 (2018) Repairs",,4188,"Loudspeaker Repair ",89.99,No,89.99,,,Published
+265,"Nokia 6 (2018) Repairs",,4189,"Microphone Repair ",89.99,No,89.99,,,Published
+267,"Nokia 5.1 Plus Repair",,4190,"Antenna Repair ",69.99,No,69.99,,,Published
+265,"Nokia 6 (2018) Repairs",,4193,"Vibration Repair ",89.99,No,89.99,,,Published
+265,"Nokia 6 (2018) Repairs",,4194,"Volume Repair ",89.99,No,89.99,,,Published
+267,"Nokia 5.1 Plus Repair",,4195,"Battery Repair ",69.99,No,69.99,,,Published
+267,"Nokia 5.1 Plus Repair",,4196,"Charging Port Repair ",69.99,No,69.99,,,Published
+265,"Nokia 6 (2018) Repairs",,4199,"Diagnostic Service ",39.99,No,39.99,,,Published
+267,"Nokia 5.1 Plus Repair",,4200,"Diagnostic Service ",39.99,No,39.99,,,Published
+267,"Nokia 5.1 Plus Repair",,4203,"Earpiece Repair ",69.99,No,69.99,,,Published
+267,"Nokia 5.1 Plus Repair",,4204,"Front Camera Repair ",69.99,No,69.99,,,Published
+267,"Nokia 5.1 Plus Repair",,4207,"Headphone Socket Repair ",69.99,No,69.99,,,Published
+267,"Nokia 5.1 Plus Repair",,4208,"Home Button Repair ",69.99,No,69.99,,,Published
+267,"Nokia 5.1 Plus Repair",,4211,"Liquid Damage Service ",69.99,No,69.99,,,Published
+267,"Nokia 5.1 Plus Repair",,4212,"Loudspeaker Repair ",69.99,No,69.99,,,Published
+267,"Nokia 5.1 Plus Repair",,4215,"Microphone Repair ",69.99,No,69.99,,,Published
+267,"Nokia 5.1 Plus Repair",,4216,"Mute Button Repair ",69.99,No,69.99,,,Published
+267,"Nokia 5.1 Plus Repair",,4219,"Power Button Repair ",69.99,No,69.99,,,Published
+267,"Nokia 5.1 Plus Repair",,4220,"Rear Camera Repair ",69.99,No,69.99,,,Published
+267,"Nokia 5.1 Plus Repair",,4221,"Rear Cover Repair ",69.99,No,69.99,,,Published
+267,"Nokia 5.1 Plus Repair",,4222,"Vibration Repair ",69.99,No,69.99,,,Published
+267,"Nokia 5.1 Plus Repair",,4223,"Volume Repair ",69.99,No,69.99,,,Published

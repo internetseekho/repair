@@ -1,0 +1,218 @@
+Model_ID,Model_Title,Device,fault_id,fault_name,regular_price,is_on_offer,sale_price,offer_start_date,offer_end_date,status
+20,"Samsung Note 8.0 (N5100) Repair","Samsung Note Repair",305,"Battery Repair ",89.99,No,89.99,,,Published
+20,"Samsung Note 8.0 (N5100) Repair","Samsung Note Repair",306,"Charging Port Repair ",59.99,No,59.99,,,Published
+20,"Samsung Note 8.0 (N5100) Repair","Samsung Note Repair",307,"Diagnostic Service ",39.99,No,39.99,,,Published
+20,"Samsung Note 8.0 (N5100) Repair","Samsung Note Repair",308,"Headphone Socket Repair ",89.99,No,89.99,,,Published
+20,"Samsung Note 8.0 (N5100) Repair","Samsung Note Repair",309,"Liquid Damage Service ",69.99,No,69.99,,,Published
+20,"Samsung Note 8.0 (N5100) Repair","Samsung Note Repair",310,"Loudspeaker Repair ",89.99,No,89.99,,,Published
+20,"Samsung Note 8.0 (N5100) Repair","Samsung Note Repair",311,"Microphone Repair ",89.99,No,89.99,,,Published
+20,"Samsung Note 8.0 (N5100) Repair","Samsung Note Repair",312,"Mute Button Repair ",89.99,No,89.99,,,Published
+20,"Samsung Note 8.0 (N5100) Repair","Samsung Note Repair",313,"Power Button Repair ",89.99,No,89.99,,,Published
+20,"Samsung Note 8.0 (N5100) Repair","Samsung Note Repair",314,"Rear Camera Repair ",89.99,No,89.99,,,Published
+20,"Samsung Note 8.0 (N5100) Repair","Samsung Note Repair",315,"Rear Cover Repair ",119.99,No,119.99,,,Published
+20,"Samsung Note 8.0 (N5100) Repair","Samsung Note Repair",316,"Volume Repair ",89.99,No,89.99,,,Published
+20,"Samsung Note 8.0 (N5100) Repair","Samsung Note Repair",317,"WIFI Repair ",89.99,No,89.99,,,Published
+22,"Samsung Note 10.1 (N8000) Repair","Samsung Note Repair",335,"Battery Repair ",89.99,No,89.99,,,Published
+22,"Samsung Note 10.1 (N8000) Repair","Samsung Note Repair",336,"Charging Port Repair ",59.99,No,59.99,,,Published
+22,"Samsung Note 10.1 (N8000) Repair","Samsung Note Repair",337,"Diagnostic Service ",39.99,No,39.99,,,Published
+22,"Samsung Note 10.1 (N8000) Repair","Samsung Note Repair",338,"Front Camera Repair ",89.99,No,89.99,,,Published
+22,"Samsung Note 10.1 (N8000) Repair","Samsung Note Repair",339,"Headphone Socket Repair ",89.99,No,89.99,,,Published
+22,"Samsung Note 10.1 (N8000) Repair","Samsung Note Repair",340,"Liquid Damage Service ",69.99,No,69.99,,,Published
+22,"Samsung Note 10.1 (N8000) Repair","Samsung Note Repair",341,"Loudspeaker Repair ",89.99,No,89.99,,,Published
+22,"Samsung Note 10.1 (N8000) Repair","Samsung Note Repair",342,"Microphone Repair ",89.99,No,89.99,,,Published
+22,"Samsung Note 10.1 (N8000) Repair","Samsung Note Repair",343,"Mute Button Repair ",89.99,No,89.99,,,Published
+22,"Samsung Note 10.1 (N8000) Repair","Samsung Note Repair",344,"Power Button Repair ",89.99,No,89.99,,,Published
+22,"Samsung Note 10.1 (N8000) Repair","Samsung Note Repair",345,"Rear Camera Repair ",89.99,No,89.99,,,Published
+22,"Samsung Note 10.1 (N8000) Repair","Samsung Note Repair",346,"Rear Cover Repair ",119.99,No,119.99,,,Published
+22,"Samsung Note 10.1 (N8000) Repair","Samsung Note Repair",347,"Volume Repair ",89.99,No,89.99,,,Published
+22,"Samsung Note 10.1 (N8000) Repair","Samsung Note Repair",348,"WIFI Repair ",89.99,No,89.99,,,Published
+23,"Samsung Note 2 LTE (N7105) Repair","Samsung Note Repair",349,"Antenna Repair ",59.99,No,59.99,,,Published
+23,"Samsung Note 2 LTE (N7105) Repair","Samsung Note Repair",350,"Battery Repair ",54.99,No,54.99,,,Published
+23,"Samsung Note 2 LTE (N7105) Repair","Samsung Note Repair",351,"Charging Port Repair ",59.99,No,59.99,,,Published
+23,"Samsung Note 2 LTE (N7105) Repair","Samsung Note Repair",352,"Diagnostic Service ",39.99,No,39.99,,,Published
+23,"Samsung Note 2 LTE (N7105) Repair","Samsung Note Repair",353,"Earpiece Repair ",59.99,No,59.99,,,Published
+23,"Samsung Note 2 LTE (N7105) Repair","Samsung Note Repair",354,"Front Camera Repair ",59.99,No,59.99,,,Published
+23,"Samsung Note 2 LTE (N7105) Repair","Samsung Note Repair",355,"Headphone Socket Repair ",59.99,No,59.99,,,Published
+23,"Samsung Note 2 LTE (N7105) Repair","Samsung Note Repair",356,"Home Button Repair ",59.99,No,59.99,,,Published
+23,"Samsung Note 2 LTE (N7105) Repair","Samsung Note Repair",357,"Liquid Damage Service ",69.99,No,69.99,,,Published
+23,"Samsung Note 2 LTE (N7105) Repair","Samsung Note Repair",358,"Loudspeaker Repair ",59.99,No,59.99,,,Published
+23,"Samsung Note 2 LTE (N7105) Repair","Samsung Note Repair",359,"Microphone Repair ",59.99,No,59.99,,,Published
+23,"Samsung Note 2 LTE (N7105) Repair","Samsung Note Repair",360,"Mute Button Repair ",59.99,No,59.99,,,Published
+23,"Samsung Note 2 LTE (N7105) Repair","Samsung Note Repair",361,"Power Button Repair ",59.99,No,59.99,,,Published
+23,"Samsung Note 2 LTE (N7105) Repair","Samsung Note Repair",362,"Rear Camera Repair ",54.99,No,54.99,,,Published
+23,"Samsung Note 2 LTE (N7105) Repair","Samsung Note Repair",363,"Vibration Repair ",59.99,No,59.99,,,Published
+23,"Samsung Note 2 LTE (N7105) Repair","Samsung Note Repair",364,"Volume Repair ",59.99,No,59.99,,,Published
+23,"Samsung Note 2 LTE (N7105) Repair","Samsung Note Repair",365,"WIFI Repair ",59.99,No,59.99,,,Published
+24,"Samsung Galaxy Note 2014 10.1"" (P600) Repair","Samsung Note Repair",366,"Front Screen Repair ",189.99,No,189.99,,,Published
+24,"Samsung Galaxy Note 2014 10.1"" (P600) Repair","Samsung Note Repair",367,"Battery Repair ",89.99,No,89.99,,,Published
+24,"Samsung Galaxy Note 2014 10.1"" (P600) Repair","Samsung Note Repair",368,"Charging Port Repair ",89.99,No,89.99,,,Published
+24,"Samsung Galaxy Note 2014 10.1"" (P600) Repair","Samsung Note Repair",369,"Diagnostic Service ",39.99,No,39.99,,,Published
+24,"Samsung Galaxy Note 2014 10.1"" (P600) Repair","Samsung Note Repair",370,"Front Camera Repair ",89.99,No,89.99,,,Published
+24,"Samsung Galaxy Note 2014 10.1"" (P600) Repair","Samsung Note Repair",371,"Headphone Socket Repair ",89.99,No,89.99,,,Published
+24,"Samsung Galaxy Note 2014 10.1"" (P600) Repair","Samsung Note Repair",372,"Home Button Repair ",89.99,No,89.99,,,Published
+24,"Samsung Galaxy Note 2014 10.1"" (P600) Repair","Samsung Note Repair",373,"Liquid Damage Service ",69.99,No,69.99,,,Published
+24,"Samsung Galaxy Note 2014 10.1"" (P600) Repair","Samsung Note Repair",374,"Loudspeaker Repair ",89.99,No,89.99,,,Published
+24,"Samsung Galaxy Note 2014 10.1"" (P600) Repair","Samsung Note Repair",375,"Microphone Repair ",89.99,No,89.99,,,Published
+24,"Samsung Galaxy Note 2014 10.1"" (P600) Repair","Samsung Note Repair",376,"Mute Button Repair ",89.99,No,89.99,,,Published
+24,"Samsung Galaxy Note 2014 10.1"" (P600) Repair","Samsung Note Repair",377,"Power Button Repair ",89.99,No,89.99,,,Published
+24,"Samsung Galaxy Note 2014 10.1"" (P600) Repair","Samsung Note Repair",378,"Rear Camera Repair ",89.99,No,89.99,,,Published
+24,"Samsung Galaxy Note 2014 10.1"" (P600) Repair","Samsung Note Repair",379,"Rear Cover Repair ",119.99,No,119.99,,,Published
+24,"Samsung Galaxy Note 2014 10.1"" (P600) Repair","Samsung Note Repair",380,"Volume Repair ",89.99,No,89.99,,,Published
+24,"Samsung Galaxy Note 2014 10.1"" (P600) Repair","Samsung Note Repair",381,"WIFI Repair ",89.99,No,89.99,,,Published
+25,"Samsung Note 2 (N7100) Repair","Samsung Note Repair",382,"Front Screen Repair ",149.99,No,149.99,,,Published
+25,"Samsung Note 2 (N7100) Repair","Samsung Note Repair",383,"Antenna Repair ",59.99,No,59.99,,,Published
+25,"Samsung Note 2 (N7100) Repair","Samsung Note Repair",384,"Battery Repair ",54.99,No,54.99,,,Published
+25,"Samsung Note 2 (N7100) Repair","Samsung Note Repair",385,"Charging Port Repair ",59.99,No,59.99,,,Published
+25,"Samsung Note 2 (N7100) Repair","Samsung Note Repair",386,"Diagnostic Service ",39.99,No,39.99,,,Published
+25,"Samsung Note 2 (N7100) Repair","Samsung Note Repair",387,"Earpiece Repair ",59.99,No,59.99,,,Published
+25,"Samsung Note 2 (N7100) Repair","Samsung Note Repair",388,"Front Camera Repair ",59.99,No,59.99,,,Published
+25,"Samsung Note 2 (N7100) Repair","Samsung Note Repair",389,"Front Glass Repair ",149.99,No,149.99,,,Published
+25,"Samsung Note 2 (N7100) Repair","Samsung Note Repair",390,"Headphone Socket Repair ",59.99,No,59.99,,,Published
+25,"Samsung Note 2 (N7100) Repair","Samsung Note Repair",391,"Home Button Repair ",59.99,No,59.99,,,Published
+25,"Samsung Note 2 (N7100) Repair","Samsung Note Repair",392,"Liquid Damage Service ",69.99,No,69.99,,,Published
+25,"Samsung Note 2 (N7100) Repair","Samsung Note Repair",393,"Loudspeaker Repair ",59.99,No,59.99,,,Published
+25,"Samsung Note 2 (N7100) Repair","Samsung Note Repair",394,"Microphone Repair ",59.99,No,59.99,,,Published
+25,"Samsung Note 2 (N7100) Repair","Samsung Note Repair",395,"Mute Button Repair ",59.99,No,59.99,,,Published
+25,"Samsung Note 2 (N7100) Repair","Samsung Note Repair",396,"Power Button Repair ",59.99,No,59.99,,,Published
+25,"Samsung Note 2 (N7100) Repair","Samsung Note Repair",397,"Rear Camera Repair ",54.99,No,54.99,,,Published
+25,"Samsung Note 2 (N7100) Repair","Samsung Note Repair",398,"Sub Key Repair ",69.99,No,69.99,,,Published
+25,"Samsung Note 2 (N7100) Repair","Samsung Note Repair",399,"Vibration Repair ",59.99,No,59.99,,,Published
+25,"Samsung Note 2 (N7100) Repair","Samsung Note Repair",400,"Volume Repair ",59.99,No,59.99,,,Published
+25,"Samsung Note 2 (N7100) Repair","Samsung Note Repair",401,"WIFI Repair ",59.99,No,59.99,,,Published
+26,"Samsung Note (N7000) Repair","Samsung Note Repair",402,"Antenna Repair ",59.99,No,59.99,,,Published
+26,"Samsung Note (N7000) Repair","Samsung Note Repair",403,"Battery Repair ",54.99,No,54.99,,,Published
+26,"Samsung Note (N7000) Repair","Samsung Note Repair",404,"Charging Port Repair ",59.99,No,59.99,,,Published
+26,"Samsung Note (N7000) Repair","Samsung Note Repair",405,"Diagnostic Service ",39.99,No,39.99,,,Published
+26,"Samsung Note (N7000) Repair","Samsung Note Repair",406,"Earpiece Repair ",59.99,No,59.99,,,Published
+26,"Samsung Note (N7000) Repair","Samsung Note Repair",407,"Front Camera Repair ",59.99,No,59.99,,,Published
+26,"Samsung Note (N7000) Repair","Samsung Note Repair",408,"Headphone Socket Repair ",59.99,No,59.99,,,Published
+26,"Samsung Note (N7000) Repair","Samsung Note Repair",409,"Home Button Repair ",59.99,No,59.99,,,Published
+26,"Samsung Note (N7000) Repair","Samsung Note Repair",410,"Liquid Damage Service ",69.99,No,69.99,,,Published
+26,"Samsung Note (N7000) Repair","Samsung Note Repair",411,"Loudspeaker Repair ",59.99,No,59.99,,,Published
+26,"Samsung Note (N7000) Repair","Samsung Note Repair",412,"Microphone Repair ",59.99,No,59.99,,,Published
+26,"Samsung Note (N7000) Repair","Samsung Note Repair",413,"Mute Button Repair ",59.99,No,59.99,,,Published
+26,"Samsung Note (N7000) Repair","Samsung Note Repair",414,"Power Button Repair ",59.99,No,59.99,,,Published
+26,"Samsung Note (N7000) Repair","Samsung Note Repair",415,"Rear Camera Repair ",54.99,No,54.99,,,Published
+26,"Samsung Note (N7000) Repair","Samsung Note Repair",416,"Software Repair ",69.99,No,69.99,,,Published
+26,"Samsung Note (N7000) Repair","Samsung Note Repair",417,"Vibration Repair ",59.99,No,59.99,,,Published
+26,"Samsung Note (N7000) Repair","Samsung Note Repair",418,"Volume Repair ",59.99,No,59.99,,,Published
+26,"Samsung Note (N7000) Repair","Samsung Note Repair",419,"WIFI Repair ",59.99,No,59.99,,,Published
+27,"Samsung Galaxy Note 4 Repair","Samsung Note Repair",420,"Front Screen Repair ",169.99,No,169.99,,,Published
+27,"Samsung Galaxy Note 4 Repair","Samsung Note Repair",421,"Antenna Repair ",79.99,No,79.99,,,Published
+27,"Samsung Galaxy Note 4 Repair","Samsung Note Repair",422,"Battery Repair ",54.99,No,54.99,,,Published
+27,"Samsung Galaxy Note 4 Repair","Samsung Note Repair",423,"Bezel Replacement ",79.99,No,79.99,,,Published
+27,"Samsung Galaxy Note 4 Repair","Samsung Note Repair",424,"Charging Port Repair ",79.99,No,79.99,,,Published
+27,"Samsung Galaxy Note 4 Repair","Samsung Note Repair",425,"Diagnostic Service ",39.99,No,39.99,,,Published
+27,"Samsung Galaxy Note 4 Repair","Samsung Note Repair",426,"Earpiece Repair ",79.99,No,79.99,,,Published
+27,"Samsung Galaxy Note 4 Repair","Samsung Note Repair",427,"Front Camera Repair ",79.99,No,79.99,,,Published
+27,"Samsung Galaxy Note 4 Repair","Samsung Note Repair",428,"Front Glass Repair ",119.99,No,119.99,,,Published
+27,"Samsung Galaxy Note 4 Repair","Samsung Note Repair",429,"Headphone Socket Repair ",79.99,No,79.99,,,Published
+27,"Samsung Galaxy Note 4 Repair","Samsung Note Repair",430,"Home Button Repair ",79.99,No,79.99,,,Published
+27,"Samsung Galaxy Note 4 Repair","Samsung Note Repair",431,"Liquid Damage Service ",69.99,No,69.99,,,Published
+27,"Samsung Galaxy Note 4 Repair","Samsung Note Repair",432,"Loudspeaker Repair ",79.99,No,79.99,,,Published
+27,"Samsung Galaxy Note 4 Repair","Samsung Note Repair",433,"Microphone Repair ",79.99,No,79.99,,,Published
+27,"Samsung Galaxy Note 4 Repair","Samsung Note Repair",434,"Mute Button Repair ",79.99,No,79.99,,,Published
+27,"Samsung Galaxy Note 4 Repair","Samsung Note Repair",435,"Power Button Repair ",79.99,No,79.99,,,Published
+27,"Samsung Galaxy Note 4 Repair","Samsung Note Repair",436,"Rear Camera Repair ",79.99,No,79.99,,,Published
+27,"Samsung Galaxy Note 4 Repair","Samsung Note Repair",437,"Software Repair ",79.99,No,79.99,,,Published
+27,"Samsung Galaxy Note 4 Repair","Samsung Note Repair",438,"Vibration Repair ",79.99,No,79.99,,,Published
+27,"Samsung Galaxy Note 4 Repair","Samsung Note Repair",439,"Volume Repair ",79.99,No,79.99,,,Published
+27,"Samsung Galaxy Note 4 Repair","Samsung Note Repair",440,"WIFI Repair ",79.99,No,79.99,,,Published
+28,"Samsung Galaxy Note 8 Repair","Samsung Note Repair",441,"Front Screen Repair ",419.99,No,419.99,,,Published
+28,"Samsung Galaxy Note 8 Repair","Samsung Note Repair",442,"Antenna Repair ",219.99,No,219.99,,,Published
+28,"Samsung Galaxy Note 8 Repair","Samsung Note Repair",443,"Battery Repair ",219.99,No,219.99,,,Published
+28,"Samsung Galaxy Note 8 Repair","Samsung Note Repair",444,"Charging Port Repair ",219.99,No,219.99,,,Published
+28,"Samsung Galaxy Note 8 Repair","Samsung Note Repair",445,"Diagnostic Service ",39.99,No,39.99,,,Published
+28,"Samsung Galaxy Note 8 Repair","Samsung Note Repair",446,"Earpiece Repair ",219.99,No,219.99,,,Published
+28,"Samsung Galaxy Note 8 Repair","Samsung Note Repair",447,"Front Camera Repair ",219.99,No,219.99,,,Published
+28,"Samsung Galaxy Note 8 Repair","Samsung Note Repair",448,"Headphone Socket Repair ",219.99,No,219.99,,,Published
+28,"Samsung Galaxy Note 8 Repair","Samsung Note Repair",449,"Home Button Repair ",219.99,No,219.99,,,Published
+28,"Samsung Galaxy Note 8 Repair","Samsung Note Repair",450,"Liquid Damage Service ",69.99,No,69.99,,,Published
+28,"Samsung Galaxy Note 8 Repair","Samsung Note Repair",451,"Loudspeaker Repair ",219.99,No,219.99,,,Published
+28,"Samsung Galaxy Note 8 Repair","Samsung Note Repair",452,"Microphone Repair ",219.99,No,219.99,,,Published
+28,"Samsung Galaxy Note 8 Repair","Samsung Note Repair",453,"Mute Button Repair ",219.99,No,219.99,,,Published
+28,"Samsung Galaxy Note 8 Repair","Samsung Note Repair",454,"Power Button Repair ",219.99,No,219.99,,,Published
+28,"Samsung Galaxy Note 8 Repair","Samsung Note Repair",455,"Rear Camera Repair ",219.99,No,219.99,,,Published
+28,"Samsung Galaxy Note 8 Repair","Samsung Note Repair",456,"Rear Cover Repair ",219.99,No,219.99,,,Published
+28,"Samsung Galaxy Note 8 Repair","Samsung Note Repair",457,"Software Repair ",219.99,No,219.99,,,Published
+28,"Samsung Galaxy Note 8 Repair","Samsung Note Repair",458,"Vibration Repair ",219.99,No,219.99,,,Published
+28,"Samsung Galaxy Note 8 Repair","Samsung Note Repair",459,"Volume Repair ",219.99,No,219.99,,,Published
+28,"Samsung Galaxy Note 8 Repair","Samsung Note Repair",460,"WIFI Repair ",219.99,No,219.99,,,Published
+29,"Samsung Galaxy Note9","Samsung Note Repair",461,"Front Screen Repair ",199.99,No,199.99,,,Published
+29,"Samsung Galaxy Note9","Samsung Note Repair",462,"Antenna Repair ",199.99,No,199.99,,,Published
+29,"Samsung Galaxy Note9","Samsung Note Repair",463,"Battery Repair ",199.99,No,199.99,,,Published
+29,"Samsung Galaxy Note9","Samsung Note Repair",464,"Charging Port Repair ",199.99,No,199.99,,,Published
+29,"Samsung Galaxy Note9","Samsung Note Repair",465,"Diagnostic Service  ",39.99,No,39.99,,,Published
+29,"Samsung Galaxy Note9","Samsung Note Repair",466,"Earpiece Repair ",199.99,No,199.99,,,Published
+29,"Samsung Galaxy Note9","Samsung Note Repair",467,"Front Camera Repair ",199.99,No,199.99,,,Published
+29,"Samsung Galaxy Note9","Samsung Note Repair",468,"Headphone Socket Repair ",199.99,No,199.99,,,Published
+29,"Samsung Galaxy Note9","Samsung Note Repair",469,"Home Button Repair ",199.99,No,199.99,,,Published
+29,"Samsung Galaxy Note9","Samsung Note Repair",470,"Liquid Damage Service ",69.99,No,69.99,,,Published
+29,"Samsung Galaxy Note9","Samsung Note Repair",471,"Loudspeaker Repair ",199.99,No,199.99,,,Published
+29,"Samsung Galaxy Note9","Samsung Note Repair",472,"Microphone Repair ",199.99,No,199.99,,,Published
+29,"Samsung Galaxy Note9","Samsung Note Repair",473,"Mute Button Repair ",199.99,No,199.99,,,Published
+29,"Samsung Galaxy Note9","Samsung Note Repair",474,"Power Button Repair ",199.99,No,199.99,,,Published
+29,"Samsung Galaxy Note9","Samsung Note Repair",475,"Rear Camera Repair ",199.99,No,199.99,,,Published
+29,"Samsung Galaxy Note9","Samsung Note Repair",476,"Rear Cover Repair ",269.99,No,269.99,,,Published
+29,"Samsung Galaxy Note9","Samsung Note Repair",477,"Vibration Repair ",199.99,No,199.99,,,Published
+29,"Samsung Galaxy Note9","Samsung Note Repair",478,"Volume Repair ",199.99,No,199.99,,,Published
+29,"Samsung Galaxy Note9","Samsung Note Repair",479,"WIFI Repair ",199.99,No,199.99,,,Published
+30,"Samsung Note 3 (N9000) Repair","Samsung Note Repair",480,"Antenna Repair ",59.99,No,59.99,,,Published
+30,"Samsung Note 3 (N9000) Repair","Samsung Note Repair",481,"Battery Repair ",54.99,No,54.99,,,Published
+30,"Samsung Note 3 (N9000) Repair","Samsung Note Repair",482,"Bezel Replacement ",89.99,No,89.99,,,Published
+30,"Samsung Note 3 (N9000) Repair","Samsung Note Repair",483,"Charging Port Repair ",59.99,No,59.99,,,Published
+30,"Samsung Note 3 (N9000) Repair","Samsung Note Repair",484,"Diagnostic Service ",39.99,No,39.99,,,Published
+30,"Samsung Note 3 (N9000) Repair","Samsung Note Repair",485,"Earpiece Repair ",59.99,No,59.99,,,Published
+30,"Samsung Note 3 (N9000) Repair","Samsung Note Repair",486,"Front Camera Repair ",59.99,No,59.99,,,Published
+30,"Samsung Note 3 (N9000) Repair","Samsung Note Repair",487,"Headphone Socket Repair ",59.99,No,59.99,,,Published
+30,"Samsung Note 3 (N9000) Repair","Samsung Note Repair",488,"Home Button Repair ",59.99,No,59.99,,,Published
+30,"Samsung Note 3 (N9000) Repair","Samsung Note Repair",489,"Liquid Damage Service ",69.99,No,69.99,,,Published
+30,"Samsung Note 3 (N9000) Repair","Samsung Note Repair",490,"Loudspeaker Repair ",59.99,No,59.99,,,Published
+30,"Samsung Note 3 (N9000) Repair","Samsung Note Repair",491,"Microphone Repair ",59.99,No,59.99,,,Published
+30,"Samsung Note 3 (N9000) Repair","Samsung Note Repair",492,"Mute Button Repair ",59.99,No,59.99,,,Published
+30,"Samsung Note 3 (N9000) Repair","Samsung Note Repair",493,"Power Button Repair ",59.99,No,59.99,,,Published
+30,"Samsung Note 3 (N9000) Repair","Samsung Note Repair",494,"Rear Camera Repair ",54.99,No,54.99,,,Published
+30,"Samsung Note 3 (N9000) Repair","Samsung Note Repair",495,"Screen Frame Replacement ",69.99,No,69.99,,,Published
+30,"Samsung Note 3 (N9000) Repair","Samsung Note Repair",496,"Software Repair ",89.99,No,89.99,,,Published
+30,"Samsung Note 3 (N9000) Repair","Samsung Note Repair",497,"Vibration Repair ",59.99,No,59.99,,,Published
+30,"Samsung Note 3 (N9000) Repair","Samsung Note Repair",498,"Volume Repair ",59.99,No,59.99,,,Published
+30,"Samsung Note 3 (N9000) Repair","Samsung Note Repair",499,"WIFI Repair ",59.99,No,59.99,,,Published
+31,"Samsung Galaxy Note 5 Repair","Samsung Note Repair",500,"Front Screen Repair ",229.99,No,229.99,,,Published
+31,"Samsung Galaxy Note 5 Repair","Samsung Note Repair",501,"Antenna Repair ",119.99,No,119.99,,,Published
+31,"Samsung Galaxy Note 5 Repair","Samsung Note Repair",502,"Battery Repair ",119.99,No,119.99,,,Published
+31,"Samsung Galaxy Note 5 Repair","Samsung Note Repair",503,"Charging Port Repair ",119.99,No,119.99,,,Published
+31,"Samsung Galaxy Note 5 Repair","Samsung Note Repair",504,"Diagnostic Service ",39.99,No,39.99,,,Published
+31,"Samsung Galaxy Note 5 Repair","Samsung Note Repair",505,"Earpiece Repair ",119.99,No,119.99,,,Published
+31,"Samsung Galaxy Note 5 Repair","Samsung Note Repair",506,"Front Camera Repair ",119.99,No,119.99,,,Published
+31,"Samsung Galaxy Note 5 Repair","Samsung Note Repair",507,"Headphone Socket Repair ",119.99,No,119.99,,,Published
+31,"Samsung Galaxy Note 5 Repair","Samsung Note Repair",508,"Home Button Repair ",119.99,No,119.99,,,Published
+31,"Samsung Galaxy Note 5 Repair","Samsung Note Repair",509,"Liquid Damage Service ",119.99,No,119.99,,,Published
+31,"Samsung Galaxy Note 5 Repair","Samsung Note Repair",510,"Loudspeaker Repair ",119.99,No,119.99,,,Published
+31,"Samsung Galaxy Note 5 Repair","Samsung Note Repair",511,"Microphone Repair ",119.99,No,119.99,,,Published
+31,"Samsung Galaxy Note 5 Repair","Samsung Note Repair",512,"Mute Button Repair ",119.99,No,119.99,,,Published
+31,"Samsung Galaxy Note 5 Repair","Samsung Note Repair",513,"Power Button Repair ",119.99,No,119.99,,,Published
+31,"Samsung Galaxy Note 5 Repair","Samsung Note Repair",514,"Rear Camera Repair ",119.99,No,119.99,,,Published
+31,"Samsung Galaxy Note 5 Repair","Samsung Note Repair",515,"Rear Cover Repair ",119.99,No,119.99,,,Published
+31,"Samsung Galaxy Note 5 Repair","Samsung Note Repair",516,"Software Repair ",119.99,No,119.99,,,Published
+31,"Samsung Galaxy Note 5 Repair","Samsung Note Repair",517,"Vibration Repair ",119.99,No,119.99,,,Published
+31,"Samsung Galaxy Note 5 Repair","Samsung Note Repair",518,"Volume Repair ",119.99,No,119.99,,,Published
+31,"Samsung Galaxy Note 5 Repair","Samsung Note Repair",519,"WIFI Repair ",119.99,No,119.99,,,Published
+35,"Samsung Galaxy Note Edge Repair","Samsung Note Repair",571,"Antenna Repair ",119.99,No,119.99,,,Published
+35,"Samsung Galaxy Note Edge Repair","Samsung Note Repair",572,"Battery Repair ",119.99,No,119.99,,,Published
+35,"Samsung Galaxy Note Edge Repair","Samsung Note Repair",573,"Charging Port Repair ",119.99,No,119.99,,,Published
+35,"Samsung Galaxy Note Edge Repair","Samsung Note Repair",574,"Diagnostic Service ",39.99,No,39.99,,,Published
+35,"Samsung Galaxy Note Edge Repair","Samsung Note Repair",575,"Earpiece Repair ",119.99,No,119.99,,,Published
+35,"Samsung Galaxy Note Edge Repair","Samsung Note Repair",576,"Front Camera Repair ",119.99,No,119.99,,,Published
+35,"Samsung Galaxy Note Edge Repair","Samsung Note Repair",577,"Headphone Socket Repair ",119.99,No,119.99,,,Published
+35,"Samsung Galaxy Note Edge Repair","Samsung Note Repair",578,"Home Button Repair ",119.99,No,119.99,,,Published
+35,"Samsung Galaxy Note Edge Repair","Samsung Note Repair",579,"Liquid Damage Service ",69.99,No,69.99,,,Published
+35,"Samsung Galaxy Note Edge Repair","Samsung Note Repair",580,"Loudspeaker Repair ",119.99,No,119.99,,,Published
+35,"Samsung Galaxy Note Edge Repair","Samsung Note Repair",581,"Microphone Repair ",119.99,No,119.99,,,Published
+35,"Samsung Galaxy Note Edge Repair","Samsung Note Repair",582,"Mute Button Repair ",119.99,No,119.99,,,Published
+35,"Samsung Galaxy Note Edge Repair","Samsung Note Repair",583,"Power Button Repair ",119.99,No,119.99,,,Published
+35,"Samsung Galaxy Note Edge Repair","Samsung Note Repair",584,"Rear Camera Repair ",119.99,No,119.99,,,Published
+35,"Samsung Galaxy Note Edge Repair","Samsung Note Repair",585,"Rear Cover Repair ",119.99,No,119.99,,,Published
+35,"Samsung Galaxy Note Edge Repair","Samsung Note Repair",586,"Software Repair ",119.99,No,119.99,,,Published
+35,"Samsung Galaxy Note Edge Repair","Samsung Note Repair",587,"Vibration Repair ",119.99,No,119.99,,,Published
+35,"Samsung Galaxy Note Edge Repair","Samsung Note Repair",588,"Volume Repair ",119.99,No,119.99,,,Published
+35,"Samsung Galaxy Note Edge Repair","Samsung Note Repair",589,"WIFI Repair ",119.99,No,119.99,,,Published

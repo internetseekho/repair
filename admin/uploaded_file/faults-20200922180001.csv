@@ -1,0 +1,154 @@
+Model_ID,Model_Title,Device,fault_id,fault_name,regular_price,is_on_offer,sale_price,offer_start_date,offer_end_date,status
+204,"Microsoft Lumia 435 Repair",,3108,"Front Screen Repair ",74.99,No,74.99,,,Published
+204,"Microsoft Lumia 435 Repair",,3109,"Antenna Repair ",69.99,No,69.99,,,Published
+204,"Microsoft Lumia 435 Repair",,3110,"Battery Repair ",69.99,No,69.99,,,Published
+204,"Microsoft Lumia 435 Repair",,3111,"Charging Port Repair ",69.99,No,69.99,,,Published
+204,"Microsoft Lumia 435 Repair",,3112,"Earpiece Repair ",69.99,No,69.99,,,Published
+205,"Microsoft Lumia 535 Repair",,3113,"Front Glass Repair ",69.99,No,69.99,,,Published
+204,"Microsoft Lumia 435 Repair",,3114,"Front Camera Repair ",69.99,No,69.99,,,Published
+204,"Microsoft Lumia 435 Repair",,3115,"Headphone Socket Repair ",69.99,No,69.99,,,Published
+205,"Microsoft Lumia 535 Repair",,3116,"Antenna Repair ",69.99,No,69.99,,,Published
+205,"Microsoft Lumia 535 Repair",,3117,"Battery Repair ",54.99,No,54.99,,,Published
+204,"Microsoft Lumia 435 Repair",,3118,"Home Button Repair ",69.99,No,69.99,,,Published
+204,"Microsoft Lumia 435 Repair",,3119,"Liquid Damage Service ",69.99,No,69.99,,,Published
+205,"Microsoft Lumia 535 Repair",,3120,"Charging Port Repair ",63.99,No,63.99,,,Published
+205,"Microsoft Lumia 535 Repair",,3121,"Earpiece Repair ",58.99,No,58.99,,,Published
+204,"Microsoft Lumia 435 Repair",,3122,"Loudspeaker Repair ",69.99,No,69.99,,,Published
+204,"Microsoft Lumia 435 Repair",,3123,"Microphone Repair ",69.99,No,69.99,,,Published
+205,"Microsoft Lumia 535 Repair",,3124,"Front Camera Repair ",69.99,No,69.99,,,Published
+205,"Microsoft Lumia 535 Repair",,3125,"Headphone Socket Repair ",58.99,No,58.99,,,Published
+204,"Microsoft Lumia 435 Repair",,3126,"Mute Button Repair ",69.99,No,69.99,,,Published
+204,"Microsoft Lumia 435 Repair",,3127,"Power Button Repair ",69.99,No,69.99,,,Published
+205,"Microsoft Lumia 535 Repair",,3128,"LCD Repair ",79.99,No,79.99,,,Published
+205,"Microsoft Lumia 535 Repair",,3129,"Liquid Damage Service ",69.99,No,69.99,,,Published
+204,"Microsoft Lumia 435 Repair",,3130,"Rear Camera Repair ",69.99,No,69.99,,,Published
+204,"Microsoft Lumia 435 Repair",,3131,"Rear Cover Repair ",69.99,No,69.99,,,Published
+205,"Microsoft Lumia 535 Repair",,3132,"Loudspeaker Repair ",58.99,No,58.99,,,Published
+205,"Microsoft Lumia 535 Repair",,3133,"Microphone Repair ",58.99,No,58.99,,,Published
+204,"Microsoft Lumia 435 Repair",,3134,"Vibration Repair ",69.99,No,69.99,,,Published
+204,"Microsoft Lumia 435 Repair",,3135,"Volume Repair ",69.99,No,69.99,,,Published
+205,"Microsoft Lumia 535 Repair",,3136,"Mute Button Repair ",58.99,No,58.99,,,Published
+205,"Microsoft Lumia 535 Repair",,3137,"Power Button Repair ",58.99,No,58.99,,,Published
+204,"Microsoft Lumia 435 Repair",,3138,"Diagnostic Service ",39.99,No,39.99,,,Published
+205,"Microsoft Lumia 535 Repair",,3139,"Rear Camera Repair ",58.99,No,58.99,,,Published
+205,"Microsoft Lumia 535 Repair",,3140,"Vibration Repair ",69.99,No,69.99,,,Published
+205,"Microsoft Lumia 535 Repair",,3141,"Volume Repair ",58.99,No,58.99,,,Published
+205,"Microsoft Lumia 535 Repair",,3142,"Diagnostic Service ",39.99,No,39.99,,,Published
+231,"Microsoft Lumia 640XL Repair",,3569,"Front Screen Repair ",79.99,No,79.99,,,Published
+233,"Microsoft Lumia 650 Repair",,3577,"Front Screen Repair ",119.99,No,119.99,,,Published
+231,"Microsoft Lumia 640XL Repair",,3578,"Antenna Repair ",99.99,No,99.99,,,Published
+231,"Microsoft Lumia 640XL Repair",,3579,"Battery Repair ",99.99,No,99.99,,,Published
+233,"Microsoft Lumia 650 Repair",,3586,"Antenna Repair ",99.99,No,99.99,,,Published
+233,"Microsoft Lumia 650 Repair",,3587,"Battery Repair ",99.99,No,99.99,,,Published
+234,"Microsoft Lumia 640 Repair",,3588,"Front Screen Repair ",84.99,No,84.99,,,Published
+231,"Microsoft Lumia 640XL Repair",,3589,"Diagnostic Service ",39.99,No,39.99,,,Published
+231,"Microsoft Lumia 640XL Repair",,3590,"Earpiece Repair ",99.99,No,99.99,,,Published
+236,"Microsoft Lumia 550 Repair",,3594,"Front Screen Repair ",58.99,No,58.99,,,Published
+233,"Microsoft Lumia 650 Repair",,3599,"Charging Port Repair ",99.99,No,99.99,,,Published
+233,"Microsoft Lumia 650 Repair",,3600,"Earpiece Repair ",99.99,No,99.99,,,Published
+234,"Microsoft Lumia 640 Repair",,3601,"Antenna Repair ",69.99,No,69.99,,,Published
+234,"Microsoft Lumia 640 Repair",,3602,"Battery Repair ",69.99,No,69.99,,,Published
+231,"Microsoft Lumia 640XL Repair",,3603,"Front Camera Repair ",99.99,No,99.99,,,Published
+231,"Microsoft Lumia 640XL Repair",,3604,"Headphone Socket Repair ",99.99,No,99.99,,,Published
+236,"Microsoft Lumia 550 Repair",,3609,"Antenna Repair ",69.99,No,69.99,,,Published
+236,"Microsoft Lumia 550 Repair",,3610,"Battery Repair ",69.99,No,69.99,,,Published
+233,"Microsoft Lumia 650 Repair",,3615,"Front Camera Repair ",99.99,No,99.99,,,Published
+233,"Microsoft Lumia 650 Repair",,3616,"Headphone Socket Repair ",99.99,No,99.99,,,Published
+234,"Microsoft Lumia 640 Repair",,3617,"Charging Port Repair ",69.99,No,69.99,,,Published
+234,"Microsoft Lumia 640 Repair",,3618,"Earpiece Repair ",69.99,No,69.99,,,Published
+231,"Microsoft Lumia 640XL Repair",,3619,"Liquid Damage Service ",69.99,No,69.99,,,Published
+231,"Microsoft Lumia 640XL Repair",,3620,"Loudspeaker Repair ",99.99,No,99.99,,,Published
+236,"Microsoft Lumia 550 Repair",,3625,"Charging Port Repair ",69.99,No,69.99,,,Published
+236,"Microsoft Lumia 550 Repair",,3626,"Diagnostic Service ",39.99,No,39.99,,,Published
+233,"Microsoft Lumia 650 Repair",,3631,"Liquid Damage Service ",69.99,No,69.99,,,Published
+233,"Microsoft Lumia 650 Repair",,3632,"Loudspeaker Repair ",99.99,No,99.99,,,Published
+234,"Microsoft Lumia 640 Repair",,3633,"Front Camera Repair ",69.99,No,69.99,,,Published
+234,"Microsoft Lumia 640 Repair",,3634,"Headphone Socket Repair ",69.99,No,69.99,,,Published
+231,"Microsoft Lumia 640XL Repair",,3635,"Charging Port Repair ",99.99,No,99.99,,,Published
+231,"Microsoft Lumia 640XL Repair",,3636,"Microphone Repair ",99.99,No,99.99,,,Published
+236,"Microsoft Lumia 550 Repair",,3641,"Earpiece Repair ",69.99,No,69.99,,,Published
+236,"Microsoft Lumia 550 Repair",,3642,"Front Camera Repair ",69.99,No,69.99,,,Published
+233,"Microsoft Lumia 650 Repair",,3647,"Microphone Repair ",99.99,No,99.99,,,Published
+233,"Microsoft Lumia 650 Repair",,3648,"Mute Button Repair ",99.99,No,99.99,,,Published
+234,"Microsoft Lumia 640 Repair",,3649,"Liquid Damage Service ",69.99,No,69.99,,,Published
+234,"Microsoft Lumia 640 Repair",,3650,"Loudspeaker Repair ",69.99,No,69.99,,,Published
+231,"Microsoft Lumia 640XL Repair",,3651,"Mute Button Repair ",99.99,No,99.99,,,Published
+231,"Microsoft Lumia 640XL Repair",,3652,"Power Button Repair ",99.99,No,99.99,,,Published
+236,"Microsoft Lumia 550 Repair",,3656,"Headphone Socket Repair ",69.99,No,69.99,,,Published
+236,"Microsoft Lumia 550 Repair",,3657,"Home Button Repair ",69.99,No,69.99,,,Published
+233,"Microsoft Lumia 650 Repair",,3662,"Power Button Repair ",99.99,No,99.99,,,Published
+233,"Microsoft Lumia 650 Repair",,3663,"Rear Camera Repair ",99.99,No,99.99,,,Published
+234,"Microsoft Lumia 640 Repair",,3664,"Microphone Repair ",69.99,No,69.99,,,Published
+234,"Microsoft Lumia 640 Repair",,3665,"Mute Button Repair ",69.99,No,69.99,,,Published
+231,"Microsoft Lumia 640XL Repair",,3666,"Rear Camera Repair ",99.99,No,99.99,,,Published
+231,"Microsoft Lumia 640XL Repair",,3667,"Vibration Repair ",99.99,No,99.99,,,Published
+236,"Microsoft Lumia 550 Repair",,3672,"Liquid Damage Service ",69.99,No,69.99,,,Published
+236,"Microsoft Lumia 550 Repair",,3673,"Loudspeaker Repair ",69.99,No,69.99,,,Published
+233,"Microsoft Lumia 650 Repair",,3678,"Vibration Repair ",99.99,No,99.99,,,Published
+233,"Microsoft Lumia 650 Repair",,3679,"Volume Repair ",99.99,No,99.99,,,Published
+234,"Microsoft Lumia 640 Repair",,3680,"Power Button Repair ",69.99,No,69.99,,,Published
+234,"Microsoft Lumia 640 Repair",,3681,"Rear Camera Repair ",69.99,No,69.99,,,Published
+231,"Microsoft Lumia 640XL Repair",,3682,"Volume Repair ",99.99,No,99.99,,,Published
+236,"Microsoft Lumia 550 Repair",,3685,"Microphone Repair ",69.99,No,69.99,,,Published
+236,"Microsoft Lumia 550 Repair",,3686,"Mute Button Repair ",69.99,No,69.99,,,Published
+233,"Microsoft Lumia 650 Repair",,3689,"Diagnostic Service ",39.99,No,39.99,,,Published
+234,"Microsoft Lumia 640 Repair",,3690,"Vibration Repair ",69.99,No,69.99,,,Published
+234,"Microsoft Lumia 640 Repair",,3691,"Volume Repair ",69.99,No,69.99,,,Published
+236,"Microsoft Lumia 550 Repair",,3693,"Power Button Repair ",69.99,No,69.99,,,Published
+236,"Microsoft Lumia 550 Repair",,3694,"Rear Camera Repair ",69.99,No,69.99,,,Published
+234,"Microsoft Lumia 640 Repair",,3695,"Diagnostic Service ",39.99,No,39.99,,,Published
+236,"Microsoft Lumia 550 Repair",,3696,"Rear Cover Repair ",69.99,No,69.99,,,Published
+236,"Microsoft Lumia 550 Repair",,3697,"Vibration Repair ",69.99,No,69.99,,,Published
+236,"Microsoft Lumia 550 Repair",,3698,"Volume Repair ",69.99,No,69.99,,,Published
+237,"Microsoft Lumia 950 Repair",,3699,"Front Screen Repair ",104.99,No,104.99,,,Published
+237,"Microsoft Lumia 950 Repair",,3700,"Antenna Repair ",99.99,No,99.99,,,Published
+237,"Microsoft Lumia 950 Repair",,3701,"Battery Repair ",99.99,No,99.99,,,Published
+237,"Microsoft Lumia 950 Repair",,3702,"Charging Port Repair ",99.99,No,99.99,,,Published
+237,"Microsoft Lumia 950 Repair",,3703,"Earpiece Repair ",99.99,No,99.99,,,Published
+237,"Microsoft Lumia 950 Repair",,3704,"Front Camera Repair ",99.99,No,99.99,,,Published
+237,"Microsoft Lumia 950 Repair",,3705,"Headphone Socket Repair ",99.99,No,99.99,,,Published
+237,"Microsoft Lumia 950 Repair",,3706,"Liquid Damage Service ",69.99,No,69.99,,,Published
+237,"Microsoft Lumia 950 Repair",,3707,"Loudspeaker Repair ",99.99,No,99.99,,,Published
+237,"Microsoft Lumia 950 Repair",,3708,"Microphone Repair ",99.99,No,99.99,,,Published
+238,"Microsoft 650XL Repairs",,3709,"Front Screen Repair ",109.99,No,109.99,,,Published
+237,"Microsoft Lumia 950 Repair",,3710,"Mute Button Repair ",99.99,No,99.99,,,Published
+237,"Microsoft Lumia 950 Repair",,3711,"Power Button Repair ",99.99,No,99.99,,,Published
+238,"Microsoft 650XL Repairs",,3712,"Antenna Repair ",79.99,No,79.99,,,Published
+238,"Microsoft 650XL Repairs",,3713,"Battery Repair ",79.99,No,79.99,,,Published
+237,"Microsoft Lumia 950 Repair",,3714,"Rear Camera Repair ",99.99,No,99.99,,,Published
+237,"Microsoft Lumia 950 Repair",,3715,"Vibration Repair ",99.99,No,99.99,,,Published
+238,"Microsoft 650XL Repairs",,3716,"Charging Port Repair ",79.99,No,79.99,,,Published
+238,"Microsoft 650XL Repairs",,3717,"Earpiece Repair ",79.99,No,79.99,,,Published
+237,"Microsoft Lumia 950 Repair",,3718,"Volume Repair ",99.99,No,99.99,,,Published
+237,"Microsoft Lumia 950 Repair",,3719,"Diagnostic Service ",39.99,No,39.99,,,Published
+238,"Microsoft 650XL Repairs",,3720,"Front Camera Repair ",79.99,No,79.99,,,Published
+238,"Microsoft 650XL Repairs",,3721,"Headphone Socket Repair ",79.99,No,79.99,,,Published
+238,"Microsoft 650XL Repairs",,3722,"Home Button Repair ",79.99,No,79.99,,,Published
+238,"Microsoft 650XL Repairs",,3723,"Liquid Damage Service ",79.99,No,79.99,,,Published
+238,"Microsoft 650XL Repairs",,3724,"Loudspeaker Repair ",79.99,No,79.99,,,Published
+238,"Microsoft 650XL Repairs",,3725,"Microphone Repair ",79.99,No,79.99,,,Published
+238,"Microsoft 650XL Repairs",,3726,"Mute Button Repair ",79.99,No,79.99,,,Published
+238,"Microsoft 650XL Repairs",,3727,"Power Button Repair ",79.99,No,79.99,,,Published
+238,"Microsoft 650XL Repairs",,3728,"Rear Camera Repair ",79.99,No,79.99,,,Published
+238,"Microsoft 650XL Repairs",,3729,"Rear Cover Repair ",79.99,No,79.99,,,Published
+238,"Microsoft 650XL Repairs",,3730,"Software Repair ",79.99,No,79.99,,,Published
+238,"Microsoft 650XL Repairs",,3731,"Vibration Repair ",79.99,No,79.99,,,Published
+238,"Microsoft 650XL Repairs",,3732,"Volume Repair ",79.99,No,79.99,,,Published
+238,"Microsoft 650XL Repairs",,3733,"WIFI Repair ",79.99,No,79.99,,,Published
+238,"Microsoft 650XL Repairs",,3734,"Diagnostic Service ",39.99,No,39.99,,,Published
+244,"Microsoft Lumia 950 XL Repair",,3789,"Front Screen Repair ",219.99,No,219.99,,,Published
+244,"Microsoft Lumia 950 XL Repair",,3799,"Antenna Repair ",99.99,No,99.99,,,Published
+244,"Microsoft Lumia 950 XL Repair",,3800,"Battery Repair ",99.99,No,99.99,,,Published
+244,"Microsoft Lumia 950 XL Repair",,3811,"Charging Port Repair ",99.99,No,99.99,,,Published
+244,"Microsoft Lumia 950 XL Repair",,3812,"Earpiece Repair ",99.99,No,99.99,,,Published
+244,"Microsoft Lumia 950 XL Repair",,3823,"Front Camera Repair ",99.99,No,99.99,,,Published
+244,"Microsoft Lumia 950 XL Repair",,3824,"Headphone Socket Repair ",99.99,No,99.99,,,Published
+244,"Microsoft Lumia 950 XL Repair",,3834,"Liquid Damage Service ",69.99,No,69.99,,,Published
+244,"Microsoft Lumia 950 XL Repair",,3835,"Loudspeaker Repair ",99.99,No,99.99,,,Published
+244,"Microsoft Lumia 950 XL Repair",,3844,"Microphone Repair ",99.99,No,99.99,,,Published
+244,"Microsoft Lumia 950 XL Repair",,3845,"Mute Button Repair ",99.99,No,99.99,,,Published
+244,"Microsoft Lumia 950 XL Repair",,3854,"Power Button Repair ",99.99,No,99.99,,,Published
+244,"Microsoft Lumia 950 XL Repair",,3855,"Rear Camera Repair ",99.99,No,99.99,,,Published
+244,"Microsoft Lumia 950 XL Repair",,3863,"Vibration Repair ",99.99,No,99.99,,,Published
+244,"Microsoft Lumia 950 XL Repair",,3864,"Volume Repair ",99.99,No,99.99,,,Published
+244,"Microsoft Lumia 950 XL Repair",,3871,"Diagnostic Service ",39.99,No,39.99,,,Published

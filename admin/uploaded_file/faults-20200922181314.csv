@@ -1,0 +1,207 @@
+Model_ID,Model_Title,Device,fault_id,fault_name,regular_price,is_on_offer,sale_price,offer_start_date,offer_end_date,status
+11,"Samsung Tab P1000 Repair","Samsung Tab Repair",154,"Front Glass Repair ",64.99,No,64.99,,,Published
+11,"Samsung Tab P1000 Repair","Samsung Tab Repair",155,"Battery Repair ",89.99,No,89.99,,,Published
+11,"Samsung Tab P1000 Repair","Samsung Tab Repair",156,"Charging Port Repair ",89.99,No,89.99,,,Published
+11,"Samsung Tab P1000 Repair","Samsung Tab Repair",157,"Diagnostic Service ",39.99,No,39.99,,,Published
+11,"Samsung Tab P1000 Repair","Samsung Tab Repair",158,"Front Camera Repair ",89.99,No,89.99,,,Published
+11,"Samsung Tab P1000 Repair","Samsung Tab Repair",159,"Headphone Socket Repair ",89.99,No,89.99,,,Published
+11,"Samsung Tab P1000 Repair","Samsung Tab Repair",160,"Liquid Damage Service ",69.99,No,69.99,,,Published
+11,"Samsung Tab P1000 Repair","Samsung Tab Repair",161,"Loudspeaker Repair ",89.99,No,89.99,,,Published
+11,"Samsung Tab P1000 Repair","Samsung Tab Repair",162,"Microphone Repair ",89.99,No,89.99,,,Published
+11,"Samsung Tab P1000 Repair","Samsung Tab Repair",163,"Mute Button Repair ",89.99,No,89.99,,,Published
+11,"Samsung Tab P1000 Repair","Samsung Tab Repair",164,"Power Button Repair ",89.99,No,89.99,,,Published
+11,"Samsung Tab P1000 Repair","Samsung Tab Repair",165,"Rear Camera Repair ",89.99,No,89.99,,,Published
+11,"Samsung Tab P1000 Repair","Samsung Tab Repair",166,"Rear Cover Repair ",119.99,No,119.99,,,Published
+11,"Samsung Tab P1000 Repair","Samsung Tab Repair",167,"Volume Repair ",89.99,No,89.99,,,Published
+11,"Samsung Tab P1000 Repair","Samsung Tab Repair",168,"WIFI Repair ",89.99,No,89.99,,,Published
+76,"Samsung Tab 2 7.0 (P3100) Repair","Samsung Tab Repair",1310,"Front Glass Repair ",79.99,No,79.99,,,Published
+76,"Samsung Tab 2 7.0 (P3100) Repair","Samsung Tab Repair",1311,"Battery Repair ",89.99,No,89.99,,,Published
+76,"Samsung Tab 2 7.0 (P3100) Repair","Samsung Tab Repair",1312,"Charging Port Repair ",69.99,No,69.99,,,Published
+76,"Samsung Tab 2 7.0 (P3100) Repair","Samsung Tab Repair",1313,"Diagnostic Service ",39.99,No,39.99,,,Published
+76,"Samsung Tab 2 7.0 (P3100) Repair","Samsung Tab Repair",1314,"Front Camera Repair ",89.99,No,89.99,,,Published
+76,"Samsung Tab 2 7.0 (P3100) Repair","Samsung Tab Repair",1315,"Headphone Socket Repair ",89.99,No,89.99,,,Published
+76,"Samsung Tab 2 7.0 (P3100) Repair","Samsung Tab Repair",1316,"Liquid Damage Service ",69.99,No,69.99,,,Published
+76,"Samsung Tab 2 7.0 (P3100) Repair","Samsung Tab Repair",1317,"Loudspeaker Repair ",89.99,No,89.99,,,Published
+76,"Samsung Tab 2 7.0 (P3100) Repair","Samsung Tab Repair",1318,"Microphone Repair ",89.99,No,89.99,,,Published
+76,"Samsung Tab 2 7.0 (P3100) Repair","Samsung Tab Repair",1319,"Mute Button Repair ",89.99,No,89.99,,,Published
+76,"Samsung Tab 2 7.0 (P3100) Repair","Samsung Tab Repair",1320,"Power Button Repair ",89.99,No,89.99,,,Published
+76,"Samsung Tab 2 7.0 (P3100) Repair","Samsung Tab Repair",1321,"Rear Camera Repair ",89.99,No,89.99,,,Published
+76,"Samsung Tab 2 7.0 (P3100) Repair","Samsung Tab Repair",1322,"Rear Cover Repair ",119.99,No,119.99,,,Published
+76,"Samsung Tab 2 7.0 (P3100) Repair","Samsung Tab Repair",1323,"Volume Repair ",89.99,No,89.99,,,Published
+76,"Samsung Tab 2 7.0 (P3100) Repair","Samsung Tab Repair",1324,"WIFI Repair ",89.99,No,89.99,,,Published
+79,"Samsung Tab 2 10.1 (P5100) Repair","Samsung Tab Repair",1359,"Front Glass Repair ",99.99,No,99.99,,,Published
+79,"Samsung Tab 2 10.1 (P5100) Repair","Samsung Tab Repair",1360,"Battery Repair ",89.99,No,89.99,,,Published
+79,"Samsung Tab 2 10.1 (P5100) Repair","Samsung Tab Repair",1361,"Charging Port Repair ",69.99,No,69.99,,,Published
+79,"Samsung Tab 2 10.1 (P5100) Repair","Samsung Tab Repair",1362,"Diagnostic Service ",39.99,No,39.99,,,Published
+79,"Samsung Tab 2 10.1 (P5100) Repair","Samsung Tab Repair",1363,"Front Camera Repair ",89.99,No,89.99,,,Published
+79,"Samsung Tab 2 10.1 (P5100) Repair","Samsung Tab Repair",1364,"Headphone Socket Repair ",89.99,No,89.99,,,Published
+79,"Samsung Tab 2 10.1 (P5100) Repair","Samsung Tab Repair",1365,"LCD Repair ",99.99,No,99.99,,,Published
+79,"Samsung Tab 2 10.1 (P5100) Repair","Samsung Tab Repair",1366,"Liquid Damage Service ",69.99,No,69.99,,,Published
+79,"Samsung Tab 2 10.1 (P5100) Repair","Samsung Tab Repair",1367,"Loudspeaker Repair ",89.99,No,89.99,,,Published
+79,"Samsung Tab 2 10.1 (P5100) Repair","Samsung Tab Repair",1368,"Microphone Repair ",89.99,No,89.99,,,Published
+79,"Samsung Tab 2 10.1 (P5100) Repair","Samsung Tab Repair",1369,"Mute Button Repair ",89.99,No,89.99,,,Published
+79,"Samsung Tab 2 10.1 (P5100) Repair","Samsung Tab Repair",1370,"Power Button Repair ",89.99,No,89.99,,,Published
+79,"Samsung Tab 2 10.1 (P5100) Repair","Samsung Tab Repair",1371,"Rear Camera Repair ",89.99,No,89.99,,,Published
+79,"Samsung Tab 2 10.1 (P5100) Repair","Samsung Tab Repair",1372,"Rear Cover Repair ",119.99,No,119.99,,,Published
+79,"Samsung Tab 2 10.1 (P5100) Repair","Samsung Tab Repair",1373,"Volume Repair ",89.99,No,89.99,,,Published
+79,"Samsung Tab 2 10.1 (P5100) Repair","Samsung Tab Repair",1374,"WIFI Repair ",89.99,No,89.99,,,Published
+80,"Samsung Tab 3 7.0 (T2100/T2105) Repair","Samsung Tab Repair",1375,"Front Glass Repair ",79.99,No,79.99,,,Published
+80,"Samsung Tab 3 7.0 (T2100/T2105) Repair","Samsung Tab Repair",1376,"Battery Repair ",89.99,No,89.99,,,Published
+80,"Samsung Tab 3 7.0 (T2100/T2105) Repair","Samsung Tab Repair",1377,"Charging Port Repair ",69.99,No,69.99,,,Published
+80,"Samsung Tab 3 7.0 (T2100/T2105) Repair","Samsung Tab Repair",1378,"Diagnostic Service ",39.99,No,39.99,,,Published
+80,"Samsung Tab 3 7.0 (T2100/T2105) Repair","Samsung Tab Repair",1379,"Front Camera Repair ",89.99,No,89.99,,,Published
+80,"Samsung Tab 3 7.0 (T2100/T2105) Repair","Samsung Tab Repair",1380,"Headphone Socket Repair ",89.99,No,89.99,,,Published
+80,"Samsung Tab 3 7.0 (T2100/T2105) Repair","Samsung Tab Repair",1381,"Liquid Damage Service ",69.99,No,69.99,,,Published
+80,"Samsung Tab 3 7.0 (T2100/T2105) Repair","Samsung Tab Repair",1382,"Loudspeaker Repair ",89.99,No,89.99,,,Published
+80,"Samsung Tab 3 7.0 (T2100/T2105) Repair","Samsung Tab Repair",1383,"Microphone Repair ",89.99,No,89.99,,,Published
+80,"Samsung Tab 3 7.0 (T2100/T2105) Repair","Samsung Tab Repair",1384,"Mute Button Repair ",89.99,No,89.99,,,Published
+80,"Samsung Tab 3 7.0 (T2100/T2105) Repair","Samsung Tab Repair",1385,"Power Button Repair ",89.99,No,89.99,,,Published
+80,"Samsung Tab 3 7.0 (T2100/T2105) Repair","Samsung Tab Repair",1386,"Rear Camera Repair ",89.99,No,89.99,,,Published
+80,"Samsung Tab 3 7.0 (T2100/T2105) Repair","Samsung Tab Repair",1387,"Rear Cover Repair ",119.99,No,119.99,,,Published
+80,"Samsung Tab 3 7.0 (T2100/T2105) Repair","Samsung Tab Repair",1388,"Volume Repair ",89.99,No,89.99,,,Published
+80,"Samsung Tab 3 7.0 (T2100/T2105) Repair","Samsung Tab Repair",1389,"WIFI Repair ",89.99,No,89.99,,,Published
+81,"Samsung Tab A 9.7 P550 Repair","Samsung Tab Repair",1390,"Front Screen Repair ",209.99,No,209.99,,,Published
+81,"Samsung Tab A 9.7 P550 Repair","Samsung Tab Repair",1391,"Battery Repair ",89.99,No,89.99,,,Published
+81,"Samsung Tab A 9.7 P550 Repair","Samsung Tab Repair",1392,"Charging Port Repair ",89.99,No,89.99,,,Published
+81,"Samsung Tab A 9.7 P550 Repair","Samsung Tab Repair",1393,"Diagnostic Service ",39.99,No,39.99,,,Published
+81,"Samsung Tab A 9.7 P550 Repair","Samsung Tab Repair",1394,"Front Camera Repair ",89.99,No,89.99,,,Published
+81,"Samsung Tab A 9.7 P550 Repair","Samsung Tab Repair",1395,"Headphone Socket Repair ",89.99,No,89.99,,,Published
+81,"Samsung Tab A 9.7 P550 Repair","Samsung Tab Repair",1396,"Liquid Damage Service ",69.99,No,69.99,,,Published
+81,"Samsung Tab A 9.7 P550 Repair","Samsung Tab Repair",1397,"Microphone Repair ",89.99,No,89.99,,,Published
+81,"Samsung Tab A 9.7 P550 Repair","Samsung Tab Repair",1398,"Mute Button Repair ",89.99,No,89.99,,,Published
+81,"Samsung Tab A 9.7 P550 Repair","Samsung Tab Repair",1399,"Power Button Repair ",89.99,No,89.99,,,Published
+81,"Samsung Tab A 9.7 P550 Repair","Samsung Tab Repair",1400,"Rear Camera Repair ",89.99,No,89.99,,,Published
+81,"Samsung Tab A 9.7 P550 Repair","Samsung Tab Repair",1401,"Rear Cover Repair ",119.99,No,119.99,,,Published
+81,"Samsung Tab A 9.7 P550 Repair","Samsung Tab Repair",1402,"Volume Repair ",89.99,No,89.99,,,Published
+81,"Samsung Tab A 9.7 P550 Repair","Samsung Tab Repair",1403,"WIFI Repair ",89.99,No,89.99,,,Published
+82,"Samsung Tab A 9.7 T550 Repair","Samsung Tab Repair",1404,"Front Screen Repair ",209.99,No,209.99,,,Published
+82,"Samsung Tab A 9.7 T550 Repair","Samsung Tab Repair",1405,"Battery Repair ",89.99,No,89.99,,,Published
+82,"Samsung Tab A 9.7 T550 Repair","Samsung Tab Repair",1406,"Charging Port Repair ",89.99,No,89.99,,,Published
+82,"Samsung Tab A 9.7 T550 Repair","Samsung Tab Repair",1407,"Diagnostic Service ",39.99,No,39.99,,,Published
+82,"Samsung Tab A 9.7 T550 Repair","Samsung Tab Repair",1408,"Front Camera Repair ",89.99,No,89.99,,,Published
+82,"Samsung Tab A 9.7 T550 Repair","Samsung Tab Repair",1409,"Headphone Socket Repair ",89.99,No,89.99,,,Published
+82,"Samsung Tab A 9.7 T550 Repair","Samsung Tab Repair",1410,"Liquid Damage Service ",69.99,No,69.99,,,Published
+82,"Samsung Tab A 9.7 T550 Repair","Samsung Tab Repair",1411,"Loudspeaker Repair ",89.99,No,89.99,,,Published
+82,"Samsung Tab A 9.7 T550 Repair","Samsung Tab Repair",1412,"Microphone Repair ",89.99,No,89.99,,,Published
+82,"Samsung Tab A 9.7 T550 Repair","Samsung Tab Repair",1413,"Mute Button Repair ",89.99,No,89.99,,,Published
+82,"Samsung Tab A 9.7 T550 Repair","Samsung Tab Repair",1414,"Power Button Repair ",89.99,No,89.99,,,Published
+82,"Samsung Tab A 9.7 T550 Repair","Samsung Tab Repair",1415,"Rear Camera Repair ",89.99,No,89.99,,,Published
+82,"Samsung Tab A 9.7 T550 Repair","Samsung Tab Repair",1416,"Rear Cover Repair ",119.99,No,119.99,,,Published
+82,"Samsung Tab A 9.7 T550 Repair","Samsung Tab Repair",1417,"Volume Repair ",89.99,No,89.99,,,Published
+82,"Samsung Tab A 9.7 T550 Repair","Samsung Tab Repair",1418,"WIFI Repair ",89.99,No,89.99,,,Published
+83,"Samsung Galaxy Tab 4 7.0 (T230) Repair","Samsung Tab Repair",1419,"Battery Repair ",89.99,No,89.99,,,Published
+83,"Samsung Galaxy Tab 4 7.0 (T230) Repair","Samsung Tab Repair",1420,"Charging Port Repair ",69.99,No,69.99,,,Published
+83,"Samsung Galaxy Tab 4 7.0 (T230) Repair","Samsung Tab Repair",1421,"Diagnostic Service ",39.99,No,39.99,,,Published
+83,"Samsung Galaxy Tab 4 7.0 (T230) Repair","Samsung Tab Repair",1422,"Front Camera Repair ",89.99,No,89.99,,,Published
+83,"Samsung Galaxy Tab 4 7.0 (T230) Repair","Samsung Tab Repair",1423,"Headphone Socket Repair ",89.99,No,89.99,,,Published
+83,"Samsung Galaxy Tab 4 7.0 (T230) Repair","Samsung Tab Repair",1424,"Liquid Damage Service ",69.99,No,69.99,,,Published
+83,"Samsung Galaxy Tab 4 7.0 (T230) Repair","Samsung Tab Repair",1425,"Loudspeaker Repair ",89.99,No,89.99,,,Published
+83,"Samsung Galaxy Tab 4 7.0 (T230) Repair","Samsung Tab Repair",1426,"Microphone Repair ",89.99,No,89.99,,,Published
+83,"Samsung Galaxy Tab 4 7.0 (T230) Repair","Samsung Tab Repair",1427,"Mute Button Repair ",89.99,No,89.99,,,Published
+83,"Samsung Galaxy Tab 4 7.0 (T230) Repair","Samsung Tab Repair",1428,"Power Button Repair ",89.99,No,89.99,,,Published
+83,"Samsung Galaxy Tab 4 7.0 (T230) Repair","Samsung Tab Repair",1429,"Rear Camera Repair ",89.99,No,89.99,,,Published
+83,"Samsung Galaxy Tab 4 7.0 (T230) Repair","Samsung Tab Repair",1430,"Rear Cover Repair ",119.99,No,119.99,,,Published
+83,"Samsung Galaxy Tab 4 7.0 (T230) Repair","Samsung Tab Repair",1431,"Volume Repair ",89.99,No,89.99,,,Published
+83,"Samsung Galaxy Tab 4 7.0 (T230) Repair","Samsung Tab Repair",1432,"WIFI Repair ",89.99,No,89.99,,,Published
+84,"Samsung Tab 3 8.0 (T315) Repair","Samsung Tab Repair",1433,"Front Screen Repair ",109.99,No,109.99,,,Published
+84,"Samsung Tab 3 8.0 (T315) Repair","Samsung Tab Repair",1434,"Battery Repair ",89.99,No,89.99,,,Published
+84,"Samsung Tab 3 8.0 (T315) Repair","Samsung Tab Repair",1435,"Charging Port Repair ",89.99,No,89.99,,,Published
+84,"Samsung Tab 3 8.0 (T315) Repair","Samsung Tab Repair",1436,"Diagnostic Service ",39.99,No,39.99,,,Published
+84,"Samsung Tab 3 8.0 (T315) Repair","Samsung Tab Repair",1437,"Front Camera Repair ",89.99,No,89.99,,,Published
+84,"Samsung Tab 3 8.0 (T315) Repair","Samsung Tab Repair",1438,"Headphone Socket Repair ",89.99,No,89.99,,,Published
+84,"Samsung Tab 3 8.0 (T315) Repair","Samsung Tab Repair",1439,"Liquid Damage Service ",69.99,No,69.99,,,Published
+84,"Samsung Tab 3 8.0 (T315) Repair","Samsung Tab Repair",1440,"Loudspeaker Repair ",89.99,No,89.99,,,Published
+84,"Samsung Tab 3 8.0 (T315) Repair","Samsung Tab Repair",1441,"Microphone Repair ",89.99,No,89.99,,,Published
+84,"Samsung Tab 3 8.0 (T315) Repair","Samsung Tab Repair",1442,"Mute Button Repair ",89.99,No,89.99,,,Published
+84,"Samsung Tab 3 8.0 (T315) Repair","Samsung Tab Repair",1443,"Power Button Repair ",89.99,No,89.99,,,Published
+84,"Samsung Tab 3 8.0 (T315) Repair","Samsung Tab Repair",1444,"Rear Camera Repair ",89.99,No,89.99,,,Published
+84,"Samsung Tab 3 8.0 (T315) Repair","Samsung Tab Repair",1445,"Rear Cover Repair ",119.99,No,119.99,,,Published
+84,"Samsung Tab 3 8.0 (T315) Repair","Samsung Tab Repair",1446,"Volume Repair ",89.99,No,89.99,,,Published
+84,"Samsung Tab 3 8.0 (T315) Repair","Samsung Tab Repair",1447,"WIFI Repair ",89.99,No,89.99,,,Published
+85,"Samsung Galaxy Tab 4 10.1 (T530) Repair","Samsung Tab Repair",1448,"Battery Repair ",89.99,No,89.99,,,Published
+85,"Samsung Galaxy Tab 4 10.1 (T530) Repair","Samsung Tab Repair",1449,"Charging Port Repair ",69.99,No,69.99,,,Published
+85,"Samsung Galaxy Tab 4 10.1 (T530) Repair","Samsung Tab Repair",1450,"Diagnostic Service ",39.99,No,39.99,,,Published
+85,"Samsung Galaxy Tab 4 10.1 (T530) Repair","Samsung Tab Repair",1451,"Front Camera Repair ",89.99,No,89.99,,,Published
+85,"Samsung Galaxy Tab 4 10.1 (T530) Repair","Samsung Tab Repair",1452,"Headphone Socket Repair ",89.99,No,89.99,,,Published
+85,"Samsung Galaxy Tab 4 10.1 (T530) Repair","Samsung Tab Repair",1453,"Liquid Damage Service ",69.99,No,69.99,,,Published
+85,"Samsung Galaxy Tab 4 10.1 (T530) Repair","Samsung Tab Repair",1454,"Loudspeaker Repair ",89.99,No,89.99,,,Published
+85,"Samsung Galaxy Tab 4 10.1 (T530) Repair","Samsung Tab Repair",1455,"Microphone Repair ",89.99,No,89.99,,,Published
+85,"Samsung Galaxy Tab 4 10.1 (T530) Repair","Samsung Tab Repair",1456,"Mute Button Repair ",89.99,No,89.99,,,Published
+85,"Samsung Galaxy Tab 4 10.1 (T530) Repair","Samsung Tab Repair",1457,"Power Button Repair ",89.99,No,89.99,,,Published
+85,"Samsung Galaxy Tab 4 10.1 (T530) Repair","Samsung Tab Repair",1458,"Rear Camera Repair ",89.99,No,89.99,,,Published
+85,"Samsung Galaxy Tab 4 10.1 (T530) Repair","Samsung Tab Repair",1459,"Rear Cover Repair ",119.99,No,119.99,,,Published
+85,"Samsung Galaxy Tab 4 10.1 (T530) Repair","Samsung Tab Repair",1460,"WIFI Repair ",89.99,No,89.99,,,Published
+86,"Samsung Galaxy Tab S2 (8.0, T710) Repair","Samsung Tab Repair",1461,"Front Screen Repair ",319.99,No,319.99,,,Published
+86,"Samsung Galaxy Tab S2 (8.0, T710) Repair","Samsung Tab Repair",1462,"Battery Repair ",219.99,No,219.99,,,Published
+86,"Samsung Galaxy Tab S2 (8.0, T710) Repair","Samsung Tab Repair",1463,"Charging Port Repair ",219.99,No,219.99,,,Published
+86,"Samsung Galaxy Tab S2 (8.0, T710) Repair","Samsung Tab Repair",1464,"Diagnostic Service ",39.99,No,39.99,,,Published
+86,"Samsung Galaxy Tab S2 (8.0, T710) Repair","Samsung Tab Repair",1465,"Front Camera Repair ",219.99,No,219.99,,,Published
+86,"Samsung Galaxy Tab S2 (8.0, T710) Repair","Samsung Tab Repair",1466,"Headphone Socket Repair ",219.99,No,219.99,,,Published
+86,"Samsung Galaxy Tab S2 (8.0, T710) Repair","Samsung Tab Repair",1467,"Liquid Damage Service ",219.99,No,219.99,,,Published
+86,"Samsung Galaxy Tab S2 (8.0, T710) Repair","Samsung Tab Repair",1468,"Loudspeaker Repair ",219.99,No,219.99,,,Published
+86,"Samsung Galaxy Tab S2 (8.0, T710) Repair","Samsung Tab Repair",1469,"Microphone Repair ",219.99,No,219.99,,,Published
+86,"Samsung Galaxy Tab S2 (8.0, T710) Repair","Samsung Tab Repair",1470,"Mute Button Repair ",219.99,No,219.99,,,Published
+86,"Samsung Galaxy Tab S2 (8.0, T710) Repair","Samsung Tab Repair",1471,"Power Button Repair ",219.99,No,219.99,,,Published
+86,"Samsung Galaxy Tab S2 (8.0, T710) Repair","Samsung Tab Repair",1472,"Rear Camera Repair ",219.99,No,219.99,,,Published
+86,"Samsung Galaxy Tab S2 (8.0, T710) Repair","Samsung Tab Repair",1473,"Rear Cover Repair ",219.99,No,219.99,,,Published
+86,"Samsung Galaxy Tab S2 (8.0, T710) Repair","Samsung Tab Repair",1474,"Volume Repair ",219.99,No,219.99,,,Published
+86,"Samsung Galaxy Tab S2 (8.0, T710) Repair","Samsung Tab Repair",1475,"WIFI Repair ",219.99,No,219.99,,,Published
+87,"Samsung Galaxy Tab S2 (9.7, T810) Repair","Samsung Tab Repair",1476,"Front Screen Repair ",409.99,No,409.99,,,Published
+87,"Samsung Galaxy Tab S2 (9.7, T810) Repair","Samsung Tab Repair",1477,"Battery Repair ",219.99,No,219.99,,,Published
+87,"Samsung Galaxy Tab S2 (9.7, T810) Repair","Samsung Tab Repair",1478,"Charging Port Repair ",219.99,No,219.99,,,Published
+87,"Samsung Galaxy Tab S2 (9.7, T810) Repair","Samsung Tab Repair",1479,"Diagnostic Service ",39.99,No,39.99,,,Published
+87,"Samsung Galaxy Tab S2 (9.7, T810) Repair","Samsung Tab Repair",1480,"Front Camera Repair ",219.99,No,219.99,,,Published
+87,"Samsung Galaxy Tab S2 (9.7, T810) Repair","Samsung Tab Repair",1481,"Headphone Socket Repair ",219.99,No,219.99,,,Published
+87,"Samsung Galaxy Tab S2 (9.7, T810) Repair","Samsung Tab Repair",1482,"Liquid Damage Service ",219.99,No,219.99,,,Published
+87,"Samsung Galaxy Tab S2 (9.7, T810) Repair","Samsung Tab Repair",1483,"Loudspeaker Repair ",219.99,No,219.99,,,Published
+87,"Samsung Galaxy Tab S2 (9.7, T810) Repair","Samsung Tab Repair",1484,"Microphone Repair ",219.99,No,219.99,,,Published
+87,"Samsung Galaxy Tab S2 (9.7, T810) Repair","Samsung Tab Repair",1485,"Mute Button Repair ",219.99,No,219.99,,,Published
+87,"Samsung Galaxy Tab S2 (9.7, T810) Repair","Samsung Tab Repair",1486,"Power Button Repair ",219.99,No,219.99,,,Published
+87,"Samsung Galaxy Tab S2 (9.7, T810) Repair","Samsung Tab Repair",1487,"Rear Camera Repair ",219.99,No,219.99,,,Published
+87,"Samsung Galaxy Tab S2 (9.7, T810) Repair","Samsung Tab Repair",1488,"Rear Cover Repair ",219.99,No,219.99,,,Published
+87,"Samsung Galaxy Tab S2 (9.7, T810) Repair","Samsung Tab Repair",1489,"Volume Repair ",219.99,No,219.99,,,Published
+87,"Samsung Galaxy Tab S2 (9.7, T810) Repair","Samsung Tab Repair",1490,"WIFI Repair ",219.99,No,219.99,,,Published
+88,"Samsung Galaxy Tab A (7.0, T450)","Samsung Tab Repair",1491,"Battery Repair ",89.99,No,89.99,,,Published
+88,"Samsung Galaxy Tab A (7.0, T450)","Samsung Tab Repair",1492,"Charging Port Repair ",89.99,No,89.99,,,Published
+88,"Samsung Galaxy Tab A (7.0, T450)","Samsung Tab Repair",1493,"Diagnostic Service ",39.99,No,39.99,,,Published
+88,"Samsung Galaxy Tab A (7.0, T450)","Samsung Tab Repair",1494,"Front Camera Repair ",89.99,No,89.99,,,Published
+88,"Samsung Galaxy Tab A (7.0, T450)","Samsung Tab Repair",1495,"Headphone Socket Repair ",89.99,No,89.99,,,Published
+88,"Samsung Galaxy Tab A (7.0, T450)","Samsung Tab Repair",1496,"Liquid Damage Service ",69.99,No,69.99,,,Published
+88,"Samsung Galaxy Tab A (7.0, T450)","Samsung Tab Repair",1497,"Loudspeaker Repair ",89.99,No,89.99,,,Published
+88,"Samsung Galaxy Tab A (7.0, T450)","Samsung Tab Repair",1498,"Microphone Repair ",89.99,No,89.99,,,Published
+88,"Samsung Galaxy Tab A (7.0, T450)","Samsung Tab Repair",1499,"Mute Button Repair ",89.99,No,89.99,,,Published
+88,"Samsung Galaxy Tab A (7.0, T450)","Samsung Tab Repair",1500,"Power Button Repair ",89.99,No,89.99,,,Published
+88,"Samsung Galaxy Tab A (7.0, T450)","Samsung Tab Repair",1501,"Rear Camera Repair ",89.99,No,89.99,,,Published
+88,"Samsung Galaxy Tab A (7.0, T450)","Samsung Tab Repair",1502,"Rear Cover Repair ",119.99,No,119.99,,,Published
+88,"Samsung Galaxy Tab A (7.0, T450)","Samsung Tab Repair",1503,"Volume Repair ",89.99,No,89.99,,,Published
+88,"Samsung Galaxy Tab A (7.0, T450)","Samsung Tab Repair",1504,"WIFI Repair ",89.99,No,89.99,,,Published
+89,"Samsung Galaxy Tab S 8.4 (SM-T705/T700) Repair","Samsung Tab Repair",1505,"Front Screen Repair ",219.99,No,219.99,,,Published
+89,"Samsung Galaxy Tab S 8.4 (SM-T705/T700) Repair","Samsung Tab Repair",1506,"Battery Repair ",89.99,No,89.99,,,Published
+89,"Samsung Galaxy Tab S 8.4 (SM-T705/T700) Repair","Samsung Tab Repair",1507,"Charging Port Repair ",89.99,No,89.99,,,Published
+89,"Samsung Galaxy Tab S 8.4 (SM-T705/T700) Repair","Samsung Tab Repair",1508,"Diagnostic Service ",39.99,No,39.99,,,Published
+89,"Samsung Galaxy Tab S 8.4 (SM-T705/T700) Repair","Samsung Tab Repair",1509,"Front Camera Repair ",89.99,No,89.99,,,Published
+89,"Samsung Galaxy Tab S 8.4 (SM-T705/T700) Repair","Samsung Tab Repair",1510,"Headphone Socket Repair ",89.99,No,89.99,,,Published
+89,"Samsung Galaxy Tab S 8.4 (SM-T705/T700) Repair","Samsung Tab Repair",1511,"Liquid Damage Service ",69.99,No,69.99,,,Published
+89,"Samsung Galaxy Tab S 8.4 (SM-T705/T700) Repair","Samsung Tab Repair",1512,"Loudspeaker Repair ",89.99,No,89.99,,,Published
+89,"Samsung Galaxy Tab S 8.4 (SM-T705/T700) Repair","Samsung Tab Repair",1513,"Microphone Repair ",89.99,No,89.99,,,Published
+89,"Samsung Galaxy Tab S 8.4 (SM-T705/T700) Repair","Samsung Tab Repair",1514,"Mute Button Repair ",89.99,No,89.99,,,Published
+89,"Samsung Galaxy Tab S 8.4 (SM-T705/T700) Repair","Samsung Tab Repair",1515,"Power Button Repair ",89.99,No,89.99,,,Published
+89,"Samsung Galaxy Tab S 8.4 (SM-T705/T700) Repair","Samsung Tab Repair",1516,"Rear Camera Repair ",89.99,No,89.99,,,Published
+89,"Samsung Galaxy Tab S 8.4 (SM-T705/T700) Repair","Samsung Tab Repair",1517,"Rear Cover Repair ",119.99,No,119.99,,,Published
+89,"Samsung Galaxy Tab S 8.4 (SM-T705/T700) Repair","Samsung Tab Repair",1518,"Volume Repair ",89.99,No,89.99,,,Published
+89,"Samsung Galaxy Tab S 8.4 (SM-T705/T700) Repair","Samsung Tab Repair",1519,"WIFI Repair ",89.99,No,89.99,,,Published
+90,"Samsung Galaxy Tab S 10.5 (SM-T800,T804,T805) Repair","Samsung Tab Repair",1520,"Front Screen Repair ",219.99,No,219.99,,,Published
+90,"Samsung Galaxy Tab S 10.5 (SM-T800,T804,T805) Repair","Samsung Tab Repair",1521,"Battery Repair ",89.99,No,89.99,,,Published
+90,"Samsung Galaxy Tab S 10.5 (SM-T800,T804,T805) Repair","Samsung Tab Repair",1522,"Charging Port Repair ",89.99,No,89.99,,,Published
+90,"Samsung Galaxy Tab S 10.5 (SM-T800,T804,T805) Repair","Samsung Tab Repair",1523,"Diagnostic Service ",39.99,No,39.99,,,Published
+90,"Samsung Galaxy Tab S 10.5 (SM-T800,T804,T805) Repair","Samsung Tab Repair",1524,"Front Camera Repair ",89.99,No,89.99,,,Published
+90,"Samsung Galaxy Tab S 10.5 (SM-T800,T804,T805) Repair","Samsung Tab Repair",1525,"Headphone Socket Repair ",89.99,No,89.99,,,Published
+90,"Samsung Galaxy Tab S 10.5 (SM-T800,T804,T805) Repair","Samsung Tab Repair",1526,"Liquid Damage Service ",69.99,No,69.99,,,Published
+90,"Samsung Galaxy Tab S 10.5 (SM-T800,T804,T805) Repair","Samsung Tab Repair",1527,"Loudspeaker Repair ",89.99,No,89.99,,,Published
+90,"Samsung Galaxy Tab S 10.5 (SM-T800,T804,T805) Repair","Samsung Tab Repair",1528,"Microphone Repair ",89.99,No,89.99,,,Published
+90,"Samsung Galaxy Tab S 10.5 (SM-T800,T804,T805) Repair","Samsung Tab Repair",1529,"Mute Button Repair ",89.99,No,89.99,,,Published
+90,"Samsung Galaxy Tab S 10.5 (SM-T800,T804,T805) Repair","Samsung Tab Repair",1530,"Power Button Repair ",89.99,No,89.99,,,Published
+90,"Samsung Galaxy Tab S 10.5 (SM-T800,T804,T805) Repair","Samsung Tab Repair",1531,"Rear Camera Repair ",89.99,No,89.99,,,Published
+90,"Samsung Galaxy Tab S 10.5 (SM-T800,T804,T805) Repair","Samsung Tab Repair",1532,"Rear Cover Repair ",119.99,No,119.99,,,Published
+90,"Samsung Galaxy Tab S 10.5 (SM-T800,T804,T805) Repair","Samsung Tab Repair",1533,"Volume Repair ",89.99,No,89.99,,,Published
+90,"Samsung Galaxy Tab S 10.5 (SM-T800,T804,T805) Repair","Samsung Tab Repair",1534,"WIFI Repair ",89.99,No,89.99,,,Published

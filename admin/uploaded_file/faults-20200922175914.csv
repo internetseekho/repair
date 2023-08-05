@@ -1,0 +1,238 @@
+Model_ID,Model_Title,Device,fault_id,fault_name,regular_price,is_on_offer,sale_price,offer_start_date,offer_end_date,status
+197,"Huawei Mate 9 Repair",,2985,"Front Screen Repair ",99.99,No,99.99,,,Published
+197,"Huawei Mate 9 Repair",,2986,"Antenna Repair ",69.99,No,69.99,,,Published
+197,"Huawei Mate 9 Repair",,2987,"Battery Repair ",69.99,No,69.99,,,Published
+197,"Huawei Mate 9 Repair",,2988,"Charging Port Repair ",69.99,No,69.99,,,Published
+197,"Huawei Mate 9 Repair",,2989,"Earpiece Repair ",69.99,No,69.99,,,Published
+197,"Huawei Mate 9 Repair",,2990,"Front Camera Repair ",69.99,No,69.99,,,Published
+197,"Huawei Mate 9 Repair",,2991,"Headphone Socket Repair ",69.99,No,69.99,,,Published
+197,"Huawei Mate 9 Repair",,2992,"Home Button Repair ",69.99,No,69.99,,,Published
+197,"Huawei Mate 9 Repair",,2993,"Liquid Damage Service ",69.99,No,69.99,,,Published
+197,"Huawei Mate 9 Repair",,2994,"Loudspeaker Repair ",69.99,No,69.99,,,Published
+197,"Huawei Mate 9 Repair",,2995,"Microphone Repair ",69.99,No,69.99,,,Published
+197,"Huawei Mate 9 Repair",,2996,"Mute Button Repair ",69.99,No,69.99,,,Published
+197,"Huawei Mate 9 Repair",,2997,"Power Button Repair ",69.99,No,69.99,,,Published
+197,"Huawei Mate 9 Repair",,2998,"Rear Camera Repair ",69.99,No,69.99,,,Published
+197,"Huawei Mate 9 Repair",,2999,"Rear Cover Repair ",69.99,No,69.99,,,Published
+197,"Huawei Mate 9 Repair",,3000,"Vibration Repair ",69.99,No,69.99,,,Published
+197,"Huawei Mate 9 Repair",,3001,"Volume Repair ",69.99,No,69.99,,,Published
+197,"Huawei Mate 9 Repair",,3002,"Diagnostic Service ",39.99,No,39.99,,,Published
+292,"Huawei P30 Pro Repair",,4607,"Front Screen Repair ",294.99,No,294.99,,,Published
+292,"Huawei P30 Pro Repair",,4621,"Antenna Repair ",249.99,No,249.99,,,Published
+292,"Huawei P30 Pro Repair",,4622,"Battery Repair ",249.99,No,249.99,,,Published
+292,"Huawei P30 Pro Repair",,4637,"Charging Port Repair ",249.99,No,249.99,,,Published
+292,"Huawei P30 Pro Repair",,4638,"Diagnostic Service ",39.99,No,39.99,,,Published
+292,"Huawei P30 Pro Repair",,4652,"Earpiece Repair ",249.99,No,249.99,,,Published
+292,"Huawei P30 Pro Repair",,4653,"Front Camera Repair ",249.99,No,249.99,,,Published
+292,"Huawei P30 Pro Repair",,4663,"Headphone Socket Repair ",249.99,No,249.99,,,Published
+292,"Huawei P30 Pro Repair",,4664,"Home Button Repair ",249.99,No,249.99,,,Published
+292,"Huawei P30 Pro Repair",,4674,"Liquid Damage Service ",89.99,No,89.99,,,Published
+292,"Huawei P30 Pro Repair",,4675,"Loudspeaker Repair ",249.99,No,249.99,,,Published
+292,"Huawei P30 Pro Repair",,4683,"Microphone Repair ",249.99,No,249.99,,,Published
+292,"Huawei P30 Pro Repair",,4684,"Power Button Repair ",249.99,No,249.99,,,Published
+292,"Huawei P30 Pro Repair",,4689,"Rear Camera Repair ",249.99,No,249.99,,,Published
+292,"Huawei P30 Pro Repair",,4690,"Vibration Repair ",249.99,No,249.99,,,Published
+292,"Huawei P30 Pro Repair",,4695,"Volume Repair ",249.99,No,249.99,,,Published
+292,"Huawei P30 Pro Repair",,4696,"WIFI Repair ",249.99,No,249.99,,,Published
+294,"Huawei P10 Lite Repairs",,4704,"Front Screen Repair ",98.99,No,98.99,,,Published
+294,"Huawei P10 Lite Repairs",,4705,"Antenna Repair ",79.99,No,79.99,,,Published
+294,"Huawei P10 Lite Repairs",,4706,"Battery Repair ",79.99,No,79.99,,,Published
+295,"Huawei P20 Pro Repairs",,4707,"Front Screen Repair ",249.99,No,249.99,,,Published
+294,"Huawei P10 Lite Repairs",,4708,"Charging Port Repair ",79.99,No,79.99,,,Published
+294,"Huawei P10 Lite Repairs",,4709,"Earpiece Repair ",79.99,No,79.99,,,Published
+295,"Huawei P20 Pro Repairs",,4710,"Antenna Repair ",199.99,No,199.99,,,Published
+295,"Huawei P20 Pro Repairs",,4711,"Battery Repair ",199.99,No,199.99,,,Published
+294,"Huawei P10 Lite Repairs",,4712,"Front Camera Repair ",79.99,No,79.99,,,Published
+294,"Huawei P10 Lite Repairs",,4713,"Headphone Socket Repair ",79.99,No,79.99,,,Published
+295,"Huawei P20 Pro Repairs",,4714,"Charging Port Repair ",199.99,No,199.99,,,Published
+295,"Huawei P20 Pro Repairs",,4715,"Diagnostic Service ",39.99,No,39.99,,,Published
+296,"Huawei P10 Repairs",,4716,"Front Screen Repair ",119.99,No,119.99,,,Published
+294,"Huawei P10 Lite Repairs",,4717,"Home Button Repair ",79.99,No,79.99,,,Published
+294,"Huawei P10 Lite Repairs",,4718,"Liquid Damage Service ",89.99,No,89.99,,,Published
+295,"Huawei P20 Pro Repairs",,4719,"Earpiece Repair ",199.99,No,199.99,,,Published
+295,"Huawei P20 Pro Repairs",,4720,"Front Camera Repair ",199.99,No,199.99,,,Published
+296,"Huawei P10 Repairs",,4721,"Antenna Repair ",89.99,No,89.99,,,Published
+296,"Huawei P10 Repairs",,4722,"Battery Repair ",89.99,No,89.99,,,Published
+294,"Huawei P10 Lite Repairs",,4723,"Loudspeaker Repair ",79.99,No,79.99,,,Published
+294,"Huawei P10 Lite Repairs",,4724,"Microphone Repair ",79.99,No,79.99,,,Published
+297,"Huawei P10 Plus Repairs",,4725,"Antenna Repair ",89.99,No,89.99,,,Published
+295,"Huawei P20 Pro Repairs",,4726,"Headphone Socket Repair ",199.99,No,199.99,,,Published
+295,"Huawei P20 Pro Repairs",,4727,"Home Button Repair ",199.99,No,199.99,,,Published
+298,"Huawei P9 Plus Repair",,4728,"Antenna Repair ",99.99,No,99.99,,,Published
+296,"Huawei P10 Repairs",,4729,"Charging Port Repair ",89.99,No,89.99,,,Published
+296,"Huawei P10 Repairs",,4730,"Earpiece Repair ",89.99,No,89.99,,,Published
+294,"Huawei P10 Lite Repairs",,4731,"Mute Button Repair ",79.99,No,79.99,,,Published
+294,"Huawei P10 Lite Repairs",,4732,"Power Button Repair ",79.99,No,79.99,,,Published
+297,"Huawei P10 Plus Repairs",,4733,"Battery Repair ",89.99,No,89.99,,,Published
+297,"Huawei P10 Plus Repairs",,4734,"Charging Port Repair ",89.99,No,89.99,,,Published
+295,"Huawei P20 Pro Repairs",,4735,"Liquid Damage Service ",199.99,No,199.99,,,Published
+295,"Huawei P20 Pro Repairs",,4736,"Loudspeaker Repair ",199.99,No,199.99,,,Published
+298,"Huawei P9 Plus Repair",,4737,"Battery Repair ",99.99,No,99.99,,,Published
+298,"Huawei P9 Plus Repair",,4738,"Charging Port Repair ",99.99,No,99.99,,,Published
+296,"Huawei P10 Repairs",,4739,"Front Camera Repair ",89.99,No,89.99,,,Published
+296,"Huawei P10 Repairs",,4740,"Headphone Socket Repair ",89.99,No,89.99,,,Published
+294,"Huawei P10 Lite Repairs",,4741,"Rear Camera Repair ",79.99,No,79.99,,,Published
+294,"Huawei P10 Lite Repairs",,4742,"Rear Cover Repair ",79.99,No,79.99,,,Published
+297,"Huawei P10 Plus Repairs",,4743,"Diagnostic Service ",39.99,No,39.99,,,Published
+297,"Huawei P10 Plus Repairs",,4744,"Earpiece Repair ",89.99,No,89.99,,,Published
+295,"Huawei P20 Pro Repairs",,4745,"Microphone Repair ",199.99,No,199.99,,,Published
+295,"Huawei P20 Pro Repairs",,4746,"Mute Button Repair ",199.99,No,199.99,,,Published
+298,"Huawei P9 Plus Repair",,4747,"Diagnostic Service ",39.99,No,39.99,,,Published
+298,"Huawei P9 Plus Repair",,4748,"Earpiece Repair ",99.99,No,99.99,,,Published
+296,"Huawei P10 Repairs",,4749,"Home Button Repair ",89.99,No,89.99,,,Published
+296,"Huawei P10 Repairs",,4750,"Liquid Damage Service ",89.99,No,89.99,,,Published
+294,"Huawei P10 Lite Repairs",,4751,"Vibration Repair ",79.99,No,79.99,,,Published
+294,"Huawei P10 Lite Repairs",,4752,"Volume Repair ",79.99,No,79.99,,,Published
+297,"Huawei P10 Plus Repairs",,4753,"Front Camera Repair ",89.99,No,89.99,,,Published
+297,"Huawei P10 Plus Repairs",,4754,"Front Screen Repair ",139.99,No,139.99,,,Published
+295,"Huawei P20 Pro Repairs",,4755,"Power Button Repair ",199.99,No,199.99,,,Published
+295,"Huawei P20 Pro Repairs",,4756,"Rear Camera Repair ",199.99,No,199.99,,,Published
+298,"Huawei P9 Plus Repair",,4757,"Front Camera Repair ",99.99,No,99.99,,,Published
+298,"Huawei P9 Plus Repair",,4758,"Front Screen Repair ",139.99,No,139.99,,,Published
+296,"Huawei P10 Repairs",,4759,"Loudspeaker Repair ",89.99,No,89.99,,,Published
+296,"Huawei P10 Repairs",,4760,"Microphone Repair ",89.99,No,89.99,,,Published
+294,"Huawei P10 Lite Repairs",,4761,"Diagnostic Service ",39.99,No,39.99,,,Published
+297,"Huawei P10 Plus Repairs",,4762,"Headphone Socket Repair ",89.99,No,89.99,,,Published
+297,"Huawei P10 Plus Repairs",,4763,"Home Button Repair ",89.99,No,89.99,,,Published
+295,"Huawei P20 Pro Repairs",,4764,"Rear Cover Repair ",199.99,No,199.99,,,Published
+295,"Huawei P20 Pro Repairs",,4765,"Software Repair ",199.99,No,199.99,,,Published
+298,"Huawei P9 Plus Repair",,4766,"Headphone Socket Repair ",99.99,No,99.99,,,Published
+298,"Huawei P9 Plus Repair",,4767,"Home Button Repair ",99.99,No,99.99,,,Published
+296,"Huawei P10 Repairs",,4768,"Mute Button Repair ",89.99,No,89.99,,,Published
+296,"Huawei P10 Repairs",,4769,"Power Button Repair ",89.99,No,89.99,,,Published
+297,"Huawei P10 Plus Repairs",,4770,"Liquid Damage Service ",89.99,No,89.99,,,Published
+297,"Huawei P10 Plus Repairs",,4771,"Loudspeaker Repair ",89.99,No,89.99,,,Published
+295,"Huawei P20 Pro Repairs",,4772,"Vibration Repair ",199.99,No,199.99,,,Published
+295,"Huawei P20 Pro Repairs",,4773,"Volume Repair ",199.99,No,199.99,,,Published
+298,"Huawei P9 Plus Repair",,4774,"Liquid Damage Service ",89.99,No,89.99,,,Published
+298,"Huawei P9 Plus Repair",,4775,"Loudspeaker Repair ",99.99,No,99.99,,,Published
+296,"Huawei P10 Repairs",,4776,"Rear Camera Repair ",89.99,No,89.99,,,Published
+296,"Huawei P10 Repairs",,4777,"Rear Cover Repair ",89.99,No,89.99,,,Published
+297,"Huawei P10 Plus Repairs",,4778,"Microphone Repair ",89.99,No,89.99,,,Published
+297,"Huawei P10 Plus Repairs",,4779,"Mute Button Repair ",89.99,No,89.99,,,Published
+295,"Huawei P20 Pro Repairs",,4780,"WIFI Repair ",199.99,No,199.99,,,Published
+298,"Huawei P9 Plus Repair",,4781,"Microphone Repair ",99.99,No,99.99,,,Published
+298,"Huawei P9 Plus Repair",,4782,"Mute Button Repair ",99.99,No,99.99,,,Published
+296,"Huawei P10 Repairs",,4783,"Vibration Repair ",89.99,No,89.99,,,Published
+296,"Huawei P10 Repairs",,4784,"Volume Repair ",89.99,No,89.99,,,Published
+297,"Huawei P10 Plus Repairs",,4785,"Power Button Repair ",89.99,No,89.99,,,Published
+297,"Huawei P10 Plus Repairs",,4786,"Rear Camera Repair ",89.99,No,89.99,,,Published
+298,"Huawei P9 Plus Repair",,4787,"Power Button Repair ",99.99,No,99.99,,,Published
+298,"Huawei P9 Plus Repair",,4788,"Rear Camera Repair ",99.99,No,99.99,,,Published
+296,"Huawei P10 Repairs",,4789,"WIFI Repair ",89.99,No,89.99,,,Published
+296,"Huawei P10 Repairs",,4790,"Diagnostic Service ",39.99,No,39.99,,,Published
+297,"Huawei P10 Plus Repairs",,4791,"Rear Cover Repair ",89.99,No,89.99,,,Published
+297,"Huawei P10 Plus Repairs",,4792,"Vibration Repair ",89.99,No,89.99,,,Published
+298,"Huawei P9 Plus Repair",,4793,"Rear Cover Repair ",99.99,No,99.99,,,Published
+298,"Huawei P9 Plus Repair",,4794,"Vibration Repair ",99.99,No,99.99,,,Published
+297,"Huawei P10 Plus Repairs",,4795,"Volume Repair ",89.99,No,89.99,,,Published
+298,"Huawei P9 Plus Repair",,4796,"Volume Repair ",99.99,No,99.99,,,Published
+299,"Huawei P9 Lite Repair",,4797,"Front Screen Repair ",99.99,No,99.99,,,Published
+299,"Huawei P9 Lite Repair",,4798,"Antenna Repair ",79.99,No,79.99,,,Published
+299,"Huawei P9 Lite Repair",,4799,"Battery Repair ",79.99,No,79.99,,,Published
+299,"Huawei P9 Lite Repair",,4800,"Charging Port Repair ",79.99,No,79.99,,,Published
+299,"Huawei P9 Lite Repair",,4801,"Earpiece Repair ",79.99,No,79.99,,,Published
+299,"Huawei P9 Lite Repair",,4802,"Front Camera Repair ",79.99,No,79.99,,,Published
+299,"Huawei P9 Lite Repair",,4803,"Headphone Socket Repair ",79.99,No,79.99,,,Published
+299,"Huawei P9 Lite Repair",,4804,"Home Button Repair ",79.99,No,79.99,,,Published
+299,"Huawei P9 Lite Repair",,4805,"Liquid Damage Service ",89.99,No,89.99,,,Published
+299,"Huawei P9 Lite Repair",,4806,"Loudspeaker Repair ",79.99,No,79.99,,,Published
+300,"Huawei P9 Repair",,4807,"Front Screen Repair ",94.99,No,94.99,,,Published
+299,"Huawei P9 Lite Repair",,4808,"Microphone Repair ",79.99,No,79.99,,,Published
+299,"Huawei P9 Lite Repair",,4809,"Mute Button Repair ",79.99,No,79.99,,,Published
+300,"Huawei P9 Repair",,4810,"Antenna Repair ",79.99,No,79.99,,,Published
+300,"Huawei P9 Repair",,4811,"Battery Repair ",79.99,No,79.99,,,Published
+299,"Huawei P9 Lite Repair",,4812,"Power Button Repair ",79.99,No,79.99,,,Published
+299,"Huawei P9 Lite Repair",,4813,"Rear Camera Repair ",79.99,No,79.99,,,Published
+301,"Huawei P8 Lite 2017 Repairs",,4814,"Antenna Repair ",69.99,No,69.99,,,Published
+300,"Huawei P9 Repair",,4815,"Charging Port Repair ",79.99,No,79.99,,,Published
+300,"Huawei P9 Repair",,4816,"Earpiece Repair ",79.99,No,79.99,,,Published
+299,"Huawei P9 Lite Repair",,4817,"Rear Cover Repair ",79.99,No,79.99,,,Published
+299,"Huawei P9 Lite Repair",,4818,"Vibration Repair ",79.99,No,79.99,,,Published
+301,"Huawei P8 Lite 2017 Repairs",,4819,"Battery Repair ",69.99,No,69.99,,,Published
+301,"Huawei P8 Lite 2017 Repairs",,4820,"Charging Port Repair ",69.99,No,69.99,,,Published
+300,"Huawei P9 Repair",,4821,"Front Camera Repair ",79.99,No,79.99,,,Published
+300,"Huawei P9 Repair",,4822,"Headphone Socket Repair ",79.99,No,79.99,,,Published
+299,"Huawei P9 Lite Repair",,4823,"Volume Repair ",79.99,No,79.99,,,Published
+299,"Huawei P9 Lite Repair",,4824,"Diagnostic Service ",39.99,No,39.99,,,Published
+302,"Huawei P8 Repair",,4825,"Front Screen Repair ",119.99,No,119.99,,,Published
+301,"Huawei P8 Lite 2017 Repairs",,4826,"Diagnostic Service ",39.99,No,39.99,,,Published
+301,"Huawei P8 Lite 2017 Repairs",,4827,"Earpiece Repair ",69.99,No,69.99,,,Published
+300,"Huawei P9 Repair",,4828,"Home Button Repair ",79.99,No,79.99,,,Published
+300,"Huawei P9 Repair",,4829,"Liquid Damage Service ",89.99,No,89.99,,,Published
+302,"Huawei P8 Repair",,4830,"Antenna Repair ",69.99,No,69.99,,,Published
+302,"Huawei P8 Repair",,4831,"Battery Repair ",69.99,No,69.99,,,Published
+301,"Huawei P8 Lite 2017 Repairs",,4832,"Front Camera Repair ",69.99,No,69.99,,,Published
+301,"Huawei P8 Lite 2017 Repairs",,4833,"Front Screen Repair ",109.99,No,109.99,,,Published
+300,"Huawei P9 Repair",,4834,"Loudspeaker Repair ",79.99,No,79.99,,,Published
+300,"Huawei P9 Repair",,4835,"Microphone Repair ",79.99,No,79.99,,,Published
+302,"Huawei P8 Repair",,4836,"Charging Port Repair ",69.99,No,69.99,,,Published
+302,"Huawei P8 Repair",,4837,"Earpiece Repair ",69.99,No,69.99,,,Published
+301,"Huawei P8 Lite 2017 Repairs",,4838,"Headphone Socket Repair ",69.99,No,69.99,,,Published
+301,"Huawei P8 Lite 2017 Repairs",,4839,"Home Button Repair ",69.99,No,69.99,,,Published
+300,"Huawei P9 Repair",,4840,"Mute Button Repair ",79.99,No,79.99,,,Published
+300,"Huawei P9 Repair",,4841,"Power Button Repair ",79.99,No,79.99,,,Published
+302,"Huawei P8 Repair",,4842,"Front Camera Repair ",69.99,No,69.99,,,Published
+302,"Huawei P8 Repair",,4843,"Headphone Socket Repair ",69.99,No,69.99,,,Published
+301,"Huawei P8 Lite 2017 Repairs",,4844,"Liquid Damage Service ",89.99,No,89.99,,,Published
+301,"Huawei P8 Lite 2017 Repairs",,4845,"Loudspeaker Repair ",69.99,No,69.99,,,Published
+300,"Huawei P9 Repair",,4846,"Rear Camera Repair ",79.99,No,79.99,,,Published
+300,"Huawei P9 Repair",,4847,"Rear Cover Repair ",79.99,No,79.99,,,Published
+302,"Huawei P8 Repair",,4848,"Home Button Repair ",69.99,No,69.99,,,Published
+302,"Huawei P8 Repair",,4849,"Liquid Damage Service ",89.99,No,89.99,,,Published
+301,"Huawei P8 Lite 2017 Repairs",,4850,"Microphone Repair ",69.99,No,69.99,,,Published
+301,"Huawei P8 Lite 2017 Repairs",,4851,"Mute Button Repair ",69.99,No,69.99,,,Published
+300,"Huawei P9 Repair",,4852,"Vibration Repair ",79.99,No,79.99,,,Published
+300,"Huawei P9 Repair",,4853,"Volume Repair ",79.99,No,79.99,,,Published
+303,"Huawei Nova 2 Repair",,4854,"Front Screen Repair ",99.99,No,99.99,,,Published
+302,"Huawei P8 Repair",,4855,"Loudspeaker Repair ",69.99,No,69.99,,,Published
+302,"Huawei P8 Repair",,4856,"Microphone Repair ",69.99,No,69.99,,,Published
+301,"Huawei P8 Lite 2017 Repairs",,4857,"Power Button Repair ",69.99,No,69.99,,,Published
+301,"Huawei P8 Lite 2017 Repairs",,4858,"Rear Camera Repair ",69.99,No,69.99,,,Published
+300,"Huawei P9 Repair",,4859,"WIFI Repair ",79.99,No,79.99,,,Published
+300,"Huawei P9 Repair",,4860,"Diagnostic Service ",39.99,No,39.99,,,Published
+303,"Huawei Nova 2 Repair",,4861,"Antenna Repair ",79.99,No,79.99,,,Published
+303,"Huawei Nova 2 Repair",,4862,"Battery Repair ",79.99,No,79.99,,,Published
+302,"Huawei P8 Repair",,4863,"Mute Button Repair ",69.99,No,69.99,,,Published
+302,"Huawei P8 Repair",,4864,"Power Button Repair ",69.99,No,69.99,,,Published
+301,"Huawei P8 Lite 2017 Repairs",,4865,"Rear Cover Repair ",69.99,No,69.99,,,Published
+301,"Huawei P8 Lite 2017 Repairs",,4866,"Vibration Repair ",69.99,No,69.99,,,Published
+303,"Huawei Nova 2 Repair",,4867,"Charging Port Repair ",79.99,No,79.99,,,Published
+303,"Huawei Nova 2 Repair",,4868,"Earpiece Repair ",79.99,No,79.99,,,Published
+302,"Huawei P8 Repair",,4869,"Rear Camera Repair ",69.99,No,69.99,,,Published
+302,"Huawei P8 Repair",,4870,"Rear Cover Repair ",69.99,No,69.99,,,Published
+301,"Huawei P8 Lite 2017 Repairs",,4871,"Volume Repair ",69.99,No,69.99,,,Published
+303,"Huawei Nova 2 Repair",,4872,"Front Camera Repair ",79.99,No,79.99,,,Published
+303,"Huawei Nova 2 Repair",,4873,"Headphone Socket Repair ",79.99,No,79.99,,,Published
+302,"Huawei P8 Repair",,4874,"Vibration Repair ",69.99,No,69.99,,,Published
+302,"Huawei P8 Repair",,4875,"Volume Repair ",69.99,No,69.99,,,Published
+303,"Huawei Nova 2 Repair",,4876,"Home Button Repair ",79.99,No,79.99,,,Published
+303,"Huawei Nova 2 Repair",,4877,"Liquid Damage Service ",69.99,No,69.99,,,Published
+302,"Huawei P8 Repair",,4878,"Diagnostic Service ",39.99,No,39.99,,,Published
+303,"Huawei Nova 2 Repair",,4879,"Loudspeaker Repair ",79.99,No,79.99,,,Published
+303,"Huawei Nova 2 Repair",,4880,"Microphone Repair ",79.99,No,79.99,,,Published
+303,"Huawei Nova 2 Repair",,4881,"Mute Button Repair ",79.99,No,79.99,,,Published
+303,"Huawei Nova 2 Repair",,4882,"Power Button Repair ",79.99,No,79.99,,,Published
+303,"Huawei Nova 2 Repair",,4883,"Rear Camera Repair ",79.99,No,79.99,,,Published
+303,"Huawei Nova 2 Repair",,4884,"Rear Cover Repair ",79.99,No,79.99,,,Published
+303,"Huawei Nova 2 Repair",,4885,"Vibration Repair ",79.99,No,79.99,,,Published
+303,"Huawei Nova 2 Repair",,4886,"Volume Repair ",79.99,No,79.99,,,Published
+303,"Huawei Nova 2 Repair",,4887,"Diagnostic Service ",39.99,No,39.99,,,Published
+304,"Huawei P8 Lite Repairs",,4888,"Front Screen Repair ",114.99,No,114.99,,,Published
+304,"Huawei P8 Lite Repairs",,4889,"Antenna Repair ",69.99,No,69.99,,,Published
+304,"Huawei P8 Lite Repairs",,4890,"Battery Repair ",69.99,No,69.99,,,Published
+304,"Huawei P8 Lite Repairs",,4891,"Charging Port Repair ",69.99,No,69.99,,,Published
+304,"Huawei P8 Lite Repairs",,4892,"Earpiece Repair ",69.99,No,69.99,,,Published
+304,"Huawei P8 Lite Repairs",,4893,"Front Camera Repair ",69.99,No,69.99,,,Published
+304,"Huawei P8 Lite Repairs",,4894,"Headphone Socket Repair ",69.99,No,69.99,,,Published
+304,"Huawei P8 Lite Repairs",,4895,"Home Button Repair ",69.99,No,69.99,,,Published
+304,"Huawei P8 Lite Repairs",,4896,"Liquid Damage Service ",89.99,No,89.99,,,Published
+304,"Huawei P8 Lite Repairs",,4897,"Loudspeaker Repair ",69.99,No,69.99,,,Published
+304,"Huawei P8 Lite Repairs",,4898,"Microphone Repair ",69.99,No,69.99,,,Published
+304,"Huawei P8 Lite Repairs",,4899,"Mute Button Repair ",69.99,No,69.99,,,Published
+304,"Huawei P8 Lite Repairs",,4900,"Power Button Repair ",69.99,No,69.99,,,Published
+304,"Huawei P8 Lite Repairs",,4901,"Rear Camera Repair ",69.99,No,69.99,,,Published
+304,"Huawei P8 Lite Repairs",,4902,"Rear Cover Repair ",69.99,No,69.99,,,Published
+304,"Huawei P8 Lite Repairs",,4903,"Vibration Repair ",69.99,No,69.99,,,Published
+304,"Huawei P8 Lite Repairs",,4904,"Volume Repair ",69.99,No,69.99,,,Published
+304,"Huawei P8 Lite Repairs",,4905,"Diagnostic Service ",39.99,No,39.99,,,Published

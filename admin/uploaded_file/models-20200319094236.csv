@@ -1,0 +1,461 @@
+Model_ID,Brand,Model_Title,Device,Model_Price,Field_ID,Field_Title,Field_Item_ID,Field_Item_Title,Field_Item_Price
+1,lenovo,"iPhone X",iPhone,0,2452,"Dropdown/radio First",7521,"Option 1",2
+,,,,,,,7522,"Option 2",5
+,,,,,,,7523,"Option 3",7
+,,,,,2453,"multiple select",7524,"Broken Screen Repair (Glass+Touch+Display)",11
+,,,,,,,7525,"Broken Screen Repair (Glass+Touch+Display)",22
+,,,,,,,7526,"Broken Screen Repair (Glass+Touch+Display)",33
+,,,,,,,7527,test,44
+,,,,,2245,"Text Field",,,
+,,,,,2454,"Please selec Repair Option",7528,glass,10
+,,,,,,,7529,Touchscreen,10
+,,,,,,,7530,Speaker,10
+,,,,,,,7531,camera,10
+,,,,,,,7532,"after water damage",10
+,,,,,,,7533,"device (delete)",10
+,,,,,,,7534,"Diagnosis: Water damage",
+,,,,,,,7535,LCD,10
+,,,,,,,7536,"Backcover / back",10
+,,,,,,,7537,Battery,20
+,,,,,,,7538,"On / off switch",10
+,,,,,,,7539,Cleaning,1
+,,,,,,,7540,"Data Backup",10
+,,,,,,,7541,"Diagnosis: General",10
+,,,,,,,7542,"Report for insurance",10
+,,,,,2455,Dropdown,7543,"Option 1",10
+,,,,,,,7544,"Option 2",11
+,,,,,,,7545,"Option 3",12
+,,,,,2456,"Radio Buttons",7546,"Option 1",5
+,,,,,,,7547,"Option 2",7
+,,,,,2457,"what are drop down option?",7548,"Option 1",0
+,,,,,,,7549,option2,0
+,,,,,,,7550,option3,0
+,,,,,2249,"Text area",,,
+,,,,,2250,"Upload File 1",,,
+,,,,,2251,"Upload File 2",,,
+20,Apple,"iPhone 8 Plus A1864 A1897 A1898",iPhone,100,2082,"iPhone 8+ repair",5861,"Screen broken and/or LCD defective",99
+,,,,,,,5862,"Replace backcover",99
+,,,,,,,5863,"Replace dock connector (charge/microphone)",99
+,,,,,,,5864,"Replace earspeaker",99
+,,,,,,,5865,"Replace speaker",99
+,,,,,,,5866,"Replace home button",99
+,,,,,,,5867,"Replace button (power, volume, mute)",99
+,,,,,,,5868,"Replace camera front",99
+,,,,,,,5869,"Replace camera back",99
+,,,,,,,5870,"Replace vibration motor",99
+,,,,,,,5871,"Replace battery",99
+,,,,,2083,"What color is your iPhone 8+?",5872,"Space Grey",0
+,,,,,,,5873,Silver,0
+,,,,,,,5874,Gold,0
+21,Samsung,"Galaxy S8+","Galaxy S Series",0,2084,"Selection One Option",5875,"Screen broken and/or LCD defective",3900
+,,,,,,,5876,"Replace backcover",8500
+,,,,,,,5877,"Replace front camera",8500
+,,,,,,,5878,"Replace back camera",8500
+,,,,,,,5879,"Replace earspeaker",8500
+,,,,,,,5880,"Replace speaker",8500
+,,,,,,,5881,"Replace fingerprintscanner",8500
+,,,,,,,5882,"Replace powerbutton",8500
+,,,,,,,5883,"Replace volumebuttons",8500
+,,,,,,,5884,"Replace vibration motor",8500
+,,,,,,,5885,"Replace audiojack",8500
+,,,,,,,5886,"Replace charging port	",8500
+,,,,,,,5887,"Replace battery",8500
+,,,,,2085,"select multiple option",5888,"Option 1",12
+,,,,,,,5889,"Option 2",14
+,,,,,,,5890,"Option 3",16
+,,,,,2086,"This is drop down",5891,"Option 1",12
+,,,,,,,5892,"Option 2",15
+22,Apple,"iPad Pro 10.5",iPad,0,2087,"iPhone X Repair Options",5893,"Front Display Screen Replacement",399
+,,,,,,,5894,"Back Glass Replacement",499
+,,,,,,,5895,"Battery Replacement",199
+,,,,,,,5896,"Multiple Issues",0
+,,,,,,,5897,"Water Damage Diagnose",0
+,,,,,2088,"What color is your iPhone X?",5898,Gold,0
+,,,,,,,5899,Silver,0
+,,,,,,,5900,"Space Grey",0
+23,Apple,"iPad Pro 12.9",iPad,0,2089,"iPhone X Repair Options",5901,"Front Display Screen Replacement",399
+,,,,,,,5902,"Back Glass Replacement",499
+,,,,,,,5903,"Battery Replacement",199
+,,,,,,,5904,"Multiple Issues",0
+,,,,,,,5905,"Water Damage Diagnose",0
+,,,,,2090,"What color is your iPhone X?",5906,Gold,0
+,,,,,,,5907,Silver,0
+,,,,,,,5908,"Space Grey",0
+24,Apple,"iPad 4",iPad,0,2091,"iPad 4 repair",5909,"Screen broken or touch defective",9900
+,,,,,,,5910,"Replace LCD",12900
+,,,,,,,5911,"Replace back cover",14000
+,,,,,,,5912,Microphone,9900
+,,,,,,,5913,Speaker,9900
+,,,,,,,5914,"Wifi reception",9900
+,,,,,,,5915,"Audio jack",9900
+,,,,,,,5916,"Dock connector (charge)",9900
+,,,,,,,5917,"Replace button (power, home, volume, mute)",9900
+,,,,,,,5918,"Replace camera front",9900
+,,,,,,,5919,"Replace camera back",9900
+,,,,,,,5920,"Replace battery",9900
+25,Apple,"iPhone 8",iPhone,0,2200,"Please selec Repair Option",6276,glass,10
+,,,,,,,6277,Touchscreen,10
+,,,,,,,6278,Speaker,10
+,,,,,,,6279,camera,10
+,,,,,,,6280,"after water damage",10
+,,,,,,,6281,"device (delete)",10
+,,,,,,,6282,"Diagnosis: Water damage",
+,,,,,,,6283,LCD,10
+,,,,,,,6284,"Backcover / back",10
+,,,,,,,6285,Battery,20
+,,,,,,,6286,"On / off switch",10
+,,,,,,,6287,Cleaning,1
+,,,,,,,6288,"Data Backup",10
+,,,,,,,6289,"Diagnosis: General",10
+,,,,,,,6290,"Report for insurance",10
+,,,,,2201,"what color it is?",6291,red,5
+,,,,,,,6292,Pink,10
+,,,,,2202,DropDown,6293,"Option 1",2
+,,,,,,,6294,"Option 2",4
+,,,,,2203,"Text field",,,
+,,,,,2204,"Text Area",,,
+,,,,,2205,Date,,,
+,,,,,2206,"Upload Docs",,,
+26,Apple,"iPhone 7 Plus",iPhone,0,2099,"iPhone X Repair Options",5940,"Front Display Screen Replacement",399
+,,,,,,,5941,"Back Glass Replacement",499
+,,,,,,,5942,"Battery Replacement",199
+,,,,,,,5943,"Multiple Issues",0
+,,,,,,,5944,"Water Damage Diagnose",0
+,,,,,2100,"What color is your iPhone X?",5945,Gold,0
+,,,,,,,5946,Silver,0
+,,,,,,,5947,"Space Grey",0
+27,Apple,"iPhone 7",iPhone,0,2101,"iPhone X Repair Options",5948,"Front Display Screen Replacement",399
+,,,,,,,5949,"Back Glass Replacement",499
+,,,,,,,5950,"Battery Replacement",199
+,,,,,,,5951,"Multiple Issues",0
+,,,,,,,5952,"Water Damage Diagnose",0
+,,,,,2102,"What color is your iPhone X?",5953,Gold,0
+,,,,,,,5954,Silver,0
+,,,,,,,5955,"Space Grey",0
+28,Apple,"iPhone 6S Plus",iPhone,0,2103,"iPhone X Repair Options",5956,"Front Display Screen Replacement",399
+,,,,,,,5957,"Back Glass Replacement",499
+,,,,,,,5958,"Battery Replacement",199
+,,,,,,,5959,"Multiple Issues",0
+,,,,,,,5960,"Water Damage Diagnose",0
+,,,,,2104,"What color is your iPhone X?",5961,Gold,0
+,,,,,,,5962,Silver,0
+,,,,,,,5963,"Space Grey",0
+29,Apple,"iPhone 6S",iPhone,0,2105,"iPhone X Repair Options",5964,"Front Display Screen Replacement",399
+,,,,,,,5965,"Back Glass Replacement",499
+,,,,,,,5966,"Battery Replacement",199
+,,,,,,,5967,"Multiple Issues",0
+,,,,,,,5968,"Water Damage Diagnose",0
+,,,,,2106,"What color is your iPhone X?",5969,Gold,0
+,,,,,,,5970,Silver,0
+,,,,,,,5971,"Space Grey",0
+30,Apple,"iPhone 6",iPhone,0,2107,"iPhone X Repair Options",5972,"Front Display Screen Replacement",399
+,,,,,,,5973,"Back Glass Replacement",499
+,,,,,,,5974,"Battery Replacement",199
+,,,,,,,5975,"Multiple Issues",0
+,,,,,,,5976,"Water Damage Diagnose",0
+,,,,,2108,"What color is your iPhone X?",5977,Gold,0
+,,,,,,,5978,Silver,0
+,,,,,,,5979,"Space Grey",0
+31,Apple,"iPhone 6 Plus",iPhone,0,2109,"iPhone X Repair Options",5980,"Front Display Screen Replacement",399
+,,,,,,,5981,"Back Glass Replacement",499
+,,,,,,,5982,"Battery Replacement",199
+,,,,,,,5983,"Multiple Issues",0
+,,,,,,,5984,"Water Damage Diagnose",0
+,,,,,2110,"What color is your iPhone X?",5985,Gold,0
+,,,,,,,5986,Silver,0
+,,,,,,,5987,"Space Grey",0
+,,,,,2111,Checkboxes,5988,"Option 1",10
+,,,,,,,5989,"Option 2",20
+,,,,,2112,Radio,5990,"Option 1",10
+,,,,,,,5991,"Option 2",20
+32,Apple,"iPhone 5SE",iPhone,0,2113,"iPhone X Repair Options",5992,"Front Display Screen Replacement",399
+,,,,,,,5993,"Back Glass Replacement",499
+,,,,,,,5994,"Battery Replacement",199
+,,,,,,,5995,"Multiple Issues",0
+,,,,,,,5996,"Water Damage Diagnose",0
+,,,,,2114,"What color is your iPhone X?",5997,Gold,0
+,,,,,,,5998,Silver,0
+,,,,,,,5999,"Space Grey",0
+33,Apple,"iPhone 5S Repair",iPhone,0,2115,"iPhone X Repair Options",6000,"Front Display Screen Replacement",399
+,,,,,,,6001,"Back Glass Replacement",499
+,,,,,,,6002,"Battery Replacement",199
+,,,,,,,6003,"Multiple Issues",0
+,,,,,,,6004,"Water Damage Diagnose",0
+,,,,,2116,"What color is your iPhone X?",6005,Gold,0
+,,,,,,,6006,Silver,0
+,,,,,,,6007,"Space Grey",0
+34,Apple,"iPhone 5C",iPhone,0,2117,"iPhone X Repair Options",6008,"Front Display Screen Replacement",399
+,,,,,,,6009,"Back Glass Replacement",499
+,,,,,,,6010,"Battery Replacement",199
+,,,,,,,6011,"Multiple Issues",0
+,,,,,,,6012,"Water Damage Diagnose",0
+,,,,,2118,"What color is your iPhone X?",6013,Gold,0
+,,,,,,,6014,Silver,0
+,,,,,,,6015,"Space Grey",0
+35,Apple,"iPhone 5",iPhone,0,2119,"iPhone X Repair Options",6016,"Front Display Screen Replacement",399
+,,,,,,,6017,"Back Glass Replacement",499
+,,,,,,,6018,"Battery Replacement",199
+,,,,,,,6019,"Multiple Issues",0
+,,,,,,,6020,"Water Damage Diagnose",0
+,,,,,2120,"What color is your iPhone X?",6021,Gold,0
+,,,,,,,6022,Silver,0
+,,,,,,,6023,"Space Grey",0
+36,Apple,"iPhone 4S Title",iPhone,0,2445,"What color is your iPhone X?",7487,"Option 1",12
+,,,,,,,7488,"Option 2",15
+,,,,,,,7489,"Option 2",20
+,,,,,,,7490,"Option 2",20
+37,Samsung,"Samsung S8 Plus","Galaxy S Series",0,2125,"iPhone X Repair Options",6050,"Front Display Screen Replacement",399
+,,,,,,,6051,"Back Glass Replacement",499
+,,,,,,,6052,"Battery Replacement",199
+,,,,,,,6053,"Multiple Issues",0
+,,,,,,,6054,"Water Damage Diagnose",0
+,,,,,2126,"What color is your iPhone X?",6055,Gold,0
+,,,,,,,6056,Silver,0
+,,,,,,,6057,"Space Grey",0
+,,,,,2127,"please select multiple",6058,"Option 1",0
+,,,,,,,6059,"Option 2",0
+,,,,,,,6060,"Option 3",0
+38,Samsung,"Samsung S8",iPad,0,2194,"iPhone X Repair Options",6262,"Front Display Screen Replacement",399
+,,,,,,,6263,"Back Glass Replacement",499
+,,,,,,,6264,"Battery Replacement",199
+,,,,,,,6265,"Multiple Issues",0
+,,,,,,,6266,"Water Damage Diagnose",0
+,,,,,2195,"What color is your iPhone X?",6267,Gold,0
+,,,,,,,6268,Silver,0
+,,,,,,,6269,"Space Grey",0
+39,Samsung,"Samsung S7 Edge","Galaxy S Series",0,2130,"iPhone X Repair Options",6069,"Front Display Screen Replacement",399
+,,,,,,,6070,"Back Glass Replacement",499
+,,,,,,,6071,"Battery Replacement",199
+,,,,,,,6072,"Multiple Issues",0
+,,,,,,,6073,"Water Damage Diagnose",0
+,,,,,2131,"What color is your iPhone X?",6074,Gold,0
+,,,,,,,6075,Silver,0
+,,,,,,,6076,"Space Grey",0
+40,Samsung,"Samsung S7","Galaxy S Series",0,2132,"iPhone X Repair Options",6077,"Front Display Screen Replacement",399
+,,,,,,,6078,"Back Glass Replacement",499
+,,,,,,,6079,"Battery Replacement",199
+,,,,,,,6080,"Multiple Issues",0
+,,,,,,,6081,"Water Damage Diagnose",0
+,,,,,2133,"What color is your iPhone X?",6082,Gold,0
+,,,,,,,6083,Silver,0
+,,,,,,,6084,"Space Grey",0
+41,Samsung,"Samsung S6 Edge Plus","Galaxy S Series",0,2134,"iPhone X Repair Options",6085,"Front Display Screen Replacement",399
+,,,,,,,6086,"Back Glass Replacement",499
+,,,,,,,6087,"Battery Replacement",199
+,,,,,,,6088,"Multiple Issues",0
+,,,,,,,6089,"Water Damage Diagnose",0
+,,,,,2135,"What color is your iPhone X?",6090,Gold,0
+,,,,,,,6091,Silver,0
+,,,,,,,6092,"Space Grey",0
+42,Samsung,"Samsung S6 Edge","Galaxy S Series",0,2136,"iPhone X Repair Options",6093,"Front Display Screen Replacement",399
+,,,,,,,6094,"Back Glass Replacement",499
+,,,,,,,6095,"Battery Replacement",199
+,,,,,,,6096,"Multiple Issues",0
+,,,,,,,6097,"Water Damage Diagnose",0
+,,,,,2137,"What color is your iPhone X?",6098,Gold,0
+,,,,,,,6099,Silver,0
+,,,,,,,6100,"Space Grey",0
+43,Samsung,"Samsung S5","Galaxy S Series",0,2138,"iPhone X Repair Options",6101,"Front Display Screen Replacement",399
+,,,,,,,6102,"Back Glass Replacement",499
+,,,,,,,6103,"Battery Replacement",199
+,,,,,,,6104,"Multiple Issues",0
+,,,,,,,6105,"Water Damage Diagnose",0
+,,,,,2139,"What color is your iPhone X?",6106,Gold,10
+,,,,,,,6107,Silver,15
+,,,,,,,6108,"Space Grey",20
+44,Samsung,"Samsung Note 8","Galaxy Note Series",100,2140,"iPhone X Repair Options",6109,"Front Display Screen Replacement",399
+,,,,,,,6110,"Back Glass Replacement",499
+,,,,,,,6111,"Battery Replacement",199
+,,,,,,,6112,"Multiple Issues",0
+,,,,,,,6113,"Water Damage Diagnose",0
+,,,,,2141,"What color is your iPhone X?",6114,Gold,0
+,,,,,,,6115,Silver,0
+,,,,,,,6116,"Space Grey",0
+45,Samsung,"Samsung Note 5","Galaxy Note Series",100,2142,"iPhone X Repair Options",6117,"Front Display Screen Replacement",399
+,,,,,,,6118,"Back Glass Replacement",499
+,,,,,,,6119,"Battery Replacement",199
+,,,,,,,6120,"Multiple Issues",0
+,,,,,,,6121,"Water Damage Diagnose",0
+,,,,,2143,"What color is your iPhone X?",6122,Gold,0
+,,,,,,,6123,Silver,0
+,,,,,,,6124,"Space Grey",0
+46,Samsung,"Samsung Note 4","Galaxy Note Series",100,2144,"iPhone X Repair Options",6125,"Front Display Screen Replacement",399
+,,,,,,,6126,"Back Glass Replacement",499
+,,,,,,,6127,"Battery Replacement",199
+,,,,,,,6128,"Multiple Issues",0
+,,,,,,,6129,"Water Damage Diagnose",0
+,,,,,2145,"What color is your iPhone X?",6130,Gold,0
+,,,,,,,6131,Silver,0
+,,,,,,,6132,"Space Grey",0
+47,Samsung,"Samsung Note 3","Galaxy Note Series",100,2146,"iPhone X Repair Options",6133,"Front Display Screen Replacement",399
+,,,,,,,6134,"Back Glass Replacement",499
+,,,,,,,6135,"Battery Replacement",199
+,,,,,,,6136,"Multiple Issues",0
+,,,,,,,6137,"Water Damage Diagnose",0
+,,,,,2147,"What color is your iPhone X?",6138,Gold,0
+,,,,,,,6139,Silver,0
+,,,,,,,6140,"Space Grey",0
+48,Apple,"iPad Air 2",iPad,100,2148,"iPhone X Repair Options",6141,"Front Display Screen Replacement",399
+,,,,,,,6142,"Back Glass Replacement",499
+,,,,,,,6143,"Battery Replacement",199
+,,,,,,,6144,"Multiple Issues",0
+,,,,,,,6145,"Water Damage Diagnose",0
+,,,,,2149,"What color is your iPhone X?",6146,Gold,0
+,,,,,,,6147,Silver,0
+,,,,,,,6148,"Space Grey",0
+49,Apple,"Ipad Test Demo",iPad,0,2150,"Radio Option title",6149,"Front Display Screen Replacement",399
+,,,,,,,6150,"Back Glass Replacement",499
+,,,,,,,6151,"Battery Replacement",199
+,,,,,,,6152,"Multiple Issues",0
+,,,,,,,6153,"Water Damage Diagnose",0
+,,,,,2151,"drop down list",6154,Gold,0
+,,,,,,,6155,Silver,0
+,,,,,,,6156,"Space Grey",0
+,,,,,2152,"text field",,,
+,,,,,2153,"text area Field",,,
+,,,,,2154,"check box list",6157,"Option 1",12
+,,,,,,,6158,"option 2 ",15
+,,,,,2155,"your device photo",,,
+,,,,,2156,"Date Picker",,,
+50,Apple,"iPad Mini 4G","iPad Mini",100,2157,"iPhone X Repair Options",6159,"Front Display Screen Replacement",399
+,,,,,,,6160,"Back Glass Replacement",499
+,,,,,,,6161,"Battery Replacement",199
+,,,,,,,6162,"Multiple Issues",0
+,,,,,,,6163,"Water Damage Diagnose",0
+,,,,,2158,"What color is your iPhone X?",6164,Gold,0
+,,,,,,,6165,Silver,0
+,,,,,,,6166,"Space Grey",0
+,,,,,2159,"File 1",,,
+,,,,,2160,"File 2",,,
+51,Apple,"iPad Mini 3G","iPad Mini",100,2161,"iPhone X Repair Options",6167,"Front Display Screen Replacement",399
+,,,,,,,6168,"Back Glass Replacement",499
+,,,,,,,6169,"Battery Replacement",199
+,,,,,,,6170,"Multiple Issues",0
+,,,,,,,6171,"Water Damage Diagnose",0
+,,,,,2162,"What color is your iPhone X?",6172,Gold,0
+,,,,,,,6173,Silver,0
+,,,,,,,6174,"Space Grey",0
+52,Apple,"iPad Mini 2G","iPad Mini",1000,2163,"iPhone X Repair Options",6175,"Front Display Screen Replacement",399
+,,,,,,,6176,"Back Glass Replacement",499
+,,,,,,,6177,"Battery Replacement",199
+,,,,,,,6178,"Multiple Issues",0
+,,,,,,,6179,"Water Damage Diagnose",0
+,,,,,2164,"What color is your iPhone X?",6180,Gold,0
+,,,,,,,6181,Silver,0
+,,,,,,,6182,"Space Grey",0
+53,Apple,"iPad Mini 1G","iPad Mini",1000,2165,"iPhone X Repair Options",6183,"Front Display Screen Replacement",399
+,,,,,,,6184,"Back Glass Replacement",499
+,,,,,,,6185,"Battery Replacement",199
+,,,,,,,6186,"Multiple Issues",0
+,,,,,,,6187,"Water Damage Diagnose",0
+,,,,,2166,"What color is your iPhone X?",6188,Gold,0
+,,,,,,,6189,Silver,0
+,,,,,,,6190,"Space Grey",0
+54,LG,"LG G6 Repair","G Series",100,2167,"iPhone X Repair Options",6191,"Front Display Screen Replacement",399
+,,,,,,,6192,"Back Glass Replacement",499
+,,,,,,,6193,"Battery Replacement",199
+,,,,,,,6194,"Multiple Issues",0
+,,,,,,,6195,"Water Damage Diagnose",0
+,,,,,2168,"What color is your iPhone X?",6196,Gold,0
+,,,,,,,6197,Silver,0
+,,,,,,,6198,"Space Grey",0
+55,LG,"LG G5","G Series",100,2169,"iPhone X Repair Options",6199,"Front Display Screen Replacement",399
+,,,,,,,6200,"Back Glass Replacement",499
+,,,,,,,6201,"Battery Replacement",199
+,,,,,,,6202,"Multiple Issues",0
+,,,,,,,6203,"Water Damage Diagnose",0
+,,,,,2170,"What color is your iPhone X?",6204,Gold,0
+,,,,,,,6205,Silver,0
+,,,,,,,6206,"Space Grey",0
+56,LG,"LG G4 Repair","G Series",100,2171,"iPhone X Repair Options",6207,"Front Display Screen Replacement",399
+,,,,,,,6208,"Back Glass Replacement",499
+,,,,,,,6209,"Battery Replacement",199
+,,,,,,,6210,"Multiple Issues",0
+,,,,,,,6211,"Water Damage Diagnose",0
+,,,,,2172,"What color is your iPhone X?",6212,Gold,0
+,,,,,,,6213,Silver,0
+,,,,,,,6214,"Space Grey",0
+57,LG,"LG G3 Repair","G Series",100,2173,"iPhone X Repair Options",6215,"Front Display Screen Replacement",399
+,,,,,,,6216,"Back Glass Replacement",499
+,,,,,,,6217,"Battery Replacement",199
+,,,,,,,6218,"Multiple Issues",0
+,,,,,,,6219,"Water Damage Diagnose",0
+,,,,,2174,"What color is your iPhone X?",6220,Gold,0
+,,,,,,,6221,Silver,0
+,,,,,,,6222,"Space Grey",0
+58,LG,"LG G2 Repair","G Series",0,2230,"iPhone X Repair Options",6455,"Front Display Screen Replacement",399
+,,,,,,,6456,"Back Glass Replacement",499
+,,,,,,,6457,"Battery Replacement",199
+,,,,,,,6458,"Multiple Issues",0
+,,,,,,,6459,"Water Damage Diagnose",0
+,,,,,2231,"What color is your iPhone X?",6460,Gold,1
+,,,,,,,6461,Silver,2
+,,,,,,,6462,"Space Grey",3
+59,Samsung,"Samsung 59 cm (24 inch) HD Ready LED TV  (24K4100)","Samsung TV",11999,2190,"Additional Notes (Optional) ",,,
+,,,,,2191,"What color is your TV?",6258,"Space Grey",500
+,,,,,,,6259,Silver,300
+60,LG,"LG 80 cm (32 inch) HD Ready LED Smart TV  (KLV-32W512D)","Galaxy S Series",27999,2192,"Additional Notes (Optional) 1",,,
+,,,,,2193,"What color is your TV?",6260,"Space Grey",600
+,,,,,,,6261,Silver,500
+62,Samsung,samsung,"Galaxy S Series",10,2198,"samsung Repair2",6273,"Option 1",0
+,,,,,2199,"battery replacement",6274,"Option 11",0
+,,,,,,,6275,"option 2 2",0
+86,,"iPhone X - Copy",iPhone,10000,2179,"battery replacement",6234,"Option 1",15
+,,,,,,,6235,"option 2",20
+,,,,,,,6236,"option 3",25
+,,,,,2180,"iPhone X Repair Options",6237,"Front Display Screen Replacement",355
+,,,,,,,6238,"Battery Replacement",199
+,,,,,,,6239,"Multiple Issues",0
+,,,,,,,6240,"Water Damage Diagnose",0
+,,,,,,,6241,dfsdfsd,12
+,,,,,,,6242,"Back Glass Replacement",499
+,,,,,2181,Checkboxes,6243,"Option 1",10
+,,,,,,,6244,"Option 2",15
+,,,,,,,6245,"Option 3",20
+,,,,,2182,"What color is your iPhone X?",6246,Gold,0
+,,,,,,,6247,Silver,0
+,,,,,,,6248,"Space Grey",0
+,,,,,2183,Text,,,
+,,,,,2184,"Text Area",,,
+,,,,,2185,"radio 2",6249,"Option 1",2
+,,,,,,,6250,"Option 2",3
+,,,,,2186,drodown,6251,"test 1",20.5
+,,,,,,,6252,"test 2",60.69
+,,,,,2187,"When You bought this phone",,,
+,,,,,2188,"Test 2",6253,"Opt 1",0
+,,,,,,,6254,"Opt 2",0
+,,,,,,,6255,"Opt 3",0
+,,,,,2189,"Test 1",6256,"Opt 1",0
+,,,,,,,6257,"Opt 2",0
+88,Apple,"Apple iPhone 11 Pro",iPhone,0,2341,"Repair List",6961,Battery,250
+,,,,,,,6962,Screen,300
+,,,,,,,6963,Charging,150
+,,,,,2342,Screen,6964,"Option 1",200
+89,,"iPhone X - Copy",iPhone,0,2351,"multiple select",6989,"Broken Screen Repair (Glass+Touch+Display)",11
+,,,,,,,6990,"Broken Screen Repair (Glass+Touch+Display)",22
+,,,,,,,6991,"Broken Screen Repair (Glass+Touch+Display)",33
+,,,,,,,6992,test,44
+,,,,,2347,"Text Field",,,
+,,,,,2352,"Please selec Repair Option",6993,glass,10
+,,,,,,,6994,Touchscreen,10
+,,,,,,,6995,Speaker,10
+,,,,,,,6996,camera,10
+,,,,,,,6997,"after water damage",10
+,,,,,,,6998,"device (delete)",10
+,,,,,,,6999,"Diagnosis: Water damage",
+,,,,,,,7000,LCD,10
+,,,,,,,7001,"Backcover / back",10
+,,,,,,,7002,Battery,20
+,,,,,,,7003,"On / off switch",10
+,,,,,,,7004,Cleaning,1
+,,,,,,,7005,"Data Backup",10
+,,,,,,,7006,"Diagnosis: General",10
+,,,,,,,7007,"Report for insurance",10
+,,,,,2353,Dropdown,7008,"Option 1",10
+,,,,,,,7009,"Option 2",11
+,,,,,,,7010,"Option 3",12
+,,,,,2354,"Radio Buttons",7011,"Option 1",5
+,,,,,,,7012,"Option 2",7
+,,,,,2348,"Text area",,,
+,,,,,2349,"Upload File 1",,,
+,,,,,2350,"Upload File 2",,,

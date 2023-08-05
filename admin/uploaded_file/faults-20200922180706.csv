@@ -1,0 +1,56 @@
+Model_ID,Model_Title,Device,fault_id,fault_name,regular_price,is_on_offer,sale_price,offer_start_date,offer_end_date,status
+12,"iPod Nano 6th Gen Repair","iPod Repair",169,"Battery Repair ",89.99,No,89.99,,,Published
+12,"iPod Nano 6th Gen Repair","iPod Repair",170,"Charging Port Repair ",89.99,No,89.99,,,Published
+12,"iPod Nano 6th Gen Repair","iPod Repair",171,"Diagnostic Service ",39.99,No,39.99,,,Published
+12,"iPod Nano 6th Gen Repair","iPod Repair",172,"Front Camera Repair ",89.99,No,89.99,,,Published
+12,"iPod Nano 6th Gen Repair","iPod Repair",173,"Headphone Socket Repair ",89.99,No,89.99,,,Published
+12,"iPod Nano 6th Gen Repair","iPod Repair",174,"Liquid Damage Service ",69.99,No,69.99,,,Published
+12,"iPod Nano 6th Gen Repair","iPod Repair",175,"Loudspeaker Repair ",89.99,No,89.99,,,Published
+12,"iPod Nano 6th Gen Repair","iPod Repair",176,"Microphone Repair ",89.99,No,89.99,,,Published
+12,"iPod Nano 6th Gen Repair","iPod Repair",177,"Mute Button Repair ",89.99,No,89.99,,,Published
+12,"iPod Nano 6th Gen Repair","iPod Repair",178,"Power Button Repair ",89.99,No,89.99,,,Published
+12,"iPod Nano 6th Gen Repair","iPod Repair",179,"Rear Camera Repair ",89.99,No,89.99,,,Published
+12,"iPod Nano 6th Gen Repair","iPod Repair",180,"Volume Repair ",89.99,No,89.99,,,Published
+91,"iPod Nano 7th Gen Repair","iPod Repair",1535,"Diagnostic Service ",39.99,No,39.99,,,Published
+92,"iPod Touch 3rd Gen Repair","iPod Repair",1536,"Battery Repair ",89.99,No,89.99,,,Published
+92,"iPod Touch 3rd Gen Repair","iPod Repair",1537,"Charging Port Repair ",89.99,No,89.99,,,Published
+92,"iPod Touch 3rd Gen Repair","iPod Repair",1538,"Diagnostic Service ",39.99,No,39.99,,,Published
+92,"iPod Touch 3rd Gen Repair","iPod Repair",1539,"Front Camera Repair ",89.99,No,89.99,,,Published
+92,"iPod Touch 3rd Gen Repair","iPod Repair",1540,"Headphone Socket Repair ",89.99,No,89.99,,,Published
+92,"iPod Touch 3rd Gen Repair","iPod Repair",1541,"Home Button Repair ",89.99,No,89.99,,,Published
+92,"iPod Touch 3rd Gen Repair","iPod Repair",1542,"Liquid Damage Service ",69.99,No,69.99,,,Published
+92,"iPod Touch 3rd Gen Repair","iPod Repair",1543,"Loudspeaker Repair ",89.99,No,89.99,,,Published
+92,"iPod Touch 3rd Gen Repair","iPod Repair",1544,"Mute Button Repair ",89.99,No,89.99,,,Published
+92,"iPod Touch 3rd Gen Repair","iPod Repair",1545,"Power Button Repair ",89.99,No,89.99,,,Published
+92,"iPod Touch 3rd Gen Repair","iPod Repair",1546,"Rear Camera Repair ",89.99,No,89.99,,,Published
+92,"iPod Touch 3rd Gen Repair","iPod Repair",1547,"Rear Cover Repair ",89.99,No,89.99,,,Published
+92,"iPod Touch 3rd Gen Repair","iPod Repair",1548,"Vibration Repair ",89.99,No,89.99,,,Published
+92,"iPod Touch 3rd Gen Repair","iPod Repair",1549,"Volume Repair ",89.99,No,89.99,,,Published
+93,"iPod Touch 4th Gen Repair","iPod Repair",1550,"Front Screen Repair ",59.99,No,59.99,,,Published
+93,"iPod Touch 4th Gen Repair","iPod Repair",1551,"Charging Port Repair ",89.99,No,89.99,,,Published
+93,"iPod Touch 4th Gen Repair","iPod Repair",1552,"Diagnostic Service ",39.99,No,39.99,,,Published
+93,"iPod Touch 4th Gen Repair","iPod Repair",1553,"Front Camera Repair ",89.99,No,89.99,,,Published
+93,"iPod Touch 4th Gen Repair","iPod Repair",1554,"Headphone Socket Repair ",89.99,No,89.99,,,Published
+93,"iPod Touch 4th Gen Repair","iPod Repair",1555,"Home Button Repair ",89.99,No,89.99,,,Published
+93,"iPod Touch 4th Gen Repair","iPod Repair",1556,"Liquid Damage Service ",69.99,No,69.99,,,Published
+93,"iPod Touch 4th Gen Repair","iPod Repair",1557,"Loudspeaker Repair ",89.99,No,89.99,,,Published
+93,"iPod Touch 4th Gen Repair","iPod Repair",1558,"Mute Button Repair ",89.99,No,89.99,,,Published
+93,"iPod Touch 4th Gen Repair","iPod Repair",1559,"Power Button Repair ",89.99,No,89.99,,,Published
+93,"iPod Touch 4th Gen Repair","iPod Repair",1560,"Rear Camera Repair ",89.99,No,89.99,,,Published
+93,"iPod Touch 4th Gen Repair","iPod Repair",1561,"Rear Cover Repair ",89.99,No,89.99,,,Published
+93,"iPod Touch 4th Gen Repair","iPod Repair",1562,"Vibration Repair ",89.99,No,89.99,,,Published
+93,"iPod Touch 4th Gen Repair","iPod Repair",1563,"Volume Repair ",89.99,No,89.99,,,Published
+95,"iPod Touch 5th Gen Repair","iPod Repair",1567,"Front Screen Repair ",99.99,No,99.99,,,Published
+95,"iPod Touch 5th Gen Repair","iPod Repair",1568,"Battery Repair ",89.99,No,89.99,,,Published
+95,"iPod Touch 5th Gen Repair","iPod Repair",1569,"Charging Port Repair ",89.99,No,89.99,,,Published
+95,"iPod Touch 5th Gen Repair","iPod Repair",1570,"Diagnostic Service ",39.99,No,39.99,,,Published
+95,"iPod Touch 5th Gen Repair","iPod Repair",1571,"Front Camera Repair ",89.99,No,89.99,,,Published
+95,"iPod Touch 5th Gen Repair","iPod Repair",1572,"Headphone Socket Repair ",89.99,No,89.99,,,Published
+95,"iPod Touch 5th Gen Repair","iPod Repair",1573,"Home Button Repair ",89.99,No,89.99,,,Published
+95,"iPod Touch 5th Gen Repair","iPod Repair",1574,"Liquid Damage Service ",69.99,No,69.99,,,Published
+95,"iPod Touch 5th Gen Repair","iPod Repair",1575,"Loudspeaker Repair ",89.99,No,89.99,,,Published
+95,"iPod Touch 5th Gen Repair","iPod Repair",1576,"Microphone Repair ",89.99,No,89.99,,,Published
+95,"iPod Touch 5th Gen Repair","iPod Repair",1577,"Mute Button Repair ",89.99,No,89.99,,,Published
+95,"iPod Touch 5th Gen Repair","iPod Repair",1578,"Power Button Repair ",89.99,No,89.99,,,Published
+95,"iPod Touch 5th Gen Repair","iPod Repair",1579,"Rear Camera Repair ",89.99,No,89.99,,,Published
+95,"iPod Touch 5th Gen Repair","iPod Repair",1580,"Volume Repair ",89.99,No,89.99,,,Published

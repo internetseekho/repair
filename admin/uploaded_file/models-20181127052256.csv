@@ -1,0 +1,129 @@
+Model_ID,Brand,Model_Title,Device,Model_Price,Field_ID,Field_Title,Field_Item_ID,Field_Item_Title,Field_Item_Price
+,,,,,71,dsadsad1,377,"Option 1",10
+,,,,,,,378,"Option 2",10
+17,Apple,"iPhone 6S Plus A1634 A1687 A1699",iPhone,,170,"What is the condition of your MacBook?",733,"Brand New",0
+,,,,,,,734,Flawless,0
+,,,,,,,735,Good,0
+,,,,,,,736,Fair,0
+,,,,,,,737,Broken,0
+,,,,,171,"What is the MacBook's hard drive capacity?",738,256GB,0
+,,,,,,,739,512GB,0
+,,,,,172,"Is the MacBook fully functional?",740,Yes,0
+,,,,,,,741,No,0
+,,,,,173,"What is the Laptop's processor speed?",742,"Intel Core M 1.1GHz",0
+,,,,,,,743,"Intel Core M 1.2GHz",0
+,,,,,,,744,"Intel Core M 1.3GHz",0
+,,,,,,,745,"Intel Core m3 1.1GHz",0
+,,,,,,,746,"Intel Core m5 1.2GHz",0
+,,,,,,,747,"Intel Core m7 1.3GHz",0
+,,,,,174,"Will you be including the charger?",748,Yes,100
+,,,,,,,749,No,0
+18,Apple,"iPhone 6S Plus A1634 A1687 A1699",iPhone,,187,"What is the model no of your MacBook Air?",798,"Late 2010 (MacBookAir3,1)",0
+,,,,,,,799,"Mid 2011 (MacBookAir4,1)",0
+,,,,,,,800,"Mid 2012 (MacBookAir5,1)",0
+,,,,,,,801,"Mid 2013 (MacBookAir6,1)",0
+,,,,,,,802,"Early 2014 (MacBookAir6,1)",0
+,,,,,,,803,"Early 2015 (MacBookAir7,1)",0
+,,,,,188,"What is the laptop's condition?",804,"Brand New",0
+,,,,,,,805,Flawless,0
+,,,,,,,806,Good,0
+,,,,,,,807,Fair,0
+,,,,,,,808,Broken,0
+,,,,,189,"Is the laptop fully functional?",809,Yes,0
+,,,,,,,810,No,0
+,,,,,190,"What is the processor type for this laptop?",811,"Intel Core 2 Duo",0
+,,,,,,,812,"Intel Core i5",50
+,,,,,,,813,"Intel Core i7",60
+,,,,,191,"Please select the laptop's hard drive capacity",814,"64GB SSD",0
+,,,,,,,815,"128GB SSD",0
+,,,,,,,816,"256GB SSD",0
+,,,,,,,817,"512GB SSD",0
+,,,,,192,"Please select the laptop's memory",818,2GB,0
+,,,,,,,819,4GB,0
+,,,,,,,820,8GB,0
+,,,,,,,821,16GB,0
+,,,,,193,"Select laptop's battery health",822,Good,25
+,,,,,,,823,Fair,0
+,,,,,,,824,Poor,0
+,,,,,194,"Will you be including the charger?",825,Yes,10
+,,,,,,,826,No,0
+19,Apple,"iPhone 6S Plus A1634 A1687 A1699",iPhone,,195,"Apple Macbook Air 13”",827,"Mid 2009 (MacBookAir2,1)",0
+,,,,,,,828,"Late 2010 (MacBookAir3,2)",0
+,,,,,,,829,"Mid 2011 (MacBookAir4,2)",0
+,,,,,,,830,"Mid 2012 (MacBookAir5,2)",0
+,,,,,,,831,"Mid 2013 (MacBookAir6,2)",0
+,,,,,,,832,"Early 2014 (MacBookAir6,2)",0
+,,,,,,,833,"Early 2015 (MacBookAir7,2)",0
+,,,,,,,834,"Mid 2017 (MacBookAir7,2)",0
+,,,,,196,"What is the condition of your laptop?",835,"Brand New",0
+,,,,,,,836,Flawless,0
+,,,,,,,837,Good,0
+,,,,,,,838,Fair,0
+,,,,,,,839,Broken,0
+,,,,,197,"Is the MacBook fully functional?",840,Yes,0
+,,,,,,,841,No,0
+,,,,,198,"Please select the processor type for your laptop",842,"Intel Core 2 Duo",0
+,,,,,,,843,"Intel Core i5",0
+,,,,,,,844,"Intel Core i7",0
+,,,,,199,"What is the laptop's hard drive capacity?",845,80GB,0
+,,,,,,,846,120GB,0
+,,,,,,,847,"64GB SSD",0
+,,,,,,,848,"128GB SSD",0
+,,,,,,,849,"256GB SSD",0
+,,,,,,,850,"512GB SSD",0
+,,,,,200,"What is the laptop's memory capacity?",851,2GB,0
+,,,,,,,852,4GB,0
+,,,,,,,853,8GB,0
+,,,,,201,"Select laptop's battery health",854,Good,0
+,,,,,,,855,Fair,0
+,,,,,,,856,Poor,0
+,,,,,202,"Will you be including the charger?",857,Yes,0
+,,,,,,,858,No,0
+20,Apple,"iPhone 6S Plus A1634 A1687 A1699",iPhone,,529,"iPhone 8+ repair",1918,"Screen broken and/or LCD defective",99
+,,,,,,,1919,"Replace backcover",99
+,,,,,,,1920,"Replace dock connector (charge/microphone)",99
+,,,,,,,1921,"Replace earspeaker",99
+,,,,,,,1922,"Replace speaker",99
+,,,,,,,1923,"Replace home button",99
+,,,,,,,1924,"Replace button (power, volume, mute)",99
+,,,,,,,1925,"Replace camera front",99
+,,,,,,,1926,"Replace camera back",99
+,,,,,,,1927,"Replace vibration motor",99
+,,,,,,,1928,"Replace battery",99
+,,,,,530,"What color is your iPhone 8+?",1929,"Space Grey",0
+,,,,,,,1930,Silver,0
+,,,,,,,1931,Gold,0
+21,Apple,"iPhone 6S Plus A1634 A1687 A1699",iPhone,,531,"Selection One Option",1932,"Screen broken and/or LCD defective",3900
+,,,,,,,1933,"Replace backcover",8500
+,,,,,,,1934,"Replace front camera",8500
+,,,,,,,1935,"Replace back camera",8500
+,,,,,,,1936,"Replace earspeaker",8500
+,,,,,,,1937,"Replace speaker",8500
+,,,,,,,1938,"Replace fingerprintscanner",8500
+,,,,,,,1939,"Replace powerbutton",8500
+,,,,,,,1940,"Replace volumebuttons",8500
+,,,,,,,1941,"Replace vibration motor",8500
+,,,,,,,1942,"Replace audiojack",8500
+,,,,,,,1943,"Replace charging port	",8500
+,,,,,,,1944,"Replace battery",8500
+,,,,,532,"select multiple option",1945,"Option 1",12
+,,,,,,,1946,"Option 2",14
+,,,,,,,1947,"Option 3",16
+,,,,,533,"This is drop down",1948,"Option 1",12
+,,,,,,,1949,"Option 2",15
+22,Apple,"iPhone 6S Plus A1634 A1687 A1699",iPhone,,534,"iPhone X Repair Options",1950,"Front Display Screen Replacement",399
+,,,,,,,1951,"Back Glass Replacement",499
+,,,,,,,1952,"Battery Replacement",199
+,,,,,,,1953,"Multiple Issues",0
+,,,,,,,1954,"Water Damage Diagnose",0
+,,,,,535,"What color is your iPhone X?",1955,Gold,0
+,,,,,,,1956,Silver,0
+,,,,,,,1957,"Space Grey",0
+23,Apple,"iPhone 6S Plus A1634 A1687 A1699",iPhone,,536,"iPhone X Repair Options",1958,"Front Display Screen Replacement",399
+,,,,,,,1959,"Back Glass Replacement",499
+,,,,,,,1960,"Battery Replacement",199
+,,,,,,,1961,"Multiple Issues",0
+,,,,,,,1962,"Water Damage Diagnose",0
+,,,,,537,"What color is your iPhone X?",1963,Gold,0
+,,,,,,,1964,Silver,0
+,,,,,,,1965,"Space Grey",0
