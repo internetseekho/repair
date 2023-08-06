@@ -188,26 +188,192 @@
 }
 
 .model {
-    width: 220px;
-    height: 170px;
-    background: #ffffff;
-    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    border-radius: 10px;
-    margin: 0 10px;
-    padding: 10px;
-    padding-top: 20px !important;
-    text-align: center;
+width: 150px;
+height: 150px;
+background: #ffffff;
+box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+border-radius: 10px;
+margin: 20px 0px;
+padding: 10px;
+padding-top: 20px !important;
+text-align: center;
 }
 
 .model img {
-    width: 70%;
-    object-fit: cover;
-    margin-bottom: 10px;
+width: 50%;
+object-fit: cover;
+margin-bottom: 10px;
 }
+#slider-text{
+padding-top: 40px;
+display: block;
+}
+#slider-text .col-md-6{
+overflow: hidden;
+}
+
+#slider-text h2 {
+font-family: 'Josefin Sans', sans-serif;
+font-weight: 400;
+font-size: 30px;
+letter-spacing: 3px;
+margin: 30px auto;
+padding-left: 40px;
+}
+#slider-text h2::after{
+border-top: 2px solid #c7c7c7;
+content: "";
+position: absolute;
+bottom: 35px;
+width: 100%;
+}
+
+#itemslider h4{
+font-family: 'Josefin Sans', sans-serif;
+font-weight: 400;
+font-size: 12px;
+margin: 10px auto 3px;
+}
+#itemslider h5{
+font-family: 'Josefin Sans', sans-serif;
+font-weight: bold;
+font-size: 12px;
+margin: 3px auto 2px;
+}
+#itemslider h6{
+font-family: 'Josefin Sans', sans-serif;
+font-weight: 300;;
+font-size: 10px;
+margin: 2px auto 5px;
+}
+@media screen and (max-width: 992px){
+#slider-control img {
+padding-top: 70px;
+margin: 0 auto;
+}
+}
+.carousel-showmanymoveone .carousel-control.left {
+    margin-left: 5px;
+    background: #ffffff;
+    border-radius: 50px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    height: 50px;
+    margin-top: 55px;
+    margin-left: -40px !important;
+}
+.carousel-showmanymoveone .carousel-control.right {
+    margin-left: 5px;
+    background: #ffffff;
+    border-radius: 50px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    height: 50px;
+    margin-top: 55px;
+    margin-right: -30px !important;
+}
+.carousel-showmanymoveone .carousel-control {
+width: 4%;
+background-image: none;
+}
+.carousel-showmanymoveone .carousel-control.left {
+margin-left: 5px;
+}
+.carousel-showmanymoveone .carousel-control.right {
+margin-right: 5px;
+}
+.carousel-showmanymoveone .cloneditem-1,
+.carousel-showmanymoveone .cloneditem-2,
+.carousel-showmanymoveone .cloneditem-3,
+.carousel-showmanymoveone .cloneditem-4,
+.carousel-showmanymoveone .cloneditem-5 {
+display: none;
+}
+@media all and (min-width: 768px) {
+.carousel-showmanymoveone .carousel-inner > .active.left,
+.carousel-showmanymoveone .carousel-inner > .prev {
+left: -50%;
+}
+.carousel-showmanymoveone .carousel-inner > .active.right,
+.carousel-showmanymoveone .carousel-inner > .next {
+left: 50%;
+}
+.carousel-showmanymoveone .carousel-inner > .left,
+.carousel-showmanymoveone .carousel-inner > .prev.right,
+.carousel-showmanymoveone .carousel-inner > .active {
+left: 0;
+}
+.carousel-showmanymoveone .carousel-inner .cloneditem-1 {
+display: block;
+}
+}
+@media all and (min-width: 768px) and (transform-3d), all and (min-width: 768px) and (-webkit-transform-3d) {
+.carousel-showmanymoveone .carousel-inner > .item.active.right,
+.carousel-showmanymoveone .carousel-inner > .item.next {
+-webkit-transform: translate3d(50%, 0, 0);
+transform: translate3d(50%, 0, 0);
+left: 0;
+}
+.carousel-showmanymoveone .carousel-inner > .item.active.left,
+.carousel-showmanymoveone .carousel-inner > .item.prev {
+-webkit-transform: translate3d(-50%, 0, 0);
+transform: translate3d(-50%, 0, 0);
+left: 0;
+}
+.carousel-showmanymoveone .carousel-inner > .item.left,
+.carousel-showmanymoveone .carousel-inner > .item.prev.right,
+.carousel-showmanymoveone .carousel-inner > .item.active {
+-webkit-transform: translate3d(0, 0, 0);
+transform: translate3d(0, 0, 0);
+left: 0;
+}
+}
+@media all and (min-width: 992px) {
+.carousel-showmanymoveone .carousel-inner > .active.left,
+.carousel-showmanymoveone .carousel-inner > .prev {
+left: -16.666%;
+}
+.carousel-showmanymoveone .carousel-inner > .active.right,
+.carousel-showmanymoveone .carousel-inner > .next {
+left: 16.666%;
+}
+.carousel-showmanymoveone .carousel-inner > .left,
+.carousel-showmanymoveone .carousel-inner > .prev.right,
+.carousel-showmanymoveone .carousel-inner > .active {
+left: 0;
+}
+.carousel-showmanymoveone .carousel-inner .cloneditem-2,
+.carousel-showmanymoveone .carousel-inner .cloneditem-3,
+.carousel-showmanymoveone .carousel-inner .cloneditem-4,
+.carousel-showmanymoveone .carousel-inner .cloneditem-5,
+.carousel-showmanymoveone .carousel-inner .cloneditem-6  {
+display: block;
+}
+}
+@media all and (min-width: 992px) and (transform-3d), all and (min-width: 992px) and (-webkit-transform-3d) {
+.carousel-showmanymoveone .carousel-inner > .item.active.right,
+.carousel-showmanymoveone .carousel-inner > .item.next {
+-webkit-transform: translate3d(16.666%, 0, 0);
+transform: translate3d(16.666%, 0, 0);
+left: 0;
+}
+.carousel-showmanymoveone .carousel-inner > .item.active.left,
+.carousel-showmanymoveone .carousel-inner > .item.prev {
+-webkit-transform: translate3d(-16.666%, 0, 0);
+transform: translate3d(-16.666%, 0, 0);
+left: 0;
+}
+.carousel-showmanymoveone .carousel-inner > .item.left,
+.carousel-showmanymoveone .carousel-inner > .item.prev.right,
+.carousel-showmanymoveone .carousel-inner > .item.active {
+-webkit-transform: translate3d(0, 0, 0);
+transform: translate3d(0, 0, 0);
+left: 0;
+}
+}
+
 .accordion {
         width: 90%;
         max-width: 1000px;
@@ -222,13 +388,14 @@
       }
       .accordion-item-header {
         padding: 0.5rem 3rem 0.5rem 1rem;
-        min-height: 3.5rem;
+        min-height: 7.5rem;
         line-height: 1.25rem;
         font-weight: bold;
         display: flex;
         align-items: center;
         position: relative;
         cursor: pointer;
+        font-size: 15px;
       }
       .accordion-item-header::after {
         content: "\002B";
@@ -246,9 +413,10 @@
       }
       .accordion-item-body-content {
         padding: 1rem;
-        line-height: 1.5rem;
+        line-height: 2rem;
         border-top: 1px solid;
         border-image: linear-gradient(to right, transparent, #34495e, transparent) 1;
+        font-size: 14px;
       }
       
       @media (max-width: 767px) {
@@ -415,98 +583,388 @@
 </div>
 <div class="models p-5">
     <h2 class="pl-5 text-black">Top Repaired Models</h2>
-    <div class="modelbox" style="display: flex;align-items:center;">
-        <div class="model">
-            <img src="https://s3n.cashify.in/cashify/product/img/xhdpi/csh-5x9nivcp-gnnb.png" alt="">
-            <h5>Xiaomi Redmi Note 4</h5>
+    <div class="modelbox">
+    <!-- Item slider-->
+<div class="row">
+  <div class="col-xs-12 col-sm-12 col-md-12">
+    <div class="carousel carousel-showmanymoveone slide" id="itemslider">
+      <div class="carousel-inner">
+
+        <div class="item active">
+          <div class="col-xs-12 col-sm-6 col-md-2">
+              <div class="model">
+                  <img src="https://s3n.cashify.in/cashify/product/img/xhdpi/csh-5x9nivcp-gnnb.png" alt="">
+                  <h5>Xiaomi Redmi Note 4</h5>
+              </div>
+          </div>
         </div>
-        <div class="model">
-            <img src="https://s3n.cashify.in/cashify/product/img/xhdpi/csh-vlw1k1nh-cprj.png" alt="">
-            <h5>Xiaomi Redmi Note 3</h5>
+
+        <div class="item">
+          <div class="col-xs-12 col-sm-6 col-md-2">
+              <div class="model">
+                  <img src="https://s3n.cashify.in/cashify/product/img/xhdpi/csh-vlw1k1nh-cprj.png" alt="">
+                  <h5>Xiaomi Redmi Note 3</h5>
+              </div>
+          </div>
         </div>
-        <div class="model">
-            <img src="https://s3n.cashify.in/cashify/product/img/xhdpi/csh-qp4ba4sq-aeny.png" alt="">
-            <h5>Apple iPhone 6</h5>
+
+        <div class="item">
+          <div class="col-xs-12 col-sm-6 col-md-2">
+              <div class="model">
+                  <img src="https://s3n.cashify.in/cashify/product/img/xhdpi/csh-qp4ba4sq-aeny.png" alt="">
+                  <h5>Apple iPhone 6</h5>
+              </div>
+          </div>
         </div>
-        <div class="model">
-            <img src="https://s3n.cashify.in/cashify/product/img/xhdpi/csh-t1iiuj3j-byma.png" alt="">
-            <h5>Xiaomi Redmi 4</h5>
+
+        <div class="item">
+          <div class="col-xs-12 col-sm-6 col-md-2">
+              <div class="model">
+                  <img src="https://s3n.cashify.in/cashify/product/img/xhdpi/csh-t1iiuj3j-byma.png" alt="">
+                  <h5>Xiaomi Redmi 4</h5>
+              </div>
+          </div>
         </div>
-        <div class="model">
-            <img src="https://s3n.cashify.in/cashify/product/img/xhdpi/csh-4wk6vj50-xzmd.png" alt="">
-            <h5>Xiaomi Redmi Note 5 Pro</h5>
+
+        <div class="item">
+          <div class="col-xs-12 col-sm-6 col-md-2">
+              <div class="model">
+                  <img src="https://s3n.cashify.in/cashify/product/img/xhdpi/csh-4wk6vj50-xzmd.png" alt="">
+                  <h5>Xiaomi Redmi Note 5 Pro</h5>
+              </div>
+          </div>
         </div>
-        <div class="model">
-            <img src="https://s3n.cashify.in/cashify/product/img/xhdpi/csh-jwihkccb-gqpj.png" alt="">
-            <h5>Apple iPhone 7</h5>
+
+        <div class="item">
+          <div class="col-xs-12 col-sm-6 col-md-2">
+              <div class="model">
+                  <img src="https://s3n.cashify.in/cashify/product/img/xhdpi/csh-jwihkccb-gqpj.png" alt="">
+                  <h5>Apple iPhone 7</h5>
+              </div>
+          </div>
         </div>
-        <div class="model">
-            <img src="https://s3n.cashify.in/cashify/product/img/xhdpi/csh-oh9xlwt8-yunr.png" alt="">
-            <h5>Apple iPhone 6S</h5>
+        
+        <div class="item">
+          <div class="col-xs-12 col-sm-6 col-md-2">
+              <div class="model">
+                  <img src="https://s3n.cashify.in/cashify/product/img/xhdpi/csh-oh9xlwt8-yunr.png" alt="">
+                  <h5>Apple iPhone 6S</h5>
+              </div>
+          </div>
         </div>
+        <div class="item">
+          <div class="col-xs-12 col-sm-6 col-md-2">
+              <div class="model">
+                  <img src="https://s3n.cashify.in/cashify/product/img/xhdpi/csh-4wk6vj50-xzmd.png" alt="">
+                  <h5>Xiaomi Redmi 5A</h5>
+              </div>
+          </div>
+        </div>
+        <div class="item">
+          <div class="col-xs-12 col-sm-6 col-md-2">
+              <div class="model">
+                  <img src="https://s3n.cashify.in/cashify/product/img/xhdpi/csh-mbiibold-kwza.png" alt="">
+                  <h5>Xiaomi Redmi 4A</h5>
+              </div>
+          </div>
+        </div>
+        <div class="item">
+          <div class="col-xs-12 col-sm-6 col-md-2">
+              <div class="model">
+                  <img src="https://s3n.cashify.in/cashify/product/img/xhdpi/csh-6vukhanm-ci0i.png" alt="">
+                  <h5>Apple iPhone 5s</h5>
+              </div>
+          </div>
+        </div>
+        <div class="item">
+          <div class="col-xs-12 col-sm-6 col-md-2">
+              <div class="model">
+                  <img src="https://s3n.cashify.in/cashify/product/img/xhdpi/csh-oh9xlwt8-yunr.png" alt="">
+                  <h5>Apple iPhone 6S</h5>
+              </div>
+          </div>
+        </div>
+
+      </div>
+
+      <div id="slider-control">
+      <a class="left carousel-control" href="#itemslider" data-slide="prev"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true" class="w-10 h-10 text-primary"><path fill-rule="evenodd" d="M12.79 5.23a.75.75 0 01-.02 1.06L8.832 10l3.938 3.71a.75.75 0 11-1.04 1.08l-4.5-4.25a.75.75 0 010-1.08l4.5-4.25a.75.75 0 011.06.02z" clip-rule="evenodd"></path></svg></a>
+      <a class="right carousel-control" href="#itemslider" data-slide="next"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true" class="w-10 h-10 text-primary"><path fill-rule="evenodd" d="M7.21 14.77a.75.75 0 01.02-1.06L11.168 10 7.23 6.29a.75.75 0 111.04-1.08l4.5 4.25a.75.75 0 010 1.08l-4.5 4.25a.75.75 0 01-1.06-.02z" clip-rule="evenodd"></path></svg></a>
     </div>
+    </div>
+  </div>
+</div>
 </div>
 <div class="models p-5">
     <h2 class="pl-5 text-black">Top Repaired Brands</h2>
-    <div class="modelbox" style="display: flex;align-items:center;">
-        <div class="model">
-            <img src="https://s3n.cashify.in/cashify/brand/img/xhdpi/2e7cdc22-5a5f.jpg" alt="">
+    <div class="modelbox">
+            <!-- Item slider-->
+<div class="row">
+  <div class="col-xs-12 col-sm-12 col-md-12">
+    <div class="carousel carousel-showmanymoveone slide" id="itemslider">
+      <div class="carousel-inner">
 
+        <div class="item active">
+          <div class="col-xs-12 col-sm-6 col-md-2">
+          <div class="model">
+            <img src="https://s3n.cashify.in/cashify/brand/img/xhdpi/2e7cdc22-5a5f.jpg" alt="">
         </div>
-        <div class="model">
+          </div>
+        </div>
+
+        <div class="item">
+          <div class="col-xs-12 col-sm-6 col-md-2">
+          <div class="model">
             <img src="https://s3n.cashify.in/cashify/brand/img/xhdpi/cb96df6e-080f.jpg" alt="">
 
         </div>
-        <div class="model">
+          </div>
+        </div>
+
+        <div class="item">
+          <div class="col-xs-12 col-sm-6 col-md-2">
+          <div class="model">
             <img src="https://s3n.cashify.in/cashify/brand/img/xhdpi/406a512d-e8dd.jpg" alt="">
         </div>
-        <div class="model">
+          </div>
+        </div>
+
+        <div class="item">
+          <div class="col-xs-12 col-sm-6 col-md-2">
+          <div class="model">
             <img src="https://s3n.cashify.in/cashify/brand/img/xhdpi/20922c34-8afc.jpg" alt="">
         </div>
-        <div class="model">
+          </div>
+        </div>
+
+        <div class="item">
+          <div class="col-xs-12 col-sm-6 col-md-2">
+          <div class="model">
             <img src="https://s3n.cashify.in/cashify/brand/img/xhdpi/dfb6c340-010f.jpg" alt="">
             <h5>
         </div>
-        <div class="model">
+          </div>
+        </div>
+
+        <div class="item">
+          <div class="col-xs-12 col-sm-6 col-md-2">
+          <div class="model">
             <img src="https://s3n.cashify.in/cashify/brand/img/xhdpi/ac5c9a7b-76b5.jpg" alt="">
         </div>
-        <div class="model">
-            <img src="https://s3n.cashify.in/cashify/brand/img/xhdpi/0124cc45-3a6c.jpg" alt="">
-
+          </div>
         </div>
+        
+        <div class="item">
+          <div class="col-xs-12 col-sm-6 col-md-2">
+          <div class="model">
+            <img src="https://s3n.cashify.in/cashify/brand/img/xhdpi/0124cc45-3a6c.jpg" alt="">
+        </div>
+          </div>
+        </div>
+        <div class="item">
+          <div class="col-xs-12 col-sm-6 col-md-2">
+
+          <div class="model">
+            <img src="https://s3n.cashify.in/cashify/brand/img/xhdpi/1dcd7fda-0141.jpg" alt="">
+        </div>
+          </div>
+        </div>
+        <div class="item">
+          <div class="col-xs-12 col-sm-6 col-md-2">
+          <div class="model">
+            <img src="https://s3n.cashify.in/cashify/brand/img/xhdpi/fef4e5ae-6507.jpg" alt="">
+        </div>
+          </div>
+        </div>
+        <div class="item">
+          <div class="col-xs-12 col-sm-6 col-md-2">
+
+          <div class="model">
+            <img src="https://s3n.cashify.in/cashify/brand/img/xhdpi/cfeaabff-69bf.jpg" alt="">
+        </div>
+          </div>
+        </div>
+        <div class="item">
+          <div class="col-xs-12 col-sm-6 col-md-2">
+
+          <div class="model">
+            <img src="https://s3n.cashify.in/cashify/brand/img/xhdpi/bf25222a-a2a7.jpg" alt="">
+        </div>
+          </div>
+        </div>
+        <div class="item">
+          <div class="col-xs-12 col-sm-6 col-md-2">
+
+          <div class="model">
+            <img src="https://s3n.cashify.in/cashify/brand/img/xhdpi/dacc50a2-77a9.jpg" alt="">
+        </div>
+          </div>
+        </div>
+        <div class="item">
+          <div class="col-xs-12 col-sm-6 col-md-2">
+
+          <div class="model">
+            <img src="https://s3n.cashify.in/cashify/brand/img/xhdpi/3e072dc2-6d7b.jpg" alt="">
+        </div>
+          </div>
+        </div>
+        <div class="item">
+          <div class="col-xs-12 col-sm-6 col-md-2">
+
+          <div class="model">
+            <img src="https://s3n.cashify.in/cashify/brand/img/xhdpi/5558a532-fcaa.jpg" alt="">
+        </div>
+          </div>
+        </div>
+        <div class="item">
+          <div class="col-xs-12 col-sm-6 col-md-2">
+
+          <div class="model">
+            <img src="https://s3n.cashify.in/cashify/brand/img/xhdpi/e1b13cbc-ef06.jpg" alt="">
+        </div>
+          </div>
+        </div>
+        <div class="item">
+          <div class="col-xs-12 col-sm-6 col-md-2">
+
+          <div class="model">
+            <img src="https://s3n.cashify.in/cashify/brand/img/xhdpi/06bc74db-4d38.jpg" alt="">
+        </div>
+          </div>
+        </div>
+      </div>
+
+      <div id="slider-control">
+      <a class="left carousel-control" href="#itemslider" data-slide="prev"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true" class="w-10 h-10 text-primary"><path fill-rule="evenodd" d="M12.79 5.23a.75.75 0 01-.02 1.06L8.832 10l3.938 3.71a.75.75 0 11-1.04 1.08l-4.5-4.25a.75.75 0 010-1.08l4.5-4.25a.75.75 0 011.06.02z" clip-rule="evenodd"></path></svg></a>
+      <a class="right carousel-control" href="#itemslider" data-slide="next"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true" class="w-10 h-10 text-primary"><path fill-rule="evenodd" d="M7.21 14.77a.75.75 0 01.02-1.06L11.168 10 7.23 6.29a.75.75 0 111.04-1.08l4.5 4.25a.75.75 0 010 1.08l-4.5 4.25a.75.75 0 01-1.06-.02z" clip-rule="evenodd"></path></svg></a>
+    </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
     </div>
 </div>
 <div class="models p-5">
     <h2 class="pl-5 text-black">Services Available</h2>
-    <div class="modelbox" style="display: flex;align-items:center;">
-        <div class="model">
+    <div class="modelbox">
+    <div class="row">
+  <div class="col-xs-12 col-sm-12 col-md-12">
+    <div class="carousel carousel-showmanymoveone slide" id="itemslider">
+      <div class="carousel-inner">
+
+        <div class="item active">
+          <div class="col-xs-12 col-sm-6 col-md-2">
+          <div class="model">
             <img src="https://s3n.cashify.in/estore/2f89d20589af40b7b3ae79aa63930023.png" alt="">
             <h5>SCREEN</h5>
         </div>
-        <div class="model">
+          </div>
+        </div>
+
+        <div class="item">
+          <div class="col-xs-12 col-sm-6 col-md-2">
+          <div class="model">
             <img src="https://s3n.cashify.in/estore/84a08366329341c88937615d5e01dee1.png" alt="">
             <h5>BATTERY</h5>
         </div>
-        <div class="model">
+          </div>
+        </div>
+
+        <div class="item">
+          <div class="col-xs-12 col-sm-6 col-md-2">
+          <div class="model">
             <img src="https://s3n.cashify.in/estore/cf48e143753742ae9660efbfc8f81536.png" alt="">
             <h5>MIC</h5>
         </div>
-        <div class="model">
+          </div>
+        </div>
+
+        <div class="item">
+          <div class="col-xs-12 col-sm-6 col-md-2">
+          <div class="model">
             <img src="https://s3n.cashify.in/estore/63cd8d65ae1d49c4a88164d3093be808.png" alt="">
             <h5>RECEIVER</h5>
         </div>
-        <div class="model">
+          </div>
+        </div>
+
+        <div class="item">
+          <div class="col-xs-12 col-sm-6 col-md-2">
+          <div class="model">
             <img src="https://s3n.cashify.in/estore/40bf0f5f97b4442f992395d7a8609c57.png" alt="">
             <h5>CHARGING JACK</h5>
         </div>
-        <div class="model">
+          </div>
+        </div>
+
+        <div class="item">
+          <div class="col-xs-12 col-sm-6 col-md-2">
+          <div class="model">
             <img src="https://s3n.cashify.in/estore/4df66e98a0aa466f8ea851b84cfd0c80.png" alt="">
             <h5>SPEAKER</h5>
         </div>
-        <div class="model">
+          </div>
+        </div>
+        
+        <div class="item">
+          <div class="col-xs-12 col-sm-6 col-md-2">
+
+          <div class="model">
             <img src="https://s3n.cashify.in/estore/c1c8fb2be4f84fba8461e015e8f8c783.png" alt="">
             <h5>BACK PANEL</h5>
         </div>
+          </div>
+        </div>
+        <div class="item">
+          <div class="col-xs-12 col-sm-6 col-md-2">
+
+
+          <div class="model">
+            <img src="https://s3n.cashify.in/estore/c1c8fb2be4f84fba8461e015e8f8c783.png" alt="">
+            <h5>BACK PANEL</h5>
+        </div>
+          </div>
+        </div>
+        <div class="item">
+          <div class="col-xs-12 col-sm-6 col-md-2">
+
+          <div class="model">
+            <img src="https://s3n.cashify.in/estore/c1c8fb2be4f84fba8461e015e8f8c783.png" alt="">
+            <h5>BACK PANEL</h5>
+        </div>
+          </div>
+        </div>
+        <div class="item">
+          <div class="col-xs-12 col-sm-6 col-md-2">
+          <div class="model">
+            <img src="https://s3n.cashify.in/estore/c1c8fb2be4f84fba8461e015e8f8c783.png" alt="">
+            <h5>BACK PANEL</h5>
+        </div>
+          </div>
+        </div>
+        <div class="item">
+          <div class="col-xs-12 col-sm-6 col-md-2">
+          <div class="model">
+            <img src="https://s3n.cashify.in/estore/c1c8fb2be4f84fba8461e015e8f8c783.png" alt="">
+            <h5>BACK PANEL</h5>
+        </div>
+          </div>
+        </div>
+
+      </div>
+
+      <div id="slider-control">
+      <a class="left carousel-control" href="#itemslider" data-slide="prev"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true" class="w-10 h-10 text-primary"><path fill-rule="evenodd" d="M12.79 5.23a.75.75 0 01-.02 1.06L8.832 10l3.938 3.71a.75.75 0 11-1.04 1.08l-4.5-4.25a.75.75 0 010-1.08l4.5-4.25a.75.75 0 011.06.02z" clip-rule="evenodd"></path></svg></a>
+      <a class="right carousel-control" href="#itemslider" data-slide="next"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true" class="w-10 h-10 text-primary"><path fill-rule="evenodd" d="M7.21 14.77a.75.75 0 01.02-1.06L11.168 10 7.23 6.29a.75.75 0 111.04-1.08l4.5 4.25a.75.75 0 010 1.08l-4.5 4.25a.75.75 0 01-1.06-.02z" clip-rule="evenodd"></path></svg></a>
+    </div>
+    </div>
+  </div>
+</div>
     </div>
 </div>
 <div class="faq-sec p-5">
@@ -1670,6 +2128,28 @@ function getModelDetails(val) {
     }
 }
 </script>
+<script>
+                $(document).ready(function(){
+
+            $('#itemslider').carousel({ interval: 3000 });
+
+            $('.carousel-showmanymoveone .item').each(function(){
+            var itemToClone = $(this);
+
+            for (var i=1;i<6;i++) {
+            itemToClone = itemToClone.next();
+
+            if (!itemToClone.length) {
+            itemToClone = $(this).siblings(':first');
+            }
+
+            itemToClone.children(':first-child').clone()
+            .addClass("cloneditem-"+(i))
+            .appendTo($(this));
+            }
+            });
+            });
+        </script>
 <script>
 	  const accordionItemHeaders = document.querySelectorAll(
     ".accordion-item-header"
