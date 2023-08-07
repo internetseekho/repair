@@ -415,7 +415,7 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
 
 .accordion {
     width: 90%;
-    max-width: 1000px;
+    max-width: 100%;
     margin: 2rem auto;
 }
 
@@ -437,6 +437,7 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
     position: relative;
     cursor: pointer;
     font-size: 15px;
+    border-bottom: 1px solid #e6e6e6;
 }
 
 .accordion-item-header::after {
