@@ -501,6 +501,94 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
 .applog img {
     width: 17%;
     margin: 0 10px;
+    cursor: pointer;
+}
+
+
+@media screen and (max-width: 600px) {
+    .banner {
+    padding: 30px 30px;
+    text-align: center;
+}
+.inersection {
+    padding-left: 0px;
+}
+.inersection span {
+    font-size: 1.3rem;
+}
+.inersection p::before {
+    left: 52px;
+    width: 40px;
+}
+.inersection p::after {
+    left: 260px;
+    width: 42px;
+}
+.search input {
+    width: 320px;
+    height:9vh;
+}
+.inersection h1 {
+    font-size: 2rem;
+}
+.choosbrands a {
+    padding: 20px 10px;
+    margin: 0 3px;
+    font-size: 13px;
+}
+.main-img{
+    margin-top: 60px;
+    width: 85%;
+}
+.whybox .info h2 {
+    font-size: 17px;
+}
+.whybox .info p {
+    margin-top: -23px;
+    font-weight: bolder;
+    font-size: 13px;
+}
+.whybox img {
+    width: 20%;
+}
+.allbox {
+    padding: 0px;
+}
+.mobilesmodelbox {
+    padding-left: 80px !important;
+}
+.models h2{
+    font-size: 20px;
+}
+.modelbox {
+    padding: 0 30px;
+}
+.whybox {
+    margin: 20px 0;
+}
+.why-us .col-md-4{
+    width: 50%;
+}
+.faq-sec{
+    padding: 0px !important;
+}
+.videomodels{
+    padding: 0 !important;
+}
+.videomodels .row{
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+.vidbox{
+    margin: 20px 0;
+}
+.applog img{
+    width: 30%;
+    cursor: pointer;
+}
+.appimg{
+    margin-top: 50px;
+}
 }
 </style>
 <div class="container breadcrums">
@@ -531,7 +619,7 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
                 </div>
             </div>
             <div class="col-md-6" style="display:flex;justify-content:center;align-items:center;">
-                <img src="https://s3n.beta.cashify.in/estore/ea5b0a8d4c664a39be0ffb040c7b7e35.png" alt="">
+                <img src="https://s3n.beta.cashify.in/estore/ea5b0a8d4c664a39be0ffb040c7b7e35.png" class="main-img" alt="">
             </div>
         </div>
     </div>
@@ -611,8 +699,6 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
                     </div>
                 </div>
             </div>
-        </div>
-        <div class="row">
             <div class="col-md-4">
                 <div class="whybox">
                     <img src="https://s3n.cashify.in/estore/3c0a0e2e0f4945c09e941a10bcf66e83.png" alt="">
@@ -645,7 +731,7 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
 </div>
 <div class="models p-5">
     <h2 class="pl-5 text-black">Top Repaired Models</h2>
-    <div class="modelbox">
+    <div class="modelbox mobilesmodelbox">
         <!-- Item slider-->
         <div class="row">
             <div class="col-xs-12 col-sm-12 col-md-12">
@@ -1147,9 +1233,9 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
             </div>
         </div>
     </div>
-    <div class="models p-5">
+    <div class="models videomodels p-5">
         <h2 class="pl-5 text-black">Videos</h2>
-        <div class="modelbox">
+        <div class="modelbox videomodels">
             <div class="row pl-4 pr-5">
                     <div class="col-md-4">
                         <div class="vidbox text-center">
@@ -1194,7 +1280,7 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
 
             </div>
             <div class="col-md-4">
-                <img src="https://s3n.cashify.in/cashify/web/images/landing/pngs/download-app.png" alt="">
+                <img src="https://s3n.cashify.in/cashify/web/images/landing/pngs/download-app.png" class="appimg" alt="">
             </div>
         </div>
     </div>
