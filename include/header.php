@@ -83,7 +83,7 @@
         position: fixed;
         top: 0;
         width: 100%;
-        height: 9vh;
+        height:8vh;
         z-index: 99 !important;
         background: #ffffff;
         box-shadow: rgba(17, 17, 26, 0.05) 0px 1px 0px, rgba(17, 17, 26, 0.1) 0px 0px 8px;
@@ -153,7 +153,7 @@
 }
 #header-wrap{
 	position: relative !important;
-	margin-top: 6vh;
+	margin-top: 5vh;
 	background: #ffffff !important;
 	box-shadow: rgba(17, 17, 26, 0.05) 0px 1px 0px, rgba(17, 17, 26, 0.1) 0px 0px 8px !important;
 	z-index: 0 !important;
