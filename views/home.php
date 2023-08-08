@@ -1,22 +1,25 @@
 <link rel="stylesheet" href="<?=SITE_URL?>css/home-testimonials.css" type="text/css" />
 <style>
+    h1, h2, h3, h4, h5, h6{
+        color: #000000;
+    }
 .breadcrums {
     color: gray;
-    font-weight: 600;
-    padding: 0 30px;
+    padding: 0 230px;
     padding-top: 50px;
 }
 
 .breadcrums span {
-    font-size: 17px;
+    font-size: 15px;
+    cursor: pointer;
 }
 
 .banner {
-    padding: 30px 130px;
+    padding: 30px 220px;
 }
 
 .inersection {
-    padding: 90px 0;
+    padding: 50px 0;
     padding-left: 50px;
     background: #f7f7f7;
     border-radius: 20px;
@@ -41,7 +44,7 @@
 
 .search input {
     width: 500px;
-    height: 10vh;
+    height: 8vh;
     background: #ffffff;
     border: 1px solid #aaa;
     border-radius: 10px;
@@ -105,7 +108,7 @@
 }
 
 .choosbrands a {
-    padding: 30px 20px;
+    padding: 30px 10px;
     box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
     background: #ffffff;
     border-radius: 10px;
@@ -116,7 +119,7 @@
 }
 
 .choosbrands a img {
-    width: 8%;
+    width:11%;
     object-fit: cover;
 }
 
@@ -129,15 +132,17 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    padding-top: 100px;
+    padding-top: 30px;
 }
-
+.boximg img{
+    width: 26%;
+}
 .imgbox .count {
-    font-size: 18px;
+    font-size: 15px;
     color: #ffffff;
     background: #42c8b7;
-    width: 40px;
-    height: 40px;
+    width: 30px;
+    height: 30px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -150,7 +155,7 @@
 }
 
 .imgbox p {
-    font-size: 1.4rem;
+    font-size: 1.7rem;
     font-weight: bold;
     color: gray;
 }
@@ -162,7 +167,11 @@
 }
 
 .allbox {
-    padding: 0 140px;
+    padding: 0;
+    color: #000000;
+}
+.allbox p{
+    color: #777777 !important;
 }
 
 .whybox {
@@ -171,7 +180,7 @@
 }
 
 .whybox img {
-    width: 12%;
+    width: 14%;
 }
 
 .whybox .info {
@@ -189,15 +198,11 @@
     font-size: 16px;
 }
 
-.modelbox {
-    padding: 0 100px;
-}
-
 .model {
     width: 150px;
     height: 150px;
     background: #ffffff;
-    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 0px 16px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -207,14 +212,54 @@
     padding: 10px;
     padding-top: 20px !important;
     text-align: center;
+    cursor: pointer;
 }
-
 .model img {
     width: 50%;
     object-fit: cover;
     margin-bottom: 10px;
 }
-
+.model-logo{
+    position: relative;
+    width: 180px;
+    height: 120px;
+    background: #ffffff;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 0px 16px;
+    border-radius: 10px;
+    margin: 20px 0px;
+    cursor: pointer;
+}
+.model-logo img{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    object-fit: cover;
+    width: 50%;
+}
+.model-service{
+    width: 170px;
+    height: 190px;
+    background: #ffffff;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 0px 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 10px;
+    margin: 20px 0px;
+    padding: 10px;
+    padding-top: 20px !important;
+    text-align: center;
+    cursor: pointer;
+}
+.model-service img{
+    width: 65%;
+    padding-bottom: 10px;
+}
+.model-service h5{
+    font-weight: normal;
+}
 #slider-text {
     padding-top: 40px;
     display: block;
@@ -276,6 +321,7 @@
     border-radius: 50px;
     box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
     height: 50px;
+    width:50px;
     margin-top: 55px;
     margin-left: -40px !important;
 }
@@ -286,10 +332,33 @@
     border-radius: 50px;
     box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
     height: 50px;
+    width:50px;
     margin-top: 55px;
     margin-right: -30px !important;
 }
-
+.services-model{
+    padding-top: 30px;
+}
+.services-model .carousel-showmanymoveone .carousel-control.left {
+    margin-left: 5px;
+    background: #ffffff;
+    border-radius: 50px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    height: 50px;
+    width:50px;
+    margin-top: 85px;
+    margin-right: -60px !important;
+}
+.services-model .carousel-showmanymoveone .carousel-control.right {
+    margin-left: 5px;
+    background: #ffffff;
+    border-radius: 50px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    height: 50px;
+    width:50px;
+    margin-top: 85px;
+    margin-right: -50px !important;
+}
 .carousel-showmanymoveone .carousel-control {
     width: 4%;
     background-image: none;
@@ -416,7 +485,7 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
 .accordion {
     width: 90%;
     max-width: 100%;
-    margin: 2rem auto;
+    margin: 0rem auto;
 }
 
 .accordion-item {
@@ -424,7 +493,7 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
     color: #111;
     margin: 1.8rem 0;
     border-radius: 0.5rem;
-    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    /* box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px; */
 }
 
 .accordion-item-header {
@@ -464,11 +533,8 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
     border-image: linear-gradient(to right, transparent, #34495e, transparent) 1;
     font-size: 14px;
 }
-
-@media (max-width: 767px) {
-    html {
-        font-size: 14px;
-    }
+.faq-sec{
+    padding-top: 30px;
 }
 .vidbox{
     box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
@@ -507,6 +573,12 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
 
 
 @media screen and (max-width: 600px) {
+    .topbar{
+        padding: 0 25px !important;
+    }
+    .breadcrums {
+        padding:0 30px !important;
+    }
     .banner {
     padding: 30px 30px;
     text-align: center;
@@ -592,7 +664,7 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
 }
 }
 </style>
-<div class="container breadcrums">
+<div class="breadcrums">
     <span>Home > </span>
     <span>Repair > </span>
     <span style="color:#333333;">Mobile</span>
@@ -668,8 +740,8 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
     </div>
 </div>
 <div class="why-us p-5" style="background: #d9f4f1;">
-    <h2 class="pl-5 text-black">Why us</h2>
-    <div class="allbox">
+    <div class="container allbox">
+        <h2 >Why us</h2>
         <div class="row">
             <div class="col-md-4">
                 <div class="whybox">
@@ -730,9 +802,9 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
         </div>
     </div>
 </div>
-<div class="models p-5">
-    <h2 class="pl-5 text-black">Top Repaired Models</h2>
-    <div class="modelbox mobilesmodelbox">
+<div class="models">
+    <div class="container mobilesmodelbox" style="padding-top: 50px;">
+        <h2>Top Repaired Models</h2>
         <!-- Item slider-->
         <div class="row">
             <div class="col-xs-12 col-sm-12 col-md-12">
@@ -867,9 +939,9 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
             </div>
         </div>
     </div>
-    <div class="models p-5">
-        <h2 class="pl-5 text-black">Top Repaired Brands</h2>
-        <div class="modelbox">
+    <div class="models">
+        <div class="container modelbox">
+            <h2 style="padding-top: 50px;">Top Repaired Brands</h2>
             <!-- Item slider-->
             <div class="row">
                 <div class="col-xs-12 col-sm-12 col-md-12">
@@ -878,7 +950,7 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
 
                             <div class="item active">
                                 <div class="col-xs-12 col-sm-6 col-md-2">
-                                    <div class="model">
+                                    <div class="model-logo">
                                         <img src="https://s3n.cashify.in/cashify/brand/img/xhdpi/2e7cdc22-5a5f.jpg"
                                             alt="">
                                     </div>
@@ -887,7 +959,7 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
 
                             <div class="item">
                                 <div class="col-xs-12 col-sm-6 col-md-2">
-                                    <div class="model">
+                                    <div class="model-logo">
                                         <img src="https://s3n.cashify.in/cashify/brand/img/xhdpi/cb96df6e-080f.jpg"
                                             alt="">
 
@@ -897,7 +969,7 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
 
                             <div class="item">
                                 <div class="col-xs-12 col-sm-6 col-md-2">
-                                    <div class="model">
+                                    <div class="model-logo">
                                         <img src="https://s3n.cashify.in/cashify/brand/img/xhdpi/406a512d-e8dd.jpg"
                                             alt="">
                                     </div>
@@ -906,7 +978,7 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
 
                             <div class="item">
                                 <div class="col-xs-12 col-sm-6 col-md-2">
-                                    <div class="model">
+                                    <div class="model-logo">
                                         <img src="https://s3n.cashify.in/cashify/brand/img/xhdpi/20922c34-8afc.jpg"
                                             alt="">
                                     </div>
@@ -915,7 +987,7 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
 
                             <div class="item">
                                 <div class="col-xs-12 col-sm-6 col-md-2">
-                                    <div class="model">
+                                    <div class="model-logo">
                                         <img src="https://s3n.cashify.in/cashify/brand/img/xhdpi/dfb6c340-010f.jpg"
                                             alt="">
                                         <h5>
@@ -925,7 +997,7 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
 
                             <div class="item">
                                 <div class="col-xs-12 col-sm-6 col-md-2">
-                                    <div class="model">
+                                    <div class="model-logo">
                                         <img src="https://s3n.cashify.in/cashify/brand/img/xhdpi/ac5c9a7b-76b5.jpg"
                                             alt="">
                                     </div>
@@ -934,7 +1006,7 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
 
                             <div class="item">
                                 <div class="col-xs-12 col-sm-6 col-md-2">
-                                    <div class="model">
+                                    <div class="model-logo">
                                         <img src="https://s3n.cashify.in/cashify/brand/img/xhdpi/0124cc45-3a6c.jpg"
                                             alt="">
                                     </div>
@@ -943,7 +1015,7 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
                             <div class="item">
                                 <div class="col-xs-12 col-sm-6 col-md-2">
 
-                                    <div class="model">
+                                    <div class="model-logo">
                                         <img src="https://s3n.cashify.in/cashify/brand/img/xhdpi/1dcd7fda-0141.jpg"
                                             alt="">
                                     </div>
@@ -951,7 +1023,7 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
                             </div>
                             <div class="item">
                                 <div class="col-xs-12 col-sm-6 col-md-2">
-                                    <div class="model">
+                                    <div class="model-logo">
                                         <img src="https://s3n.cashify.in/cashify/brand/img/xhdpi/fef4e5ae-6507.jpg"
                                             alt="">
                                     </div>
@@ -960,7 +1032,7 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
                             <div class="item">
                                 <div class="col-xs-12 col-sm-6 col-md-2">
 
-                                    <div class="model">
+                                    <div class="model-logo">
                                         <img src="https://s3n.cashify.in/cashify/brand/img/xhdpi/cfeaabff-69bf.jpg"
                                             alt="">
                                     </div>
@@ -969,7 +1041,7 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
                             <div class="item">
                                 <div class="col-xs-12 col-sm-6 col-md-2">
 
-                                    <div class="model">
+                                    <div class="model-logo">
                                         <img src="https://s3n.cashify.in/cashify/brand/img/xhdpi/bf25222a-a2a7.jpg"
                                             alt="">
                                     </div>
@@ -978,7 +1050,7 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
                             <div class="item">
                                 <div class="col-xs-12 col-sm-6 col-md-2">
 
-                                    <div class="model">
+                                    <div class="model-logo">
                                         <img src="https://s3n.cashify.in/cashify/brand/img/xhdpi/dacc50a2-77a9.jpg"
                                             alt="">
                                     </div>
@@ -987,7 +1059,7 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
                             <div class="item">
                                 <div class="col-xs-12 col-sm-6 col-md-2">
 
-                                    <div class="model">
+                                    <div class="model-logo">
                                         <img src="https://s3n.cashify.in/cashify/brand/img/xhdpi/3e072dc2-6d7b.jpg"
                                             alt="">
                                     </div>
@@ -996,7 +1068,7 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
                             <div class="item">
                                 <div class="col-xs-12 col-sm-6 col-md-2">
 
-                                    <div class="model">
+                                    <div class="model-logo">
                                         <img src="https://s3n.cashify.in/cashify/brand/img/xhdpi/5558a532-fcaa.jpg"
                                             alt="">
                                     </div>
@@ -1005,7 +1077,7 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
                             <div class="item">
                                 <div class="col-xs-12 col-sm-6 col-md-2">
 
-                                    <div class="model">
+                                    <div class="model-logo">
                                         <img src="https://s3n.cashify.in/cashify/brand/img/xhdpi/e1b13cbc-ef06.jpg"
                                             alt="">
                                     </div>
@@ -1014,7 +1086,7 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
                             <div class="item">
                                 <div class="col-xs-12 col-sm-6 col-md-2">
 
-                                    <div class="model">
+                                    <div class="model-logo">
                                         <img src="https://s3n.cashify.in/cashify/brand/img/xhdpi/06bc74db-4d38.jpg"
                                             alt="">
                                     </div>
@@ -1049,9 +1121,9 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
 
         </div>
     </div>
-    <div class="models p-5">
-        <h2 class="pl-5 text-black">Services Available</h2>
-        <div class="modelbox">
+    <div class="models services-model">
+        <div class="container modelbox">
+            <h2>Services Available</h2>
             <div class="row">
                 <div class="col-xs-12 col-sm-12 col-md-12">
                     <div class="carousel carousel-showmanymoveone slide carousel-third3" id="itemslider3">
@@ -1059,7 +1131,7 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
 
                             <div class="item active itm3">
                                 <div class="col-xs-12 col-sm-6 col-md-2">
-                                    <div class="model">
+                                    <div class="model-service">
                                         <img src="https://s3n.cashify.in/estore/2f89d20589af40b7b3ae79aa63930023.png"
                                             alt="">
                                         <h5>SCREEN</h5>
@@ -1069,7 +1141,7 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
 
                             <div class="item  itm3">
                                 <div class="col-xs-12 col-sm-6 col-md-2">
-                                    <div class="model">
+                                    <div class="model-service">
                                         <img src="https://s3n.cashify.in/estore/84a08366329341c88937615d5e01dee1.png"
                                             alt="">
                                         <h5>BATTERY</h5>
@@ -1079,7 +1151,7 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
 
                             <div class="item  itm3">
                                 <div class="col-xs-12 col-sm-6 col-md-2">
-                                    <div class="model">
+                                    <div class="model-service">
                                         <img src="https://s3n.cashify.in/estore/cf48e143753742ae9660efbfc8f81536.png"
                                             alt="">
                                         <h5>MIC</h5>
@@ -1089,7 +1161,7 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
 
                             <div class="item  itm3">
                                 <div class="col-xs-12 col-sm-6 col-md-2">
-                                    <div class="model">
+                                    <div class="model-service">
                                         <img src="https://s3n.cashify.in/estore/63cd8d65ae1d49c4a88164d3093be808.png"
                                             alt="">
                                         <h5>RECEIVER</h5>
@@ -1099,7 +1171,7 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
 
                             <div class="item  itm3">
                                 <div class="col-xs-12 col-sm-6 col-md-2">
-                                    <div class="model">
+                                    <div class="model-service">
                                         <img src="https://s3n.cashify.in/estore/40bf0f5f97b4442f992395d7a8609c57.png"
                                             alt="">
                                         <h5>CHARGING JACK</h5>
@@ -1109,7 +1181,7 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
 
                             <div class="item  itm3">
                                 <div class="col-xs-12 col-sm-6 col-md-2">
-                                    <div class="model">
+                                    <div class="model-service">
                                         <img src="https://s3n.cashify.in/estore/4df66e98a0aa466f8ea851b84cfd0c80.png"
                                             alt="">
                                         <h5>SPEAKER</h5>
@@ -1120,7 +1192,7 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
                             <div class="item  itm3">
                                 <div class="col-xs-12 col-sm-6 col-md-2">
 
-                                    <div class="model">
+                                    <div class="model-service">
                                         <img src="https://s3n.cashify.in/estore/c1c8fb2be4f84fba8461e015e8f8c783.png"
                                             alt="">
                                         <h5>BACK PANEL</h5>
@@ -1131,7 +1203,7 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
                                 <div class="col-xs-12 col-sm-6 col-md-2">
 
 
-                                    <div class="model">
+                                    <div class="model-service">
                                         <img src="https://s3n.cashify.in/estore/7559fa7b283246a1868322f229328929.png"
                                             alt="">
                                         <h5>PROXIMITY SENSOR</h5>
@@ -1141,7 +1213,7 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
                             <div class="item  itm3">
                                 <div class="col-xs-12 col-sm-6 col-md-2">
 
-                                    <div class="model">
+                                    <div class="model-service">
                                         <img src="https://s3n.cashify.in/estore/855a0fdc1e884399aa4fe2b7b7bec2ef.png"
                                             alt="">
                                         <h5>AUX JACK</h5>
@@ -1150,7 +1222,7 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
                             </div>
                             <div class="item  itm3">
                                 <div class="col-xs-12 col-sm-6 col-md-2">
-                                    <div class="model">
+                                    <div class="model-service">
                                         <img src="https://s3n.cashify.in/estore/f9f0faead4c9486189e7fc5211cefc65.png"
                                             alt="">
                                         <h5>FRONT CAMERA</h5>
@@ -1159,7 +1231,7 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
                             </div>
                             <div class="item  itm3">
                                 <div class="col-xs-12 col-sm-6 col-md-2">
-                                    <div class="model">
+                                    <div class="model-service">
                                         <img src="https://s3n.cashify.in/estore/f9f0faead4c9486189e7fc5211cefc65.png"
                                             alt="">
                                         <h5>BACK CAMERA</h5>
@@ -1190,8 +1262,8 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
             </div>
         </div>
     </div>
-    <div class="faq-sec p-5">
-        <h2 class="pl-5 text-black">FAQs</h2>
+    <div class="container faq-sec">
+        <h2>FAQs</h2>
         <div class="row">
             <div class="col-md-12">
                 <div class="accordion">
@@ -1234,8 +1306,8 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
             </div>
         </div>
     </div>
-    <div class="models videomodels p-5">
-        <h2 class="pl-5 text-black">Videos</h2>
+    <div class="container models videomodels p-5">
+        <h2>Videos</h2>
         <div class="modelbox videomodels">
             <div class="row pl-4 pr-5">
                     <div class="col-md-4">
