@@ -613,6 +613,21 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
     margin-top: 60px;
     width: 85%;
 }
+.carousel-inner{
+    padding-left: 50px;
+}
+.carousel-second2 .carousel-inner {
+    padding-left: 100px;
+}
+.carousel-third3 .carousel-inner{
+    padding-left: 100px;
+}
+.carousel-showmanymoveone .carousel-control.left{
+    margin-left: 0 !important;
+}
+.carousel-showmanymoveone .carousel-control.right {
+    margin-right: -30px !important;
+}
 .whybox .info h2 {
     font-size: 17px;
 }
@@ -627,8 +642,11 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
 .allbox {
     padding: 0px;
 }
-.mobilesmodelbox {
+.mobilesmodelbox .carousel-inner{
     padding-left: 80px !important;
+}
+.models{
+    text-align: center !important;
 }
 .models h2{
     font-size: 20px;
@@ -646,7 +664,7 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
     padding: 0px !important;
 }
 .videomodels{
-    padding: 0 !important;
+    padding: 20px !important;
 }
 .videomodels .row{
     padding-left: 0 !important;
