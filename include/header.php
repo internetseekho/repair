@@ -86,6 +86,7 @@
         height:8vh;
         z-index: 99 !important;
         background: #ffffff;
+        padding: 0 70px;
         box-shadow: rgba(17, 17, 26, 0.05) 0px 1px 0px, rgba(17, 17, 26, 0.1) 0px 0px 8px;
     }
 
@@ -94,7 +95,7 @@
     }
 
     .topbar button {
-        padding: 8px 30px;
+        padding: 5px 30px;
         background: #55cdbe;
         border: none;
         border-radius: 3px;
@@ -153,10 +154,11 @@
 }
 #header-wrap{
 	position: relative !important;
-	margin-top: 7vh;
+	margin-top:5vh;
 	background: #ffffff !important;
 	box-shadow: rgba(17, 17, 26, 0.05) 0px 1px 0px, rgba(17, 17, 26, 0.1) 0px 0px 8px !important;
 	z-index: 0 !important;
+    padding: 0 30px;
 }
 .widget>h4{
 	color: gray !important;
@@ -184,6 +186,9 @@
 .brand .clients-grid li a:hover {
     background-color: #ffffff;
     border: 2px solid #66cbee;
+}
+.sf-js-enabled li{
+    margin: 0 50px;
 }
 </style>
 
@@ -336,7 +341,7 @@
                         <a class="dropdown-item" href="#">Mumbai</a>
                     </div>
                 </div>
-                <button class="ml-5">Login</button>
+                <button class="ml-3">Login</button>
             </div>
         </div>
         <!-- New-top-bar end -->
@@ -346,7 +351,7 @@
         <header id="header">
             <div id="header-wrap" style="background-color: #F9F9F9;box-shadow: rgb(102 203 238) 0px 5px 10px -3px;">
                 <div id="primary-menu-trigger"><i class="icon-reorder"></i></div>
-                <div class="container clearfix">
+                <div class="clearfix">
                     <div class="row" style="display: flex;justify-content: center;align-items: center;">
                         <div id="top-search-col" class="col-m-12">
                             <!-- Primary Navigation

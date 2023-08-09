@@ -199,8 +199,8 @@
 }
 
 .model {
-    width: 150px;
-    height: 150px;
+    width: 165px;
+    height: 170px;
     background: #ffffff;
     box-shadow: rgba(17, 17, 26, 0.1) 0px 0px 16px;
     display: flex;
@@ -210,12 +210,12 @@
     border-radius: 10px;
     margin: 20px 0px;
     padding: 10px;
-    padding-top: 20px !important;
+    padding-top: 35px !important;
     text-align: center;
     cursor: pointer;
 }
 .model img {
-    width: 50%;
+    width: 75%;
     object-fit: cover;
     margin-bottom: 10px;
 }
@@ -505,7 +505,7 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
     align-items: center;
     position: relative;
     cursor: pointer;
-    font-size: 15px;
+    font-size: 18px;
     border-bottom: 1px solid #e6e6e6;
 }
 
