@@ -1,6 +1,6 @@
 		<!-- Footer
 		============================================= -->
-		<footer id="footer" style="background: #f7f7f7;">
+		<footer id="footer" style="background: #f7f7f7;border-top:none !important;">
 
 		    <div class="container">
 
@@ -16,37 +16,13 @@
 		                                <img src="<?=$logo_url?>" alt="<?=SITE_NAME?>" style="display:block;"
 		                                    class="bottommargin-sm bottom-logo lazy">
 											<p>Follow us on</p>
-		                                <?php //START for socials link
-										if($socials_link) { ?>
-		                                <?=$socials_link?>
-		                                <?php
-										} //END for socials link ?>
-
+											<img src="https://s3n.beta.cashify.in/estore/ca22484df63b4d1a8f5cb147ff7aa178.png" alt="">
+											<img src="https://s3n.beta.cashify.in/estore/3e4cb536ae304033b0a706e968c3e4bf.png" alt="">
+											<img src="https://s3n.beta.cashify.in/estore/1328f4e556ac4b1aa86f24a6db93cf2a.png" alt="">
+											<img src="https://s3n.beta.cashify.in/estore/82a3cf86317e413581b0a741f01371b9.png" alt="">
 		                            </div>
 		                        </div>
 		                    </div>
-
-		                    <div class="widget notopmargin clearfix">
-		                        <div class="row clearfix">
-		                            <div class="col-lg-12 bottommargin-sm clearfix">
-		                                <form id="footer_signup_form" action="<?=$signup_link?>" method="get"
-		                                    class="nobottommargin">
-		                                    <div class="input-group" style="max-width:400px;">
-		                                        <div class="input-group-prepend">
-		                                            <div class="input-group-text"><i class="icon-email2"></i></div>
-		                                        </div>
-		                                        <input type="email" name="email" id="email"
-		                                            class="form-control required email"
-		                                            placeholder="<?=$footer_newsletter_placeholder_text?>" required>
-		                                        <div class="input-group-append">
-		                                            <button class="btn btn-info" type="submit"><?=$signup_btn_text?></button>
-		                                        </div>
-		                                    </div>
-		                                </form>
-		                            </div>
-		                        </div>
-		                    </div>
-
 		                </div>
 		                <div class="col-lg-7">
 		                    <div class="row clearfix">

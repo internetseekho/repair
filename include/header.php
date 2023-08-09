@@ -103,6 +103,10 @@
         font-size: 20px;
         color: #ffffff;
     }
+    .bottom-logo{
+        max-width: 80% !important;
+        margin-top: -20px;
+    }
     </style>
     <script src="<?=SITE_URL?>js/jquery.js"></script>
     <script src='https://www.google.com/recaptcha/api.js?onload=CaptchaCallback&render=explicit'></script>
@@ -135,6 +139,9 @@
     <!-- end Gist JS code-->
 </head>
 <style>
+    .newsletter{
+        display: none !important;
+    }
 #top-bar {
     display: none !important;
 }
@@ -189,6 +196,9 @@
 }
 .sf-js-enabled li{
     margin: 0 50px;
+}
+.widget img{
+    cursor: pointer !important;
 }
 </style>
 
