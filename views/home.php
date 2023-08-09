@@ -27,7 +27,7 @@
 }
 
 .inersection h1 {
-    font-size: 3.25rem;
+    font-size: 3.6rem;
     color: black;
     font-weight: 700;
 }
@@ -70,7 +70,7 @@
 }
 
 .inersection span {
-    font-size: 1.4rem;
+    font-size: 1.6rem;
     font-weight: bold;
     margin: 0 20px;
 }
