@@ -631,12 +631,12 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
     }
 
     .inersection p::before {
-        left: 40px;
+        left: 60px;
         width: 40px;
     }
 
     .inersection p::after {
-        left: 245px;
+        left: 260px;
         width: 42px;
     }
 
