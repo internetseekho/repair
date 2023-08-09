@@ -186,13 +186,13 @@ h6 {
     display: flex;
     align-items: center;
 }
-
 .whybox img {
-    width: 14%;
+    width: 15% !important;
 }
 
 .whybox .info {
     margin-left: 20px;
+    text-align: left !important;
 }
 
 .whybox .info h2 {
@@ -202,8 +202,9 @@ h6 {
 
 .whybox .info p {
     margin-top: -23px;
-    font-weight: bolder;
-    font-size: 16px;
+    font-weight: bolder !important;
+    font-size: 17px !important;
+    padding: 0;
 }
 
 .model {
@@ -611,19 +612,22 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
 
     .breadcrums {
         padding: 0 30px !important;
-    }
+        padding-top: 25px !important;
+}
 
     .banner {
-        padding: 30px 30px;
+        padding: 30px 10px;
         text-align: center;
     }
 
     .inersection {
         padding-left: 0px;
+        border-radius: 2px !important;
+        box-shadow: none !important;
     }
 
     .inersection span {
-        font-size: 1.3rem;
+        display: none;
     }
 
     .inersection p::before {
@@ -646,16 +650,26 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
     }
 
     .choosbrands a {
-        padding: 20px 10px;
+        padding: 30px 20px;
         margin: 0 3px;
-        font-size: 13px;
+        font-size: 15px;
     }
-
+    .more-btn{
+        line-height: 9 !important;
+        border-radius: 50px !important;
+        border: 1px solid #42c8b7;
+        padding: 10px 20px !important;
+    }
     .main-img {
         margin-top: 60px;
         width: 85%;
     }
-
+    .why-us .row{
+    margin-left: -50px !important;
+    }
+    .whybox{
+        flex-direction: column !important;
+    }
     .carousel-inner {
         padding-left: 50px;
     }
@@ -702,7 +716,9 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
         width: 30px;
         height: 40px;
     }
-
+    .mobiwhy{
+        margin-top: 0 !important;
+    }
     .whybox .info h2 {
         font-size: 17px;
     }
@@ -714,7 +730,8 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
     }
 
     .whybox img {
-        width: 20%;
+        width: 35% !important;
+        margin-left: -70px;
     }
 
     .allbox {
@@ -809,7 +826,7 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
                     <a href="#"><img src="https://s3n.cashify.in/cashify/brand/img/xhdpi/cb96df6e-080f.jpg" alt=""></a>
                     <a href="#"><img src="https://s3n.cashify.in/cashify/brand/img/xhdpi/406a512d-e8dd.jpg" alt=""></a>
                     <a href="#"><img src="https://s3n.cashify.in/cashify/brand/img/xhdpi/20922c34-8afc.jpg" alt=""></a>
-                    <a href="#" style="background:#f7f7f7;box-shadow: none;color:black;">More Brands</a>
+                    <a href="#" class="more-btn" style="background:#f7f7f7;box-shadow: none;color:black;">More Brands</a>
                 </div>
             </div>
             <div class="col-md-6" style="display:flex;justify-content:center;align-items:center;">
@@ -879,7 +896,7 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
             </div>
             <div class="col-md-4">
                 <div class="whybox">
-                    <img src="https://s3n.cashify.in/estore/acef68f939a84a8884640ae56f70867f.png" alt=""
+                    <img src="https://s3n.cashify.in/estore/acef68f939a84a8884640ae56f70867f.png" class="mobiwhy" alt=""
                         style="margin-top: -40px;">
                     <div class="info">
                         <h2>Instant Mobile Repair</h2>
@@ -889,7 +906,7 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
             </div>
             <div class="col-md-4">
                 <div class="whybox">
-                    <img src="https://s3n.cashify.in/estore/7989ad6b9431414481a1e9dcda098d45.png" alt=""
+                    <img src="https://s3n.cashify.in/estore/7989ad6b9431414481a1e9dcda098d45.png" class="mobiwhy" alt=""
                         style="margin-top: -50px;">
                     <div class="info">
                         <h2>Physical Protection Warranty</h2>

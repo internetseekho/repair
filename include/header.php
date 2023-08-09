@@ -87,7 +87,7 @@
         z-index: 99 !important;
         background: #ffffff;
         padding: 0 70px;
-        box-shadow: rgba(17, 17, 26, 0.05) 0px 1px 0px, rgba(17, 17, 26, 0.1) 0px 0px 8px;
+        border-bottom: 1px solid lightgray;
     }
 
     .topbar img {
@@ -159,11 +159,13 @@
 .dropdown-item{
 	font-size: 15px;
 }
-#header-wrap{
-	position: relative !important;
-	margin-top:5vh;
+#header{
+    height: 9vh;
+    position: relative !important;
+    margin-top: 4vh;
 	background: #ffffff !important;
-	box-shadow: rgba(17, 17, 26, 0.05) 0px 1px 0px, rgba(17, 17, 26, 0.1) 0px 0px 8px !important;
+    border-bottom: 1px solid lightgray;
+    box-shadow: none !important;
 	z-index: 0 !important;
     padding: 0 30px;
 }
@@ -359,9 +361,7 @@
         <!-- Header
 		============================================= -->
         <header id="header">
-            <div id="header-wrap" style="background-color: #F9F9F9;box-shadow: rgb(102 203 238) 0px 5px 10px -3px;">
-                <div id="primary-menu-trigger"><i class="icon-reorder"></i></div>
-                <div class="clearfix">
+                <!-- <div id="primary-menu-trigger"><i class="icon-reorder"></i></div> -->
                     <div class="row" style="display: flex;justify-content: center;align-items: center;">
                         <div id="top-search-col" class="col-m-12">
                             <!-- Primary Navigation
@@ -575,8 +575,6 @@
                             </nav><!-- #primary-menu end -->
                         </div>
                     </div>
-                </div>
-            </div>
         </header><!-- #header end -->
 
         <?php
