@@ -26,9 +26,13 @@ h6 {
 .inersection {
     padding: 50px 0;
     padding-left: 50px;
-    background: #f7f7f7;
+    background: #ffe9f7;
     border-radius: 20px;
     box-shadow: rgba(17, 17, 26, 0.1) 0px 0px 16px;
+}
+
+.main-img {
+    width: 90%;
 }
 
 .inersection h1 {
@@ -141,13 +145,14 @@ h6 {
 }
 
 .boximg img {
-    width: 26%;
+    margin-top: 50px;
+    width: 36%;
 }
 
 .imgbox .count {
     font-size: 15px;
     color: #ffffff;
-    background: #42c8b7;
+    background: #ff148b;
     width: 30px;
     height: 30px;
     display: flex;
@@ -186,8 +191,9 @@ h6 {
     display: flex;
     align-items: center;
 }
+
 .whybox img {
-    width: 15% !important;
+    width: 20% !important;
 }
 
 .whybox .info {
@@ -198,6 +204,7 @@ h6 {
 .whybox .info h2 {
     font-size: 20px;
     font-weight: bold;
+    color: #ffffff;
 }
 
 .whybox .info p {
@@ -576,7 +583,7 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
 }
 
 .app {
-    background: #42c8b7;
+    background:#ff148b;
     border-radius: 15px;
     padding: 50px 40px 0 40px;
 }
@@ -613,7 +620,7 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
     .breadcrums {
         padding: 0 30px !important;
         padding-top: 25px !important;
-}
+    }
 
     .banner {
         padding: 30px 10px;
@@ -654,22 +661,27 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
         margin: 0 3px;
         font-size: 15px;
     }
-    .more-btn{
+
+    .more-btn {
         line-height: 9 !important;
         border-radius: 50px !important;
-        border: 1px solid #42c8b7;
+        border: 1px solid #ff148b;
         padding: 10px 20px !important;
     }
+
     .main-img {
         margin-top: 60px;
         width: 85%;
     }
-    .why-us .row{
-    margin-left: -50px !important;
+
+    .why-us .row {
+        margin-left: -50px !important;
     }
-    .whybox{
+
+    .whybox {
         flex-direction: column !important;
     }
+
     .carousel-inner {
         padding-left: 50px;
     }
@@ -716,9 +728,11 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
         width: 30px;
         height: 40px;
     }
-    .mobiwhy{
+
+    .mobiwhy {
         margin-top: 0 !important;
     }
+
     .whybox .info h2 {
         font-size: 17px;
     }
@@ -826,7 +840,8 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
                     <a href="#"><img src="https://s3n.cashify.in/cashify/brand/img/xhdpi/cb96df6e-080f.jpg" alt=""></a>
                     <a href="#"><img src="https://s3n.cashify.in/cashify/brand/img/xhdpi/406a512d-e8dd.jpg" alt=""></a>
                     <a href="#"><img src="https://s3n.cashify.in/cashify/brand/img/xhdpi/20922c34-8afc.jpg" alt=""></a>
-                    <a href="#" class="more-btn" style="background:#f7f7f7;box-shadow: none;color:black;">More Brands</a>
+                    <a href="#" class="more-btn" style="background:#ffe9f7;box-shadow: none;color:black;">More
+                        Brands</a>
                 </div>
             </div>
             <div class="col-md-6" style="display:flex;justify-content:center;align-items:center;">
@@ -840,8 +855,7 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
             <div class="col-md-4">
                 <div class="imgbox">
                     <div class="boximg">
-                        <img src="https://s3n.beta.cashify.in/estore/acfe0a0b2bf84d62855a7ede5492b05c.png" class="mb-4"
-                            alt="">
+                        <img src="images/icon.png" class="mb-4" alt="">
                     </div>
                     <div class="headcount">
                         <p class="count">1</p>
@@ -853,7 +867,7 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
             <div class="col-md-4">
                 <div class="imgbox">
                     <div class="boximg">
-                        <img src="https://s3n.beta.cashify.in/estore/6c3a45cf00a8427e8bb48598d7e40493.png" class="mb-4"
+                        <img src="images/icon-2.png" class="mb-4"
                             alt="">
                     </div>
                     <div class="headcount">
@@ -868,7 +882,7 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
             <div class="col-md-4">
                 <div class="imgbox">
                     <div class="boximg">
-                        <img src="https://s3n.beta.cashify.in/estore/6f46f6c953a74203bb330f736af57934.png" class="mb-4"
+                        <img src="images/icon-1.png" class="mb-4"
                             alt="">
                     </div>
                     <div class="headcount">
@@ -881,13 +895,13 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
         </div>
     </div>
 </div>
-<div class="why-us p-5" style="background: #d9f4f1;">
+<div class="why-us p-5" style="background: #290a38;">
     <div class="container allbox">
-        <h2>Why us</h2>
+        <h2 class="text-white">Why us</h2>
         <div class="row">
             <div class="col-md-4">
                 <div class="whybox">
-                    <img src="https://s3n.cashify.in/estore/99953fd419e2416ba7dc25e0164372c3.png" alt="">
+                    <img src="images/why.png" alt="">
                     <div class="info">
                         <h2>Premium Repair</h2>
                         <p>Top quality certified parts</p>
@@ -896,7 +910,7 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
             </div>
             <div class="col-md-4">
                 <div class="whybox">
-                    <img src="https://s3n.cashify.in/estore/acef68f939a84a8884640ae56f70867f.png" class="mobiwhy" alt=""
+                    <img src="images/why1.png" class="mobiwhy" alt=""
                         style="margin-top: -40px;">
                     <div class="info">
                         <h2>Instant Mobile Repair</h2>
@@ -906,7 +920,7 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
             </div>
             <div class="col-md-4">
                 <div class="whybox">
-                    <img src="https://s3n.cashify.in/estore/7989ad6b9431414481a1e9dcda098d45.png" class="mobiwhy" alt=""
+                    <img src="images/why2.png" class="mobiwhy" alt=""
                         style="margin-top: -50px;">
                     <div class="info">
                         <h2>Physical Protection Warranty</h2>
@@ -916,7 +930,7 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
             </div>
             <div class="col-md-4">
                 <div class="whybox">
-                    <img src="https://s3n.cashify.in/estore/3c0a0e2e0f4945c09e941a10bcf66e83.png" alt="">
+                    <img src="images/why5.png" alt="">
                     <div class="info">
                         <h2>6 Months Warranty</h2>
                         <p>Hassle free 6 month warranty on parts replaced</p>
@@ -925,7 +939,7 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
             </div>
             <div class="col-md-4">
                 <div class="whybox">
-                    <img src="https://s3n.cashify.in/estore/09bf461127cd48acb409f207e1664438.png" alt="">
+                    <img src="images/why3.png" alt="">
                     <div class="info">
                         <h2>Skilled Technicians</h2>
                         <p>Trained & Qualified Professionals</p>
@@ -934,7 +948,7 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
             </div>
             <div class="col-md-4">
                 <div class="whybox">
-                    <img src="https://s3n.beta.cashify.in/estore/a6185f79e61d4780bdd296d8ae3058a8.png" alt="">
+                    <img src="images/why4.png" alt="">
                     <div class="info">
                         <h2>Guaranteed Safety</h2>
                         <p>Total Device & Data Security</p>

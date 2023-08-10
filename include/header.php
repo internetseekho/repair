@@ -96,7 +96,7 @@
 
     .topbar button {
         padding: 5px 30px;
-        background: #55cdbe;
+        background: #ff148b;
         border: none;
         border-radius: 3px;
         outline: none;
@@ -151,7 +151,7 @@
 }
 .dropdown-toggle{
 	background: #ffffff !important;
-	color: #000000 !important;
+	color: #290a38 !important;
 }
 .dropdown-menu.show{
 	transform: translate3d(20px, 50px, 0px) !important;
@@ -162,7 +162,7 @@
 #header{
     height: 9vh;
     position: relative !important;
-    margin-top: 4vh;
+    margin-top: 7vh;
 	background: #ffffff !important;
     border-bottom: 1px solid lightgray;
     box-shadow: none !important;
@@ -201,6 +201,19 @@
 }
 .widget img{
     cursor: pointer !important;
+}
+#footer h4{
+    color: #ff148b !important;
+}
+#footer a{
+    color: #ffffff !important;
+}
+.bottommargin-sm p{
+    color: #ff148b !important;
+    font-size: 20px !important;
+}
+#copyrights{
+    color: #ffffff;
 }
 </style>
 
