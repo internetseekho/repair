@@ -202,6 +202,9 @@
 .widget img{
     cursor: pointer !important;
 }
+.widget svg{
+    margin: 0 10px;
+}
 #footer h4{
     color: #ff148b !important;
 }
@@ -348,22 +351,25 @@
         <!-- New-top-bar Start -->
         <div class="topbar">
             <div class="logo">
-                <img src="https://localhost/repair/images/logo.png" alt="">
+            <img src="images/top-logo.png" alt="">
             </div>
             <div class="logsis d-flex">
                 <div class="dropdown">
                     <button class="dropdown-toggle" id="dropdownMenuButton"
                         data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        Gurgaon
+                        USA
                     </button>
                     <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                        <a class="dropdown-item" href="#">Bangalore</a>
-                        <a class="dropdown-item" href="#">Chennai</a>
-                        <a class="dropdown-item" href="#">Delhi</a>
-                        <a class="dropdown-item" href="#">Gurgaon</a>
-                        <a class="dropdown-item" href="#">Hyderabad</a>
-                        <a class="dropdown-item" href="#">Kolkata</a>
-                        <a class="dropdown-item" href="#">Mumbai</a>
+                        <a class="dropdown-item" href="#">Alabama</a>
+                        <a class="dropdown-item" href="#">Alaska</a>
+                        <a class="dropdown-item" href="#">Colorado</a>
+                        <a class="dropdown-item" href="#">California</a>
+                        <a class="dropdown-item" href="#">New Jersey</a>
+                        <a class="dropdown-item" href="#">New Mexico</a>
+                        <a class="dropdown-item" href="#">New York</a>
+                        <a class="dropdown-item" href="#">North Carolina</a>
+                        <a class="dropdown-item" href="#">Texas</a>
+                        <a class="dropdown-item" href="#">Washington</a>
                     </div>
                 </div>
                 <button class="ml-3">Login</button>

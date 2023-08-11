@@ -1273,7 +1273,7 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
                         <div class="item active itm3">
                             <div class="col-xs-12 col-sm-6 col-md-2">
                                 <div class="model-service">
-                                    <img src="https://s3n.cashify.in/estore/2f89d20589af40b7b3ae79aa63930023.png"
+                                    <img src="images/9.png"
                                         alt="">
                                     <h5>SCREEN</h5>
                                 </div>
@@ -1283,7 +1283,7 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
                         <div class="item  itm3">
                             <div class="col-xs-12 col-sm-6 col-md-2">
                                 <div class="model-service">
-                                    <img src="https://s3n.cashify.in/estore/84a08366329341c88937615d5e01dee1.png"
+                                    <img src="images/5.png"
                                         alt="">
                                     <h5>BATTERY</h5>
                                 </div>
@@ -1293,7 +1293,7 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
                         <div class="item  itm3">
                             <div class="col-xs-12 col-sm-6 col-md-2">
                                 <div class="model-service">
-                                    <img src="https://s3n.cashify.in/estore/cf48e143753742ae9660efbfc8f81536.png"
+                                    <img src="images/1.png"
                                         alt="">
                                     <h5>MIC</h5>
                                 </div>
@@ -1303,7 +1303,7 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
                         <div class="item  itm3">
                             <div class="col-xs-12 col-sm-6 col-md-2">
                                 <div class="model-service">
-                                    <img src="https://s3n.cashify.in/estore/63cd8d65ae1d49c4a88164d3093be808.png"
+                                    <img src="images/6.png"
                                         alt="">
                                     <h5>RECEIVER</h5>
                                 </div>
@@ -1313,7 +1313,7 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
                         <div class="item  itm3">
                             <div class="col-xs-12 col-sm-6 col-md-2">
                                 <div class="model-service">
-                                    <img src="https://s3n.cashify.in/estore/40bf0f5f97b4442f992395d7a8609c57.png"
+                                    <img src="images/7.png"
                                         alt="">
                                     <h5>CHARGING JACK</h5>
                                 </div>
@@ -1323,7 +1323,7 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
                         <div class="item  itm3">
                             <div class="col-xs-12 col-sm-6 col-md-2">
                                 <div class="model-service">
-                                    <img src="https://s3n.cashify.in/estore/4df66e98a0aa466f8ea851b84cfd0c80.png"
+                                    <img src="images/8.png"
                                         alt="">
                                     <h5>SPEAKER</h5>
                                 </div>
@@ -1334,7 +1334,7 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
                             <div class="col-xs-12 col-sm-6 col-md-2">
 
                                 <div class="model-service">
-                                    <img src="https://s3n.cashify.in/estore/c1c8fb2be4f84fba8461e015e8f8c783.png"
+                                    <img src="images/3.png"
                                         alt="">
                                     <h5>BACK PANEL</h5>
                                 </div>
@@ -1345,7 +1345,7 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
 
 
                                 <div class="model-service">
-                                    <img src="https://s3n.cashify.in/estore/7559fa7b283246a1868322f229328929.png"
+                                    <img src="images/2.png"
                                         alt="">
                                     <h5>PROXIMITY SENSOR</h5>
                                 </div>
@@ -1355,7 +1355,7 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
                             <div class="col-xs-12 col-sm-6 col-md-2">
 
                                 <div class="model-service">
-                                    <img src="https://s3n.cashify.in/estore/855a0fdc1e884399aa4fe2b7b7bec2ef.png"
+                                    <img src="images/4.png"
                                         alt="">
                                     <h5>AUX JACK</h5>
                                 </div>
@@ -1364,7 +1364,7 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
                         <div class="item  itm3">
                             <div class="col-xs-12 col-sm-6 col-md-2">
                                 <div class="model-service">
-                                    <img src="https://s3n.cashify.in/estore/f9f0faead4c9486189e7fc5211cefc65.png"
+                                    <img src="images/10.png"
                                         alt="">
                                     <h5>FRONT CAMERA</h5>
                                 </div>
@@ -1373,7 +1373,7 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
                         <div class="item  itm3">
                             <div class="col-xs-12 col-sm-6 col-md-2">
                                 <div class="model-service">
-                                    <img src="https://s3n.cashify.in/estore/f9f0faead4c9486189e7fc5211cefc65.png"
+                                    <img src="images/10.png"
                                         alt="">
                                     <h5>BACK CAMERA</h5>
                                 </div>
