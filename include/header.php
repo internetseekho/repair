@@ -204,6 +204,7 @@
 }
 .widget svg{
     margin: 0 10px;
+    cursor: pointer;
 }
 #footer h4{
     color: #ff148b !important;
