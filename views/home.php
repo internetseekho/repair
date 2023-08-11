@@ -11,7 +11,7 @@ h6 {
 
 .breadcrums {
     color: gray;
-    padding-top: 50px;
+    padding-top: 100px;
 }
 
 .breadcrums span {
@@ -49,8 +49,19 @@ h6 {
 
 .search {
     display: inline-block;
+    position: relative;
 }
-
+.search-btn{
+    position: absolute;
+    right: 10px;
+    top: 30%;
+    background: #ff148b;
+    color: #ffffff;
+    border: none;
+    outline: none;
+    padding: 13px 30px;
+    border-radius:5px;
+}
 .search input {
     width: 500px;
     height: 8vh;
@@ -214,301 +225,6 @@ h6 {
     padding: 0;
 }
 
-.model {
-    width: 165px;
-    height: 170px;
-    background: #ffffff;
-    box-shadow: rgba(17, 17, 26, 0.1) 0px 0px 16px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    border-radius: 10px;
-    margin: 20px 0px;
-    padding: 10px;
-    padding-top: 35px !important;
-    text-align: center;
-    cursor: pointer;
-}
-
-.model img {
-    width: 75%;
-    object-fit: cover;
-    margin-bottom: 10px;
-}
-
-.model-logo {
-    position: relative;
-    width: 180px;
-    height: 120px;
-    background: #ffffff;
-    box-shadow: rgba(17, 17, 26, 0.1) 0px 0px 16px;
-    border-radius: 10px;
-    margin: 20px 0px;
-    cursor: pointer;
-}
-
-.model-logo img {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    object-fit: cover;
-    width: 50%;
-}
-
-.model-service {
-    width: 170px;
-    height: 190px;
-    background: #ffffff;
-    box-shadow: rgba(17, 17, 26, 0.1) 0px 0px 16px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    border-radius: 10px;
-    margin: 20px 0px;
-    padding: 10px;
-    padding-top: 20px !important;
-    text-align: center;
-    cursor: pointer;
-}
-
-.model-service img {
-    width: 65%;
-    padding-bottom: 10px;
-}
-
-.model-service h5 {
-    font-weight: normal;
-}
-
-#slider-text {
-    padding-top: 40px;
-    display: block;
-}
-
-#slider-text .col-md-6 {
-    overflow: hidden;
-}
-
-#slider-text h2 {
-    font-family: 'Josefin Sans', sans-serif;
-    font-weight: 400;
-    font-size: 30px;
-    letter-spacing: 3px;
-    margin: 30px auto;
-    padding-left: 40px;
-}
-
-#slider-text h2::after {
-    border-top: 2px solid #c7c7c7;
-    content: "";
-    position: absolute;
-    bottom: 35px;
-    width: 100%;
-}
-
-#itemslider h4 {
-    font-family: 'Josefin Sans', sans-serif;
-    font-weight: 400;
-    font-size: 12px;
-    margin: 10px auto 3px;
-}
-
-#itemslider h5 {
-    font-family: 'Josefin Sans', sans-serif;
-    font-weight: bold;
-    font-size: 12px;
-    margin: 3px auto 2px;
-}
-
-#itemslider h6 {
-    font-family: 'Josefin Sans', sans-serif;
-    font-weight: 300;
-    ;
-    font-size: 10px;
-    margin: 2px auto 5px;
-}
-
-@media screen and (max-width: 992px) {
-    .slider-control img {
-        padding-top: 70px;
-        margin: 0 auto;
-    }
-}
-
-.carousel-showmanymoveone .carousel-control.left {
-    margin-left: 5px;
-    background: #ffffff;
-    border-radius: 50px;
-    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
-    height: 50px;
-    width: 50px;
-    margin-top: 55px;
-    margin-left: -40px !important;
-}
-
-.carousel-showmanymoveone .carousel-control.right {
-    margin-left: 5px;
-    background: #ffffff;
-    border-radius: 50px;
-    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
-    height: 50px;
-    width: 50px;
-    margin-top: 55px;
-    margin-right: -30px !important;
-}
-
-.services-model {
-    padding-top: 30px;
-}
-
-.services-model .carousel-showmanymoveone .carousel-control.left {
-    margin-left: 5px;
-    background: #ffffff;
-    border-radius: 50px;
-    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
-    height: 50px;
-    width: 50px;
-    margin-top: 85px;
-    margin-right: -60px !important;
-}
-
-.services-model .carousel-showmanymoveone .carousel-control.right {
-    margin-left: 5px;
-    background: #ffffff;
-    border-radius: 50px;
-    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
-    height: 50px;
-    width: 50px;
-    margin-top: 85px;
-    margin-right: -50px !important;
-}
-
-.carousel-showmanymoveone .carousel-control {
-    width: 4%;
-    background-image: none;
-}
-
-.carousel-showmanymoveone .carousel-control.left {
-    margin-left: 5px;
-}
-
-.carousel-showmanymoveone .carousel-control.right {
-    margin-right: 5px;
-}
-
-.carousel-showmanymoveone .cloneditem-1,
-.carousel-showmanymoveone .cloneditem-2,
-.carousel-showmanymoveone .cloneditem-3,
-.carousel-showmanymoveone .cloneditem-4,
-.carousel-showmanymoveone .cloneditem-5 {
-    display: none;
-}
-
-@media all and (min-width: 768px) {
-
-    .carousel-showmanymoveone .carousel-inner>.active.left,
-    .carousel-showmanymoveone .carousel-inner>.prev {
-        left: -50%;
-    }
-
-    .carousel-showmanymoveone .carousel-inner>.active.right,
-    .carousel-showmanymoveone .carousel-inner>.next {
-        left: 50%;
-    }
-
-    .carousel-showmanymoveone .carousel-inner>.left,
-    .carousel-showmanymoveone .carousel-inner>.prev.right,
-    .carousel-showmanymoveone .carousel-inner>.active {
-        left: 0;
-    }
-
-    .carousel-showmanymoveone .carousel-inner .cloneditem-1 {
-        display: block;
-    }
-}
-
-@media all and (min-width: 768px) and (transform-3d),
-all and (min-width: 768px) and (-webkit-transform-3d) {
-
-    .carousel-showmanymoveone .carousel-inner>.item.active.right,
-    .carousel-showmanymoveone .carousel-inner>.item.next {
-        -webkit-transform: translate3d(50%, 0, 0);
-        transform: translate3d(50%, 0, 0);
-        left: 0;
-    }
-
-    .carousel-showmanymoveone .carousel-inner>.item.active.left,
-    .carousel-showmanymoveone .carousel-inner>.item.prev {
-        -webkit-transform: translate3d(-50%, 0, 0);
-        transform: translate3d(-50%, 0, 0);
-        left: 0;
-    }
-
-    .carousel-showmanymoveone .carousel-inner>.item.left,
-    .carousel-showmanymoveone .carousel-inner>.item.prev.right,
-    .carousel-showmanymoveone .carousel-inner>.item.active {
-        -webkit-transform: translate3d(0, 0, 0);
-        transform: translate3d(0, 0, 0);
-        left: 0;
-    }
-}
-
-@media all and (min-width: 992px) {
-
-    .carousel-showmanymoveone .carousel-inner>.active.left,
-    .carousel-showmanymoveone .carousel-inner>.prev {
-        left: -16.666%;
-    }
-
-    .carousel-showmanymoveone .carousel-inner>.active.right,
-    .carousel-showmanymoveone .carousel-inner>.next {
-        left: 16.666%;
-    }
-
-    .carousel-showmanymoveone .carousel-inner>.left,
-    .carousel-showmanymoveone .carousel-inner>.prev.right,
-    .carousel-showmanymoveone .carousel-inner>.active {
-        left: 0;
-    }
-
-    .carousel-showmanymoveone .carousel-inner .cloneditem-2,
-    .carousel-showmanymoveone .carousel-inner .cloneditem-3,
-    .carousel-showmanymoveone .carousel-inner .cloneditem-4,
-    .carousel-showmanymoveone .carousel-inner .cloneditem-5,
-    .carousel-showmanymoveone .carousel-inner .cloneditem-6 {
-        display: block;
-    }
-}
-
-@media all and (min-width: 992px) and (transform-3d),
-all and (min-width: 992px) and (-webkit-transform-3d) {
-
-    .carousel-showmanymoveone .carousel-inner>.item.active.right,
-    .carousel-showmanymoveone .carousel-inner>.item.next {
-        -webkit-transform: translate3d(16.666%, 0, 0);
-        transform: translate3d(16.666%, 0, 0);
-        left: 0;
-    }
-
-    .carousel-showmanymoveone .carousel-inner>.item.active.left,
-    .carousel-showmanymoveone .carousel-inner>.item.prev {
-        -webkit-transform: translate3d(-16.666%, 0, 0);
-        transform: translate3d(-16.666%, 0, 0);
-        left: 0;
-    }
-
-    .carousel-showmanymoveone .carousel-inner>.item.left,
-    .carousel-showmanymoveone .carousel-inner>.item.prev.right,
-    .carousel-showmanymoveone .carousel-inner>.item.active {
-        -webkit-transform: translate3d(0, 0, 0);
-        transform: translate3d(0, 0, 0);
-        left: 0;
-    }
-}
-
 .accordion {
     width: 90%;
     max-width: 100%;
@@ -565,23 +281,6 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
     padding-top: 30px;
 }
 
-.vidbox {
-    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
-    padding-bottom: 15px;
-    border-radius: 10px;
-}
-
-.vidbox h2 {
-    padding-top: 15px;
-    font-size: 16px;
-    font-weight: bold;
-}
-
-.vidbox p {
-    margin-top: -15px;
-    font-size: 13px;
-}
-
 .app {
     background:#ff148b;
     border-radius: 15px;
@@ -616,7 +315,12 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
     .topbar button {
         font-size: 18px;
     }
-
+    .search-btn {
+        display: none !important;
+    }
+    .topbar img{
+        width: 50% !important;
+    }
     .breadcrums {
         padding: 0 30px !important;
         padding-top: 25px !important;
@@ -681,49 +385,6 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
     .whybox {
         flex-direction: column !important;
     }
-
-    .carousel-inner {
-        padding-left: 50px;
-    }
-
-    .carousel-second2 .carousel-inner {
-        padding-left: 100px;
-    }
-
-    .carousel-third3 .carousel-inner {
-        padding-left: 100px;
-    }
-
-    .mobilesmodelbox .carousel-showmanymoveone .carousel-control.left {
-        margin-left: 40px !important;
-        margin-top: 80px;
-    }
-
-    .mobilesmodelbox .carousel-showmanymoveone .carousel-control.right {
-        margin-right: 0px !important;
-        margin-top: 80px;
-    }
-
-    .brandsmodel .carousel-showmanymoveone .carousel-control.left {
-        margin-top: 55px !important;
-        margin-left: 20px !important;
-    }
-
-    .brandsmodel .carousel-showmanymoveone .carousel-control.right {
-        margin-top: 55px !important;
-        margin-right: 0px !important;
-    }
-
-    .services-model .carousel-showmanymoveone .carousel-control.left {
-        margin-top: 70px !important;
-        margin-left: 20px !important;
-    }
-
-    .services-model .carousel-showmanymoveone .carousel-control.right {
-        margin-right: 0px !important;
-        margin-top: 80px;
-    }
-
     .imgbox .count {
         width: 30px;
         height: 40px;
@@ -752,22 +413,6 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
         padding: 0px;
     }
 
-    .mobilesmodelbox .carousel-inner {
-        padding-left: 110px !important;
-    }
-
-    .models {
-        text-align: center !important;
-    }
-
-    .models h2 {
-        font-size: 20px;
-    }
-
-    .modelbox {
-        padding: 0 30px;
-    }
-
     .whybox {
         margin: 20px 0;
     }
@@ -777,7 +422,7 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
     }
 
     .faq-sec {
-        padding: 0px !important;
+        padding: 50px 0 !important;
     }
 
     .faq-sec h2 {
@@ -788,24 +433,6 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
         line-height: 3.4rem;
     }
 
-    .videomodels {
-        padding: 20px !important;
-    }
-
-    .videomodels .row {
-        padding-left: 0 !important;
-        padding-right: 0 !important;
-    }
-
-    .vidbox {
-        margin: 20px 0;
-    }
-
-    .vidbox h2,
-    p {
-        padding: 0 20px;
-    }
-
     .applog img {
         width: 30%;
         cursor: pointer;
@@ -813,6 +440,10 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
 
     .appimg {
         margin-top: 50px;
+    }
+    .footer-logo{
+        width: 50% !important;
+        padding-top: 50px;
     }
 }
 </style>
@@ -831,8 +462,8 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
                 <span><i class="fa-solid fa-check"></i> 6 months warranty</span>
                 <br>
                 <div class="search">
-                    <span class="fa fa-search"></span>
                     <input placeholder="Search Your Mobile Phone to Repair">
+                    <button type="button" class="search-btn">SEARCH</button>
                 </div>
                 <p>Or choose a brand</p>
                 <div class="choosbrands">
@@ -958,451 +589,6 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
         </div>
     </div>
 </div>
-<div class="models">
-    <div class="container mobilesmodelbox" style="padding-top: 50px;">
-        <h2>Top Repaired Models</h2>
-        <!-- Item slider-->
-        <div class="row">
-            <div class="col-xs-12 col-sm-12 col-md-12">
-                <div class="carousel carousel-showmanymoveone slide carousel-first1" id="itemslider1">
-                    <div class="carousel-inner">
-
-                        <div class="item active">
-                            <div class="col-xs-12 col-sm-6 col-md-2">
-                                <div class="model">
-                                    <img src="https://s3n.cashify.in/cashify/product/img/xhdpi/csh-5x9nivcp-gnnb.png"
-                                        alt="">
-                                    <h5>Xiaomi Redmi Note 4</h5>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="item">
-                            <div class="col-xs-12 col-sm-6 col-md-2">
-                                <div class="model">
-                                    <img src="https://s3n.cashify.in/cashify/product/img/xhdpi/csh-vlw1k1nh-cprj.png"
-                                        alt="">
-                                    <h5>Xiaomi Redmi Note 3</h5>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="item">
-                            <div class="col-xs-12 col-sm-6 col-md-2">
-                                <div class="model">
-                                    <img src="https://s3n.cashify.in/cashify/product/img/xhdpi/csh-qp4ba4sq-aeny.png"
-                                        alt="">
-                                    <h5>Apple iPhone 6</h5>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="item">
-                            <div class="col-xs-12 col-sm-6 col-md-2">
-                                <div class="model">
-                                    <img src="https://s3n.cashify.in/cashify/product/img/xhdpi/csh-t1iiuj3j-byma.png"
-                                        alt="">
-                                    <h5>Xiaomi Redmi 4</h5>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="item">
-                            <div class="col-xs-12 col-sm-6 col-md-2">
-                                <div class="model">
-                                    <img src="https://s3n.cashify.in/cashify/product/img/xhdpi/csh-4wk6vj50-xzmd.png"
-                                        alt="">
-                                    <h5>Xiaomi Redmi Note 5 Pro</h5>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="item">
-                            <div class="col-xs-12 col-sm-6 col-md-2">
-                                <div class="model">
-                                    <img src="https://s3n.cashify.in/cashify/product/img/xhdpi/csh-jwihkccb-gqpj.png"
-                                        alt="">
-                                    <h5>Apple iPhone 7</h5>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="item">
-                            <div class="col-xs-12 col-sm-6 col-md-2">
-                                <div class="model">
-                                    <img src="https://s3n.cashify.in/cashify/product/img/xhdpi/csh-oh9xlwt8-yunr.png"
-                                        alt="">
-                                    <h5>Apple iPhone 6S</h5>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="col-xs-12 col-sm-6 col-md-2">
-                                <div class="model">
-                                    <img src="https://s3n.cashify.in/cashify/product/img/xhdpi/csh-4wk6vj50-xzmd.png"
-                                        alt="">
-                                    <h5>Xiaomi Redmi 5A</h5>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="col-xs-12 col-sm-6 col-md-2">
-                                <div class="model">
-                                    <img src="https://s3n.cashify.in/cashify/product/img/xhdpi/csh-mbiibold-kwza.png"
-                                        alt="">
-                                    <h5>Xiaomi Redmi 4A</h5>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="col-xs-12 col-sm-6 col-md-2">
-                                <div class="model">
-                                    <img src="https://s3n.cashify.in/cashify/product/img/xhdpi/csh-6vukhanm-ci0i.png"
-                                        alt="">
-                                    <h5>Apple iPhone 5s</h5>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="col-xs-12 col-sm-6 col-md-2">
-                                <div class="model">
-                                    <img src="https://s3n.cashify.in/cashify/product/img/xhdpi/csh-oh9xlwt8-yunr.png"
-                                        alt="">
-                                    <h5>Apple iPhone 6S</h5>
-                                </div>
-                            </div>
-                        </div>
-
-                    </div>
-
-                    <div class="slider-control">
-                        <a class="left carousel-control" href="#itemslider1" data-slide="prev"><svg
-                                xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor"
-                                aria-hidden="true" class="w-10 h-10 text-primary">
-                                <path fill-rule="evenodd"
-                                    d="M12.79 5.23a.75.75 0 01-.02 1.06L8.832 10l3.938 3.71a.75.75 0 11-1.04 1.08l-4.5-4.25a.75.75 0 010-1.08l4.5-4.25a.75.75 0 011.06.02z"
-                                    clip-rule="evenodd"></path>
-                            </svg></a>
-                        <a class="right carousel-control" href="#itemslider1" data-slide="next"><svg
-                                xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor"
-                                aria-hidden="true" class="w-10 h-10 text-primary">
-                                <path fill-rule="evenodd"
-                                    d="M7.21 14.77a.75.75 0 01.02-1.06L11.168 10 7.23 6.29a.75.75 0 111.04-1.08l4.5 4.25a.75.75 0 010 1.08l-4.5 4.25a.75.75 0 01-1.06-.02z"
-                                    clip-rule="evenodd"></path>
-                            </svg></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<div class="models">
-    <div class="container modelbox brandsmodel">
-        <h2 style="padding-top: 50px;">Top Repaired Brands</h2>
-        <!-- Item slider-->
-        <div class="row">
-            <div class="col-xs-12 col-sm-12 col-md-12">
-                <div class="carousel carousel-showmanymoveone carousel-second2 slide" id="itemslider2">
-                    <div class="carousel-inner">
-
-                        <div class="item active">
-                            <div class="col-xs-12 col-sm-6 col-md-2">
-                                <div class="model-logo">
-                                    <img src="https://s3n.cashify.in/cashify/brand/img/xhdpi/2e7cdc22-5a5f.jpg" alt="">
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="item">
-                            <div class="col-xs-12 col-sm-6 col-md-2">
-                                <div class="model-logo">
-                                    <img src="https://s3n.cashify.in/cashify/brand/img/xhdpi/cb96df6e-080f.jpg" alt="">
-
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="item">
-                            <div class="col-xs-12 col-sm-6 col-md-2">
-                                <div class="model-logo">
-                                    <img src="https://s3n.cashify.in/cashify/brand/img/xhdpi/406a512d-e8dd.jpg" alt="">
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="item">
-                            <div class="col-xs-12 col-sm-6 col-md-2">
-                                <div class="model-logo">
-                                    <img src="https://s3n.cashify.in/cashify/brand/img/xhdpi/20922c34-8afc.jpg" alt="">
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="item">
-                            <div class="col-xs-12 col-sm-6 col-md-2">
-                                <div class="model-logo">
-                                    <img src="https://s3n.cashify.in/cashify/brand/img/xhdpi/dfb6c340-010f.jpg" alt="">
-                                    <h5>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="item">
-                            <div class="col-xs-12 col-sm-6 col-md-2">
-                                <div class="model-logo">
-                                    <img src="https://s3n.cashify.in/cashify/brand/img/xhdpi/ac5c9a7b-76b5.jpg" alt="">
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="item">
-                            <div class="col-xs-12 col-sm-6 col-md-2">
-                                <div class="model-logo">
-                                    <img src="https://s3n.cashify.in/cashify/brand/img/xhdpi/0124cc45-3a6c.jpg" alt="">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="col-xs-12 col-sm-6 col-md-2">
-
-                                <div class="model-logo">
-                                    <img src="https://s3n.cashify.in/cashify/brand/img/xhdpi/1dcd7fda-0141.jpg" alt="">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="col-xs-12 col-sm-6 col-md-2">
-                                <div class="model-logo">
-                                    <img src="https://s3n.cashify.in/cashify/brand/img/xhdpi/fef4e5ae-6507.jpg" alt="">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="col-xs-12 col-sm-6 col-md-2">
-
-                                <div class="model-logo">
-                                    <img src="https://s3n.cashify.in/cashify/brand/img/xhdpi/cfeaabff-69bf.jpg" alt="">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="col-xs-12 col-sm-6 col-md-2">
-
-                                <div class="model-logo">
-                                    <img src="https://s3n.cashify.in/cashify/brand/img/xhdpi/bf25222a-a2a7.jpg" alt="">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="col-xs-12 col-sm-6 col-md-2">
-
-                                <div class="model-logo">
-                                    <img src="https://s3n.cashify.in/cashify/brand/img/xhdpi/dacc50a2-77a9.jpg" alt="">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="col-xs-12 col-sm-6 col-md-2">
-
-                                <div class="model-logo">
-                                    <img src="https://s3n.cashify.in/cashify/brand/img/xhdpi/3e072dc2-6d7b.jpg" alt="">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="col-xs-12 col-sm-6 col-md-2">
-
-                                <div class="model-logo">
-                                    <img src="https://s3n.cashify.in/cashify/brand/img/xhdpi/5558a532-fcaa.jpg" alt="">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="col-xs-12 col-sm-6 col-md-2">
-
-                                <div class="model-logo">
-                                    <img src="https://s3n.cashify.in/cashify/brand/img/xhdpi/e1b13cbc-ef06.jpg" alt="">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="col-xs-12 col-sm-6 col-md-2">
-
-                                <div class="model-logo">
-                                    <img src="https://s3n.cashify.in/cashify/brand/img/xhdpi/06bc74db-4d38.jpg" alt="">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="slider-control">
-                        <a class="left carousel-control" href="#itemslider2" data-slide="prev"><svg
-                                xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor"
-                                aria-hidden="true" class="w-10 h-10 text-primary">
-                                <path fill-rule="evenodd"
-                                    d="M12.79 5.23a.75.75 0 01-.02 1.06L8.832 10l3.938 3.71a.75.75 0 11-1.04 1.08l-4.5-4.25a.75.75 0 010-1.08l4.5-4.25a.75.75 0 011.06.02z"
-                                    clip-rule="evenodd"></path>
-                            </svg></a>
-                        <a class="right carousel-control" href="#itemslider2" data-slide="next"><svg
-                                xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor"
-                                aria-hidden="true" class="w-10 h-10 text-primary">
-                                <path fill-rule="evenodd"
-                                    d="M7.21 14.77a.75.75 0 01.02-1.06L11.168 10 7.23 6.29a.75.75 0 111.04-1.08l4.5 4.25a.75.75 0 010 1.08l-4.5 4.25a.75.75 0 01-1.06-.02z"
-                                    clip-rule="evenodd"></path>
-                            </svg></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-
-
-
-
-
-    </div>
-</div>
-<div class="models services-model">
-    <div class="container modelbox">
-        <h2>Services Available</h2>
-        <div class="row">
-            <div class="col-xs-12 col-sm-12 col-md-12">
-                <div class="carousel carousel-showmanymoveone slide carousel-third3" id="itemslider3">
-                    <div class="carousel-inner">
-
-                        <div class="item active itm3">
-                            <div class="col-xs-12 col-sm-6 col-md-2">
-                                <div class="model-service">
-                                    <img src="images/9.png"
-                                        alt="">
-                                    <h5>SCREEN</h5>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="item  itm3">
-                            <div class="col-xs-12 col-sm-6 col-md-2">
-                                <div class="model-service">
-                                    <img src="images/5.png"
-                                        alt="">
-                                    <h5>BATTERY</h5>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="item  itm3">
-                            <div class="col-xs-12 col-sm-6 col-md-2">
-                                <div class="model-service">
-                                    <img src="images/1.png"
-                                        alt="">
-                                    <h5>MIC</h5>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="item  itm3">
-                            <div class="col-xs-12 col-sm-6 col-md-2">
-                                <div class="model-service">
-                                    <img src="images/6.png"
-                                        alt="">
-                                    <h5>RECEIVER</h5>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="item  itm3">
-                            <div class="col-xs-12 col-sm-6 col-md-2">
-                                <div class="model-service">
-                                    <img src="images/7.png"
-                                        alt="">
-                                    <h5>CHARGING JACK</h5>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="item  itm3">
-                            <div class="col-xs-12 col-sm-6 col-md-2">
-                                <div class="model-service">
-                                    <img src="images/8.png"
-                                        alt="">
-                                    <h5>SPEAKER</h5>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="item  itm3">
-                            <div class="col-xs-12 col-sm-6 col-md-2">
-
-                                <div class="model-service">
-                                    <img src="images/3.png"
-                                        alt="">
-                                    <h5>BACK PANEL</h5>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item  itm3">
-                            <div class="col-xs-12 col-sm-6 col-md-2">
-
-
-                                <div class="model-service">
-                                    <img src="images/2.png"
-                                        alt="">
-                                    <h5>PROXIMITY SENSOR</h5>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item  itm3">
-                            <div class="col-xs-12 col-sm-6 col-md-2">
-
-                                <div class="model-service">
-                                    <img src="images/4.png"
-                                        alt="">
-                                    <h5>AUX JACK</h5>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item  itm3">
-                            <div class="col-xs-12 col-sm-6 col-md-2">
-                                <div class="model-service">
-                                    <img src="images/10.png"
-                                        alt="">
-                                    <h5>FRONT CAMERA</h5>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="item  itm3">
-                            <div class="col-xs-12 col-sm-6 col-md-2">
-                                <div class="model-service">
-                                    <img src="images/10.png"
-                                        alt="">
-                                    <h5>BACK CAMERA</h5>
-                                </div>
-                            </div>
-                        </div>
-
-                    </div>
-
-                    <div class="slider-control">
-                        <a class="left carousel-control" href="#itemslider3" data-slide="prev"><svg
-                                xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor"
-                                aria-hidden="true" class="w-10 h-10 text-primary">
-                                <path fill-rule="evenodd"
-                                    d="M12.79 5.23a.75.75 0 01-.02 1.06L8.832 10l3.938 3.71a.75.75 0 11-1.04 1.08l-4.5-4.25a.75.75 0 010-1.08l4.5-4.25a.75.75 0 011.06.02z"
-                                    clip-rule="evenodd"></path>
-                            </svg></a>
-                        <a class="right carousel-control" href="#itemslider3" data-slide="next"><svg
-                                xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor"
-                                aria-hidden="true" class="w-10 h-10 text-primary">
-                                <path fill-rule="evenodd"
-                                    d="M7.21 14.77a.75.75 0 01.02-1.06L11.168 10 7.23 6.29a.75.75 0 111.04-1.08l4.5 4.25a.75.75 0 010 1.08l-4.5 4.25a.75.75 0 01-1.06-.02z"
-                                    clip-rule="evenodd"></path>
-                            </svg></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
 <div class="container faq-sec">
     <h2>FAQs</h2>
     <div class="row">
@@ -1442,40 +628,6 @@ all and (min-width: 992px) and (-webkit-transform-3d) {
                             to claim the warranty.
                         </div>
                     </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<div class="container models videomodels p-5">
-    <h2>Videos</h2>
-    <div class="modelbox videomodels">
-        <div class="row pl-4 pr-5">
-            <div class="col-md-4">
-                <div class="vidbox text-center">
-                    <div class="video">
-                        <iframe width="100%" src="https://www.youtube.com/watch?v=7_IjOZsinWA"></iframe>
-                    </div>
-                    <h2>How to Change iPhone 7 Battery at Home</h2>
-                    <p>Choose Cashify repair services and get your phones battery delivered at your doorstep</p>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="vidbox text-center">
-                    <div class="video">
-                        <iframe width="100%" src="https://www.youtube.com/watch?v=7_IjOZsinWA"></iframe>
-                    </div>
-                    <h2>How to change redmi battery at home</h2>
-                    <p>Choose Cashify repair services and get your phones battery delivered at your doorstep</p>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="vidbox text-center">
-                    <div class="video">
-                        <iframe width="100%" src="https://www.youtube.com/watch?v=7_IjOZsinWA"></iframe>
-                    </div>
-                    <h2>How to change one plus 5 battery at home?</h2>
-                    <p>Choose Cashify repair services and get your phones battery delivered at your doorstep</p>
                 </div>
             </div>
         </div>
@@ -1763,69 +915,7 @@ function getModelDetails(val) {
     }
 }
 </script>
-<script>
-$(document).ready(function() {
 
-    $('#itemslider1').carousel({
-        interval: 3000
-    });
-    $('.carousel-first1 .item').each(function() {
-        var itemToClone = $(this);
-
-        for (var i = 1; i < 6; i++) {
-            itemToClone = itemToClone.next();
-
-            if (!itemToClone.length) {
-                itemToClone = $(this).siblings(':first');
-            }
-
-            itemToClone.children(':first-child').clone()
-                .addClass("cloneditem-" + (i))
-                .appendTo($(this));
-        }
-    });
-    $('#itemslider2').carousel({
-        interval: 3000
-    });
-    $('.carousel-second2 .item').each(function() {
-        var itemToClone = $(this);
-
-        for (var i = 1; i < 6; i++) {
-            itemToClone = itemToClone.next();
-
-            if (!itemToClone.length) {
-                itemToClone = $(this).siblings(':first');
-            }
-
-            itemToClone.children(':first-child').clone()
-                .addClass("cloneditem-" + (i))
-                .appendTo($(this));
-        }
-    });
-    // });
-    // $(document).ready(function(){
-
-    $('#itemslider3').carousel({
-        interval: 3000
-    });
-
-    $('.carousel-third3 .itm3').each(function() {
-        var itemToClone = $(this);
-
-        for (var i = 1; i < 6; i++) {
-            itemToClone = itemToClone.next();
-
-            if (!itemToClone.length) {
-                itemToClone = $(this).siblings(':first');
-            }
-
-            itemToClone.children(':first-child').clone()
-                .addClass("cloneditem-" + (i))
-                .appendTo($(this));
-        }
-    });
-});
-</script>
 <script>
 const accordionItemHeaders = document.querySelectorAll(
     ".accordion-item-header"

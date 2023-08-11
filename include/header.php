@@ -39,42 +39,6 @@
     <link rel="stylesheet" type="text/css" href="<?=SITE_URL?>include/rs-plugin/css/navigation.css"><?php */?>
 
     <link rel="icon" href="<?=SITE_URL?>images/favicon.ico" type="image/x-icon" />
-
-    <?php /*?><style>
-    .revo-slider-emphasis-text {
-        font-size: 58px;
-        font-weight: 700;
-        letter-spacing: 1px;
-        font-family: 'Raleway', sans-serif;
-        padding: 15px 20px;
-        border-top: 2px solid #FFF;
-        border-bottom: 2px solid #FFF;
-    }
-
-    .revo-slider-desc-text {
-        font-size: 20px;
-        font-family: 'Lato', sans-serif;
-        width: 650px;
-        text-align: center;
-        line-height: 1.5;
-    }
-
-    .revo-slider-caps-text {
-        font-size: 16px;
-        font-weight: 400;
-        letter-spacing: 3px;
-        font-family: 'Raleway', sans-serif;
-    }
-
-    .tp-video-play-button {
-        display: none !important;
-    }
-
-    .tp-caption {
-        white-space: nowrap;
-    }
-    </style><?php */
-	?>
     <style>
     .topbar {
         display: flex;
@@ -83,7 +47,7 @@
         position: fixed;
         top: 0;
         width: 100%;
-        height:8vh;
+        height:10vh;
         z-index: 99 !important;
         background: #ffffff;
         padding: 0 70px;
@@ -91,7 +55,7 @@
     }
 
     .topbar img {
-        width: 25%;
+        width: 12%;
     }
 
     .topbar button {
@@ -107,6 +71,13 @@
         max-width: 80% !important;
         margin-top: -20px;
     }
+    #primary-menu ul li>:hover {
+        color: #ff148b !important;
+    }
+    #primary-menu ul ul:not(.mega-menu-column), #primary-menu ul li .mega-menu-content {
+    border-top: 2px solid #ff148b !important;
+
+}
     </style>
     <script src="<?=SITE_URL?>js/jquery.js"></script>
     <script src='https://www.google.com/recaptcha/api.js?onload=CaptchaCallback&render=explicit'></script>
@@ -149,26 +120,6 @@
 #logo img {
     margin-top: 10px !important;
 }
-.dropdown-toggle{
-	background: #ffffff !important;
-	color: #290a38 !important;
-}
-.dropdown-menu.show{
-	transform: translate3d(20px, 50px, 0px) !important;
-}
-.dropdown-item{
-	font-size: 15px;
-}
-#header{
-    height: 9vh;
-    position: relative !important;
-    margin-top: 7vh;
-	background: #ffffff !important;
-    border-bottom: 1px solid lightgray;
-    box-shadow: none !important;
-	z-index: 0 !important;
-    padding: 0 30px;
-}
 .widget>h4{
 	color: gray !important;
 }
@@ -178,16 +129,6 @@
 #email{
 	height: 6vh;
 }
-/* #header.sticky-header:not(.static-sticky),
-#header.sticky-header:not(.static-sticky) #header-wrap,
-#header.sticky-header:not(.static-sticky):not(.sticky-style-2):not(.sticky-style-3) #logo img {
-    height: 80px;
-} */
-
-/* #header.sticky-header:not(.static-sticky) #primary-menu>ul>li>a {
-    padding-top: 30px;
-} */
-
 #head-graphics {
     display: none;
 }
@@ -197,7 +138,7 @@
     border: 2px solid #66cbee;
 }
 .sf-js-enabled li{
-    margin: 0 50px;
+    margin: 0 10px;
 }
 .widget img{
     cursor: pointer !important;
@@ -351,39 +292,7 @@
         </div><!-- #top-bar end -->
         <!-- New-top-bar Start -->
         <div class="topbar">
-            <div class="logo">
             <img src="images/top-logo.png" alt="">
-            </div>
-            <div class="logsis d-flex">
-                <div class="dropdown">
-                    <button class="dropdown-toggle" id="dropdownMenuButton"
-                        data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        USA
-                    </button>
-                    <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                        <a class="dropdown-item" href="#">Alabama</a>
-                        <a class="dropdown-item" href="#">Alaska</a>
-                        <a class="dropdown-item" href="#">Colorado</a>
-                        <a class="dropdown-item" href="#">California</a>
-                        <a class="dropdown-item" href="#">New Jersey</a>
-                        <a class="dropdown-item" href="#">New Mexico</a>
-                        <a class="dropdown-item" href="#">New York</a>
-                        <a class="dropdown-item" href="#">North Carolina</a>
-                        <a class="dropdown-item" href="#">Texas</a>
-                        <a class="dropdown-item" href="#">Washington</a>
-                    </div>
-                </div>
-                <button class="ml-3">Login</button>
-            </div>
-        </div>
-        <!-- New-top-bar end -->
-
-        <!-- Header
-		============================================= -->
-        <header id="header">
-                <!-- <div id="primary-menu-trigger"><i class="icon-reorder"></i></div> -->
-                    <div class="row" style="display: flex;justify-content: center;align-items: center;">
-                        <div id="top-search-col" class="col-m-12">
                             <!-- Primary Navigation
 							============================================= -->
                             <nav id="primary-menu">
@@ -579,23 +488,13 @@
                                 </ul>
                                 <?php
 								} ?>
-
-                                <!-- Top Search
-								============================================= -->
-                                <div id="top-search">
-                                    <a href="#" id="top-search-trigger"><i class="icon-search3"></i><i
-                                            class="icon-line-cross"></i></a>
-                                    <form action="<?=SITE_URL?>search" method="get">
-                                        <input type="text" name="search" id="srch_list_of_model"
-                                            class="form-control srch_list_of_model" value=""
-                                            placeholder="<?=$searchbox_placeholder_text?>">
-                                    </form>
-                                </div><!-- #top-search end -->
-
                             </nav><!-- #primary-menu end -->
-                        </div>
-                    </div>
-        </header><!-- #header end -->
+            <div class="logsis d-flex">
+                <button class="ml-3">Login</button>
+            </div>
+        </div>
+        <!-- New-top-bar end -->
+
 
         <?php
 		if($newslettter_section == '1') { ?>
