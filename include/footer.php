@@ -541,6 +541,18 @@ tpj(document).ready(function($) {
 
 });
 		</script>
+		<script>
+			$(".menu-opne").click(function(){
+  				$("#primary-menu>ul").addClass("active-open");
+				$(this).hide();
+				$(".menu-close").show();
+			});
+			$(".menu-close").click(function(){
+  				$("#primary-menu>ul").removeClass("active-open");
+				$(this).hide();
+				$(".menu-opne").show();
+			});
+		</script>
 		</body>
 
 		</html>

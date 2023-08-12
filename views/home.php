@@ -11,7 +11,8 @@ h6 {
 
 .breadcrums {
     color: gray;
-    padding-top: 100px;
+    padding-top: 90px;
+    padding-bottom: 20px;
 }
 
 .breadcrums span {
@@ -236,11 +237,11 @@ h6 {
     color: #111;
     margin: 1.8rem 0;
     border-radius: 0.5rem;
-    /* box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px; */
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
 }
 
 .accordion-item-header {
-    padding: 0.5rem 3rem 0.5rem 1rem;
+    padding: 0 20px;
     min-height: 7.5rem;
     line-height: 1.25rem;
     font-weight: bold;
@@ -254,9 +255,9 @@ h6 {
 
 .accordion-item-header::after {
     content: "\002B";
-    font-size: 2rem;
+    font-size: 2.5rem;
     position: absolute;
-    right: 1rem;
+    right: 4rem;
 }
 
 .accordion-item-header.active::after {
@@ -271,14 +272,14 @@ h6 {
 
 .accordion-item-body-content {
     padding: 1rem;
-    line-height: 2rem;
+    line-height: 2.5rem;
     border-top: 1px solid;
     border-image: linear-gradient(to right, transparent, #34495e, transparent) 1;
-    font-size: 14px;
+    font-size: 16px;
 }
 
 .faq-sec {
-    padding-top: 30px;
+    padding: 100px 0;
 }
 
 .app {
@@ -304,22 +305,27 @@ h6 {
 
 
 @media screen and (max-width: 600px) {
-    .topbar img {
-        width: 100% !important;
+    body{
+        overflow-x: hidden;
     }
-
+    .topbar img {
+        width:30%;
+    }
+    .menu-opne{
+        width: 10% !important;
+        margin-right: 45px;
+        cursor: pointer;
+        display: block;
+    }
     .topbar {
-        padding: 0 25px !important;
+        padding: 0!important;
     }
 
     .topbar button {
-        font-size: 18px;
+        font-size: 15px;
     }
     .search-btn {
         display: none !important;
-    }
-    .topbar img{
-        width: 50% !important;
     }
     .breadcrums {
         padding: 0 30px !important;

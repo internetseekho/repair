@@ -77,7 +77,23 @@
     #primary-menu ul ul:not(.mega-menu-column), #primary-menu ul li .mega-menu-content {
     border-top: 2px solid #ff148b !important;
 
-}
+    }
+    .active-open{
+        transform: translateX(0) !important;
+    }
+    @media only screen and (max-width: 600px) {
+        #primary-menu>ul {
+            width: 100%;
+            height: 100vh;
+            background: #ffffff;
+            position: absolute;
+            top: 0;
+            left: 0;
+            margin-top:10vh !important;
+            display: block !important;
+            transform: translateY(-2000px);
+    }
+    }
     </style>
     <script src="<?=SITE_URL?>js/jquery.js"></script>
     <script src='https://www.google.com/recaptcha/api.js?onload=CaptchaCallback&render=explicit'></script>
@@ -110,6 +126,14 @@
     <!-- end Gist JS code-->
 </head>
 <style>
+    .menu-opne, .menu-close{
+        display: none;
+    }
+    .menu-close{
+        width:7% !important;
+        margin-right: 50px;
+        cursor: pointer;
+    }
     .newsletter{
         display: none !important;
     }
@@ -492,6 +516,8 @@
             <div class="logsis d-flex">
                 <button class="ml-3">Login</button>
             </div>
+            <img src="images/menu.png" class="menu-opne" alt="">
+            <img src="images/cross.png" class="menu-close" alt="">
         </div>
         <!-- New-top-bar end -->
 
