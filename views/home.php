@@ -235,7 +235,7 @@ h6 {
 .accordion-item {
     background-color: #fff;
     color: #111;
-    margin: 1.8rem 0;
+    margin: 2.8rem 0;
     border-radius: 0.5rem;
     box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
 }
@@ -286,6 +286,7 @@ h6 {
     background:#ff148b;
     border-radius: 15px;
     padding: 50px 40px 0 40px;
+    margin: 0 40px;
 }
 
 .app h2 {
