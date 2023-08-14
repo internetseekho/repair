@@ -9,19 +9,9 @@ h6 {
     color: #000000;
 }
 
-.breadcrums {
-    color: gray;
-    padding-top: 90px;
-    padding-bottom: 20px;
-}
-
-.breadcrums span {
-    font-size: 15px;
-    cursor: pointer;
-}
-
 .banner {
     padding: 30px 0;
+    padding-top: 150px;
 }
 
 .inersection {
@@ -454,11 +444,6 @@ h6 {
     }
 }
 </style>
-<div class="container breadcrums">
-    <span>Home > </span>
-    <span>Repair > </span>
-    <span style="color:#333333;">Mobile</span>
-</div>
 <div class="banner">
     <div class="container inersection">
         <div class="row">
